@@ -1214,21 +1214,12 @@
     ]
   },
   {
-    "name": "Ponychan.ru",
-    "url": [
-      "https://ponyach.ru/"
-    ],
-    "language": [
-      "ru"
-    ]
-  },
-  {
     "name": "Ponyach",
     "url": [
       "https://ponyach.ru/b/"
     ],
     "language": [
-      "en"
+      "ru"
     ]
   },
   {
