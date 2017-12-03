@@ -20,7 +20,7 @@
   {
     "name": "0-chan",
     "url": [
-      "http://0-chan.ru/"
+      "https://0-chan.ru/"
     ],
     "language": [
       "ru"
@@ -65,7 +65,7 @@
   {
     "name": "13channel",
     "url": [
-      "http://13ch.nl/"
+      "https://13ch.nl/"
     ],
     "language": [
       "en"
@@ -93,7 +93,7 @@
   {
     "name": "2so",
     "url": [
-      "http://2so.ch/"
+      "https://2so.ch/"
     ],
     "language": [
       "ru"
@@ -176,7 +176,7 @@
   {
     "name": "4chan",
     "url": [
-      "http://4chan.org/"
+      "http://www.4chan.org/"
     ],
     "language": [
       "en"
@@ -248,7 +248,7 @@
   {
     "name": "89chan",
     "url": [
-      "http://89chan.com/"
+      "https://89chan.com/"
     ],
     "language": [
       "en"
@@ -334,7 +334,7 @@
   {
     "name": "Apachan",
     "url": [
-      "http://www.apachan.net/"
+      "https://apachan.net/"
     ],
     "language": [
       "ru"
@@ -388,7 +388,7 @@
   {
     "name": "Bienvenido a Internet",
     "url": [
-      "http://www.bienvenidoainternet.org/"
+      "https://bienvenidoainternet.org/"
     ],
     "language": [
       "es"
@@ -424,7 +424,7 @@
   {
     "name": "Bronnen",
     "url": [
-      "https://bronnen.net/"
+      "https://www.bronnen.net/"
     ],
     "language": [
       "en"
@@ -460,7 +460,7 @@
   {
     "name": "Chansluts",
     "url": [
-      "http://www.chansluts.com/"
+      "https://www.chansluts.com/"
     ],
     "language": [
       "en"
@@ -469,7 +469,7 @@
   {
     "name": "Chanweb",
     "url": [
-      "http://www.chanweb.info/"
+      "http://chanweb.info/"
     ],
     "language": [
       "en"
@@ -496,7 +496,7 @@
   {
     "name": "Cirno",
     "url": [
-      "http://chiru.no/cirno/"
+      "https://chiru.no/cirno/"
     ],
     "language": [
       "en"
@@ -613,7 +613,7 @@
   {
     "name": "Dreamchan",
     "url": [
-      "http://dreamchan.net/"
+      "https://dreamch.net/"
     ],
     "language": [
       "en"
@@ -667,7 +667,7 @@
   {
     "name": "Everypony",
     "url": [
-      "http://board.everypony.ru/"
+      "https://board.everypony.ru/"
     ],
     "language": [
       "ru"
@@ -784,7 +784,7 @@
   {
     "name": "Gurochan",
     "url": [
-      "https://gurochan.ch/"
+      "https://www.gurochan.ch/"
     ],
     "language": [
       "en"
@@ -793,7 +793,7 @@
   {
     "name": "Hamstakilla",
     "url": [
-      "http://v2.hamstakilla.com/"
+      "http://hamstakilla.com/"
     ],
     "language": [
       "ru",
@@ -821,7 +821,7 @@
   {
     "name": "Hikkichan",
     "url": [
-      "http://www.hikkichan.com/"
+      "https://hikkichan.com/"
     ],
     "language": [
       "en"
@@ -830,7 +830,7 @@
   {
     "name": "Himasugi",
     "url": [
-      "http://himasugi.org/"
+      "https://himasugi.org/jp/"
     ],
     "language": [
       "en"
@@ -866,7 +866,7 @@
   {
     "name": "Horochan",
     "url": [
-      "http://horochan.ru/"
+      "https://horochan.ru/"
     ],
     "language": [
       "ru"
@@ -920,7 +920,7 @@
   {
     "name": "Intern3ts",
     "url": [
-      "http://www.intern3ts.com/"
+      "https://www.intern3ts.com/"
     ],
     "language": [
       "en"
@@ -1064,7 +1064,7 @@
   {
     "name": "Male General",
     "url": [
-      "http://www.malegeneral.com/"
+      "https://www.malegeneral.com/"
     ],
     "language": [
       "en"
@@ -1073,16 +1073,16 @@
   {
     "name": "Maloloschan",
     "url": [
-      "http://maloloschan.com/"
+      "https://www.maloloschan.com/"
     ],
     "language": [
       "en"
     ]
   },
   {
-    "name": "Masterchan",
+    "name": "ccluster",
     "url": [
-      "http://masterchan.org/"
+      "https://ccluster.com/"
     ],
     "language": [
       "en"
@@ -1118,7 +1118,7 @@
   {
     "name": "MyKomica",
     "url": [
-      "http://mymoe.moe/"
+      "https://mymoe.moe/"
     ],
     "language": [
       "zh"
@@ -1163,7 +1163,7 @@
   {
     "name": "Nido",
     "url": [
-      "http://www.nido.org/"
+      "https://www.nido.org/"
     ],
     "language": [
       "es"
@@ -1181,7 +1181,7 @@
   {
     "name": "No-you",
     "url": [
-      "http://no-you.com/jp"
+      "http://no-you.com/jp/"
     ],
     "language": [
       "en"
@@ -1199,7 +1199,7 @@
   {
     "name": "Old Home",
     "url": [
-      "http://boards.haruhiism.net/abe/wakaba.html"
+      "https://boards.haruhiism.net/abe/wakaba.html"
     ],
     "language": [
       "ru"
@@ -1217,7 +1217,7 @@
   {
     "name": "Ota-ch",
     "url": [
-      "http://ota-ch.com/jp/"
+      "https://ota-ch.com/jp/"
     ],
     "language": [
       "en"
@@ -1280,7 +1280,7 @@
   {
     "name": "Ptchan",
     "url": [
-      "http://www.ptchan.net/"
+      "http://ptchan.net/"
     ],
     "language": [
       "pt"
@@ -1298,7 +1298,7 @@
   {
     "name": "Rfch",
     "url": [
-      "http://rfch.rocks/"
+      "https://rfch.rocks/"
     ],
     "language": [
       "ru"
@@ -1334,7 +1334,7 @@
   {
     "name": "Samachan",
     "url": [
-      "http://samachan.org/"
+      "https://samachan.org/"
     ],
     "language": [
       "en"
@@ -1352,7 +1352,7 @@
   {
     "name": "Site de Marde",
     "url": [
-      "http://sitedemarde.org/"
+      "http://4chan.ca/sdm/"
     ],
     "language": [
       "fr"
@@ -1415,7 +1415,7 @@
   {
     "name": "Syn-ch",
     "url": [
-      "http://syn-ch.ru/"
+      "https://syn-ch.ru/"
     ],
     "language": [
       "ru"
@@ -1451,7 +1451,7 @@
   {
     "name": "Tgchan",
     "url": [
-      "http://tgchan.org/kusaba/"
+      "https://tgchan.org/kusaba/"
     ],
     "language": [
       "en"
@@ -1485,9 +1485,9 @@
     ]
   },
   {
-    "name": "Toruchan",
+    "name": "Sichan",
     "url": [
-      "https://toruchan.org/"
+      "https://sichan.ch/"
     ],
     "language": [
       "tr"
@@ -1514,7 +1514,7 @@
   {
     "name": "Touhou Project Imageboard",
     "url": [
-      "http://www.touhou-project.com/"
+      "https://www.touhou-project.com/"
     ],
     "language": [
       "en"
@@ -1532,7 +1532,7 @@
   {
     "name": "Tranchan",
     "url": [
-      "http://www.tranchan.net/"
+      "https://www.tranchan.net/"
     ],
     "language": [
       "en"
@@ -1577,7 +1577,7 @@
   {
     "name": "Volgach",
     "url": [
-      "http://volgach.ru/"
+      "https://volgach.ru/"
     ],
     "language": [
       "ru"
@@ -1595,7 +1595,7 @@
   {
     "name": "Werchan",
     "url": [
-      "http://guhnoo.org/"
+      "https://guhnoo.org/"
     ],
     "language": [
       "en"
@@ -1613,7 +1613,7 @@
   {
     "name": "Wizardchan",
     "url": [
-      "http://wizchan.org/"
+      "https://wizchan.org/"
     ],
     "language": [
       "en"
@@ -1640,7 +1640,7 @@
   {
     "name": "Ylilauta",
     "url": [
-      "http://ylilauta.org/"
+      "https://ylilauta.org/"
     ],
     "language": [
       "fi"
