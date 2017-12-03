@@ -45,6 +45,15 @@
     ]
   },
   {
+    "name": "0chan.hk",
+    "url": [
+      "https://0chan.hk/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "1chan",
     "url": [
       "https://www.1chan.net/"
@@ -292,15 +301,6 @@
     ],
     "language": [
       "en"
-    ]
-  },
-  {
-    "name": "AnonFM",
-    "url": [
-      "https://anon.fm/"
-    ],
-    "language": [
-      "ru"
     ]
   },
   {
