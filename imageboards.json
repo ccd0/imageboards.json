@@ -47,7 +47,7 @@
   {
     "name": "1chan",
     "url": [
-      "http://www.1chan.net/"
+      "https://www.1chan.net/"
     ],
     "language": [
       "en"
@@ -130,7 +130,7 @@
   {
     "name": "370chan",
     "url": [
-      "http://370chan.lt/"
+      "https://370chan.lt/"
     ],
     "language": [
       "lt"
@@ -157,7 +157,7 @@
   {
     "name": "420chan",
     "url": [
-      "http://420chan.org/"
+      "https://420chan.org/"
     ],
     "language": [
       "en"
@@ -176,7 +176,7 @@
   {
     "name": "4chan",
     "url": [
-      "http://www.4chan.org/"
+      "https://www.4chan.org/"
     ],
     "language": [
       "en"
@@ -212,7 +212,7 @@
   {
     "name": "55chan",
     "url": [
-      "http://55chan.org/"
+      "https://55chan.org/"
     ],
     "language": [
       "pt"
@@ -275,7 +275,7 @@
   {
     "name": "Acrimonie",
     "url": [
-      "http://www.acrimonie.com/"
+      "https://www.acrimonie.com/"
     ],
     "language": [
       "fr"
@@ -316,7 +316,7 @@
   {
     "name": "AnonFM",
     "url": [
-      "http://anon.fm/"
+      "https://anon.fm/"
     ],
     "language": [
       "ru"
@@ -433,7 +433,7 @@
   {
     "name": "Cable6",
     "url": [
-      "http://cable6.net/"
+      "https://cable6.net/"
     ],
     "language": [
       "fr"
@@ -586,7 +586,7 @@
   {
     "name": "Diochan",
     "url": [
-      "http://www.diochan.com/"
+      "https://www.diochan.com/"
     ],
     "language": [
       "it"
@@ -604,7 +604,7 @@
   {
     "name": "Doushio",
     "url": [
-      "http://doushio.com/moe/"
+      "https://doushio.com/moe/"
     ],
     "language": [
       "en"
@@ -730,7 +730,7 @@
   {
     "name": "Futaba Channel",
     "url": [
-      "http://www.2chan.net/"
+      "https://www.2chan.net/"
     ],
     "language": [
       "ja"
@@ -793,7 +793,7 @@
   {
     "name": "Hamstakilla",
     "url": [
-      "http://hamstakilla.com/"
+      "https://hamstakilla.com/"
     ],
     "language": [
       "ru",
@@ -803,7 +803,7 @@
   {
     "name": "Hatsune.ru",
     "url": [
-      "http://hatsune.ru/"
+      "https://hatsune.ru/"
     ],
     "language": [
       "ru"
@@ -884,7 +884,7 @@
   {
     "name": "iichan",
     "url": [
-      "http://iichan.hk/"
+      "https://iichan.hk/"
     ],
     "language": [
       "ru"
@@ -1136,7 +1136,7 @@
   {
     "name": "Neboard",
     "url": [
-      "http://neboard.me/"
+      "https://neboard.me/"
     ],
     "language": [
       "ru"
@@ -1145,7 +1145,7 @@
   {
     "name": "Nen",
     "url": [
-      "http://kakashi-nenpo.com/jp/"
+      "https://kakashi-nenpo.com/jp/"
     ],
     "language": [
       "en"
@@ -1181,7 +1181,7 @@
   {
     "name": "No-you",
     "url": [
-      "http://no-you.com/jp/"
+      "https://no-you.com/jp/"
     ],
     "language": [
       "en"
@@ -1190,7 +1190,7 @@
   {
     "name": "Nowhere",
     "url": [
-      "http://nowere.net/"
+      "https://nowere.net/"
     ],
     "language": [
       "ru"
@@ -1235,7 +1235,7 @@
   {
     "name": "Polish Vichan",
     "url": [
-      "http://pl.vichan.net/*/"
+      "https://pl.vichan.net/*/"
     ],
     "language": [
       "pl"
@@ -1280,7 +1280,7 @@
   {
     "name": "Ptchan",
     "url": [
-      "http://ptchan.net/"
+      "https://ptchan.net/"
     ],
     "language": [
       "pt"
@@ -1316,7 +1316,7 @@
   {
     "name": "Robotmetal",
     "url": [
-      "http://robotmetal.net/"
+      "https://robotmetal.net/"
     ],
     "language": [
       "en"
@@ -1352,7 +1352,7 @@
   {
     "name": "Site de Marde",
     "url": [
-      "http://4chan.ca/sdm/"
+      "https://4chan.ca/sdm/"
     ],
     "language": [
       "fr"
@@ -1379,7 +1379,7 @@
   {
     "name": "scv",
     "url": [
-      "http://onesixtwo.club/"
+      "https://onesixtwo.club/"
     ],
     "language": [
       "en"
@@ -1586,7 +1586,7 @@
   {
     "name": "Walpurgischan",
     "url": [
-      "http://walpurgischan.net/meduka/"
+      "https://walpurgischan.net/meduka/"
     ],
     "language": [
       "en"
