@@ -1,0 +1,1677 @@
+[
+  {
+    "name": "02ch",
+    "url": [
+      "https://02ch.in/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "02chsu",
+    "url": [
+      "http://02ch.su/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "0-chan",
+    "url": [
+      "http://0-chan.ru/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "0chan.cf",
+    "url": [
+      "http://0chan.cf/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "0chan.esy",
+    "url": [
+      "http://0chan.esy.es/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "1chan",
+    "url": [
+      "http://www.1chan.net/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "1chanus",
+    "url": [
+      "https://1chan.us/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "13channel",
+    "url": [
+      "http://13ch.nl/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "2cat",
+    "url": [
+      "http://2cat.twbbs.org/"
+    ],
+    "language": [
+      "ja"
+    ]
+  },
+  {
+    "name": "2--ch",
+    "url": [
+      "https://2--ch.ru/",
+      "https://2-ch.su/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "2so",
+    "url": [
+      "http://2so.ch/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "23ch",
+    "url": [
+      "http://23ch.ru/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "314chan",
+    "url": [
+      "https://www.314chan.org/314/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "314n",
+    "url": [
+      "http://314n.org/"
+    ],
+    "language": [
+      "ru",
+      "en"
+    ]
+  },
+  {
+    "name": "370chan",
+    "url": [
+      "http://370chan.lt/"
+    ],
+    "language": [
+      "lt"
+    ]
+  },
+  {
+    "name": "38chan",
+    "url": [
+      "http://38chan.net/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "410chan",
+    "url": [
+      "http://410chan.org/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "420chan",
+    "url": [
+      "http://420chan.org/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "4ch",
+    "url": [
+      "http://4ch.mooo.com/+4/"
+    ],
+    "language": [
+      "ja",
+      "en"
+    ]
+  },
+  {
+    "name": "4chan",
+    "url": [
+      "http://4chan.org/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "4chan House",
+    "url": [
+      "http://shimmie.4chanhouse.org/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "4taba",
+    "url": [
+      "https://4taba.net/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "5chan",
+    "url": [
+      "http://5chan.ru/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "55chan",
+    "url": [
+      "http://55chan.org/"
+    ],
+    "language": [
+      "pt"
+    ]
+  },
+  {
+    "name": "7chan",
+    "url": [
+      "https://7chan.org/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "7clams",
+    "url": [
+      "http://7clams.org/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "8chan",
+    "url": [
+      "https://8ch.net/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "89chan",
+    "url": [
+      "http://89chan.com/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "929chan",
+    "url": [
+      "http://929chan.us/kusaba/kusaba.php"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "99chan",
+    "url": [
+      "https://99chan.org/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Acrimonie",
+    "url": [
+      "http://www.acrimonie.com/"
+    ],
+    "language": [
+      "fr"
+    ]
+  },
+  {
+    "name": "Allchan",
+    "url": [
+      "https://allchan.su/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "Anoma",
+    "url": [
+      "https://bbs.anoma.ch/"
+    ],
+    "language": [
+      "ru",
+      "en"
+    ]
+  },
+  {
+    "name": "Anon-IB",
+    "url": [
+      "http://anon-ib.su/",
+      "http://anon-ib.la/",
+      "http://anon-ib.co/",
+      "http://anon-ib.ru/",
+      "http://archive.anon-ib.su/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "AnonFM",
+    "url": [
+      "http://anon.fm/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "Alphachan",
+    "url": [
+      "http://alphachan.org/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "Apachan",
+    "url": [
+      "http://www.apachan.net/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "Aurorachan",
+    "url": [
+      "http://aurorachan.net/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Ayayayaya",
+    "url": [
+      "http://bunbunmaru.com/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Bashorgu",
+    "url": [
+      "http://bashorgu.net.ru/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "B3ta",
+    "url": [
+      "http://www.b3ta.com/board/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Barachan",
+    "url": [
+      "http://boards.barachan.org/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Bienvenido a Internet",
+    "url": [
+      "http://www.bienvenidoainternet.org/"
+    ],
+    "language": [
+      "es"
+    ]
+  },
+  {
+    "name": "Bitardchan",
+    "url": [
+      "http://bitardengine.w.pw/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "Bounceme",
+    "url": [
+      "http://195.242.99.71/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Boxxy",
+    "url": [
+      "http://chan.catiewayne.com/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Bronnen",
+    "url": [
+      "https://bronnen.net/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Cable6",
+    "url": [
+      "http://cable6.net/"
+    ],
+    "language": [
+      "fr"
+    ]
+  },
+  {
+    "name": "Camiko",
+    "url": [
+      "http://camiko.org/"
+    ],
+    "language": [
+      "zh"
+    ]
+  },
+  {
+    "name": "Chanon",
+    "url": [
+      "https://chanon.ro/"
+    ],
+    "language": [
+      "ro"
+    ]
+  },
+  {
+    "name": "Chansluts",
+    "url": [
+      "http://www.chansluts.com/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Chanweb",
+    "url": [
+      "http://www.chanweb.info/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Chan.org.il",
+    "url": [
+      "https://chan.org.il/"
+    ],
+    "language": [
+      "iw"
+    ]
+  },
+  {
+    "name": "Chlomochan",
+    "url": [
+      "https://www.chlomo.org/chan/chloe/index.html"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Cirno",
+    "url": [
+      "http://chiru.no/cirno/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Chaos.cpu",
+    "url": [
+      "https://chaos.cyberpunk.us/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "Chiboard",
+    "url": [
+      "http://www.chiboard.com/"
+    ],
+    "language": [
+      "fr"
+    ]
+  },
+  {
+    "name": "Cryptochan",
+    "url": [
+      "https://cryptochan.org/boards/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "CuatroChocios",
+    "url": [
+      "http://www.cuatrochan.org/"
+    ],
+    "language": [
+      "es"
+    ]
+  },
+  {
+    "name": "DameIB",
+    "url": [
+      "http://dameib.net/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Deep Hole",
+    "url": [
+      "http://the-deep.hol.es/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "Desuchan",
+    "url": [
+      "http://desuchan.net/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "DFwk",
+    "url": [
+      "http://chuck.dfwk.ru/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "Dinky-Digger",
+    "url": [
+      "http://dinky-digger.ru/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "Diochan",
+    "url": [
+      "http://www.diochan.com/"
+    ],
+    "language": [
+      "it"
+    ]
+  },
+  {
+    "name": "Dobrochan",
+    "url": [
+      "http://dobrochan.com/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "Doushio",
+    "url": [
+      "http://doushio.com/moe/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Dreamchan",
+    "url": [
+      "http://dreamchan.net/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Dvach",
+    "url": [
+      "http://dvach.hut2.ru/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "Dvachso",
+    "url": [
+      "https://2ch.hk/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "Endchan",
+    "url": [
+      "https://endchan.xyz/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Ernstchan",
+    "url": [
+      "https://ernstchan.com/"
+    ],
+    "language": [
+      "de"
+    ]
+  },
+  {
+    "name": "Eternitychan",
+    "url": [
+      "http://eternitychan.org/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Everypony",
+    "url": [
+      "http://board.everypony.ru/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "Fchan",
+    "url": [
+      "http://fchan.us/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Fighting Amphibians",
+    "url": [
+      "http://boards.fightingamphibians.org/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Forechan",
+    "url": [
+      "http://www.forechan.org/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Freechan",
+    "url": [
+      "http://freech.net/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Fuck Yeah Imageboard",
+    "url": [
+      "http://fyib.uselessirc.net/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Fufufu",
+    "url": [
+      "https://fufufu.moe/a/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Futaba Channel",
+    "url": [
+      "http://www.2chan.net/"
+    ],
+    "language": [
+      "ja"
+    ]
+  },
+  {
+    "name": "Futaboard",
+    "url": [
+      "http://board.futakuro.com/"
+    ],
+    "language": [
+      "ja"
+    ]
+  },
+  {
+    "name": "Gaika",
+    "url": [
+      "http://gaika.ch/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "Gay NEETs from Outer Space",
+    "url": [
+      "http://gnfos.com/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Gemenichan",
+    "url": [
+      "http://www.geminight.com/"
+    ],
+    "language": [
+      "zh"
+    ]
+  },
+  {
+    "name": "GlauChan",
+    "url": [
+      "https://www.glauchan.org/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Gurochan",
+    "url": [
+      "https://gurochan.ch/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Hamstakilla",
+    "url": [
+      "http://v2.hamstakilla.com/"
+    ],
+    "language": [
+      "ru",
+      "en"
+    ]
+  },
+  {
+    "name": "Hatsune.ru",
+    "url": [
+      "http://hatsune.ru/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "Helma",
+    "url": [
+      "http://helma.us/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Hikkichan",
+    "url": [
+      "http://www.hikkichan.com/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Himasugi",
+    "url": [
+      "http://himasugi.org/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Hispachan",
+    "url": [
+      "https://www.hispachan.org/"
+    ],
+    "language": [
+      "es"
+    ]
+  },
+  {
+    "name": "Einchan",
+    "url": [
+      "ssh://einchan:ein@104.238.215.7"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Holmesduck",
+    "url": [
+      "http://imageboard.holmesduck.com/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "Horochan",
+    "url": [
+      "http://horochan.ru/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "Iccanobif's Imageboard",
+    "url": [
+      "http://iccanobif.altervista.org/sgb/imgboard.htm"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "iichan",
+    "url": [
+      "http://iichan.hk/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "iiichan",
+    "url": [
+      "http://iiichan.net/boards/music/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Insoft",
+    "url": [
+      "http://lnsoft.net/bbs/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Inach",
+    "url": [
+      "http://inach.org/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Intern3ts",
+    "url": [
+      "http://www.intern3ts.com/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Kanal4",
+    "url": [
+      "http://www.kanal4.org/"
+    ],
+    "language": [
+      "sv"
+    ]
+  },
+  {
+    "name": "Kchan",
+    "url": [
+      "http://kchan.kordix.com/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Komica",
+    "url": [
+      "http://web.komica.org/"
+    ],
+    "language": [
+      "zh"
+    ]
+  },
+  {
+    "name": "Krautchan",
+    "url": [
+      "https://www.krautchan.net/"
+    ],
+    "language": [
+      "de"
+    ]
+  },
+  {
+    "name": "Kusaba X",
+    "url": [
+      "http://kusabax.cultnet.net/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Lainchan",
+    "url": [
+      "https://lainchan.org/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Lampa Chan",
+    "url": [
+      "http://lampach.net/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "Latchan",
+    "url": [
+      "https://latchan.lv/"
+    ],
+    "language": [
+      "lv"
+    ]
+  },
+  {
+    "name": "Lolchan",
+    "url": [
+      "http://chandecarton.zz.mu/"
+    ],
+    "language": [
+      "es"
+    ]
+  },
+  {
+    "name": "Lulz",
+    "url": [
+      "https://lulz.net/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Lupchan",
+    "url": [
+      "http://lupchan.org/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "LynxChan",
+    "url": [
+      "http://lynxhub.com/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Macrochan",
+    "url": [
+      "http://www.macrochan.us/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Magic",
+    "url": [
+      "https://gensou.chakai.org/magic/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Magic Archive Voile",
+    "url": [
+      "http://voile.gensokyo.org/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Male General",
+    "url": [
+      "http://www.malegeneral.com/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Maloloschan",
+    "url": [
+      "http://maloloschan.com/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Masterchan",
+    "url": [
+      "http://masterchan.org/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Mewch",
+    "url": [
+      "https://mewch.net/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Merorin",
+    "url": [
+      "https://merorin.com/jp/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Mufunyo",
+    "url": [
+      "http://www.mufunyo.net/dic/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "MyKomica",
+    "url": [
+      "http://mymoe.moe/"
+    ],
+    "language": [
+      "zh"
+    ]
+  },
+  {
+    "name": "nahC4",
+    "url": [
+      "http://nahc4.com/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Neboard",
+    "url": [
+      "http://neboard.me/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "Nen",
+    "url": [
+      "http://kakashi-nenpo.com/jp/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "NewFapChan",
+    "url": [
+      "https://www.fapchan.org/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Nido",
+    "url": [
+      "http://www.nido.org/"
+    ],
+    "language": [
+      "es"
+    ]
+  },
+  {
+    "name": "Nijigen",
+    "url": [
+      "http://nijigen-futaba.kazumi386.org/"
+    ],
+    "language": [
+      "ja"
+    ]
+  },
+  {
+    "name": "No-you",
+    "url": [
+      "http://no-you.com/jp"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Nowhere",
+    "url": [
+      "http://nowere.net/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "Old Home",
+    "url": [
+      "http://boards.haruhiism.net/abe/wakaba.html"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "OPERATORchan",
+    "url": [
+      "http://operatorchan.org/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Ota-ch",
+    "url": [
+      "http://ota-ch.com/jp/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "plus4chan",
+    "url": [
+      "http://www.plus4chan.org/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Polish Vichan",
+    "url": [
+      "http://pl.vichan.net/*/"
+    ],
+    "language": [
+      "pl"
+    ]
+  },
+  {
+    "name": "Ponychan",
+    "url": [
+      "https://www.ponychan.net/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Ponychan.ru",
+    "url": [
+      "https://ponyach.ru/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "Ponyach",
+    "url": [
+      "https://ponyach.ru/b/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Pregchan",
+    "url": [
+      "http://www.pregchan.com/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Ptchan",
+    "url": [
+      "http://www.ptchan.net/"
+    ],
+    "language": [
+      "pt"
+    ]
+  },
+  {
+    "name": "Reichan",
+    "url": [
+      "http://rei-ayanami.net/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Rfch",
+    "url": [
+      "http://rfch.rocks/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "ROTRBC",
+    "url": [
+      "http://boards.rotbrc.com/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Robotmetal",
+    "url": [
+      "http://robotmetal.net/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Saguaro",
+    "url": [
+      "http://saguaroimgboard.tk/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Samachan",
+    "url": [
+      "http://samachan.org/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Sibirchan",
+    "url": [
+      "http://sibirchan.ru/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "Site de Marde",
+    "url": [
+      "http://sitedemarde.org/"
+    ],
+    "language": [
+      "fr"
+    ]
+  },
+  {
+    "name": "Snuffchan",
+    "url": [
+      "http://snuffchan.com/chan/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Stephanielove",
+    "url": [
+      "http://stephanielove.96.lt/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "scv",
+    "url": [
+      "http://onesixtwo.club/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "sushigirls",
+    "url": [
+      "https://sushigirl.us/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Swfchan",
+    "url": [
+      "http://swfchan.org/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Swordgirls",
+    "url": [
+      "http://swordgirls.net/bored/sg/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Syn-ch",
+    "url": [
+      "http://syn-ch.ru/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "Tea",
+    "url": [
+      "https://chakai.org/tea/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Tespedia",
+    "url": [
+      "http://tespedia.ru/board"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "TF2chan",
+    "url": [
+      "http://tf2chan.net/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Tgchan",
+    "url": [
+      "http://tgchan.org/kusaba/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Threadic",
+    "url": [
+      "http://threadic.com/"
+    ],
+    "language": [
+      "ko"
+    ]
+  },
+  {
+    "name": "Tohnochan",
+    "url": [
+      "http://tohno-chan.com/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Topsape",
+    "url": [
+      "http://topsape.ru/chan/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "Toruchan",
+    "url": [
+      "https://toruchan.org/"
+    ],
+    "language": [
+      "tr"
+    ]
+  },
+  {
+    "name": "Touhou.fi",
+    "url": [
+      "http://touhou.fi/board/"
+    ],
+    "language": [
+      "fi"
+    ]
+  },
+  {
+    "name": "Touhouchan",
+    "url": [
+      "https://www.touhouchan.org/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "Touhou Project Imageboard",
+    "url": [
+      "http://www.touhou-project.com/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Traffic Lag",
+    "url": [
+      "http://trafficlag.gr/home.php"
+    ],
+    "language": [
+      "el"
+    ]
+  },
+  {
+    "name": "Tranchan",
+    "url": [
+      "http://www.tranchan.net/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Troll Culture",
+    "url": [
+      "http://wwwwwwwww.at/trolls/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "U18chan",
+    "url": [
+      "https://www.u18chan.com/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "OtakuTalk",
+    "url": [
+      "http://otakutalk.org/d/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Uboachan",
+    "url": [
+      "https://uboachan.net/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Volgach",
+    "url": [
+      "http://volgach.ru/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "Walpurgischan",
+    "url": [
+      "http://walpurgischan.net/meduka/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Werchan",
+    "url": [
+      "http://guhnoo.org/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "What-ch",
+    "url": [
+      "http://what-ch.mooo.com/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Wizardchan",
+    "url": [
+      "http://wizchan.org/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Xynta",
+    "url": [
+      "https://xynta.ch/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "Yiff.furry.hu",
+    "url": [
+      "http://yiff.furry.hu/"
+    ],
+    "language": [
+      "hu"
+    ]
+  },
+  {
+    "name": "Ylilauta",
+    "url": [
+      "http://ylilauta.org/"
+    ],
+    "language": [
+      "fi"
+    ]
+  },
+  {
+    "name": "Yosko's Imageboard",
+    "url": [
+      "http://watermelon.yosko.net/"
+    ],
+    "language": [
+      "fr",
+      "en"
+    ]
+  },
+  {
+    "name": "Yuri Project",
+    "url": [
+      "http://nsfw.yuriproject.net/wakaba.html"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "Zadraw",
+    "url": [
+      "http://www.zadraw.ch/"
+    ],
+    "language": [
+      "ru"
+    ]
+  }
+]
