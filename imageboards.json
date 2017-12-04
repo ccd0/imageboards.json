@@ -1277,15 +1277,6 @@
     ]
   },
   {
-    "name": "Saguaro",
-    "url": [
-      "http://saguaroimgboard.tk/"
-    ],
-    "language": [
-      "en"
-    ]
-  },
-  {
     "name": "Samachan",
     "url": [
       "https://samachan.org/"
@@ -1549,7 +1540,7 @@
   {
     "name": "What-ch",
     "url": [
-      "http://what-ch.mooo.com/"
+      "http://what-ch.mooo.com/what/"
     ],
     "language": [
       "en"
