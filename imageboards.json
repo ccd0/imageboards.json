@@ -257,7 +257,9 @@
     ],
     "software": [
       "tinyboard",
-      "vichan"
+      "vichan",
+      "infinity",
+      "openib"
     ]
   },
   {
@@ -966,7 +968,8 @@
     ],
     "software": [
       "tinyboard",
-      "vichan"
+      "vichan",
+      "lainchan"
     ]
   },
   {
@@ -1253,7 +1256,8 @@
       "en"
     ],
     "software": [
-      "tinyboard"
+      "tinyboard",
+      "ponychan"
     ]
   },
   {
@@ -1358,7 +1362,8 @@
     ],
     "software": [
       "tinyboard",
-      "vichan"
+      "vichan",
+      "lainchan"
     ]
   },
   {
