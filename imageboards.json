@@ -54,6 +54,15 @@
     ]
   },
   {
+    "name": "13channel",
+    "url": [
+      "https://13ch.nl/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "1chan",
     "url": [
       "https://www.1chan.net/"
@@ -72,9 +81,9 @@
     ]
   },
   {
-    "name": "13channel",
+    "name": "23ch",
     "url": [
-      "https://13ch.nl/"
+      "http://23ch.ru/"
     ],
     "language": [
       "ru"
@@ -103,15 +112,6 @@
     "name": "2so",
     "url": [
       "https://2so.ch/"
-    ],
-    "language": [
-      "ru"
-    ]
-  },
-  {
-    "name": "23ch",
-    "url": [
-      "http://23ch.ru/"
     ],
     "language": [
       "ru"
@@ -282,6 +282,15 @@
     ]
   },
   {
+    "name": "Alphachan",
+    "url": [
+      "http://alphachan.org/"
+    ],
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "Anoma",
     "url": [
       "https://bbs.anoma.ch/"
@@ -301,15 +310,6 @@
     ],
     "language": [
       "en"
-    ]
-  },
-  {
-    "name": "Alphachan",
-    "url": [
-      "http://alphachan.org/"
-    ],
-    "language": [
-      "ru"
     ]
   },
   {
@@ -334,15 +334,6 @@
     "name": "Azu",
     "url": [
       "https://ib.axypb.net/azu/index.html"
-    ],
-    "language": [
-      "en"
-    ]
-  },
-  {
-    "name": "Bunbunmaru",
-    "url": [
-      "http://bunbunmaru.com/wakaba/"
     ],
     "language": [
       "en"
@@ -412,6 +403,15 @@
     ]
   },
   {
+    "name": "Bunbunmaru",
+    "url": [
+      "http://bunbunmaru.com/wakaba/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
     "name": "Cable6",
     "url": [
       "https://cable6.net/"
@@ -430,12 +430,30 @@
     ]
   },
   {
+    "name": "ccluster",
+    "url": [
+      "https://ccluster.com/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
     "name": "Chanon",
     "url": [
       "https://chanon.ro/"
     ],
     "language": [
       "ro"
+    ]
+  },
+  {
+    "name": "Chan.org.il",
+    "url": [
+      "https://chan.org.il/"
+    ],
+    "language": [
+      "iw"
     ]
   },
   {
@@ -457,12 +475,12 @@
     ]
   },
   {
-    "name": "Chan.org.il",
+    "name": "Chaos.cpu",
     "url": [
-      "https://chan.org.il/"
+      "https://chaos.cyberpunk.us/"
     ],
     "language": [
-      "iw"
+      "ru"
     ]
   },
   {
@@ -481,15 +499,6 @@
     ],
     "language": [
       "en"
-    ]
-  },
-  {
-    "name": "Chaos.cpu",
-    "url": [
-      "https://chaos.cyberpunk.us/"
-    ],
-    "language": [
-      "ru"
     ]
   },
   {
@@ -601,6 +610,15 @@
     ]
   },
   {
+    "name": "Einchan",
+    "url": [
+      "ssh://einchan:ein@104.238.215.7"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
     "name": "Endchan",
     "url": [
       "https://endchan.xyz/"
@@ -634,6 +652,15 @@
     ],
     "language": [
       "ru"
+    ]
+  },
+  {
+    "name": "Fapchan",
+    "url": [
+      "https://fapchan.org/"
+    ],
+    "language": [
+      "en"
     ]
   },
   {
@@ -782,15 +809,6 @@
     ]
   },
   {
-    "name": "Einchan",
-    "url": [
-      "ssh://einchan:ein@104.238.215.7"
-    ],
-    "language": [
-      "en"
-    ]
-  },
-  {
     "name": "Holmesduck",
     "url": [
       "http://imageboard.holmesduck.com/"
@@ -833,15 +851,6 @@
     ],
     "language": [
       "en"
-    ]
-  },
-  {
-    "name": "LNSOFT",
-    "url": [
-      "http://lnsoft.net/bbs/"
-    ],
-    "language": [
-      "ja"
     ]
   },
   {
@@ -914,6 +923,15 @@
     ],
     "language": [
       "ru"
+    ]
+  },
+  {
+    "name": "LNSOFT",
+    "url": [
+      "http://lnsoft.net/bbs/"
+    ],
+    "language": [
+      "ja"
     ]
   },
   {
@@ -998,9 +1016,9 @@
     ]
   },
   {
-    "name": "ccluster",
+    "name": "Merorin",
     "url": [
-      "https://ccluster.com/"
+      "https://merorin.com/jp/"
     ],
     "language": [
       "en"
@@ -1010,15 +1028,6 @@
     "name": "Mewch",
     "url": [
       "https://mewch.net/"
-    ],
-    "language": [
-      "en"
-    ]
-  },
-  {
-    "name": "Merorin",
-    "url": [
-      "https://merorin.com/jp/"
     ],
     "language": [
       "en"
@@ -1070,15 +1079,6 @@
     ]
   },
   {
-    "name": "Fapchan",
-    "url": [
-      "https://fapchan.org/"
-    ],
-    "language": [
-      "en"
-    ]
-  },
-  {
     "name": "Nido",
     "url": [
       "https://www.nido.org/"
@@ -1097,21 +1097,21 @@
     ]
   },
   {
-    "name": "No-you",
-    "url": [
-      "https://no-you.com/jp/"
-    ],
-    "language": [
-      "en"
-    ]
-  },
-  {
     "name": "Nowhere",
     "url": [
       "https://nowere.net/"
     ],
     "language": [
       "ru"
+    ]
+  },
+  {
+    "name": "No-you",
+    "url": [
+      "https://no-you.com/jp/"
+    ],
+    "language": [
+      "en"
     ]
   },
   {
@@ -1142,6 +1142,15 @@
     ]
   },
   {
+    "name": "OtakuTalk",
+    "url": [
+      "http://otakutalk.org/d/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
     "name": "plus4chan",
     "url": [
       "http://www.plus4chan.org/"
@@ -1160,21 +1169,21 @@
     ]
   },
   {
-    "name": "Ponychan",
-    "url": [
-      "https://www.ponychan.net/"
-    ],
-    "language": [
-      "en"
-    ]
-  },
-  {
     "name": "Ponyach",
     "url": [
       "https://ponyach.ru/b/"
     ],
     "language": [
       "ru"
+    ]
+  },
+  {
+    "name": "Ponychan",
+    "url": [
+      "https://www.ponychan.net/"
+    ],
+    "language": [
+      "en"
     ]
   },
   {
@@ -1214,18 +1223,18 @@
     ]
   },
   {
-    "name": "ROTRBC",
+    "name": "Robotmetal",
     "url": [
-      "http://boards.rotbrc.com/"
+      "https://robotmetal.net/"
     ],
     "language": [
       "en"
     ]
   },
   {
-    "name": "Robotmetal",
+    "name": "ROTRBC",
     "url": [
-      "https://robotmetal.net/"
+      "http://boards.rotbrc.com/"
     ],
     "language": [
       "en"
@@ -1241,12 +1250,30 @@
     ]
   },
   {
+    "name": "scv",
+    "url": [
+      "https://onesixtwo.club/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
     "name": "Sibirchan",
     "url": [
       "http://sibirchan.ru/"
     ],
     "language": [
       "ru"
+    ]
+  },
+  {
+    "name": "Sichan",
+    "url": [
+      "https://sichan.ch/"
+    ],
+    "language": [
+      "tr"
     ]
   },
   {
@@ -1265,15 +1292,6 @@
     ],
     "language": [
       "ru"
-    ]
-  },
-  {
-    "name": "scv",
-    "url": [
-      "https://onesixtwo.club/"
-    ],
-    "language": [
-      "en"
     ]
   },
   {
@@ -1367,12 +1385,12 @@
     ]
   },
   {
-    "name": "Sichan",
+    "name": "Touhouchan",
     "url": [
-      "https://sichan.ch/"
+      "https://www.touhouchan.org/"
     ],
     "language": [
-      "tr"
+      "ru"
     ]
   },
   {
@@ -1382,15 +1400,6 @@
     ],
     "language": [
       "fi"
-    ]
-  },
-  {
-    "name": "Touhouchan",
-    "url": [
-      "https://www.touhouchan.org/"
-    ],
-    "language": [
-      "ru"
     ]
   },
   {
@@ -1433,15 +1442,6 @@
     "name": "U18chan",
     "url": [
       "https://www.u18chan.com/"
-    ],
-    "language": [
-      "en"
-    ]
-  },
-  {
-    "name": "OtakuTalk",
-    "url": [
-      "http://otakutalk.org/d/"
     ],
     "language": [
       "en"
