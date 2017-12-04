@@ -28,6 +28,10 @@
     ],
     "language": [
       "ru"
+    ],
+    "software": [
+      "doushio",
+      "meguca"
     ]
   },
   {
@@ -554,6 +558,10 @@
     ],
     "language": [
       "en"
+    ],
+    "software": [
+      "doushio",
+      "meguca"
     ]
   },
   {
@@ -644,6 +652,9 @@
     ],
     "language": [
       "en"
+    ],
+    "software": [
+      "doushio"
     ]
   },
   {
@@ -1085,6 +1096,9 @@
     ],
     "language": [
       "en"
+    ],
+    "software": [
+      "doushio"
     ]
   },
   {
