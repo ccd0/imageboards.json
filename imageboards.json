@@ -1129,6 +1129,19 @@
     ]
   },
   {
+    "name": "Meguca",
+    "url": [
+      "https://meguca.org/all/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "doushio",
+      "meguca"
+    ]
+  },
+  {
     "name": "Merorin",
     "url": [
       "https://merorin.com/jp/"
