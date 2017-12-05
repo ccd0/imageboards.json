@@ -162,6 +162,18 @@
     ]
   },
   {
+    "name": "32chan",
+    "url": [
+      "https://32ch.org/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ]
+  },
+  {
     "name": "370chan",
     "url": [
       "https://370chan.lt/"
@@ -349,6 +361,18 @@
     ]
   },
   {
+    "name": "ae-chan",
+    "url": [
+      "https://ae-chan.org/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ]
+  },
+  {
     "name": "Allchan",
     "url": [
       "https://allchan.su/"
@@ -396,6 +420,18 @@
     "software": [
       "tinyboard",
       "vichan"
+    ]
+  },
+  {
+    "name": "antichan",
+    "url": [
+      "https://antichan.org/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
     ]
   },
   {
@@ -547,6 +583,18 @@
     ],
     "software": [
       "kareha"
+    ]
+  },
+  {
+    "name": "Bunkerchan",
+    "url": [
+      "http://bunkerchan.xyz/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
     ]
   },
   {
@@ -1700,6 +1748,18 @@
     ]
   },
   {
+    "name": "Ronery.Me",
+    "url": [
+      "https://ronery.me/"
+    ],
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "lynxchan"
+    ]
+  },
+  {
     "name": "ROTRBC",
     "url": [
       "http://boards.rotbrc.com/"
@@ -1800,6 +1860,18 @@
     ],
     "software": [
       "futallaby"
+    ]
+  },
+  {
+    "name": "SpaceChan",
+    "url": [
+      "https://spacechan.xyz/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
     ]
   },
   {
