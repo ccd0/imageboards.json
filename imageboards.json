@@ -91,6 +91,8 @@
       "en"
     ],
     "software": [
+      "gazoubbs",
+      "futaba",
       "futallaby",
       "tinyib"
     ]
@@ -116,6 +118,8 @@
       "zh"
     ],
     "software": [
+      "gazoubbs",
+      "futaba",
       "pixmicat"
     ]
   },
@@ -234,6 +238,8 @@
       "en"
     ],
     "software": [
+      "gazoubbs",
+      "futaba",
       "pixmicat",
       "yotsubanome"
     ]
@@ -247,6 +253,9 @@
       "en"
     ],
     "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby",
       "yotsuba"
     ]
   },
@@ -344,6 +353,8 @@
       "en"
     ],
     "software": [
+      "gazoubbs",
+      "futaba",
       "futallaby",
       "tinyib"
     ]
@@ -466,6 +477,8 @@
       "en"
     ],
     "software": [
+      "gazoubbs",
+      "futaba",
       "futallaby",
       "wakarimasen"
     ]
@@ -632,6 +645,8 @@
       "zh"
     ],
     "software": [
+      "gazoubbs",
+      "futaba",
       "pixmicat"
     ]
   },
@@ -752,6 +767,8 @@
       "en"
     ],
     "software": [
+      "gazoubbs",
+      "futaba",
       "futallaby",
       "saguaro"
     ]
@@ -777,6 +794,8 @@
       "en"
     ],
     "software": [
+      "gazoubbs",
+      "futaba",
       "futallaby",
       "wakarimasen"
     ]
@@ -1016,6 +1035,7 @@
       "ja"
     ],
     "software": [
+      "gazoubbs",
       "futaba"
     ]
   },
@@ -1028,6 +1048,9 @@
       "ja"
     ],
     "software": [
+      "gazoubbs",
+      "futaba",
+      "monaca",
       "futakuro"
     ]
   },
@@ -1178,6 +1201,8 @@
       "en"
     ],
     "software": [
+      "gazoubbs",
+      "futaba",
       "futallaby"
     ]
   },
@@ -1190,6 +1215,8 @@
       "ru"
     ],
     "software": [
+      "gazoubbs",
+      "futaba",
       "futallaby"
     ]
   },
@@ -1250,6 +1277,8 @@
       "zh"
     ],
     "software": [
+      "gazoubbs",
+      "futaba",
       "pixmicat"
     ]
   },
@@ -1300,6 +1329,8 @@
       "ru"
     ],
     "software": [
+      "gazoubbs",
+      "futaba",
       "futallaby",
       "tinyib"
     ]
@@ -1322,6 +1353,8 @@
       "es"
     ],
     "software": [
+      "gazoubbs",
+      "futaba",
       "futallaby",
       "tinyib",
       "futura"
@@ -1505,6 +1538,8 @@
       "zh"
     ],
     "software": [
+      "gazoubbs",
+      "futaba",
       "pixmicat"
     ]
   },
@@ -1563,6 +1598,8 @@
       "en"
     ],
     "software": [
+      "gazoubbs",
+      "futaba",
       "futallaby",
       "nelliel",
       "afroboard"
@@ -1577,6 +1614,8 @@
       "ja"
     ],
     "software": [
+      "gazoubbs",
+      "futaba",
       "siokara"
     ]
   },
@@ -1676,6 +1715,8 @@
       "en"
     ],
     "software": [
+      "gazoubbs",
+      "futaba",
       "futallaby",
       "tinyib"
     ]
@@ -1762,6 +1803,8 @@
       "en"
     ],
     "software": [
+      "gazoubbs",
+      "futaba",
       "futallaby"
     ]
   },
@@ -1786,6 +1829,8 @@
       "en"
     ],
     "software": [
+      "gazoubbs",
+      "futaba",
       "futallaby"
     ]
   },
@@ -1901,6 +1946,8 @@
       "en"
     ],
     "software": [
+      "gazoubbs",
+      "futaba",
       "futallaby"
     ]
   },
