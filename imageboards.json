@@ -145,6 +145,10 @@
     ],
     "language": [
       "en"
+    ],
+    "software": [
+      "haruko",
+      "mitsuba"
     ]
   },
   {
@@ -190,6 +194,9 @@
     ],
     "language": [
       "ru"
+    ],
+    "software": [
+      "kusaba"
     ]
   },
   {
@@ -199,6 +206,10 @@
     ],
     "language": [
       "en"
+    ],
+    "software": [
+      "wakaba",
+      "taimaba"
     ]
   },
   {
@@ -209,6 +220,10 @@
     "language": [
       "ja",
       "en"
+    ],
+    "software": [
+      "pixmicat",
+      "yotsubanome"
     ]
   },
   {
@@ -230,6 +245,9 @@
     ],
     "language": [
       "en"
+    ],
+    "software": [
+      "kusaba"
     ]
   },
   {
@@ -248,6 +266,10 @@
     ],
     "language": [
       "pt"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
@@ -269,6 +291,9 @@
     ],
     "language": [
       "en"
+    ],
+    "software": [
+      "kusaba"
     ]
   },
   {
@@ -330,6 +355,9 @@
     ],
     "language": [
       "ru"
+    ],
+    "software": [
+      "ololord"
     ]
   },
   {
@@ -349,6 +377,9 @@
     "language": [
       "ru",
       "en"
+    ],
+    "software": [
+      "orphereus"
     ]
   },
   {
@@ -361,6 +392,10 @@
     ],
     "language": [
       "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
@@ -427,6 +462,9 @@
     ],
     "language": [
       "es"
+    ],
+    "software": [
+      "weabot"
     ]
   },
   {
@@ -448,6 +486,9 @@
     ],
     "language": [
       "en"
+    ],
+    "software": [
+      "kareha"
     ]
   },
   {
@@ -518,6 +559,9 @@
     ],
     "language": [
       "zh"
+    ],
+    "software": [
+      "pixmicat"
     ]
   },
   {
@@ -548,6 +592,10 @@
     ],
     "language": [
       "iw"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
@@ -569,6 +617,9 @@
     ],
     "language": [
       "en"
+    ],
+    "software": [
+      "wakaba"
     ]
   },
   {
@@ -578,6 +629,9 @@
     ],
     "language": [
       "ru"
+    ],
+    "software": [
+      "monaba"
     ]
   },
   {
@@ -625,6 +679,10 @@
     ],
     "language": [
       "en"
+    ],
+    "software": [
+      "futallaby",
+      "saguaro"
     ]
   },
   {
@@ -634,6 +692,9 @@
     ],
     "language": [
       "ru"
+    ],
+    "software": [
+      "tinyboard"
     ]
   },
   {
@@ -689,6 +750,10 @@
     ],
     "language": [
       "ru"
+    ],
+    "software": [
+      "wakaba",
+      "hanabira"
     ]
   },
   {
@@ -734,6 +799,9 @@
     ],
     "language": [
       "ru"
+    ],
+    "software": [
+      "makaba"
     ]
   },
   {
@@ -801,6 +869,10 @@
     ],
     "language": [
       "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
@@ -822,6 +894,9 @@
     ],
     "language": [
       "en"
+    ],
+    "software": [
+      "lynxchan"
     ]
   },
   {
@@ -843,6 +918,9 @@
     ],
     "language": [
       "en"
+    ],
+    "software": [
+      "tinyboard"
     ]
   },
   {
@@ -876,6 +954,9 @@
     ],
     "language": [
       "ru"
+    ],
+    "software": [
+      "wakaba"
     ]
   },
   {
@@ -898,6 +979,10 @@
     ],
     "language": [
       "en"
+    ],
+    "software": [
+      "wakaba",
+      "glaukaba"
     ]
   },
   {
@@ -947,6 +1032,10 @@
     ],
     "language": [
       "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
@@ -1015,6 +1104,9 @@
     ],
     "language": [
       "ru"
+    ],
+    "software": [
+      "futallaby"
     ]
   },
   {
@@ -1036,6 +1128,9 @@
     ],
     "language": [
       "ru"
+    ],
+    "software": [
+      "wakaba"
     ]
   },
   {
@@ -1057,6 +1152,9 @@
     ],
     "language": [
       "sv"
+    ],
+    "software": [
+      "overmind"
     ]
   },
   {
@@ -1078,6 +1176,9 @@
     ],
     "language": [
       "de"
+    ],
+    "software": [
+      "desuchan"
     ]
   },
   {
@@ -1113,6 +1214,10 @@
     ],
     "language": [
       "ru"
+    ],
+    "software": [
+      "futallaby",
+      "tinyib"
     ]
   },
   {
@@ -1145,6 +1250,9 @@
     ],
     "language": [
       "en"
+    ],
+    "software": [
+      "wakaba"
     ]
   },
   {
@@ -1154,6 +1262,9 @@
     ],
     "language": [
       "en"
+    ],
+    "software": [
+      "tinyboard"
     ]
   },
   {
@@ -1175,6 +1286,9 @@
     ],
     "language": [
       "en"
+    ],
+    "software": [
+      "tinyboard"
     ]
   },
   {
@@ -1208,6 +1322,10 @@
     ],
     "language": [
       "en"
+    ],
+    "software": [
+      "wakaba",
+      "wakaba++"
     ]
   },
   {
@@ -1287,6 +1405,9 @@
     ],
     "language": [
       "en"
+    ],
+    "software": [
+      "anonsoba"
     ]
   },
   {
@@ -1296,6 +1417,9 @@
     ],
     "language": [
       "ru"
+    ],
+    "software": [
+      "neboard"
     ]
   },
   {
@@ -1376,6 +1500,9 @@
     ],
     "language": [
       "en"
+    ],
+    "software": [
+      "kusaba"
     ]
   },
   {
@@ -1410,6 +1537,9 @@
     ],
     "language": [
       "en"
+    ],
+    "software": [
+      "koba"
     ]
   },
   {
@@ -1516,6 +1646,9 @@
     ],
     "language": [
       "en"
+    ],
+    "software": [
+      "kusaba"
     ]
   },
   {
@@ -1552,6 +1685,10 @@
     ],
     "language": [
       "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
@@ -1561,6 +1698,9 @@
     ],
     "language": [
       "ru"
+    ],
+    "software": [
+      "kusaba"
     ]
   },
   {
@@ -1597,6 +1737,9 @@
     ],
     "language": [
       "ru"
+    ],
+    "software": [
+      "tinyboard"
     ]
   },
   {
@@ -1606,6 +1749,10 @@
     ],
     "language": [
       "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
@@ -1662,6 +1809,9 @@
     ],
     "language": [
       "en"
+    ],
+    "software": [
+      "kusaba"
     ]
   },
   {
@@ -1725,6 +1875,9 @@
     ],
     "language": [
       "fi"
+    ],
+    "software": [
+      "kusaba"
     ]
   },
   {
@@ -1734,6 +1887,9 @@
     ],
     "language": [
       "en"
+    ],
+    "software": [
+      "kusaba"
     ]
   },
   {
@@ -1743,6 +1899,9 @@
     ],
     "language": [
       "el"
+    ],
+    "software": [
+      "kusaba"
     ]
   },
   {
@@ -1764,6 +1923,9 @@
     ],
     "language": [
       "en"
+    ],
+    "software": [
+      "kusaba"
     ]
   },
   {
@@ -1773,6 +1935,9 @@
     ],
     "language": [
       "en"
+    ],
+    "software": [
+      "ib4f"
     ]
   },
   {
@@ -1782,6 +1947,10 @@
     ],
     "language": [
       "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
@@ -1815,6 +1984,9 @@
     ],
     "language": [
       "en"
+    ],
+    "software": [
+      "werchan"
     ]
   },
   {
@@ -1862,6 +2034,9 @@
     ],
     "language": [
       "hu"
+    ],
+    "software": [
+      "wakaba"
     ]
   },
   {
@@ -1905,6 +2080,9 @@
     ],
     "language": [
       "ru"
+    ],
+    "software": [
+      "kusaba"
     ]
   }
 ]
