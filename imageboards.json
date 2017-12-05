@@ -89,6 +89,10 @@
     ],
     "language": [
       "en"
+    ],
+    "software": [
+      "futallaby",
+      "tinyib"
     ]
   },
   {
@@ -110,6 +114,9 @@
     ],
     "language": [
       "zh"
+    ],
+    "software": [
+      "pixmicat"
     ]
   },
   {
@@ -211,6 +218,9 @@
     ],
     "language": [
       "en"
+    ],
+    "software": [
+      "yotsuba"
     ]
   },
   {
@@ -295,6 +305,10 @@
     ],
     "language": [
       "en"
+    ],
+    "software": [
+      "futallaby",
+      "tinyib"
     ]
   },
   {
@@ -365,6 +379,10 @@
     ],
     "language": [
       "en"
+    ],
+    "software": [
+      "futallaby",
+      "wakarimasen"
     ]
   },
   {
@@ -625,6 +643,10 @@
     ],
     "language": [
       "en"
+    ],
+    "software": [
+      "futallaby",
+      "wakarimasen"
     ]
   },
   {
@@ -830,6 +852,9 @@
     ],
     "language": [
       "ja"
+    ],
+    "software": [
+      "futaba"
     ]
   },
   {
@@ -839,6 +864,9 @@
     ],
     "language": [
       "ja"
+    ],
+    "software": [
+      "futakuro"
     ]
   },
   {
@@ -975,6 +1003,9 @@
     ],
     "language": [
       "en"
+    ],
+    "software": [
+      "futallaby"
     ]
   },
   {
@@ -1035,6 +1066,9 @@
     ],
     "language": [
       "zh"
+    ],
+    "software": [
+      "pixmicat"
     ]
   },
   {
@@ -1097,6 +1131,11 @@
     ],
     "language": [
       "es"
+    ],
+    "software": [
+      "futallaby",
+      "tinyib",
+      "futura"
     ]
   },
   {
@@ -1236,6 +1275,9 @@
     ],
     "language": [
       "zh"
+    ],
+    "software": [
+      "pixmicat"
     ]
   },
   {
@@ -1285,6 +1327,9 @@
     ],
     "language": [
       "ja"
+    ],
+    "software": [
+      "siokara"
     ]
   },
   {
@@ -1352,6 +1397,10 @@
     ],
     "language": [
       "en"
+    ],
+    "software": [
+      "futallaby",
+      "tinyib"
     ]
   },
   {
@@ -1431,6 +1480,9 @@
     ],
     "language": [
       "en"
+    ],
+    "software": [
+      "futallaby"
     ]
   },
   {
@@ -1452,6 +1504,9 @@
     ],
     "language": [
       "en"
+    ],
+    "software": [
+      "futallaby"
     ]
   },
   {
