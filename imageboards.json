@@ -444,6 +444,20 @@
     ]
   },
   {
+    "name": "arisuchan",
+    "url": [
+      "https://arisuchan.jp/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "arisuchan"
+    ]
+  },
+  {
     "name": "Aurorachan",
     "url": [
       "http://aurorachan.net/"
@@ -1457,6 +1471,20 @@
     ]
   },
   {
+    "name": "mlpol",
+    "url": [
+      "https://mlpol.net/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "npfchan"
+    ]
+  },
+  {
     "name": "Mufunyo",
     "url": [
       "http://www.mufunyo.net/dic/"
@@ -1550,6 +1578,20 @@
     ],
     "software": [
       "siokara"
+    ]
+  },
+  {
+    "name": "Not4/jp/",
+    "url": [
+      "https://not4jp.ml/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "regnfos"
     ]
   },
   {
