@@ -504,6 +504,15 @@
     ]
   },
   {
+    "name": "britfa.gs",
+    "url": [
+      "http://britfa.gs/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
     "name": "Bronnen",
     "url": [
       "https://www.bronnen.net/"
@@ -885,6 +894,19 @@
     ],
     "software": [
       "wakaba"
+    ]
+  },
+  {
+    "name": "Finalchan",
+    "url": [
+      "https://finalchan.net/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
@@ -1316,6 +1338,18 @@
     ]
   },
   {
+    "name": "Mahjong message board",
+    "url": [
+      "http://arcturus.su/ch/mj/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "kareha"
+    ]
+  },
+  {
     "name": "Male General",
     "url": [
       "https://www.malegeneral.com/"
@@ -1445,6 +1479,20 @@
     ]
   },
   {
+    "name": "Nigrachan",
+    "url": [
+      "http://www.nigrachan.org/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "futallaby",
+      "nelliel",
+      "afroboard"
+    ]
+  },
+  {
     "name": "Nijigen",
     "url": [
       "http://nijigen-futaba.kazumi386.org/"
@@ -1515,6 +1563,18 @@
     ],
     "software": [
       "tinyboard"
+    ]
+  },
+  {
+    "name": "otakunopodcast",
+    "url": [
+      "http://wakaba.otakunopodcast.com/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "wakaba"
     ]
   },
   {
@@ -1728,6 +1788,18 @@
     "software": [
       "tinyboard",
       "vichan"
+    ]
+  },
+  {
+    "name": "SketchChan",
+    "url": [
+      "http://garyc.me/sketchchan/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "futallaby"
     ]
   },
   {
@@ -1954,6 +2026,18 @@
     ]
   },
   {
+    "name": "Virginchan",
+    "url": [
+      "https://www.virginchan.org/b/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "foolfuuka"
+    ]
+  },
+  {
     "name": "Volgach",
     "url": [
       "https://volgach.ru/"
@@ -2013,6 +2097,15 @@
     "software": [
       "tinyboard",
       "vichan"
+    ]
+  },
+  {
+    "name": "Xchan",
+    "url": [
+      "https://xchan.pw/"
+    ],
+    "language": [
+      "en"
     ]
   },
   {
