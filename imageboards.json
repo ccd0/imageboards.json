@@ -110,6 +110,20 @@
     ]
   },
   {
+    "name": "27chan",
+    "url": [
+      "https://27chan.org/"
+    ],
+    "language": [
+      "pt"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "npfchan"
+    ]
+  },
+  {
     "name": "2cat",
     "url": [
       "http://2cat.ml/"
@@ -333,6 +347,19 @@
     ]
   },
   {
+    "name": "9231chan",
+    "url": [
+      "http://casemap.x10host.com/vichan-master/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "929chan",
     "url": [
       "http://929chan.us/kusaba/kusaba.php"
@@ -466,6 +493,19 @@
       "tinyboard",
       "vichan",
       "arisuchan"
+    ]
+  },
+  {
+    "name": "artchan",
+    "url": [
+      "https://arctanh.haus/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
@@ -637,6 +677,18 @@
     ]
   },
   {
+    "name": "Cal Animage Epsilon",
+    "url": [
+      "https://www.clubs.uci.edu/cae/a/index.html"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard"
+    ]
+  },
+  {
     "name": "Camiko",
     "url": [
       "http://camiko.org/"
@@ -697,6 +749,18 @@
     ]
   },
   {
+    "name": "chan.today",
+    "url": [
+      "https://chan.today/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ]
+  },
+  {
     "name": "Chanweb",
     "url": [
       "http://chanweb.info/"
@@ -731,6 +795,18 @@
     "software": [
       "tinyboard",
       "vichan"
+    ]
+  },
+  {
+    "name": "Christchan",
+    "url": [
+      "http://christchan.is/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
     ]
   },
   {
@@ -774,6 +850,18 @@
     ]
   },
   {
+    "name": "Damp Land",
+    "url": [
+      "http://danyburton.net/dampland/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard"
+    ]
+  },
+  {
     "name": "Deep Hole",
     "url": [
       "http://the-deep.hol.es/"
@@ -783,6 +871,20 @@
     ],
     "software": [
       "tinyboard"
+    ]
+  },
+  {
+    "name": "Depreschan",
+    "url": [
+      "https://depreschan.ovh/"
+    ],
+    "language": [
+      "en",
+      "ru"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
@@ -810,6 +912,19 @@
     ],
     "software": [
       "kusaba"
+    ]
+  },
+  {
+    "name": "Digital Ghost",
+    "url": [
+      "http://thedigitalghost.com/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
@@ -1080,6 +1195,18 @@
     ]
   },
   {
+    "name": "GETchan",
+    "url": [
+      "http://www.getchan.net/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "kusaba"
+    ]
+  },
+  {
     "name": "GlauChan",
     "url": [
       "https://www.glauchan.org/"
@@ -1093,12 +1220,38 @@
     ]
   },
   {
+    "name": "Gochan",
+    "url": [
+      "https://gochan.lunachan.net/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "gochan"
+    ]
+  },
+  {
     "name": "Gurochan",
     "url": [
       "https://www.gurochan.ch/"
     ],
     "language": [
       "en"
+    ]
+  },
+  {
+    "name": "H0K4CH4N",
+    "url": [
+      "https://hokachan.com/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "npfchan"
     ]
   },
   {
@@ -1177,6 +1330,19 @@
     ],
     "language": [
       "ru"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
+    "name": "homph",
+    "url": [
+      "http://homph.com/board/homph/"
+    ],
+    "language": [
+      "en"
     ],
     "software": [
       "tinyboard",
@@ -1295,6 +1461,18 @@
     ]
   },
   {
+    "name": "kuchikukan.net",
+    "url": [
+      "http://kuchikukan.net/Tinyboard/kc/index.html"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard"
+    ]
+  },
+  {
     "name": "Kusaba X",
     "url": [
       "http://kusabax.cultnet.net/"
@@ -1321,6 +1499,20 @@
     ]
   },
   {
+    "name": "Lainsoc",
+    "url": [
+      "http://www.lainsoc.tk/urandom/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "arisuchan"
+    ]
+  },
+  {
     "name": "Lampa Chan",
     "url": [
       "http://lampach.net/"
@@ -1333,6 +1525,19 @@
       "futaba",
       "futallaby",
       "tinyib"
+    ]
+  },
+  {
+    "name": "Lizchan",
+    "url": [
+      "https://lizchan.org/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
@@ -1358,6 +1563,41 @@
       "futallaby",
       "tinyib",
       "futura"
+    ]
+  },
+  {
+    "name": "Lolifox",
+    "url": [
+      "https://lolifox.org/"
+    ],
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
+    "name": "Lolnada",
+    "url": [
+      "https://lolnada.org/"
+    ],
+    "language": [
+      "es"
+    ]
+  },
+  {
+    "name": "Lukas Engelhardt",
+    "url": [
+      "http://lukasengelhardt.net/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
@@ -1504,6 +1744,32 @@
     ]
   },
   {
+    "name": "mitchan",
+    "url": [
+      "http://mitchan.org/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
+    "name": "MLPG.co",
+    "url": [
+      "https://mlpg.co/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "mlpol",
     "url": [
       "https://mlpol.net/"
@@ -1527,6 +1793,19 @@
     ],
     "software": [
       "kareha"
+    ]
+  },
+  {
+    "name": "Musikchan",
+    "url": [
+      "https://musikchan.com/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
@@ -1565,6 +1844,18 @@
     ],
     "software": [
       "neboard"
+    ]
+  },
+  {
+    "name": "neetBBS",
+    "url": [
+      "https://bbs.neet.tv/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "hivebbs"
     ]
   },
   {
@@ -1620,6 +1911,19 @@
     ]
   },
   {
+    "name": "Nostromo",
+    "url": [
+      "http://nostromo.nu/"
+    ],
+    "language": [
+      "en",
+      "sv"
+    ],
+    "software": [
+      "tinyboard"
+    ]
+  },
+  {
     "name": "Not4/jp/",
     "url": [
       "https://not4jp.ml/"
@@ -1656,6 +1960,18 @@
     "software": [
       "tinyboard",
       "vichan"
+    ]
+  },
+  {
+    "name": "oldfag.org",
+    "url": [
+      "https://www.oldfag.org/angelina/Tinyboard/b/index.html"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard"
     ]
   },
   {
@@ -2060,6 +2376,32 @@
     ]
   },
   {
+    "name": "TGFB",
+    "url": [
+      "http://tgfb.us/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
+    "name": "The Cool Table",
+    "url": [
+      "https://cooltable.org/bulletins/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Threadic",
     "url": [
       "http://threadic.com/"
@@ -2162,6 +2504,33 @@
     ]
   },
   {
+    "name": "Truth in our Time Chan",
+    "url": [
+      "https://www.truthinourtime.com/chan/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
+    "name": "TSUKI Underground Boards",
+    "url": [
+      "http://tsukiunderground.x10.mx/boards/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "lainchan"
+    ]
+  },
+  {
     "name": "U18chan",
     "url": [
       "https://www.u18chan.com/"
@@ -2208,6 +2577,19 @@
     ],
     "software": [
       "kusaba"
+    ]
+  },
+  {
+    "name": "/vp/nsfw",
+    "url": [
+      "https://www.drawfag.net/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
@@ -2291,6 +2673,18 @@
     ],
     "software": [
       "wakaba"
+    ]
+  },
+  {
+    "name": "YL-chan",
+    "url": [
+      "https://www.yui-lover.com/tinyboard/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard"
     ]
   },
   {
