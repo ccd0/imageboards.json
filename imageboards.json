@@ -1446,6 +1446,19 @@
     ]
   },
   {
+    "name": "SamaLive",
+    "url": [
+      "https://samachan.org/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "doushio",
+      "meguca"
+    ]
+  },
+  {
     "name": "scv",
     "url": [
       "https://onesixtwo.club/"
