@@ -2,8 +2,8 @@
   {
     "name": "02ch",
     "url": [
-      "https://02ch.in/",
-      "https://buttflaps.pp.ua/"
+      "https://02ch.in/all/",
+      "https://buttflaps.pp.ua/all/"
     ],
     "language": [
       "ru"
@@ -72,7 +72,7 @@
   {
     "name": "1chan.us",
     "url": [
-      "https://1chan.us/"
+      "https://1chan.us/board.html"
     ],
     "language": [
       "en"
@@ -345,7 +345,7 @@
   {
     "name": "8chan",
     "url": [
-      "https://8ch.net/"
+      "https://8ch.net/index.html"
     ],
     "language": [
       "en"
@@ -641,7 +641,7 @@
   {
     "name": "Boxxy",
     "url": [
-      "http://chan.catiewayne.com/"
+      "http://chan.catiewayne.com/b/"
     ],
     "language": [
       "en"
@@ -1077,7 +1077,7 @@
   {
     "name": "Ernstchan",
     "url": [
-      "https://ernstchan.com/"
+      "https://ernstchan.com/b/"
     ],
     "language": [
       "de"
@@ -1102,7 +1102,7 @@
   {
     "name": "Everypony",
     "url": [
-      "https://board.everypony.ru/"
+      "https://board.everypony.ru/pony/"
     ],
     "language": [
       "ru"
@@ -1660,7 +1660,7 @@
   {
     "name": "Lukas Engelhardt",
     "url": [
-      "http://lukasengelhardt.net/"
+      "http://lukasengelhardt.net/work/"
     ],
     "language": [
       "en"
