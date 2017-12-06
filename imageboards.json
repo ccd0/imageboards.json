@@ -39,23 +39,6 @@
     ]
   },
   {
-    "name": "Azuchan",
-    "url": [
-      "http://azuchan.ml/",
-      "http://azuchan.cf/",
-      "http://azuchan.pp.ua/",
-      "http://2-ch.ml/",
-      "http://0chan.cf/"
-    ],
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "0chan.hk",
     "url": [
       "https://0chan.hk/"
@@ -574,6 +557,23 @@
     ],
     "language": [
       "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
+    "name": "Azuchan",
+    "url": [
+      "http://azuchan.ml/",
+      "http://azuchan.cf/",
+      "http://azuchan.pp.ua/",
+      "http://2-ch.ml/",
+      "http://0chan.cf/"
+    ],
+    "language": [
+      "ru"
     ],
     "software": [
       "tinyboard",
