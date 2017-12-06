@@ -166,6 +166,9 @@
     "software": [
       "haruko",
       "mitsuba"
+    ],
+    "boardlist": [
+      "https://www.314chan.org/boards.json"
     ]
   },
   {
@@ -282,6 +285,9 @@
       "futaba",
       "futallaby",
       "yotsuba"
+    ],
+    "boardlist": [
+      "https://a.4cdn.org/boards.json"
     ]
   },
   {
@@ -355,6 +361,9 @@
       "vichan",
       "infinity",
       "openib"
+    ],
+    "boardlist": [
+      "https://8ch.net/boards.json"
     ]
   },
   {
@@ -371,6 +380,9 @@
       "vichan",
       "infinity",
       "8ch.pl"
+    ],
+    "boardlist": [
+      "https://8ch.pl/boards.json"
     ]
   },
   {
@@ -1051,6 +1063,9 @@
     ],
     "software": [
       "makaba"
+    ],
+    "boardlist": [
+      "https://2ch.hk/boards.json"
     ]
   },
   {
@@ -1273,6 +1288,9 @@
     ],
     "software": [
       "gochan"
+    ],
+    "boardlist": [
+      "https://gochan.lunachan.net/boards.json"
     ]
   },
   {
@@ -1646,6 +1664,9 @@
     "software": [
       "tinyboard",
       "vichan"
+    ],
+    "boardlist": [
+      "https://lolifox.org/boards.json"
     ]
   },
   {
