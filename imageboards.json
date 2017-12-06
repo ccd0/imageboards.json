@@ -39,8 +39,12 @@
     ]
   },
   {
-    "name": "0chan.cf",
+    "name": "Azuchan",
     "url": [
+      "http://azuchan.ml/",
+      "http://azuchan.cf/",
+      "http://azuchan.pp.ua/",
+      "http://2-ch.ml/",
       "http://0chan.cf/"
     ],
     "language": [
