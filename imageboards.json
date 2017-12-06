@@ -371,6 +371,22 @@
     ]
   },
   {
+    "name": "8ch.pl",
+    "url": [
+      "https://8ch.pl/",
+      "https://vichan.net/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "infinity",
+      "8ch.pl"
+    ]
+  },
+  {
     "name": "9231chan",
     "url": [
       "http://casemap.x10host.com/vichan-master/"
@@ -2727,6 +2743,19 @@
     "name": "Uboachan",
     "url": [
       "https://uboachan.net/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
+    "name": "vichan support",
+    "url": [
+      "https://engine.vichan.net/support/"
     ],
     "language": [
       "en"
