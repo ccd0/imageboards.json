@@ -1976,6 +1976,19 @@
     ]
   },
   {
+    "name": "nntpchan chan",
+    "url": [
+      "http://ev7fnjzjdbtu3miq.onion/",
+      "http://emvykufthqjgudpldo7tj26j57z4q2b6at6vmrfo6jxnvozmultq.b32.i2p/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "nntpchan"
+    ]
+  },
+  {
     "name": "Nostromo",
     "url": [
       "http://nostromo.nu/"
