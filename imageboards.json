@@ -1165,18 +1165,6 @@
     ]
   },
   {
-    "name": "Freechan",
-    "url": [
-      "http://freech.net/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ]
-  },
-  {
     "name": "Fuck Yeah Imageboard",
     "url": [
       "http://fyib.uselessirc.net/"
