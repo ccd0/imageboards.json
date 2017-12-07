@@ -2,8 +2,11 @@
   {
     "name": "02ch",
     "url": [
-      "https://02ch.in/all/",
-      "https://buttflaps.pp.ua/all/"
+      "https://02ch.in/all/"
+    ],
+    "mirrors": [
+      "https://02ch.in/",
+      "https://buttflaps.pp.ua/"
     ],
     "language": [
       "ru"
@@ -139,6 +142,9 @@
   {
     "name": "2--ch",
     "url": [
+      "https://2--ch.ru/"
+    ],
+    "mirrors": [
       "https://2--ch.ru/",
       "https://2-ch.su/"
     ],
@@ -360,8 +366,11 @@
   {
     "name": "8chan",
     "url": [
-      "https://8ch.net/index.html",
-      "http://oxwugzccvk3dk6tj.onion/index.html"
+      "https://8ch.net/index.html"
+    ],
+    "mirrors": [
+      "https://8ch.net/",
+      "http://oxwugzccvk3dk6tj.onion/"
     ],
     "language": [
       "en"
@@ -377,6 +386,9 @@
   {
     "name": "8ch.pl",
     "url": [
+      "https://8ch.pl/"
+    ],
+    "mirrors": [
       "https://8ch.pl/",
       "https://vichan.net/"
     ],
@@ -493,6 +505,9 @@
   {
     "name": "Anon-IB",
     "url": [
+      "http://anon-ib.su/"
+    ],
+    "mirrors": [
       "http://anon-ib.su/",
       "http://anon-ib.la/",
       "http://anon-ib.co/",
@@ -586,6 +601,9 @@
   {
     "name": "Azuchan",
     "url": [
+      "http://azuchan.ml/"
+    ],
+    "mirrors": [
       "http://azuchan.ml/",
       "http://azuchan.cf/",
       "http://azuchan.pp.ua/",
@@ -957,6 +975,9 @@
   {
     "name": "Desuchan",
     "url": [
+      "http://desuchan.net/"
+    ],
+    "mirrors": [
       "http://desuchan.net/",
       "http://desuchan.moe/"
     ],
@@ -1090,6 +1111,9 @@
   {
     "name": "Endchan",
     "url": [
+      "https://endchan.xyz/"
+    ],
+    "mirrors": [
       "https://endchan.xyz/",
       "https://endchan.net/",
       "http://endchan5doxvprs5.onion/",
@@ -2056,6 +2080,9 @@
   {
     "name": "nntpchan chan",
     "url": [
+      "http://ev7fnjzjdbtu3miq.onion/"
+    ],
+    "mirrors": [
       "http://ev7fnjzjdbtu3miq.onion/",
       "http://emvykufthqjgudpldo7tj26j57z4q2b6at6vmrfo6jxnvozmultq.b32.i2p/"
     ],
