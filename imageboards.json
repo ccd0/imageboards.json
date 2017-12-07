@@ -191,6 +191,9 @@
     ],
     "software": [
       "lynxchan"
+    ],
+    "boardlist": [
+      "https://32ch.org/index.json"
     ]
   },
   {
@@ -447,6 +450,9 @@
     ],
     "software": [
       "lynxchan"
+    ],
+    "boardlist": [
+      "https://ae-chan.org/index.json"
     ]
   },
   {
@@ -509,6 +515,9 @@
     ],
     "software": [
       "lynxchan"
+    ],
+    "boardlist": [
+      "https://antichan.org/index.json"
     ]
   },
   {
@@ -718,6 +727,9 @@
     ],
     "software": [
       "lynxchan"
+    ],
+    "boardlist": [
+      "http://bunkerchan.xyz/index.json"
     ]
   },
   {
@@ -814,6 +826,9 @@
     ],
     "software": [
       "lynxchan"
+    ],
+    "boardlist": [
+      "https://chan.today/index.json"
     ]
   },
   {
@@ -863,6 +878,9 @@
     ],
     "software": [
       "lynxchan"
+    ],
+    "boardlist": [
+      "http://christchan.is/index.json"
     ]
   },
   {
@@ -1087,6 +1105,9 @@
     ],
     "software": [
       "lynxchan"
+    ],
+    "boardlist": [
+      "https://endchan.xyz/index.json"
     ]
   },
   {
@@ -1700,6 +1721,9 @@
     ],
     "software": [
       "lynxchan"
+    ],
+    "boardlist": [
+      "http://lynxhub.com/index.json"
     ]
   },
   {
@@ -1807,6 +1831,9 @@
     ],
     "software": [
       "lynxchan"
+    ],
+    "boardlist": [
+      "https://mewch.net/index.json"
     ]
   },
   {
@@ -2303,6 +2330,9 @@
     ],
     "software": [
       "lynxchan"
+    ],
+    "boardlist": [
+      "https://ronery.me/index.json"
     ]
   },
   {
@@ -2447,6 +2477,9 @@
     ],
     "software": [
       "lynxchan"
+    ],
+    "boardlist": [
+      "https://spacechan.xyz/index.json"
     ]
   },
   {
