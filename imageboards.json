@@ -1086,7 +1086,8 @@
       "en"
     ],
     "software": [
-      "lynxchan"
+      "lynxchan",
+      "infinitynow"
     ],
     "boardlist": "https://endchan.xyz/index.json"
   },
