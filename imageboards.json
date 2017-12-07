@@ -167,9 +167,7 @@
       "haruko",
       "mitsuba"
     ],
-    "boardlist": [
-      "https://www.314chan.org/boards.json"
-    ]
+    "boardlist": "https://www.314chan.org/boards.json"
   },
   {
     "name": "314n",
@@ -192,9 +190,7 @@
     "software": [
       "lynxchan"
     ],
-    "boardlist": [
-      "https://32ch.org/index.json"
-    ]
+    "boardlist": "https://32ch.org/index.json"
   },
   {
     "name": "370chan",
@@ -289,9 +285,7 @@
       "futallaby",
       "yotsuba"
     ],
-    "boardlist": [
-      "https://a.4cdn.org/boards.json"
-    ]
+    "boardlist": "https://a.4cdn.org/boards.json"
   },
   {
     "name": "4chan House",
@@ -366,9 +360,7 @@
       "infinity",
       "openib"
     ],
-    "boardlist": [
-      "https://8ch.net/boards.json"
-    ]
+    "boardlist": "https://8ch.net/boards.json"
   },
   {
     "name": "8ch.pl",
@@ -385,9 +377,7 @@
       "infinity",
       "8ch.pl"
     ],
-    "boardlist": [
-      "https://8ch.pl/boards.json"
-    ]
+    "boardlist": "https://8ch.pl/boards.json"
   },
   {
     "name": "9231chan",
@@ -452,9 +442,7 @@
     "software": [
       "lynxchan"
     ],
-    "boardlist": [
-      "https://ae-chan.org/index.json"
-    ]
+    "boardlist": "https://ae-chan.org/index.json"
   },
   {
     "name": "Allchan",
@@ -517,9 +505,7 @@
     "software": [
       "lynxchan"
     ],
-    "boardlist": [
-      "https://antichan.org/index.json"
-    ]
+    "boardlist": "https://antichan.org/index.json"
   },
   {
     "name": "Apachan",
@@ -729,9 +715,7 @@
     "software": [
       "lynxchan"
     ],
-    "boardlist": [
-      "http://bunkerchan.xyz/index.json"
-    ]
+    "boardlist": "http://bunkerchan.xyz/index.json"
   },
   {
     "name": "Cable6",
@@ -828,9 +812,7 @@
     "software": [
       "lynxchan"
     ],
-    "boardlist": [
-      "https://chan.today/index.json"
-    ]
+    "boardlist": "https://chan.today/index.json"
   },
   {
     "name": "Chanweb",
@@ -880,9 +862,7 @@
     "software": [
       "lynxchan"
     ],
-    "boardlist": [
-      "http://christchan.is/index.json"
-    ]
+    "boardlist": "http://christchan.is/index.json"
   },
   {
     "name": "Cirno",
@@ -1083,9 +1063,7 @@
     "software": [
       "makaba"
     ],
-    "boardlist": [
-      "https://2ch.hk/boards.json"
-    ]
+    "boardlist": "https://2ch.hk/boards.json"
   },
   {
     "name": "Einchan",
@@ -1107,9 +1085,7 @@
     "software": [
       "lynxchan"
     ],
-    "boardlist": [
-      "https://endchan.xyz/index.json"
-    ]
+    "boardlist": "https://endchan.xyz/index.json"
   },
   {
     "name": "Ernstchan",
@@ -1299,9 +1275,7 @@
     "software": [
       "gochan"
     ],
-    "boardlist": [
-      "https://gochan.lunachan.net/boards.json"
-    ]
+    "boardlist": "https://gochan.lunachan.net/boards.json"
   },
   {
     "name": "Gurochan",
@@ -1675,9 +1649,7 @@
       "tinyboard",
       "vichan"
     ],
-    "boardlist": [
-      "https://lolifox.org/boards.json"
-    ]
+    "boardlist": "https://lolifox.org/boards.json"
   },
   {
     "name": "Lolnada",
@@ -1723,9 +1695,7 @@
     "software": [
       "lynxchan"
     ],
-    "boardlist": [
-      "http://lynxhub.com/index.json"
-    ]
+    "boardlist": "http://lynxhub.com/index.json"
   },
   {
     "name": "Macrochan",
@@ -1833,9 +1803,7 @@
     "software": [
       "lynxchan"
     ],
-    "boardlist": [
-      "https://mewch.net/index.json"
-    ]
+    "boardlist": "https://mewch.net/index.json"
   },
   {
     "name": "mitchan",
@@ -2031,9 +1999,7 @@
     "software": [
       "nntpchan"
     ],
-    "boardlist": [
-      "http://ev7fnjzjdbtu3miq.onion/boards.json"
-    ]
+    "boardlist": "http://ev7fnjzjdbtu3miq.onion/boards.json"
   },
   {
     "name": "Nostromo",
@@ -2335,9 +2301,7 @@
     "software": [
       "lynxchan"
     ],
-    "boardlist": [
-      "https://ronery.me/index.json"
-    ]
+    "boardlist": "https://ronery.me/index.json"
   },
   {
     "name": "ROTRBC",
@@ -2482,9 +2446,7 @@
     "software": [
       "lynxchan"
     ],
-    "boardlist": [
-      "https://spacechan.xyz/index.json"
-    ]
+    "boardlist": "https://spacechan.xyz/index.json"
   },
   {
     "name": "Stephanielove",
