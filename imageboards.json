@@ -57,6 +57,18 @@
     ]
   },
   {
+    "name": "1500chan",
+    "url": [
+      "https://1500chan.org"
+    ],
+    "language": [
+      "pt"
+    ],
+    "software": [
+      "kusaba"
+    ]
+  },
+  {
     "name": "1chan",
     "url": [
       "https://www.1chan.net/rail/"
@@ -945,7 +957,8 @@
   {
     "name": "Desuchan",
     "url": [
-      "http://desuchan.net/"
+      "http://desuchan.net/",
+      "http://desuchan.moe/"
     ],
     "language": [
       "en"
@@ -1525,6 +1538,18 @@
     ]
   },
   {
+    "name": "Kotchan",
+    "url": [
+      "https://kotchan.org/chat/home"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "livechan"
+    ]
+  },
+  {
     "name": "Krautchan",
     "url": [
       "https://www.krautchan.net/"
@@ -1642,6 +1667,18 @@
     ]
   },
   {
+    "name": "Lolcow",
+    "url": [
+      "https://lolcow.farm/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard"
+    ]
+  },
+  {
     "name": "Lolifox",
     "url": [
       "https://lolifox.org/"
@@ -1735,6 +1772,19 @@
     ],
     "software": [
       "wakaba"
+    ]
+  },
+  {
+    "name": "MagicChan",
+    "url": [
+      "https://www.magicchan.org/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
@@ -1950,6 +2000,18 @@
     "software": [
       "tinyboard",
       "vichan"
+    ]
+  },
+  {
+    "name": "NeXTCHAN",
+    "url": [
+      "https://nextchan.org/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "blazechan"
     ]
   },
   {
@@ -2171,7 +2233,7 @@
   {
     "name": "plus4chan",
     "url": [
-      "http://www.plus4chan.org/"
+      "http://boards.plus4chan.net/baw/"
     ],
     "language": [
       "en"
@@ -2440,6 +2502,18 @@
     ]
   },
   {
+    "name": "smuglo.li",
+    "url": [
+      "https://smuglo.li/a/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "infinity"
+    ]
+  },
+  {
     "name": "SpaceChan",
     "url": [
       "https://spacechan.xyz/"
@@ -2522,6 +2596,19 @@
     ],
     "software": [
       "doushio"
+    ]
+  },
+  {
+    "name": "Tempcow",
+    "url": [
+      "https://temp.lolcow.farm/all/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "doushio",
+      "meguca"
     ]
   },
   {
@@ -2840,6 +2927,18 @@
     "software": [
       "tinyboard",
       "vichan"
+    ]
+  },
+  {
+    "name": "Wilchan",
+    "url": [
+      "https://wilchan.org/"
+    ],
+    "language": [
+      "pl"
+    ],
+    "software": [
+      "tinyboard"
     ]
   },
   {
