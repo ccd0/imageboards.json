@@ -354,7 +354,8 @@
   {
     "name": "8chan",
     "url": [
-      "https://8ch.net/index.html"
+      "https://8ch.net/index.html",
+      "http://oxwugzccvk3dk6tj.onion/index.html"
     ],
     "language": [
       "en"
@@ -366,7 +367,8 @@
       "openib"
     ],
     "boardlist": [
-      "https://8ch.net/boards.json"
+      "https://8ch.net/boards.json",
+      "http://oxwugzccvk3dk6tj.onion/boards.json"
     ]
   },
   {
