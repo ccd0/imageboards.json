@@ -367,8 +367,7 @@
       "openib"
     ],
     "boardlist": [
-      "https://8ch.net/boards.json",
-      "http://oxwugzccvk3dk6tj.onion/boards.json"
+      "https://8ch.net/boards.json"
     ]
   },
   {
@@ -2033,8 +2032,7 @@
       "nntpchan"
     ],
     "boardlist": [
-      "http://ev7fnjzjdbtu3miq.onion/boards.json",
-      "http://emvykufthqjgudpldo7tj26j57z4q2b6at6vmrfo6jxnvozmultq.b32.i2p/boards.json"
+      "http://ev7fnjzjdbtu3miq.onion/boards.json"
     ]
   },
   {
