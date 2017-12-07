@@ -173,8 +173,7 @@
     ],
     "software": [
       "lynxchan"
-    ],
-    "boardlist": "https://32ch.org/index.json"
+    ]
   },
   {
     "name": "370chan",
@@ -628,8 +627,7 @@
     ],
     "software": [
       "lynxchan"
-    ],
-    "boardlist": "http://bunkerchan.xyz/index.json"
+    ]
   },
   {
     "name": "Cable6",
@@ -1582,8 +1580,7 @@
     ],
     "software": [
       "lynxchan"
-    ],
-    "boardlist": "https://mewch.net/index.json"
+    ]
   },
   {
     "name": "mitchan",
