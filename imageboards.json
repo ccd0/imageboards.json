@@ -7,6 +7,20 @@
     ]
   },
   {
+    "name": "まったり村",
+    "url": "http://kenken.chu.jp/matutari/index.html",
+    "language": [
+      "ja"
+    ]
+  },
+  {
+    "name": "大人タイムズ",
+    "url": "http://www.otona-times.com/top.html",
+    "language": [
+      "ja"
+    ]
+  },
+  {
     "name": "02ch",
     "url": "https://02ch.in/all/",
     "mirrors": [
@@ -47,6 +61,18 @@
     "url": "https://0chan.hk/",
     "language": [
       "ru"
+    ]
+  },
+  {
+    "name": "100chan",
+    "url": "http://100chan.cookiethievery.com/b/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby"
     ]
   },
   {
@@ -206,6 +232,13 @@
     "software": [
       "tinyboard",
       "vichan"
+    ]
+  },
+  {
+    "name": "4отаку",
+    "url": "http://old.4otaku.org/board",
+    "language": [
+      "ru"
     ]
   },
   {
@@ -435,6 +468,18 @@
     ]
   },
   {
+    "name": "AnonAmp",
+    "url": "https://anonamp.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby"
+    ]
+  },
+  {
     "name": "Anon-IB",
     "url": "http://anon-ib.su/",
     "mirrors": [
@@ -467,6 +512,16 @@
     "url": "https://apachan.net/",
     "language": [
       "ru"
+    ]
+  },
+  {
+    "name": "Apokalauta",
+    "url": "http://www.apokalauta.org/",
+    "language": [
+      "fi"
+    ],
+    "software": [
+      "kusaba"
     ]
   },
   {
@@ -503,6 +558,27 @@
       "futaba",
       "futallaby",
       "wakarimasen"
+    ]
+  },
+  {
+    "name": "AwsumChan",
+    "url": "https://awsumchan.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
+    "name": "Ayarane Project",
+    "url": "https://board.layer-infinity.net/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "wakaba"
     ]
   },
   {
@@ -553,6 +629,16 @@
     ]
   },
   {
+    "name": "Belchan",
+    "url": "https://belchan.org/",
+    "language": [
+      "be"
+    ],
+    "software": [
+      "kusaba"
+    ]
+  },
+  {
     "name": "Bienvenido a Internet",
     "url": "https://bienvenidoainternet.org/",
     "language": [
@@ -570,6 +656,13 @@
     ],
     "software": [
       "kusaba"
+    ]
+  },
+  {
+    "name": "BnW",
+    "url": "https://bnw.im/",
+    "language": [
+      "ru"
     ]
   },
   {
@@ -638,6 +731,19 @@
     ],
     "software": [
       "lynxchan"
+    ]
+  },
+  {
+    "name": "Cвинг Борда",
+    "url": "http://board.sw-club.ru/",
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby",
+      "tinyib"
     ]
   },
   {
@@ -904,6 +1010,16 @@
     ]
   },
   {
+    "name": "DINOAIDS BBS",
+    "url": "http://www.dinoaids.com/bbs/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "kareha"
+    ]
+  },
+  {
     "name": "Diochan",
     "url": "https://www.diochan.com/",
     "language": [
@@ -1123,6 +1239,13 @@
     "software": [
       "tinyboard",
       "vichan"
+    ]
+  },
+  {
+    "name": "GeminiChan",
+    "url": "http://upload.geminight.com/",
+    "language": [
+      "zh"
     ]
   },
   {
@@ -1358,6 +1481,16 @@
     ]
   },
   {
+    "name": "JChan",
+    "url": "http://picchan.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "kusaba"
+    ]
+  },
+  {
     "name": "JoyfulNote",
     "url": "http://www.kent-web.com/bbs/joyful/joyful.cgi",
     "language": [
@@ -1375,6 +1508,18 @@
     ],
     "software": [
       "overmind"
+    ]
+  },
+  {
+    "name": "KlinChan",
+    "url": "http://klinchan.net/",
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby"
     ]
   },
   {
@@ -1659,6 +1804,13 @@
     ]
   },
   {
+    "name": "Meiwa Suisan",
+    "url": "http://www.meiwasuisan.com/frame/",
+    "language": [
+      "ja"
+    ]
+  },
+  {
     "name": "Merorin",
     "url": "https://merorin.com/jp/",
     "language": [
@@ -1757,6 +1909,13 @@
       "futaba",
       "futallaby",
       "tinyib"
+    ]
+  },
+  {
+    "name": "Motherless",
+    "url": "http://motherless.com/boards/",
+    "language": [
+      "en"
     ]
   },
   {
@@ -1887,6 +2046,16 @@
     ]
   },
   {
+    "name": "NiuChan",
+    "url": "http://niuchan.org/",
+    "language": [
+      "it"
+    ],
+    "software": [
+      "kusaba"
+    ]
+  },
+  {
     "name": "nntpchan chan",
     "url": "http://ev7fnjzjdbtu3miq.onion/",
     "mirrors": [
@@ -1939,6 +2108,17 @@
     "url": "https://no-you.com/jp/",
     "language": [
       "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
+    "name": "Nyymichan",
+    "url": "https://nyymichan.fi/",
+    "language": [
+      "fi"
     ],
     "software": [
       "tinyboard",
@@ -2060,6 +2240,26 @@
     ]
   },
   {
+    "name": "polycancer.org",
+    "url": "https://polycancer.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby",
+      "tinyib"
+    ]
+  },
+  {
+    "name": "Ponilauta",
+    "url": "http://ponilauta.fi/",
+    "language": [
+      "fi"
+    ]
+  },
+  {
     "name": "Ponyach",
     "url": "https://ponyach.ru/b/",
     "language": [
@@ -2075,6 +2275,23 @@
     "software": [
       "tinyboard",
       "ponychan"
+    ]
+  },
+  {
+    "name": "porn chan",
+    "url": "http://porn-chan.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "pyib"
+    ]
+  },
+  {
+    "name": "Post Office Photoboard",
+    "url": "http://afternoon.dynu.com/photo.html",
+    "language": [
+      "en"
     ]
   },
   {
@@ -2107,6 +2324,16 @@
     ],
     "software": [
       "tinybbs"
+    ]
+  },
+  {
+    "name": "qchan",
+    "url": "http://qchan.dyndns.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "kusaba"
     ]
   },
   {
@@ -2539,6 +2766,16 @@
     ]
   },
   {
+    "name": "Trzeciszan",
+    "url": "http://1488chan.web44.net/",
+    "language": [
+      "pl"
+    ],
+    "software": [
+      "kusaba"
+    ]
+  },
+  {
     "name": "TSUKI Underground Boards",
     "url": "http://tsukiunderground.x10.mx/boards/",
     "language": [
@@ -2593,6 +2830,16 @@
     "software": [
       "tinyboard",
       "vichan"
+    ]
+  },
+  {
+    "name": "ViejuCHAN",
+    "url": "http://chan.vieju.net/",
+    "language": [
+      "es"
+    ],
+    "software": [
+      "wakaba"
     ]
   },
   {
@@ -2665,6 +2912,16 @@
     ],
     "software": [
       "tinyboard"
+    ]
+  },
+  {
+    "name": "wirechan",
+    "url": "https://wirechan.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "iikoto"
     ]
   },
   {
