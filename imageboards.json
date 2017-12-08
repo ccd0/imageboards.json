@@ -1294,6 +1294,16 @@
     ]
   },
   {
+    "name": "JoyfulNote",
+    "url": "http://www.kent-web.com/bbs/joyful/joyful.cgi",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "joyfulnote"
+    ]
+  },
+  {
     "name": "Kanal4",
     "url": "http://www.kanal4.org/",
     "language": [
@@ -2424,6 +2434,16 @@
     "software": [
       "tinyboard",
       "vichan"
+    ]
+  },
+  {
+    "name": "uchan demo",
+    "url": "https://uchan.plebco.de/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "uchan"
     ]
   },
   {
