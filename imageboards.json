@@ -2220,6 +2220,17 @@
     ]
   },
   {
+    "name": "Textchan",
+    "url": "https://www.textchan.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "wakaba",
+      "wakaba++"
+    ]
+  },
+  {
     "name": "TF2chan",
     "url": "http://tf2chan.net/",
     "language": [
