@@ -108,6 +108,10 @@
   {
     "name": "2cat",
     "url": "http://2cat.ml/",
+    "mirrors": [
+      "http://2cat.ml/",
+      "http://2cat.twbbs.org/"
+    ],
     "language": [
       "zh"
     ],
