@@ -821,10 +821,10 @@
   },
   {
     "name": "Desuchan",
-    "url": "http://desuchan.net/",
+    "url": "http://desuchan.moe/",
     "mirrors": [
-      "http://desuchan.net/",
-      "http://desuchan.moe/"
+      "http://desuchan.moe/",
+      "http://desuchan.net/"
     ],
     "language": [
       "en"
