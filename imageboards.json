@@ -1090,6 +1090,17 @@
     ]
   },
   {
+    "name": "GHOUL",
+    "url": "https://laghouls.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinybbs",
+      "minibbs"
+    ]
+  },
+  {
     "name": "GlauChan",
     "url": "https://www.glauchan.org/",
     "language": [
@@ -1595,6 +1606,16 @@
     ]
   },
   {
+    "name": "Minichan",
+    "url": "https://minichan.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinybbs"
+    ]
+  },
+  {
     "name": "mitchan",
     "url": "http://mitchan.org/",
     "language": [
@@ -1969,6 +1990,16 @@
     "software": [
       "tinyboard",
       "vichan"
+    ]
+  },
+  {
+    "name": "Punychan",
+    "url": "http://punychan.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinybbs"
     ]
   },
   {
