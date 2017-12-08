@@ -223,6 +223,16 @@
     ]
   },
   {
+    "name": "4-ch",
+    "url": "http://4-ch.net/img/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "wakaba"
+    ]
+  },
+  {
     "name": "4ch",
     "url": "http://4ch.mooo.com/+4/",
     "language": [
@@ -234,16 +244,6 @@
       "futaba",
       "pixmicat",
       "yotsubanome"
-    ]
-  },
-  {
-    "name": "4-ch",
-    "url": "http://4-ch.net/img/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "wakaba"
     ]
   },
   {
