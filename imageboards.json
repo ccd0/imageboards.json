@@ -945,13 +945,6 @@
     "boardlist": "https://2ch.hk/boards.json"
   },
   {
-    "name": "Einchan",
-    "url": "ssh://einchan:ein@104.238.215.7",
-    "language": [
-      "en"
-    ]
-  },
-  {
     "name": "Endchan",
     "url": "https://endchan.xyz/",
     "mirrors": [
