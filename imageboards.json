@@ -1851,6 +1851,16 @@
     ]
   },
   {
+    "name": "NiggerTalk",
+    "url": "http://niggertalk.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinybbs"
+    ]
+  },
+  {
     "name": "Nigrachan",
     "url": "http://www.nigrachan.org/",
     "language": [
