@@ -673,6 +673,16 @@
     ]
   },
   {
+    "name": "µchan demo",
+    "url": "https://uchan.plebco.de/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "uchan"
+    ]
+  },
+  {
     "name": "Chanon",
     "url": "https://chanon.ro/",
     "language": [
@@ -2551,16 +2561,6 @@
     "software": [
       "tinyboard",
       "vichan"
-    ]
-  },
-  {
-    "name": "µchan demo",
-    "url": "https://uchan.plebco.de/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "uchan"
     ]
   },
   {
