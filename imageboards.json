@@ -2292,6 +2292,19 @@
     ]
   },
   {
+    "name": "ticklechan",
+    "url": "http://ticklechan.biz/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby",
+      "tinyib"
+    ]
+  },
+  {
     "name": "TinyChan",
     "url": "https://tinychan.org/",
     "language": [
