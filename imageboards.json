@@ -1,5 +1,12 @@
 [
   {
+    "name": "Файно",
+    "url": "https://fajno.in/",
+    "language": [
+      "uk"
+    ]
+  },
+  {
     "name": "02ch",
     "url": "https://02ch.in/all/",
     "mirrors": [
@@ -1020,6 +1027,10 @@
   {
     "name": "Fapchan",
     "url": "https://fapchan.org/",
+    "mirrors": [
+      "https://fapchan.org/",
+      "http://newfapchan.hopto.org/"
+    ],
     "language": [
       "en"
     ],
