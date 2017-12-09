@@ -1,5 +1,12 @@
 [
   {
+    "name": "Дискурс",
+    "url": "https://discou.rs/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "Файно",
     "url": "https://fajno.in/",
     "language": [
@@ -64,6 +71,16 @@
     ]
   },
   {
+    "name": "0chan.ru.net",
+    "url": "http://0chan.ru.net/",
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "kusaba"
+    ]
+  },
+  {
     "name": "100chan",
     "url": "http://100chan.cookiethievery.com/b/",
     "language": [
@@ -101,6 +118,13 @@
     "software": [
       "tinyboard",
       "vichan"
+    ]
+  },
+  {
+    "name": "1chan.ca",
+    "url": "https://1chan.ca/news/",
+    "language": [
+      "ru"
     ]
   },
   {
@@ -166,6 +190,19 @@
     ]
   },
   {
+    "name": "2ch.rip",
+    "url": "https://2ch.rip/",
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby",
+      "pihaba"
+    ]
+  },
+  {
     "name": "2san",
     "url": "http://2san.org/",
     "language": [
@@ -180,6 +217,16 @@
     "url": "https://2so.ch/",
     "language": [
       "ru"
+    ]
+  },
+  {
+    "name": "2watch.su",
+    "url": "https://2watch.su/",
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "kusaba"
     ]
   },
   {
@@ -452,6 +499,13 @@
   {
     "name": "Alphachan",
     "url": "http://alphachan.org/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
+    "name": "Alterchan",
+    "url": "http://alterchan.in/",
     "language": [
       "ru"
     ]
@@ -1122,6 +1176,13 @@
     ]
   },
   {
+    "name": "Erlach",
+    "url": "https://erlach.co/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "Ernstchan",
     "url": "https://ernstchan.com/b/",
     "language": [
@@ -1587,6 +1648,13 @@
     ]
   },
   {
+    "name": "Kpop",
+    "url": "https://kpop.re/all/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "Krautchan",
     "url": "https://www.krautchan.net/",
     "language": [
@@ -1604,6 +1672,16 @@
     ],
     "software": [
       "tinyboard"
+    ]
+  },
+  {
+    "name": "Kurisu;Imageboard",
+    "url": "https://kurisa.ch/",
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "kusaba"
     ]
   },
   {
@@ -1894,6 +1972,16 @@
     ],
     "software": [
       "tinybbs"
+    ]
+  },
+  {
+    "name": "Miskatonic Channel",
+    "url": "https://m-ch.ml/",
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "wakaba"
     ]
   },
   {
@@ -2265,6 +2353,16 @@
     ]
   },
   {
+    "name": "OwlChan",
+    "url": "http://owlchan.ru/",
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "kusaba"
+    ]
+  },
+  {
     "name": "PirateBox",
     "url": "http://demo.piratebox.cc/board.html",
     "language": [
@@ -2456,6 +2554,16 @@
     ],
     "software": [
       "kusaba"
+    ]
+  },
+  {
+    "name": "Хайбане.ru",
+    "url": "https://haibane.ru/",
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "monaba"
     ]
   },
   {
@@ -2868,6 +2976,17 @@
       "futaba",
       "futallaby",
       "tinyib"
+    ]
+  },
+  {
+    "name": "Tumbach",
+    "url": "https://tumba.ch/",
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "ololord",
+      "tumbach"
     ]
   },
   {
