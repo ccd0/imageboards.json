@@ -1355,6 +1355,16 @@
     ]
   },
   {
+    "name": "heretyk.org",
+    "url": "http://heretyk.org/",
+    "language": [
+      "pl"
+    ],
+    "software": [
+      "kusaba"
+    ]
+  },
+  {
     "name": "Hikkichan",
     "url": "https://hikkichan.com/",
     "language": [
@@ -1530,6 +1540,16 @@
     ],
     "software": [
       "overmind"
+    ]
+  },
+  {
+    "name": "Kiwiszon",
+    "url": "https://kiwiszon.org/kusaba.php",
+    "language": [
+      "pl"
+    ],
+    "software": [
+      "kusaba"
     ]
   },
   {
@@ -2567,6 +2587,20 @@
       "lynxchan"
     ],
     "boardlist": "https://spacechan.xyz/index.json"
+  },
+  {
+    "name": "SrbijaChan",
+    "url": "https://srbijachan.org/",
+    "language": [
+      "sr",
+      "ru",
+      "en"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby"
+    ]
   },
   {
     "name": "Stephanielove",
