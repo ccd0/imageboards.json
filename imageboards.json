@@ -686,6 +686,18 @@
     ]
   },
   {
+    "name": "brchan",
+    "url": "https://www.brchan.org/",
+    "language": [
+      "pt",
+      "ru"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "britfa.gs",
     "url": "http://britfa.gs/",
     "language": [
@@ -1416,6 +1428,16 @@
     ]
   },
   {
+    "name": "iChan",
+    "url": "http://ichan.net/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "kusaba"
+    ]
+  },
+  {
     "name": "iichan",
     "url": "https://iichan.hk/",
     "language": [
@@ -1688,6 +1710,10 @@
   {
     "name": "Lolnada",
     "url": "https://lolnada.org/",
+    "mirrors": [
+      "https://lolnada.org/",
+      "https://pe-chan.org/"
+    ],
     "language": [
       "es"
     ]
@@ -1762,6 +1788,16 @@
     "software": [
       "tinyboard",
       "vichan"
+    ]
+  },
+  {
+    "name": "magyarchan",
+    "url": "https://magyarchan.net/",
+    "language": [
+      "hu"
+    ],
+    "software": [
+      "foolfuuka"
     ]
   },
   {
@@ -2798,6 +2834,13 @@
       "futaba",
       "futallaby",
       "tinyib"
+    ]
+  },
+  {
+    "name": "tuzach.in",
+    "url": "https://tuzach.in/",
+    "language": [
+      "ru"
     ]
   },
   {
