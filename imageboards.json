@@ -1107,6 +1107,17 @@
     ]
   },
   {
+    "name": "Dogolachan",
+    "url": "https://dogolachan.org/",
+    "language": [
+      "pt"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Doushio",
     "url": "https://doushio.com/moe/",
     "language": [
@@ -2574,6 +2585,16 @@
     ]
   },
   {
+    "name": "Salmãochan",
+    "url": "https://salmaochan.org/",
+    "language": [
+      "pt"
+    ],
+    "software": [
+      "kusaba"
+    ]
+  },
+  {
     "name": "Samachan",
     "url": "https://samachan.org/",
     "language": [
@@ -2628,6 +2649,17 @@
       "futaba",
       "futallaby",
       "tinyib"
+    ]
+  },
+  {
+    "name": "Sfc_han",
+    "url": "https://sfc.euamo.moe/jp/",
+    "language": [
+      "pt"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
