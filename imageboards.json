@@ -1699,18 +1699,6 @@
     ]
   },
   {
-    "name": "Lainsoc",
-    "url": "http://www.lainsoc.tk/urandom/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "arisuchan"
-    ]
-  },
-  {
     "name": "Lampa Chan",
     "url": "http://lampach.net/",
     "language": [
