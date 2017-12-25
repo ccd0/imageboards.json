@@ -2962,18 +2962,6 @@
     ]
   },
   {
-    "name": "TSUKI Underground Boards",
-    "url": "http://tsukiunderground.x10.mx/boards/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "lainchan"
-    ]
-  },
-  {
     "name": "TucsonChan",
     "url": "http://garyc.me/tucsonchan/",
     "language": [
