@@ -979,6 +979,16 @@
     ]
   },
   {
+    "name": "crystal.cafe",
+    "url": "https://crystal.cafe/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard"
+    ]
+  },
+  {
     "name": "DameIB",
     "url": "http://dameib.net/",
     "language": [
