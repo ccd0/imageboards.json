@@ -2675,6 +2675,16 @@
     ]
   },
   {
+    "name": "Sheepchan",
+    "url": "https://www.sheepchan.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ]
+  },
+  {
     "name": "Sibirchan",
     "url": "http://sibirchan.ru/",
     "language": [
