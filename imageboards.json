@@ -691,6 +691,17 @@
     ]
   },
   {
+    "name": "b0nr.com",
+    "url": "http://b0nr.com/casual/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "B3ta",
     "url": "http://www.b3ta.com/board/",
     "language": [
