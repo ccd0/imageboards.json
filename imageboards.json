@@ -370,11 +370,7 @@
   },
   {
     "name": "64 chan",
-    "url": "https://n64chan.me/",
-    "mirrors": [
-      "https://n64chan.me/",
-      "http://leb3rkvqzw2qd4dg.onion/"
-    ],
+    "url": "http://leb3rkvqzw2qd4dg.onion/",
     "language": [
       "en"
     ],
@@ -422,10 +418,10 @@
     "boardlist": "https://8ch.net/boards.json"
   },
   {
-    "name": "8chan.n64chan.me",
-    "url": "https://8chan.n64chan.me/",
+    "name": "n64chan.me",
+    "url": "https://n64chan.me/",
     "mirrors": [
-      "https://8chan.n64chan.me/",
+      "https://n64chan.me/",
       "http://8chan.leb3rkvqzw2qd4dg.onion/"
     ],
     "language": [
@@ -437,7 +433,7 @@
       "infinity",
       "openib"
     ],
-    "boardlist": "https://8chan.n64chan.me/boards.json"
+    "boardlist": "https://n64chan.me/boards.json"
   },
   {
     "name": "8ch.pl",
