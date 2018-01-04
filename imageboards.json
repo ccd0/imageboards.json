@@ -1809,6 +1809,10 @@
   {
     "name": "Lolifox",
     "url": "https://lolifox.org/",
+    "mirrors": [
+      "https://lolifox.org/",
+      "http://brchanansdnhvvnm.onion/"
+    ],
     "language": [
       "ru"
     ],
