@@ -3023,6 +3023,17 @@
     ]
   },
   {
+    "name": "TSUKICHAN",
+    "url": "https://boards.systemspace.network/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "TucsonChan",
     "url": "http://garyc.me/tucsonchan/",
     "language": [
