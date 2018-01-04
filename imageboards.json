@@ -408,24 +408,6 @@
     "boardlist": "https://8ch.net/boards.json"
   },
   {
-    "name": "n64chan.me",
-    "url": "https://n64chan.me/",
-    "mirrors": [
-      "https://n64chan.me/",
-      "http://8chan.leb3rkvqzw2qd4dg.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "infinity",
-      "openib"
-    ],
-    "boardlist": "https://n64chan.me/boards.json"
-  },
-  {
     "name": "8ch.pl",
     "url": "https://8ch.pl/",
     "mirrors": [
@@ -2114,6 +2096,24 @@
       "futaba",
       "pixmicat"
     ]
+  },
+  {
+    "name": "n64chan.me",
+    "url": "https://n64chan.me/",
+    "mirrors": [
+      "https://n64chan.me/",
+      "http://8chan.leb3rkvqzw2qd4dg.onion/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "infinity",
+      "openib"
+    ],
+    "boardlist": "https://n64chan.me/boards.json"
   },
   {
     "name": "nahC4",
