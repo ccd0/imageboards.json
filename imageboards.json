@@ -2297,6 +2297,17 @@
     ]
   },
   {
+    "name": "Nuclear-IB",
+    "url": "http://nuclear-ib.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Nyymichan",
     "url": "https://nyymichan.fi/",
     "language": [
@@ -2612,6 +2623,17 @@
     ],
     "software": [
       "kusaba"
+    ]
+  },
+  {
+    "name": "Salvaged Tech",
+    "url": "https://salvaged.tech/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
