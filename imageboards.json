@@ -359,35 +359,6 @@
     ]
   },
   {
-    "name": "n64chan",
-    "url": "https://n64chan.me/",
-    "mirrors": [
-      "https://n64chan.me/",
-      "http://8chan.leb3rkvqzw2qd4dg.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "infinity",
-      "openib"
-    ],
-    "boardlist": "https://n64chan.me/boards.json"
-  },
-  {
-    "name": "n64chan vichan",
-    "url": "http://leb3rkvqzw2qd4dg.onion/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "7chan",
     "url": "https://7chan.org/",
     "language": [
@@ -2128,6 +2099,35 @@
       "gazoubbs",
       "futaba",
       "pixmicat"
+    ]
+  },
+  {
+    "name": "n64chan",
+    "url": "https://n64chan.me/",
+    "mirrors": [
+      "https://n64chan.me/",
+      "http://8chan.leb3rkvqzw2qd4dg.onion/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "infinity",
+      "openib"
+    ],
+    "boardlist": "https://n64chan.me/boards.json"
+  },
+  {
+    "name": "n64chan vichan",
+    "url": "http://leb3rkvqzw2qd4dg.onion/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
