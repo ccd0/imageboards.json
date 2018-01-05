@@ -359,7 +359,7 @@
     ]
   },
   {
-    "name": "64chan",
+    "name": "n64chan",
     "url": "https://n64chan.me/",
     "mirrors": [
       "https://n64chan.me/",
@@ -377,7 +377,7 @@
     "boardlist": "https://n64chan.me/boards.json"
   },
   {
-    "name": "64chan vichan",
+    "name": "n64chan vichan",
     "url": "http://leb3rkvqzw2qd4dg.onion/",
     "language": [
       "en"
