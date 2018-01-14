@@ -1387,17 +1387,6 @@
     "boardlist": "https://gochan.lunachan.net/boards.json"
   },
   {
-    "name": "goonsaloon.com",
-    "url": "http://goonsaloon.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ],
-    "boardlist": "http://goonsaloon.com/index.json"
-  },
-  {
     "name": "Gurochan",
     "url": "https://www.gurochan.ch/",
     "language": [
