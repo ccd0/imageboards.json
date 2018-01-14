@@ -2102,8 +2102,12 @@
       "en"
     ],
     "software": [
-      "lynxchan"
-    ]
+      "tinyboard",
+      "vichan",
+      "infinity",
+      "openib"
+    ],
+    "boardlist": "https://n64chan.me/boards.json"
   },
   {
     "name": "n64chan vichan",
