@@ -2211,6 +2211,17 @@
     ]
   },
   {
+    "name": "nineball",
+    "url": "https://nineball.party/nap/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "doushio",
+      "meguca"
+    ]
+  },
+  {
     "name": "NiuChan",
     "url": "http://niuchan.org/",
     "language": [
