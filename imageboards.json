@@ -2189,6 +2189,17 @@
     "boardlist": "http://ev7fnjzjdbtu3miq.onion/boards.json"
   },
   {
+    "name": "nntpchan web.oniichan.onion",
+    "url": "http://jewsdid.oniichanylo2tsi4.onion/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "nntpchan"
+    ],
+    "boardlist": "http://jewsdid.oniichanylo2tsi4.onion/boards.json"
+  },
+  {
     "name": "Nostromo",
     "url": "http://nostromo.nu/",
     "language": [
