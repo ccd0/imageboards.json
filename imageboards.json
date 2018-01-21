@@ -2945,12 +2945,13 @@
   },
   {
     "name": "Touhouchan",
-    "url": "https://www.touhouchan.org/",
+    "url": "https://touhouchan.org/all/",
     "language": [
       "ru"
     ],
     "software": [
-      "wakaba"
+      "doushio",
+      "meguca"
     ]
   },
   {
