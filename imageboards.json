@@ -541,17 +541,6 @@
     ]
   },
   {
-    "name": "antichan",
-    "url": "https://antichan.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ],
-    "boardlist": "https://antichan.org/index.json"
-  },
-  {
     "name": "Apachan",
     "url": "https://apachan.net/",
     "language": [
@@ -942,17 +931,6 @@
     "language": [
       "en"
     ]
-  },
-  {
-    "name": "Christchan",
-    "url": "http://christchan.is/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ],
-    "boardlist": "http://christchan.is/index.json"
   },
   {
     "name": "Cirno",
@@ -2759,20 +2737,6 @@
     "boardlist": "https://spacechan.xyz/index.json"
   },
   {
-    "name": "SrbijaChan",
-    "url": "https://srbijachan.org/",
-    "language": [
-      "sr",
-      "ru",
-      "en"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "futallaby"
-    ]
-  },
-  {
     "name": "Stephanielove",
     "url": "http://stephanielove.96.lt/",
     "language": [
@@ -3098,16 +3062,6 @@
     ],
     "software": [
       "wakaba"
-    ]
-  },
-  {
-    "name": "Virginchan",
-    "url": "https://www.virginchan.org/b/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "foolfuuka"
     ]
   },
   {
