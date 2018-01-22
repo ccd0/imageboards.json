@@ -366,6 +366,18 @@
     ]
   },
   {
+    "name": "64chan",
+    "url": "https://n64chan.me/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "lainchan"
+    ]
+  },
+  {
     "name": "7chan",
     "url": "https://7chan.org/",
     "language": [
