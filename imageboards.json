@@ -368,6 +368,10 @@
   {
     "name": "64chan",
     "url": "https://n64chan.me/",
+    "mirrors": [
+      "https://n64chan.me/",
+      "http://leb3rkvqzw2qd4dg.onion/"
+    ],
     "language": [
       "en"
     ],
