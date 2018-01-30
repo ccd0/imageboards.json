@@ -1445,7 +1445,8 @@
     ],
     "software": [
       "tinyboard",
-      "vichan"
+      "vichan",
+      "fukuro"
     ]
   },
   {
