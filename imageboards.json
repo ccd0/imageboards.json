@@ -257,6 +257,17 @@
     ]
   },
   {
+    "name": "32chan",
+    "url": "https://32ch.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "370chan",
     "url": "https://370chan.lt/",
     "language": [
