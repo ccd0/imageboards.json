@@ -2476,10 +2476,13 @@
     ]
   },
   {
-    "name": "Post Office Photoboard",
-    "url": "http://afternoon.dynu.com/photo.html",
+    "name": "Post Office",
+    "url": "http://afternoon.dynu.com/",
     "language": [
       "en"
+    ],
+    "software": [
+      "emanon"
     ]
   },
   {
