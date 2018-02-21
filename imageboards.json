@@ -1153,6 +1153,10 @@
   {
     "name": "Dvachso",
     "url": "https://2ch.hk/",
+    "mirrors": [
+      "https://2ch.hk/",
+      "https://2ch.pm/"
+    ],
     "language": [
       "ru"
     ],
