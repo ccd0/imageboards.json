@@ -2027,6 +2027,19 @@
     ]
   },
   {
+    "name": "MMXchan",
+    "url": "http://mmxchan.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby",
+      "tinyib"
+    ]
+  },
+  {
     "name": "Mod Imageboard",
     "url": "http://www.modception.com/imageboard/",
     "language": [
