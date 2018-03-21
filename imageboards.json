@@ -3279,5 +3279,15 @@
     "software": [
       "kusaba"
     ]
+  },
+  {
+    "name": "ZUUL IB",
+    "url": "https://zuul.biner.xyz/index.html",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "kareha"
+    ]
   }
 ]
