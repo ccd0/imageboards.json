@@ -1631,6 +1631,17 @@
     ]
   },
   {
+    "name": "Kohlchan",
+    "url": "https://kohlchan.mooo.com/",
+    "language": [
+      "de"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Komica",
     "url": "http://web.komica.org/",
     "language": [
@@ -1657,6 +1668,17 @@
     "url": "https://kpop.re/all/",
     "language": [
       "ru"
+    ]
+  },
+  {
+    "name": "krautchan.cf",
+    "url": "https://krautchan.cf/cgi-bin/wakaba.html",
+    "language": [
+      "en",
+      "de"
+    ],
+    "software": [
+      "wakaba"
     ]
   },
   {
@@ -2151,6 +2173,16 @@
     "software": [
       "tinyboard",
       "vichan"
+    ]
+  },
+  {
+    "name": "Neuschwabenland",
+    "url": "https://neuschwabenland.net/",
+    "language": [
+      "de"
+    ],
+    "software": [
+      "kusaba"
     ]
   },
   {
