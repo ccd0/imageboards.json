@@ -263,8 +263,10 @@
       "en"
     ],
     "software": [
-      "lynxchan"
-    ]
+      "haruko",
+      "mitsuba"
+    ],
+    "boardlist": "https://32ch.org/boards.json"
   },
   {
     "name": "370chan",
