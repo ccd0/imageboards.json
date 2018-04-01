@@ -1681,6 +1681,18 @@
     ]
   },
   {
+    "name": "krautchan.co",
+    "url": "https://krautchan.co/alle/",
+    "language": [
+      "de",
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "kuchikukan.net",
     "url": "http://kuchikukan.net/Tinyboard/kc/index.html",
     "language": [
