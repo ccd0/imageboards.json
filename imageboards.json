@@ -1277,6 +1277,16 @@
     ]
   },
   {
+    "name": "Freech",
+    "url": "https://freech.nfshost.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ]
+  },
+  {
     "name": "Fuck Yeah Imageboard",
     "url": "http://fyib.uselessirc.net/",
     "language": [
