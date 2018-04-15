@@ -387,7 +387,7 @@
   },
   {
     "name": "64chan",
-    "url": "https://n64chan.me/",
+    "url": "https://n64chan.me/all/",
     "mirrors": [
       "https://n64chan.me/",
       "http://leb3rkvqzw2qd4dg.onion/"
@@ -396,9 +396,8 @@
       "en"
     ],
     "software": [
-      "tinyboard",
-      "vichan",
-      "lainchan"
+      "doushio",
+      "meguca"
     ]
   },
   {
