@@ -2282,32 +2282,6 @@
     ]
   },
   {
-    "name": "nntpchan chan",
-    "url": "http://ev7fnjzjdbtu3miq.onion/",
-    "mirrors": [
-      "http://ev7fnjzjdbtu3miq.onion/",
-      "http://emvykufthqjgudpldo7tj26j57z4q2b6at6vmrfo6jxnvozmultq.b32.i2p/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "nntpchan"
-    ],
-    "boardlist": "http://ev7fnjzjdbtu3miq.onion/boards.json"
-  },
-  {
-    "name": "nntpchan web.oniichan.onion",
-    "url": "http://jewsdid.oniichanylo2tsi4.onion/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "nntpchan"
-    ],
-    "boardlist": "http://jewsdid.oniichanylo2tsi4.onion/boards.json"
-  },
-  {
     "name": "Nostromo",
     "url": "http://nostromo.nu/",
     "language": [
