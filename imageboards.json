@@ -249,14 +249,6 @@
     "boardlist": "https://www.314chan.org/boards.json"
   },
   {
-    "name": "314n",
-    "url": "http://314n.org/",
-    "language": [
-      "ru",
-      "en"
-    ]
-  },
-  {
     "name": "32chan",
     "url": "https://32ch.org/",
     "language": [
@@ -694,17 +686,6 @@
     "url": "http://www.b3ta.com/board/",
     "language": [
       "en"
-    ]
-  },
-  {
-    "name": "Barachan",
-    "url": "http://boards.barachan.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
     ]
   },
   {
@@ -3264,17 +3245,6 @@
     "url": "https://ylilauta.org/",
     "language": [
       "fi"
-    ]
-  },
-  {
-    "name": "Yosko's Imageboard",
-    "url": "http://watermelon.yosko.net/",
-    "language": [
-      "fr",
-      "en"
-    ],
-    "software": [
-      "wakaba"
     ]
   },
   {
