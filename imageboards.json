@@ -1598,6 +1598,19 @@
     ]
   },
   {
+    "name": "kek.epizy.com",
+    "url": "http://kek.epizy.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby",
+      "tinyib"
+    ]
+  },
+  {
     "name": "Kiwiszon",
     "url": "https://kiwiszon.org/kusaba.php",
     "language": [
