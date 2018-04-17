@@ -689,6 +689,16 @@
     ]
   },
   {
+    "name": "Balls",
+    "url": "http://balls.jimboulter.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard"
+    ]
+  },
+  {
     "name": "Belchan",
     "url": "https://belchan.org/",
     "language": [
@@ -851,6 +861,18 @@
     ]
   },
   {
+    "name": "Catchan",
+    "url": "https://catchan.net/vichan/",
+    "language": [
+      "en",
+      "de"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "ccluster",
     "url": "https://ccluster.com/",
     "language": [
@@ -991,6 +1013,17 @@
     ]
   },
   {
+    "name": "cynet",
+    "url": "http://axiom.cafe/cynet/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Damp Land",
     "url": "http://danyburton.net/dampland/",
     "language": [
@@ -1110,6 +1143,29 @@
     ]
   },
   {
+    "name": "DokiDokiChan",
+    "url": "https://aimless.biz/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ]
+  },
+  {
+    "name": "dont.datamine.me",
+    "url": "http://dont.datamine.me/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "infinity",
+      "openib"
+    ]
+  },
+  {
     "name": "Doushio",
     "url": "https://doushio.com/moe/",
     "language": [
@@ -1153,6 +1209,16 @@
       "makaba"
     ],
     "boardlist": "https://2ch.hk/boards.json"
+  },
+  {
+    "name": "echan",
+    "url": "http://isabellanailbar.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ]
   },
   {
     "name": "Endchan",
@@ -2275,6 +2341,17 @@
     ]
   },
   {
+    "name": "Nobanchan",
+    "url": "http://nobanchan.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Nostromo",
     "url": "http://nostromo.nu/",
     "language": [
@@ -2565,6 +2642,17 @@
     ]
   },
   {
+    "name": "QuestChan",
+    "url": "https://questchan.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Reichan",
     "url": "http://rei-ayanami.net/",
     "language": [
@@ -2682,6 +2770,17 @@
     "software": [
       "doushio",
       "meguca"
+    ]
+  },
+  {
+    "name": "Scanchan",
+    "url": "http://www.scanchan.net/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
@@ -3029,6 +3128,17 @@
     ]
   },
   {
+    "name": "trchan",
+    "url": "https://www.trchan.org/",
+    "language": [
+      "tr"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Truth in our Time Chan",
     "url": "https://www.truthinourtime.com/chan/",
     "language": [
@@ -3203,6 +3313,17 @@
     ],
     "software": [
       "iikoto"
+    ]
+  },
+  {
+    "name": "wirechan",
+    "url": "https://wirechan.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
