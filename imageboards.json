@@ -1324,7 +1324,10 @@
   },
   {
     "name": "Freech",
-    "url": "https://freech.nfshost.com/",
+    "url": "https://freech.net/",
+    "mirrors": [
+      "https://freech.nfshost.com/"
+    ],
     "language": [
       "en"
     ],
