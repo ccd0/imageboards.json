@@ -1342,6 +1342,7 @@
     "name": "Freech",
     "url": "https://freech.net/",
     "mirrors": [
+      "https://freech.net/",
       "https://freech.nfshost.com/"
     ],
     "language": [
