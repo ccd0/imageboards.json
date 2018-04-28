@@ -1073,6 +1073,22 @@
     ]
   },
   {
+    "name": "desuchan.eu",
+    "url": "https://desuchan.eu/",
+    "mirrors": [
+      "https://desuchan.eu/",
+      "https://2chan.jp/"
+    ],
+    "language": [
+      "en",
+      "ja",
+      "de"
+    ],
+    "software": [
+      "wakaba"
+    ]
+  },
+  {
     "name": "DFwk",
     "url": "http://chuck.dfwk.ru/",
     "language": [
@@ -1547,6 +1563,16 @@
     "url": "https://horochan.ru/",
     "language": [
       "ru"
+    ]
+  },
+  {
+    "name": "howler.space",
+    "url": "https://howler.space/ncsu/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "doushio"
     ]
   },
   {
@@ -2965,6 +2991,16 @@
     ]
   },
   {
+    "name": "Taco Strait",
+    "url": "https://ts.thornbush.monarch-pass.net/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "kusaba"
+    ]
+  },
+  {
     "name": "Tea",
     "url": "https://chakai.org/tea/",
     "language": [
@@ -3338,6 +3374,16 @@
     "software": [
       "tinyboard",
       "vichan"
+    ]
+  },
+  {
+    "name": "Wonderchan",
+    "url": "http://wonderchan.wonderlandtranslations.net/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "kareha"
     ]
   },
   {
