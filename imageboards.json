@@ -1057,10 +1057,10 @@
   },
   {
     "name": "Desuchan",
-    "url": "http://desuchan.moe/",
+    "url": "https://desuchan.net/",
     "mirrors": [
-      "http://desuchan.moe/",
-      "http://desuchan.net/"
+      "https://desuchan.net/",
+      "http://desuchan.moe/"
     ],
     "language": [
       "en"
