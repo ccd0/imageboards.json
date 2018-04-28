@@ -1454,7 +1454,11 @@
   },
   {
     "name": "Gochan",
-    "url": "https://gochan.lunachan.net/",
+    "url": "https://gochan.org/",
+    "mirrors": [
+      "https://gochan.org/",
+      "https://gochan.lunachan.net/"
+    ],
     "language": [
       "en"
     ],
