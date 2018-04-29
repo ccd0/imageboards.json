@@ -553,23 +553,6 @@
     ]
   },
   {
-    "name": "Anon-IB",
-    "url": "http://anon-ib.su/",
-    "mirrors": [
-      "http://anon-ib.su/",
-      "http://anon-ib.la/",
-      "http://anon-ib.co/",
-      "http://anon-ib.ru/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "Apachan",
     "url": "https://apachan.net/",
     "language": [
@@ -2300,6 +2283,17 @@
     ],
     "software": [
       "kusaba"
+    ]
+  },
+  {
+    "name": "newchan.tk",
+    "url": "http://newchan.tk/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
