@@ -2919,6 +2919,8 @@
       "en"
     ],
     "software": [
+      "tinyboard",
+      "vichan",
       "infinity"
     ]
   },
