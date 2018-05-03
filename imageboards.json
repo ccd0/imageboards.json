@@ -663,13 +663,6 @@
     ]
   },
   {
-    "name": "B3ta",
-    "url": "http://www.b3ta.com/board/",
-    "language": [
-      "en"
-    ]
-  },
-  {
     "name": "Balls",
     "url": "http://balls.jimboulter.com/",
     "language": [
@@ -707,13 +700,6 @@
     ],
     "software": [
       "kusaba"
-    ]
-  },
-  {
-    "name": "BnW",
-    "url": "https://bnw.im/",
-    "language": [
-      "ru"
     ]
   },
   {
@@ -1870,13 +1856,6 @@
     ]
   },
   {
-    "name": "LNSOFT",
-    "url": "http://lnsoft.net/bbs/",
-    "language": [
-      "ja"
-    ]
-  },
-  {
     "name": "Lolchan",
     "url": "http://chandecarton.zz.mu/",
     "language": [
@@ -2967,13 +2946,6 @@
     "software": [
       "tinyboard",
       "vichan"
-    ]
-  },
-  {
-    "name": "Swfchan",
-    "url": "http://swfchan.org/",
-    "language": [
-      "en"
     ]
   },
   {
