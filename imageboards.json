@@ -171,11 +171,7 @@
   },
   {
     "name": "2cat",
-    "url": "http://2cat.ml/",
-    "mirrors": [
-      "http://2cat.ml/",
-      "http://2cat.twbbs.org/"
-    ],
+    "url": "http://2cat.cf/",
     "language": [
       "zh"
     ],
