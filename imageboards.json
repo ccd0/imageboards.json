@@ -3227,6 +3227,10 @@
   {
     "name": "Tumbach",
     "url": "https://tumba.ch/",
+    "mirrors": [
+      "https://tumba.ch/",
+      "http://tumbachegvyaadyq.onion/"
+    ],
     "language": [
       "ru"
     ],
