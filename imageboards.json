@@ -1423,17 +1423,6 @@
     ]
   },
   {
-    "name": "GlauChan",
-    "url": "https://www.glauchan.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "wakaba",
-      "glaukaba"
-    ]
-  },
-  {
     "name": "Gochan",
     "url": "https://gochan.org/",
     "mirrors": [
