@@ -1721,6 +1721,18 @@
     ]
   },
   {
+    "name": "Komica2",
+    "url": "https://komica2.net/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "pixmicat"
+    ]
+  },
+  {
     "name": "Kotchan",
     "url": "https://kotchan.org/chat/home",
     "language": [
