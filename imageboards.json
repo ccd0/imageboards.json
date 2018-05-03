@@ -1747,17 +1747,6 @@
     ]
   },
   {
-    "name": "krautchan.cf",
-    "url": "https://krautchan.cf/cgi-bin/wakaba.html",
-    "language": [
-      "en",
-      "de"
-    ],
-    "software": [
-      "wakaba"
-    ]
-  },
-  {
     "name": "krautchan.co",
     "url": "https://krautchan.co/alle/",
     "language": [
