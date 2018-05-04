@@ -206,6 +206,32 @@
     ]
   },
   {
+    "name": "2nee.org",
+    "url": "http://2nee.org/",
+    "mirrors": [
+      "http://2nee.org/",
+      "http://board.lulalala.com/"
+    ],
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "mei"
+    ]
+  },
+  {
+    "name": "2nyan.org",
+    "url": "http://2nyan.org/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "pixmicat"
+    ]
+  },
+  {
     "name": "2san",
     "url": "http://2san.org/",
     "language": [
@@ -477,6 +503,30 @@
     ]
   },
   {
+    "name": "acgmoe.com",
+    "url": "http://doujin2.acgmoe.com/board/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "pixmicat"
+    ]
+  },
+  {
+    "name": "ACGSpace",
+    "url": "http://acgspace.wsfun.com/kancolle/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "pixmicat"
+    ]
+  },
+  {
     "name": "Acrimonie",
     "url": "https://www.acrimonie.com/",
     "language": [
@@ -496,6 +546,18 @@
       "lynxchan"
     ],
     "boardlist": "https://ae-chan.org/index.json"
+  },
+  {
+    "name": "alica.dreamhosters.com",
+    "url": "http://alica.dreamhosters.com/screenshot/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "pixmicat"
+    ]
   },
   {
     "name": "Allchan",
@@ -522,6 +584,29 @@
     ]
   },
   {
+    "name": "anacel.com",
+    "url": "https://vi.anacel.com/fg/vichan/fg/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
+    "name": "anacel.com Pixmicat!",
+    "url": "http://futaba.anacel.com/figure/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "pixmicat"
+    ]
+  },
+  {
     "name": "Anoma",
     "url": "https://bbs.anoma.ch/",
     "language": [
@@ -542,6 +627,18 @@
       "gazoubbs",
       "futaba",
       "futallaby"
+    ]
+  },
+  {
+    "name": "anzuchang.com",
+    "url": "http://anzuchang.com/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "pixmicat"
     ]
   },
   {
@@ -699,6 +796,18 @@
     ]
   },
   {
+    "name": "boguspix.com",
+    "url": "https://storysol.boguspix.com/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "pixmicat"
+    ]
+  },
+  {
     "name": "Bounceme",
     "url": "http://195.242.99.71/",
     "language": [
@@ -735,6 +844,18 @@
     "url": "http://britfa.gs/",
     "language": [
       "en"
+    ]
+  },
+  {
+    "name": "broken.goodluck.com.tw",
+    "url": "http://broken.goodluck.com.tw/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "pixmicat"
     ]
   },
   {
@@ -1007,6 +1128,18 @@
     ],
     "software": [
       "tinyboard"
+    ]
+  },
+  {
+    "name": "dbfoxtw.me",
+    "url": "http://komica.dbfoxtw.me/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "pixmicat"
     ]
   },
   {
@@ -1304,6 +1437,18 @@
     ]
   },
   {
+    "name": "Fenrisulfr",
+    "url": "https://fenrisulfr.org/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "pixmicat"
+    ]
+  },
+  {
     "name": "Finalchan",
     "url": "https://finalchan.net/",
     "language": [
@@ -1447,6 +1592,18 @@
     "url": "https://www.gurochan.ch/",
     "language": [
       "en"
+    ]
+  },
+  {
+    "name": "gzone-anime.info/UnitedSites/",
+    "url": "http://gzone-anime.info/UnitedSites/academic/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "pixmicat"
     ]
   },
   {
@@ -1653,6 +1810,18 @@
     ]
   },
   {
+    "name": "kagaminerin.org",
+    "url": "http://kagaminerin.org/hongkong/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "pixmicat"
+    ]
+  },
+  {
     "name": "Kanal4",
     "url": "http://www.kanal4.org/",
     "language": [
@@ -1660,6 +1829,18 @@
     ],
     "software": [
       "overmind"
+    ]
+  },
+  {
+    "name": "karlsland.net",
+    "url": "http://www.karlsland.net/sw/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "pixmicat"
     ]
   },
   {
@@ -1673,6 +1854,18 @@
       "futaba",
       "futallaby",
       "tinyib"
+    ]
+  },
+  {
+    "name": "kemono.wtako.net",
+    "url": "https://kemono.wtako.net/kemono/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "pixmicat"
     ]
   },
   {
@@ -1695,6 +1888,18 @@
       "gazoubbs",
       "futaba",
       "futallaby"
+    ]
+  },
+  {
+    "name": "k.netaba.re/cat/",
+    "url": "http://k.netaba.re/cat/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "pixmicat"
     ]
   },
   {
@@ -1723,6 +1928,54 @@
   {
     "name": "Komica2",
     "url": "https://komica2.net/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "pixmicat"
+    ]
+  },
+  {
+    "name": "komica.peroneko.org/minecraft/",
+    "url": "https://komica.peroneko.org/minecraft/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "pixmicat"
+    ]
+  },
+  {
+    "name": "komica.yucie.net",
+    "url": "http://komica.yucie.net/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "pixmicat"
+    ]
+  },
+  {
+    "name": "Komicolle",
+    "url": "http://komicolle.org/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "pixmicat"
+    ]
+  },
+  {
+    "name": "komicolle.dreamhosters.com",
+    "url": "http://komicolle.dreamhosters.com/",
     "language": [
       "zh"
     ],
@@ -2096,6 +2349,18 @@
     ]
   },
   {
+    "name": "miyarei.org/AmericanSuperHeroes/",
+    "url": "http://miyarei.org/AmericanSuperHeroes/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "pixmicat"
+    ]
+  },
+  {
     "name": "MLPG.co",
     "url": "https://mlpg.co/",
     "language": [
@@ -2142,6 +2407,18 @@
       "futaba",
       "futallaby",
       "tinyib"
+    ]
+  },
+  {
+    "name": "moecorner.com/iboards/",
+    "url": "http://moecorner.com/iboards/Relationship/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "pixmicat"
     ]
   },
   {
@@ -2206,6 +2483,18 @@
       "gazoubbs",
       "futaba",
       "pixmicat"
+    ]
+  },
+  {
+    "name": "NagatoYuki/Next",
+    "url": "https://next.nagatoyuki.org/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "infinity"
     ]
   },
   {
@@ -2329,6 +2618,18 @@
     "software": [
       "doushio",
       "meguca"
+    ]
+  },
+  {
+    "name": "ningen.dreamhosters.com",
+    "url": "http://ningen.dreamhosters.com/moe/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "pixmicat"
     ]
   },
   {
@@ -2519,6 +2820,18 @@
     ],
     "software": [
       "kareha"
+    ]
+  },
+  {
+    "name": "p.komica.acg.club.tw",
+    "url": "http://p.komica.acg.club.tw/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "pixmicat"
     ]
   },
   {
@@ -2720,6 +3033,18 @@
     ]
   },
   {
+    "name": "rthost.cr.rs/sd/",
+    "url": "http://rthost.cr.rs/sd/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "pixmicat"
+    ]
+  },
+  {
     "name": "Хайбане.ru",
     "url": "https://haibane.ru/",
     "language": [
@@ -2907,6 +3232,18 @@
     ]
   },
   {
+    "name": "snow-sugar.net",
+    "url": "https://imgboard.snow-sugar.net/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "mail2pic"
+    ]
+  },
+  {
     "name": "Social News Site",
     "url": "http://social-imageboard.herokuapp.com/",
     "language": [
@@ -2925,6 +3262,18 @@
     "boardlist": "https://spacechan.xyz/index.json"
   },
   {
+    "name": "spg-web.sytes.net/PasteChart/insect/",
+    "url": "http://spg-web.sytes.net/PasteChart/insect/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "pixmicat"
+    ]
+  },
+  {
     "name": "Stephanielove",
     "url": "http://stephanielove.96.lt/",
     "language": [
@@ -2932,6 +3281,18 @@
     ],
     "software": [
       "tinyboard"
+    ]
+  },
+  {
+    "name": "strange-komica.com/MonsterHunter/",
+    "url": "https://strange-komica.com/MonsterHunter/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "pixmicat"
     ]
   },
   {
@@ -2985,6 +3346,18 @@
     ],
     "software": [
       "doushio"
+    ]
+  },
+  {
+    "name": "tehepero.org/komica/",
+    "url": "http://tehepero.org/komica/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "pixmicat"
     ]
   },
   {
@@ -3133,6 +3506,18 @@
     ]
   },
   {
+    "name": "travel.voidfactory.com",
+    "url": "https://travel.voidfactory.com/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "pixmicat"
+    ]
+  },
+  {
     "name": "trchan",
     "url": "https://www.trchan.org/",
     "language": [
@@ -3253,6 +3638,18 @@
     ]
   },
   {
+    "name": "vocaloid.orzhk.net",
+    "url": "http://vocaloid.orzhk.net/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "pixmicat"
+    ]
+  },
+  {
     "name": "Volgach",
     "url": "https://volgach.ru/",
     "language": [
@@ -3354,6 +3751,18 @@
     ],
     "software": [
       "kareha"
+    ]
+  },
+  {
+    "name": "wowhk.org",
+    "url": "http://www.wowhk.org/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "pixmicat"
     ]
   },
   {
