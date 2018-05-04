@@ -1143,6 +1143,16 @@
     ]
   },
   {
+    "name": "Deltachan",
+    "url": "http://zonadelta.net/deltachan/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard"
+    ]
+  },
+  {
     "name": "Depreschan",
     "url": "https://depreschan.ovh/",
     "language": [
@@ -2884,6 +2894,17 @@
     ]
   },
   {
+    "name": "Ponyville",
+    "url": "https://ponyville.us/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "porn chan",
     "url": "http://porn-chan.com/",
     "language": [
@@ -3326,6 +3347,17 @@
     ],
     "software": [
       "kusaba"
+    ]
+  },
+  {
+    "name": "TBP Chan",
+    "url": "https://tbpchan.cz/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
