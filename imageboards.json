@@ -2280,6 +2280,18 @@
     ]
   },
   {
+    "name": "maumau18.if.land.to",
+    "url": "http://maumau18.if.land.to/b/mays.htm",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "siokara"
+    ]
+  },
+  {
     "name": "Meguca",
     "url": "https://meguca.org/all/",
     "language": [
@@ -2595,6 +2607,19 @@
       "futallaby",
       "nelliel",
       "afroboard"
+    ]
+  },
+  {
+    "name": "nijibox.com/futaba/",
+    "url": "http://www.nijibox.com/futaba/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "siokara",
+      "yakuba"
     ]
   },
   {
@@ -3456,6 +3481,19 @@
     ],
     "software": [
       "tinybbs"
+    ]
+  },
+  {
+    "name": "t-jun.kemoren.com",
+    "url": "http://t-jun.kemoren.com/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "siokara",
+      "yakuba"
     ]
   },
   {
