@@ -1578,16 +1578,6 @@
     "boardlist": "https://gochan.lunachan.net/boards.json"
   },
   {
-    "name": "Goon Saloon",
-    "url": "http://goonsaloon.pro/intj/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "doushio"
-    ]
-  },
-  {
     "name": "Gurochan",
     "url": "https://www.gurochan.ch/",
     "language": [
