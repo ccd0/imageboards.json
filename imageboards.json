@@ -3657,6 +3657,16 @@
     ]
   },
   {
+    "name": "Unichan",
+    "url": "http://unichan3.org/b/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "kusaba"
+    ]
+  },
+  {
     "name": "vichan support",
     "url": "https://engine.vichan.net/support/",
     "language": [
