@@ -567,6 +567,17 @@
     ]
   },
   {
+    "name": "Alokal",
+    "url": "https://alokal.eu/",
+    "language": [
+      "sk"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Alphachan",
     "url": "http://alphachan.org/",
     "language": [
@@ -2858,6 +2869,13 @@
     ]
   },
   {
+    "name": "Pohjoislauta",
+    "url": "http://pohjoislauta.fi/",
+    "language": [
+      "fi"
+    ]
+  },
+  {
     "name": "Polish Vichan",
     "url": "https://pl.vichan.net/*/",
     "language": [
@@ -3275,6 +3293,17 @@
     ]
   },
   {
+    "name": "Son Gönderiler",
+    "url": "https://tahta.ch/",
+    "language": [
+      "tr"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "SpaceChan",
     "url": "https://spacechan.xyz/",
     "language": [
@@ -3305,6 +3334,16 @@
     ],
     "software": [
       "tinyboard"
+    ]
+  },
+  {
+    "name": "Stevenchan",
+    "url": "https://chan.tymoon.eu",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "purplish"
     ]
   },
   {
