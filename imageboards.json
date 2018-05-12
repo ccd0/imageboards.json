@@ -1007,13 +1007,6 @@
     ]
   },
   {
-    "name": "ccluster",
-    "url": "https://ccluster.com/",
-    "language": [
-      "en"
-    ]
-  },
-  {
     "name": "µchan demo",
     "url": "https://uchan.plebco.de/",
     "language": [
@@ -1443,6 +1436,13 @@
     ],
     "software": [
       "kareha"
+    ]
+  },
+  {
+    "name": "Enrive",
+    "url": "https://enrive.org/",
+    "language": [
+      "en"
     ]
   },
   {
