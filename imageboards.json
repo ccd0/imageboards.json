@@ -3146,8 +3146,13 @@
     ]
   },
   {
-    "name": "Reichan",
-    "url": "http://rei-ayanami.net/",
+    "name": "Rei-Ayanami.com",
+    "url": "http://www.rei-ayanami.com/",
+    "mirrors": [
+      "http://www.rei-ayanami.com/",
+      "http://www.asuka-langley-sohryu.com/",
+      "http://www.rei-ayanami.net/"
+    ],
     "language": [
       "en"
     ],
