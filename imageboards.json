@@ -937,6 +937,16 @@
     ]
   },
   {
+    "name": "/b/rorchan",
+    "url": "https://onii.no/b",
+    "language": [
+      "no"
+    ],
+    "software": [
+      "matsuri"
+    ]
+  },
+  {
     "name": "Bunbunmaru",
     "url": "http://bunbunmaru.com/wakaba/",
     "language": [
@@ -1379,6 +1389,16 @@
     ],
     "software": [
       "doushio"
+    ]
+  },
+  {
+    "name": "dqwave.net/kouryu2/",
+    "url": "http://dqwave.net/kouryu2/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "bbsnotecomet"
     ]
   },
   {
