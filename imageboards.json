@@ -3579,6 +3579,16 @@
     ]
   },
   {
+    "name": "tanoshiine.info",
+    "url": "https://tanoshiine.info/radio/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "doushio"
+    ]
+  },
+  {
     "name": "TBP Chan",
     "url": "https://tbpchan.net/",
     "mirrors": [
