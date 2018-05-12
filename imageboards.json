@@ -186,6 +186,17 @@
     ]
   },
   {
+    "name": "2chon",
+    "url": "http://mississippianon.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "2ch.rip",
     "url": "https://2ch.rip/",
     "language": [
@@ -500,6 +511,17 @@
     ]
   },
   {
+    "name": "9inches.org",
+    "url": "https://9inches.org/b/",
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "acgmoe.com",
     "url": "http://doujin2.acgmoe.com/board/",
     "language": [
@@ -703,6 +725,17 @@
     ]
   },
   {
+    "name": "Autistichan",
+    "url": "http://autistichanreborn.altervista.org/",
+    "language": [
+      "it"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "AwsumChan",
     "url": "https://awsumchan.org/",
     "language": [
@@ -755,6 +788,17 @@
   {
     "name": "b0nr.com",
     "url": "https://b0nr.com/casual/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
+    "name": "BABAJILAB",
+    "url": "http://babajilab.org/",
     "language": [
       "en"
     ],
@@ -1117,6 +1161,17 @@
     ]
   },
   {
+    "name": "Czwartyczan",
+    "url": "https://choppedliver.000webhostapp.com/",
+    "language": [
+      "pl"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "DameIB",
     "url": "http://dameib.net/",
     "language": [
@@ -1310,6 +1365,17 @@
     ]
   },
   {
+    "name": "Dramachan",
+    "url": "http://dramachan.moe/news.html",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Dreamchan",
     "url": "https://dreamch.net/",
     "language": [
@@ -1483,6 +1549,17 @@
     ]
   },
   {
+    "name": "fr.jennair.ca",
+    "url": "http://fr.jennair.ca/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Fuck Yeah Imageboard",
     "url": "http://fyib.uselessirc.net/",
     "language": [
@@ -1614,6 +1691,17 @@
     ]
   },
   {
+    "name": "hardr.io",
+    "url": "http://hardr.io/b/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Hatsune.ru",
     "url": "https://hatsune.ru/",
     "language": [
@@ -1659,6 +1747,17 @@
     ],
     "software": [
       "kusaba"
+    ]
+  },
+  {
+    "name": "HnBChan.org",
+    "url": "https://hnbchan.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
@@ -1865,6 +1964,17 @@
       "gazoubbs",
       "futaba",
       "pixmicat"
+    ]
+  },
+  {
+    "name": "Keychan",
+    "url": "https://keychan.cf/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
@@ -2837,6 +2947,21 @@
     ]
   },
   {
+    "name": "pawsru.org",
+    "url": "https://pawsru.org/",
+    "mirrors": [
+      "https://pawsru.org/",
+      "https://feetpa.ws/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "PirateBox",
     "url": "http://demo.piratebox.cc/board.html",
     "language": [
@@ -3097,6 +3222,28 @@
     ]
   },
   {
+    "name": "Rupattelu",
+    "url": "https://rupattelu.us/rr/",
+    "language": [
+      "fi"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
+    "name": "ryoko;systems",
+    "url": "https://ryoko.systems/",
+    "language": [
+      "de"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Salmãochan",
     "url": "https://salmaochan.org/",
     "language": [
@@ -3143,6 +3290,10 @@
   {
     "name": "Scanchan",
     "url": "http://www.scanchan.net/",
+    "mirrors": [
+      "http://www.scanchan.net/",
+      "http://scanchan.jckf.no/"
+    ],
     "language": [
       "en"
     ],
@@ -3236,6 +3387,17 @@
       "tinyboard",
       "vichan",
       "lainchan"
+    ]
+  },
+  {
+    "name": "sirkku.pw/lauta/b/",
+    "url": "https://sirkku.pw/lauta/b/",
+    "language": [
+      "fi"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
@@ -3403,7 +3565,12 @@
   },
   {
     "name": "TBP Chan",
-    "url": "https://tbpchan.cz/",
+    "url": "https://tbpchan.net/",
+    "mirrors": [
+      "https://tbpchan.net/",
+      "https://tbpchan.cz/",
+      "https://tbpchan.libre/"
+    ],
     "language": [
       "en"
     ],
@@ -3820,8 +3987,31 @@
     ]
   },
   {
+    "name": "WIRED-7",
+    "url": "https://wired-7.org/",
+    "language": [
+      "es"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "lainchan"
+    ]
+  },
+  {
     "name": "Wizardchan",
     "url": "https://wizchan.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
+    "name": "Woke Midgets",
+    "url": "https://wmgchan.com/",
     "language": [
       "en"
     ],
