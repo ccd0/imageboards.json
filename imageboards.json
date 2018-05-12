@@ -3146,23 +3146,6 @@
     ]
   },
   {
-    "name": "Rei-Ayanami.com",
-    "url": "http://www.rei-ayanami.com/",
-    "mirrors": [
-      "http://www.rei-ayanami.com/",
-      "http://www.asuka-langley-sohryu.com/",
-      "http://www.rei-ayanami.net/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "futallaby"
-    ]
-  },
-  {
     "name": "Requested Everywhere",
     "url": "http://requestedeverywhere.com/board/",
     "language": [
