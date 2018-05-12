@@ -3815,16 +3815,6 @@
       "en"
     ],
     "software": [
-      "iikoto"
-    ]
-  },
-  {
-    "name": "wirechan",
-    "url": "https://wirechan.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
       "tinyboard",
       "vichan"
     ]
