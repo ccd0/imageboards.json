@@ -769,13 +769,10 @@
   },
   {
     "name": "Azuchan",
-    "url": "http://azuchan.ml/",
+    "url": "https://azuchan.org/",
     "mirrors": [
-      "http://azuchan.ml/",
-      "http://azuchan.cf/",
-      "http://azuchan.pp.ua/",
-      "http://2-ch.ml/",
-      "http://0chan.cf/"
+      "https://azuchan.org/",
+      "https://azuchan.cf/"
     ],
     "language": [
       "ru"
