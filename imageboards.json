@@ -383,6 +383,16 @@
     ]
   },
   {
+    "name": "4kev",
+    "url": "http://www.4kev.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "4kev"
+    ]
+  },
+  {
     "name": "4taba",
     "url": "https://4taba.net/",
     "language": [
@@ -519,6 +529,13 @@
     "software": [
       "tinyboard",
       "vichan"
+    ]
+  },
+  {
+    "name": "abma.x-maru.org/images/",
+    "url": "http://abma.x-maru.org/images/",
+    "language": [
+      "en"
     ]
   },
   {
@@ -1117,6 +1134,16 @@
     "software": [
       "tinyboard",
       "vichan"
+    ]
+  },
+  {
+    "name": "coolier.dip.jp/oekaki_07/",
+    "url": "http://coolier.dip.jp/oekaki_07/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "bbsnotecomet"
     ]
   },
   {
@@ -2156,6 +2183,16 @@
     ]
   },
   {
+    "name": "kyber.io/matsuri",
+    "url": "https://kyber.io/matsuri",
+    "language": [
+      "no"
+    ],
+    "software": [
+      "matsuri"
+    ]
+  },
+  {
     "name": "Lainchan",
     "url": "https://lainchan.org/",
     "language": [
@@ -2188,6 +2225,16 @@
     ],
     "software": [
       "lapis-chan"
+    ]
+  },
+  {
+    "name": "Lewd.pics",
+    "url": "https://lewd.pics/chan/b/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard"
     ]
   },
   {
