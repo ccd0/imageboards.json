@@ -540,7 +540,7 @@
   },
   {
     "name": "acgmoe.com",
-    "url": "http://doujin2.acgmoe.com/board/",
+    "url": "https://doujin2.acgmoe.com/board/",
     "language": [
       "zh"
     ],
@@ -625,7 +625,7 @@
   },
   {
     "name": "Alterchan",
-    "url": "http://alterchan.in/",
+    "url": "https://alterchan.in/",
     "language": [
       "ru"
     ]
@@ -730,7 +730,7 @@
   },
   {
     "name": "Aurorachan",
-    "url": "http://aurorachan.net/",
+    "url": "https://aurorachan.net/",
     "language": [
       "en"
     ],
@@ -908,7 +908,7 @@
   },
   {
     "name": "britfa.gs",
-    "url": "http://britfa.gs/",
+    "url": "https://britfa.gs/",
     "language": [
       "en"
     ]
@@ -1011,7 +1011,7 @@
   },
   {
     "name": "Camiko",
-    "url": "http://camiko.org/",
+    "url": "https://camiko.org/",
     "language": [
       "zh"
     ],
@@ -2583,7 +2583,7 @@
   },
   {
     "name": "Mod Imageboard",
-    "url": "http://www.modception.com/imageboard/",
+    "url": "https://www.modception.com/imageboard/",
     "language": [
       "en"
     ],
