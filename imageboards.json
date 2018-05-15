@@ -585,7 +585,7 @@
   },
   {
     "name": "alica.dreamhosters.com",
-    "url": "http://alica.dreamhosters.com/screenshot/",
+    "url": "http://alica.dreamhosters.com/screenshot/index.xhtml.zh-tw",
     "language": [
       "zh"
     ],
@@ -1666,7 +1666,7 @@
   },
   {
     "name": "GETchan",
-    "url": "http://www.getchan.net/",
+    "url": "https://www.getchan.net/",
     "language": [
       "en"
     ],
@@ -1858,7 +1858,7 @@
   },
   {
     "name": "iChan",
-    "url": "http://ichan.net/",
+    "url": "https://ichan.pro/",
     "language": [
       "en"
     ],
@@ -3422,7 +3422,7 @@
   },
   {
     "name": "Sibirchan",
-    "url": "http://sibirchan.ru/",
+    "url": "https://sibirchan.ru/",
     "language": [
       "ru"
     ],
@@ -3553,7 +3553,7 @@
   },
   {
     "name": "Stevenchan",
-    "url": "https://chan.tymoon.eu",
+    "url": "https://chan.tymoon.eu/",
     "language": [
       "en"
     ],
