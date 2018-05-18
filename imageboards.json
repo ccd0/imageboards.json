@@ -257,11 +257,7 @@
   },
   {
     "name": "314chan",
-    "url": "https://www.314chan.co/",
-    "mirrors": [
-      "https://www.314chan.co/",
-      "http://www.314chan.org/"
-    ],
+    "url": "http://www.314chan.org/",
     "language": [
       "en"
     ],
