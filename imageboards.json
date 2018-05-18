@@ -569,17 +569,6 @@
     ]
   },
   {
-    "name": "ae-chan",
-    "url": "https://ae-chan.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ],
-    "boardlist": "https://ae-chan.org/index.json"
-  },
-  {
     "name": "alica.dreamhosters.com",
     "url": "http://alica.dreamhosters.com/screenshot/index.xhtml.zh-tw",
     "language": [
