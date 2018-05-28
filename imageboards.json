@@ -1636,6 +1636,17 @@
     ]
   },
   {
+    "name": "Gay NEETs from Outer Space",
+    "url": "https://gnfos.com/jp/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "GeminiChan",
     "url": "http://upload.geminight.com/",
     "language": [
@@ -2841,17 +2852,6 @@
     ],
     "software": [
       "wakaba"
-    ]
-  },
-  {
-    "name": "No-you",
-    "url": "https://no-you.com/jp/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
     ]
   },
   {
