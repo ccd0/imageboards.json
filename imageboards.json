@@ -79,13 +79,6 @@
     ]
   },
   {
-    "name": "138.130.163.65",
-    "url": "http://138.130.163.65/randomboard/",
-    "language": [
-      "en"
-    ]
-  },
-  {
     "name": "13channel",
     "url": "https://13ch.nl/",
     "language": [
@@ -739,16 +732,6 @@
     "software": [
       "tinyboard",
       "vichan"
-    ]
-  },
-  {
-    "name": "Ayarane Project",
-    "url": "https://board.layer-infinity.net/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "wakaba"
     ]
   },
   {
@@ -2306,16 +2289,6 @@
     ],
     "language": [
       "es"
-    ]
-  },
-  {
-    "name": "LuckyChan",
-    "url": "http://luckychan.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "kareha"
     ]
   },
   {
