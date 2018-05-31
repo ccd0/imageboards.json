@@ -984,14 +984,15 @@
   },
   {
     "name": "Catchan",
-    "url": "https://catchan.net/vichan/",
+    "url": "https://catchan.net/lainchan/",
     "language": [
       "en",
       "de"
     ],
     "software": [
       "tinyboard",
-      "vichan"
+      "vichan",
+      "lainchan"
     ]
   },
   {
