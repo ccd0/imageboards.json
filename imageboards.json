@@ -1469,17 +1469,6 @@
     ]
   },
   {
-    "name": "Ernstchan",
-    "url": "https://ernstchan.com/b/",
-    "language": [
-      "de"
-    ],
-    "software": [
-      "wakaba",
-      "phutaba"
-    ]
-  },
-  {
     "name": "Eternitychan",
     "url": "http://eternitychan.org/",
     "language": [
@@ -2658,16 +2647,6 @@
     "software": [
       "tinyboard",
       "vichan"
-    ]
-  },
-  {
-    "name": "Neuschwabenland",
-    "url": "https://neuschwabenland.net/",
-    "language": [
-      "de"
-    ],
-    "software": [
-      "kusaba"
     ]
   },
   {
