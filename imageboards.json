@@ -719,11 +719,7 @@
   },
   {
     "name": "Azuchan",
-    "url": "https://azuchan.org/",
-    "mirrors": [
-      "https://azuchan.org/",
-      "https://azuchan.cf/"
-    ],
+    "url": "https://azuchan.cf/",
     "language": [
       "ru"
     ],
