@@ -232,16 +232,6 @@
     ]
   },
   {
-    "name": "2watch.su",
-    "url": "https://2watch.su/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "kusaba"
-    ]
-  },
-  {
     "name": "314chan",
     "url": "http://www.314chan.org/",
     "language": [
@@ -449,24 +439,6 @@
       "openib"
     ],
     "boardlist": "https://8ch.net/boards.json"
-  },
-  {
-    "name": "8ch.pl",
-    "url": "https://8ch.pl/",
-    "mirrors": [
-      "https://8ch.pl/",
-      "https://vichan.net/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "infinity",
-      "8ch.pl"
-    ],
-    "boardlist": "https://8ch.pl/boards.json"
   },
   {
     "name": "9231chan",
@@ -761,17 +733,6 @@
     ]
   },
   {
-    "name": "b0nr.com",
-    "url": "https://b0nr.com/casual/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "b4chan",
     "url": "https://b4chan.org/",
     "language": [
@@ -958,16 +919,6 @@
     ]
   },
   {
-    "name": "Cable6",
-    "url": "https://cable6.net/",
-    "language": [
-      "fr"
-    ],
-    "software": [
-      "tinyboard"
-    ]
-  },
-  {
     "name": "Cal Animage Epsilon",
     "url": "https://clubs.uci.edu/cae/a/index.html",
     "language": [
@@ -1043,17 +994,6 @@
       "wakaba",
       "wakaba++"
     ]
-  },
-  {
-    "name": "chan.today",
-    "url": "https://chan.today/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ],
-    "boardlist": "https://chan.today/index.json"
   },
   {
     "name": "Chanweb",
@@ -1858,16 +1798,6 @@
     ]
   },
   {
-    "name": "Inach",
-    "url": "http://inach.org/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "wakaba"
-    ]
-  },
-  {
     "name": "Intern3ts",
     "url": "https://www.intern3ts.com/",
     "language": [
@@ -2462,17 +2392,6 @@
     ]
   },
   {
-    "name": "mitchan",
-    "url": "http://mitchan.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "miyarei.org/AmericanSuperHeroes/",
     "url": "http://miyarei.org/AmericanSuperHeroes/",
     "language": [
@@ -2678,16 +2597,6 @@
     ]
   },
   {
-    "name": "NiggerTalk",
-    "url": "http://niggertalk.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinybbs"
-    ]
-  },
-  {
     "name": "nijibox.com/futaba/",
     "url": "http://www.nijibox.com/futaba/",
     "language": [
@@ -2772,17 +2681,6 @@
     ]
   },
   {
-    "name": "Nostromo",
-    "url": "http://nostromo.nu/",
-    "language": [
-      "en",
-      "sv"
-    ],
-    "software": [
-      "tinyboard"
-    ]
-  },
-  {
     "name": "Not4/jp/",
     "url": "https://not4jp.ml/",
     "language": [
@@ -2824,16 +2722,6 @@
     "software": [
       "tinyboard",
       "vichan"
-    ]
-  },
-  {
-    "name": "oldfag.org",
-    "url": "https://www.oldfag.org/angelina/Tinyboard/b/index.html",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard"
     ]
   },
   {
@@ -2974,17 +2862,6 @@
     ]
   },
   {
-    "name": "Polish Vichan",
-    "url": "https://pl.vichan.net/*/",
-    "language": [
-      "pl"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "polycancer.org",
     "url": "https://polycancer.org/",
     "language": [
@@ -3073,16 +2950,6 @@
     "software": [
       "tinyboard",
       "vichan"
-    ]
-  },
-  {
-    "name": "Punychan",
-    "url": "http://punychan.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinybbs"
     ]
   },
   {
@@ -3203,17 +3070,6 @@
     ]
   },
   {
-    "name": "Salvaged Tech",
-    "url": "https://salvaged.tech/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "Samachan",
     "url": "https://samachan.org/",
     "language": [
@@ -3304,16 +3160,6 @@
     "software": [
       "tinyboard",
       "vichan"
-    ]
-  },
-  {
-    "name": "Sheepchan",
-    "url": "https://www.sheepchan.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
     ]
   },
   {
@@ -3847,17 +3693,6 @@
     ],
     "software": [
       "kusaba"
-    ]
-  },
-  {
-    "name": "vichan support",
-    "url": "https://engine.vichan.net/support/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
     ]
   },
   {
