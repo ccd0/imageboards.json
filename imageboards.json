@@ -2360,6 +2360,10 @@
   {
     "name": "Mewch",
     "url": "https://mewch.net/",
+    "mirrors": [
+      "https://mewch.net/",
+      "http://mewchqgmqfe6zhnu.onion/"
+    ],
     "language": [
       "en"
     ],
