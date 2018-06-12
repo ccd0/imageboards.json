@@ -196,6 +196,16 @@
     ]
   },
   {
+    "name": "2fan",
+    "url": "http://2fan.ru/ch/",
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "tinyboard"
+    ]
+  },
+  {
     "name": "2nee.org",
     "url": "http://2nee.org/",
     "mirrors": [
@@ -514,6 +524,16 @@
       "gazoubbs",
       "futaba",
       "pixmicat"
+    ]
+  },
+  {
+    "name": "acm.ssau.ru/b/",
+    "url": "http://acm.ssau.ru/b/",
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "tinyboard"
     ]
   },
   {
@@ -1664,6 +1684,16 @@
     "url": "https://hatsune.ru/",
     "language": [
       "ru"
+    ]
+  },
+  {
+    "name": "haunting-limbs.000webhostapp.com",
+    "url": "http://haunting-limbs.000webhostapp.com/Tinyboard-master/b/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard"
     ]
   },
   {
@@ -3567,6 +3597,16 @@
     ]
   },
   {
+    "name": "trap.nlf.ee",
+    "url": "http://trap.nlf.ee/b/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard"
+    ]
+  },
+  {
     "name": "travel.voidfactory.com",
     "url": "https://travel.voidfactory.com/",
     "language": [
@@ -3688,6 +3728,16 @@
     ]
   },
   {
+    "name": "UC board",
+    "url": "http://cn.urbanculture.in/",
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "tinyboard"
+    ]
+  },
+  {
     "name": "Unichan",
     "url": "http://unichan3.org/b/",
     "language": [
@@ -3695,6 +3745,17 @@
     ],
     "software": [
       "kusaba"
+    ]
+  },
+  {
+    "name": "Valhal.la",
+    "url": "https://valhal.la/bifrost/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
