@@ -2696,10 +2696,6 @@
   {
     "name": "nntpchan web.oniichan.onion",
     "url": "http://benis.oniichanylo2tsi4.onion/",
-    "mirrors": [
-      "http://benis.oniichanylo2tsi4.onion/",
-      "http://jewsdid.oniichanylo2tsi4.onion/"
-    ],
     "language": [
       "en"
     ],
