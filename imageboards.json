@@ -2694,6 +2694,17 @@
     ]
   },
   {
+    "name": "nntpchan 2hu-ch.org",
+    "url": "https://2hu-ch.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "nntpchan"
+    ],
+    "boardlist": "https://2hu-ch.org/boards.json"
+  },
+  {
     "name": "nntpchan web.oniichan.onion",
     "url": "http://benis.oniichanylo2tsi4.onion/",
     "language": [
