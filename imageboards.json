@@ -96,6 +96,17 @@
     ]
   },
   {
+    "name": "185.62.136.138",
+    "url": "http://185.62.136.138/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "1chan",
     "url": "https://www.1chan.net/rail/",
     "language": [
@@ -1502,6 +1513,16 @@
     ]
   },
   {
+    "name": "FMKilo",
+    "url": "http://fmkilo.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "wakaba"
+    ]
+  },
+  {
     "name": "Freech",
     "url": "https://freech.net/",
     "mirrors": [
@@ -1786,6 +1807,19 @@
     ],
     "software": [
       "doushio"
+    ]
+  },
+  {
+    "name": "http://54.38.50.137/",
+    "url": "http://54.38.50.137/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "infinity",
+      "openib"
     ]
   },
   {
@@ -2193,6 +2227,17 @@
     ]
   },
   {
+    "name": "Loistolauta",
+    "url": "https://loistolauta.org/",
+    "language": [
+      "fi"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Lolchan",
     "url": "http://chandecarton.zz.mu/",
     "language": [
@@ -2535,6 +2580,20 @@
     ]
   },
   {
+    "name": "Music Thing",
+    "url": "http://151.80.40.155:81/",
+    "mirrors": [
+      "http://151.80.40.155:81/",
+      "http://honk.life:81/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "foolfuuka"
+    ]
+  },
+  {
     "name": "Musikchan",
     "url": "https://musikchan.com/music/",
     "language": [
@@ -2605,6 +2664,16 @@
     "software": [
       "tinyboard",
       "vichan"
+    ]
+  },
+  {
+    "name": "Nerve",
+    "url": "http://nerve.codingneko.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "nerve"
     ]
   },
   {
@@ -2851,6 +2920,17 @@
     ],
     "software": [
       "kusaba"
+    ]
+  },
+  {
+    "name": "parrotchan",
+    "url": "http://chan.parrot.coffee/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
@@ -3545,6 +3625,17 @@
     ]
   },
   {
+    "name": "tonight.by",
+    "url": "http://tonight.by/",
+    "language": [
+      "ru",
+      "en"
+    ],
+    "software": [
+      "ib"
+    ]
+  },
+  {
     "name": "Topsape",
     "url": "http://topsape.ru/chan/",
     "language": [
@@ -3721,6 +3812,17 @@
     ],
     "software": [
       "ib4f"
+    ]
+  },
+  {
+    "name": "UBChan",
+    "url": "https://ubchan.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
