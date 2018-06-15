@@ -57,16 +57,6 @@
     ]
   },
   {
-    "name": "0chan.ru.net",
-    "url": "http://0chan.ru.net/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "kusaba"
-    ]
-  },
-  {
     "name": "100chan",
     "url": "http://100chan.cookiethievery.com/b/",
     "language": [
@@ -1043,16 +1033,6 @@
     ]
   },
   {
-    "name": "Chaos.cpu",
-    "url": "https://chaos.cyberpunk.us/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "monaba"
-    ]
-  },
-  {
     "name": "Chlomochan",
     "url": "https://www.chlomo.org/chan/chloe/index.html",
     "language": [
@@ -1263,16 +1243,6 @@
     ]
   },
   {
-    "name": "DINOAIDS BBS",
-    "url": "http://www.dinoaids.com/bbs/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "kareha"
-    ]
-  },
-  {
     "name": "Diochan",
     "url": "https://www.diochan.com/",
     "language": [
@@ -1420,16 +1390,6 @@
       "infinitynow"
     ],
     "boardlist": "https://endchan.xyz/index.json"
-  },
-  {
-    "name": "Energy Breaker BBS",
-    "url": "http://yuudachi.net/bbs/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "kareha"
-    ]
   },
   {
     "name": "Enrive",
@@ -1989,18 +1949,6 @@
       "gazoubbs",
       "futaba",
       "futallaby"
-    ]
-  },
-  {
-    "name": "k.netaba.re/cat/",
-    "url": "http://k.netaba.re/cat/",
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat"
     ]
   },
   {
