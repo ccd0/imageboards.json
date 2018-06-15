@@ -1,7 +1,6 @@
 List of anonymous imageboards in JSON format.
 
-Mostly derived from
-https://docs.google.com/document/d/1-xxHkBnhIg3UKUQlkVYdSKkGgyAWkvJVjTTMNCIpqOo/edit?usp=drivesdk
+Derived from Creamy's list, other imageboard lists, online searches, imageboard threads, and various other sources. Contributions welcome.
 
 JSON endpoints:
 https://ccd0.github.io/imageboards.json/imageboards.json
