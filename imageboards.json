@@ -3292,18 +3292,6 @@
     ]
   },
   {
-    "name": "SketchChan",
-    "url": "https://garyc.me/sketchchan/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "futallaby"
-    ]
-  },
-  {
     "name": "smuglo.li",
     "url": "https://smuglo.li/a/",
     "language": [
@@ -3737,19 +3725,6 @@
     "software": [
       "tinyboard",
       "vichan"
-    ]
-  },
-  {
-    "name": "TucsonChan",
-    "url": "https://garyc.me/tucsonchan/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "futallaby",
-      "tinyib"
     ]
   },
   {
