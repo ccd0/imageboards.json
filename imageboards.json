@@ -2361,6 +2361,17 @@
     ]
   },
   {
+    "name": "Maguschan",
+    "url": "https://maguschan.com/",
+    "language": [
+      "pt"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "magyarchan",
     "url": "https://magyarchan.net/",
     "language": [
@@ -3735,6 +3746,17 @@
     ],
     "software": [
       "doushio"
+    ]
+  },
+  {
+    "name": "TropicalChan",
+    "url": "http://tropicalchan.org/",
+    "language": [
+      "pt"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
