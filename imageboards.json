@@ -641,6 +641,17 @@
     ]
   },
   {
+    "name": "Anon Share",
+    "url": "https://proxy.anonsharer.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "anzuchang.com",
     "url": "http://anzuchang.com/",
     "language": [
@@ -2633,17 +2644,6 @@
     ],
     "software": [
       "nerve"
-    ]
-  },
-  {
-    "name": "NEWCHAN",
-    "url": "https://newchan.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
     ]
   },
   {
