@@ -1424,6 +1424,18 @@
     ]
   },
   {
+    "name": "Ernstchan",
+    "url": "https://ernstchan.xyz/int/",
+    "language": [
+      "en",
+      "de"
+    ],
+    "software": [
+      "wakaba",
+      "phutaba"
+    ]
+  },
+  {
     "name": "Eternitychan",
     "url": "http://eternitychan.org/",
     "language": [
