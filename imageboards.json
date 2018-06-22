@@ -243,18 +243,6 @@
     ]
   },
   {
-    "name": "314chan",
-    "url": "http://www.314chan.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "haruko",
-      "mitsuba"
-    ],
-    "boardlist": "https://www.314chan.org/boards.json"
-  },
-  {
     "name": "32chan",
     "url": "https://32ch.org/",
     "language": [
