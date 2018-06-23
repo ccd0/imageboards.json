@@ -108,6 +108,16 @@
     ]
   },
   {
+    "name": "100gazou",
+    "url": "http://www.100gazou.com/all_link.html",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "joyfulnote"
+    ]
+  },
+  {
     "name": "13channel",
     "url": "https://13ch.nl/",
     "language": [
