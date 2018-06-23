@@ -1667,6 +1667,18 @@
     ]
   },
   {
+    "name": "EROANI",
+    "url": "http://eroani.2-d.jp/index2.html",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "joyfulnote",
+      "joyful2ch",
+      "joyful2chme"
+    ]
+  },
+  {
     "name": "Eternitychan",
     "url": "http://eternitychan.org/",
     "language": [
