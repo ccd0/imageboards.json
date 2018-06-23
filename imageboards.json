@@ -2795,6 +2795,19 @@
     ]
   },
   {
+    "name": "NAMACO板",
+    "url": "https://namaco.in/pbbs/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "siokara",
+      "yakuba"
+    ]
+  },
+  {
     "name": "Neboard",
     "url": "https://neboard.me/",
     "language": [
