@@ -14,6 +14,32 @@
     ]
   },
   {
+    "name": "ヌルギコ動画",
+    "url": "http://mpg.nullgiko.net/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "siokara",
+      "gchan"
+    ]
+  },
+  {
+    "name": "ヌルギコ画像",
+    "url": "http://jpg.nullgiko.net/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "siokara",
+      "yakuba"
+    ]
+  },
+  {
     "name": "元祖みろ〜り板",
     "url": "https://koitsu100dora.net/mirohli/futaba.html",
     "language": [
