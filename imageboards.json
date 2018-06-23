@@ -319,8 +319,9 @@
     "name": "4ch",
     "url": "http://4ch.mooo.com/+4/",
     "language": [
+      "en",
       "ja",
-      "en"
+      "zh"
     ],
     "software": [
       "gazoubbs",
