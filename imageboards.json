@@ -1880,6 +1880,7 @@
       "en"
     ],
     "software": [
+      "atbbs",
       "tinybbs",
       "minibbs"
     ]
@@ -2746,6 +2747,7 @@
       "en"
     ],
     "software": [
+      "atbbs",
       "tinybbs"
     ]
   },
@@ -3194,6 +3196,7 @@
       "en"
     ],
     "software": [
+      "atbbs",
       "tinybbs"
     ]
   },
@@ -3891,6 +3894,7 @@
       "en"
     ],
     "software": [
+      "atbbs",
       "tinybbs"
     ]
   },
