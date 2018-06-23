@@ -2769,8 +2769,7 @@
     ],
     "software": [
       "tinyboard",
-      "vichan",
-      "regnfos"
+      "vichan"
     ]
   },
   {
@@ -3169,8 +3168,7 @@
     ],
     "software": [
       "tinyboard",
-      "vichan",
-      "miko"
+      "vichan"
     ]
   },
   {
