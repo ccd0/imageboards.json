@@ -189,6 +189,19 @@
     ]
   },
   {
+    "name": "29channel",
+    "url": "http://29chan.net/index.html",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "siokara",
+      "yakuba"
+    ]
+  },
+  {
     "name": "2cat",
     "url": "http://2cat.cf/",
     "language": [
