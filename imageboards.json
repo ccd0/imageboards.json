@@ -1460,6 +1460,16 @@
     ]
   },
   {
+    "name": "dev.bbs",
+    "url": "http://atbbs.lostsig.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "atbbs"
+    ]
+  },
+  {
     "name": "DFwk",
     "url": "http://chuck.dfwk.ru/",
     "language": [
