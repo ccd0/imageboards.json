@@ -14,6 +14,16 @@
     ]
   },
   {
+    "name": "すーぱーかぶメイン１６",
+    "url": "http://supercub512.atwebpages.com/test003/imgboard2015.cgi",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "imgboard"
+    ]
+  },
+  {
     "name": "ヌルギコ動画",
     "url": "http://mpg.nullgiko.net/",
     "language": [
@@ -57,6 +67,68 @@
     "url": "http://www.otona-times.com/top.html",
     "language": [
       "ja"
+    ]
+  },
+  {
+    "name": "熊の穴ツヴァイ",
+    "url": "http://kumasange.bbs.fc2.com/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "joyfulnote"
+    ]
+  },
+  {
+    "name": "１２式Ｘ４画像掲示板",
+    "url": "http://kumanonaka.125mb.com/test002/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "siokara",
+      "yakuba"
+    ]
+  },
+  {
+    "name": "１２ｘ１０画像掲示板",
+    "url": "http://kumada512.co.nf/12x10b/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "siokara",
+      "yakuba"
+    ]
+  },
+  {
+    "name": "１２ｘ１０画像掲示板",
+    "url": "http://kumada512.co.nf/12x10b/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "siokara",
+      "yakuba"
+    ]
+  },
+  {
+    "name": "１８式Ｘ４画像掲示板",
+    "url": "http://supercub512.mywebcommunity.org/test001/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "siokara",
+      "yakuba"
     ]
   },
   {
@@ -122,6 +194,32 @@
     "url": "https://13ch.nl/",
     "language": [
       "ru"
+    ]
+  },
+  {
+    "name": "14x09画像掲示板",
+    "url": "http://supercub512cc.co.nf/12x9b/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "siokara",
+      "yakuba"
+    ]
+  },
+  {
+    "name": "14x2画像掲示板",
+    "url": "http://supercub512.125mb.com/test001/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "siokara",
+      "yakuba"
     ]
   },
   {
