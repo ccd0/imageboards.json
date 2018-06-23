@@ -134,16 +134,12 @@
   {
     "name": "02ch",
     "url": "https://02ch.in/all/",
-    "mirrors": [
-      "https://02ch.in/",
-      "https://buttflaps.pp.ua/"
-    ],
     "language": [
       "ru"
     ],
     "software": [
-      "wakaba",
-      "phutaba"
+      "doushio",
+      "meguca"
     ]
   },
   {
