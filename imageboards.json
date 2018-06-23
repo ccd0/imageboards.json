@@ -1972,6 +1972,29 @@
     ]
   },
   {
+    "name": "jkdaisuki.ad55.net",
+    "url": "http://jkdaisuki.ad55.net/index2.html",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "siokara",
+      "yakuba"
+    ]
+  },
+  {
+    "name": "jkdaisuki.ad55.net /otakara/",
+    "url": "http://jkdaisuki.ad55.net/otakara/imgboard.cgi",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "imgboard"
+    ]
+  },
+  {
     "name": "kagaminerin.org",
     "url": "http://www.kagaminerin.org/fps/pixmicat.php?res=84598",
     "language": [
