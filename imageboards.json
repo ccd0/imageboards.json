@@ -554,7 +554,7 @@
       "ru"
     ],
     "software": [
-      "ololord"
+      "ololord.js"
     ]
   },
   {
@@ -3745,7 +3745,7 @@
       "ru"
     ],
     "software": [
-      "ololord",
+      "ololord.js",
       "tumbach"
     ]
   },
