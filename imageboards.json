@@ -1812,6 +1812,22 @@
     ]
   },
   {
+    "name": "futaba-only.net",
+    "url": "http://futaba-only.net/imgboard/imgboard.htm",
+    "mirrors": [
+      "http://futaba-only.net/",
+      "https://lolipop-dp53020672.ssl-lolipop.jp/"
+    ],
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "siokara"
+    ]
+  },
+  {
     "name": "Futaboard",
     "url": "http://board.futakuro.com/",
     "language": [
