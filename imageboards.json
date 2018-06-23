@@ -1709,6 +1709,19 @@
     ]
   },
   {
+    "name": "gmkz4ne.com",
+    "url": "http://gmkz4ne.com/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "siokara",
+      "yakuba"
+    ]
+  },
+  {
     "name": "Gochan",
     "url": "https://gochan.org/",
     "mirrors": [
@@ -2521,6 +2534,19 @@
     ],
     "software": [
       "tinybbs"
+    ]
+  },
+  {
+    "name": "mirohlichan.net",
+    "url": "https://mirohlichan.net/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "siokara",
+      "yakuba"
     ]
   },
   {
@@ -3888,6 +3914,19 @@
     ],
     "software": [
       "kusaba"
+    ]
+  },
+  {
+    "name": "up.subuya.com",
+    "url": "http://up.subuya.com/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "siokara",
+      "yakuba"
     ]
   },
   {
