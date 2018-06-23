@@ -841,6 +841,88 @@
     ]
   },
   {
+    "name": "bokkikozou.com /bokki/",
+    "url": "http://bokkikozou.com/bokki/ecobbs.cgi?page=1",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "ecoup"
+    ]
+  },
+  {
+    "name": "bokkikozou.com (futaba script boards)",
+    "url": "http://bokkikozou.com/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba"
+    ]
+  },
+  {
+    "name": "bokkikozou.com (gchan script boards)",
+    "url": "http://bokkikozou.com/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "moeren",
+      "siokara",
+      "gchan"
+    ]
+  },
+  {
+    "name": "bokkikozou.com (imgboard script boards)",
+    "url": "http://bokkikozou.com/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "imgboard"
+    ]
+  },
+  {
+    "name": "bokkikozou.com (moeren script boards)",
+    "url": "http://bokkikozou.com/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "moeren"
+    ]
+  },
+  {
+    "name": "bokkikozou.com (siokara script boards)",
+    "url": "http://bokkikozou.com/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "siokara"
+    ]
+  },
+  {
+    "name": "bokkikozou.com (yakuba script boards)",
+    "url": "http://bokkikozou.com/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "siokara",
+      "yakuba"
+    ]
+  },
+  {
     "name": "Bounceme",
     "url": "http://195.242.99.71/",
     "language": [
