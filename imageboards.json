@@ -2859,6 +2859,26 @@
     ]
   },
   {
+    "name": "moe-ren",
+    "url": "http://moepic.moe-ren.net/gazo/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "rentalbbs"
+    ]
+  },
+  {
+    "name": "moe-ren /oebiren/ and /oebiura/",
+    "url": "http://moepic.moe-ren.net/gazo/oebiren/index.html",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "bbsnote"
+    ]
+  },
+  {
     "name": "Monstrochan",
     "url": "http://monstrochan.org/",
     "language": [
