@@ -4,6 +4,9 @@
     "url": "https://discou.rs/",
     "language": [
       "ru"
+    ],
+    "software": [
+      "discours"
     ]
   },
   {
@@ -102,6 +105,10 @@
     "url": "http://www.otona-times.com/top.html",
     "language": [
       "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba"
     ]
   },
   {
@@ -315,6 +322,9 @@
     "url": "https://1chan.ca/news/",
     "language": [
       "ru"
+    ],
+    "software": [
+      "1chan"
     ]
   },
   {
@@ -706,6 +716,9 @@
     "url": "http://abma.x-maru.org/images/",
     "language": [
       "en"
+    ],
+    "software": [
+      "ochiba"
     ]
   },
   {
@@ -3473,6 +3486,9 @@
     "url": "http://ponilauta.fi/",
     "language": [
       "fi"
+    ],
+    "software": [
+      "kusaba"
     ]
   },
   {
@@ -3480,6 +3496,9 @@
     "url": "https://ponyach.ru/b/",
     "language": [
       "ru"
+    ],
+    "software": [
+      "kusaba"
     ]
   },
   {
@@ -4094,6 +4113,9 @@
     "url": "http://topsape.ru/chan/",
     "language": [
       "ru"
+    ],
+    "software": [
+      "topsape"
     ]
   },
   {

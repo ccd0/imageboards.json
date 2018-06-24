@@ -59,10 +59,12 @@
 - nntpchan - https://github.com/majestrate/nntpchan
 - ololord.js - https://github.com/ololoepepe/ololord.js
     - tumbach - https://github.com/rngnrs/tumbach
+- 1chan - https://github.com/jlbyrey/1chan
 - 4kev - https://github.com/federicoolivo/4kev
 - 4taba - https://github.com/4taba/4taba
 - ace-rx - https://github.com/svmn/ace-rx
 - blazechan - https://gitgud.io/blazechan/blazechan
+- discours - https://github.com/DiscoursProject/Discours
 - ecoup - http://www.wsj21.net/cgi/cgi-ecoup.html
 - gochan - https://github.com/eggbertx/gochan
 - hivebbs - https://github.com/desuwa/hivebbs
@@ -76,11 +78,13 @@
 - monki - https://github.com/exclude/monki
 - neboard - https://bitbucket.org/neko259/neboard
 - nerve - https://github.com/codingneko/nerve
+- ochiba - http://ochiba.x-maru.org/
 - orphereus - https://orphereus.anoma.ch/
 - overmind - used by http://kanal4.org/
 - purplish - https://github.com/Shirakumo/purplish
 - pyib - https://github.com/tslocum/PyIB
 - rentalbbs - formerly used by http://web.archive.org/web/20061109010932/http://www.xera.org
+- topsape - https://github.com/Spryt/TopsapeChan
 - uchan - https://github.com/Floens/uchan
 - weabot - used by https://bienvenidoainternet.org/
 - werchan - https://github.com/kfarwell/werchan
