@@ -2,11 +2,6 @@
 
 This is a list of the software codes used in imageboard.json along with links to / info about the corresponding imageboard software.
 
-You may also be interested in these lists of imageboard software:
-* https://flash.moe/overscript/ (also has mirrors of many scripts)
-* http://9ch.in/overscript/
-* http://9ch.in/over/index2.pl
-
 - tinyboard - https://github.com/savetheinternet/Tinyboard
     - vichan - https://github.com/vichan-devel/vichan/
         - infinity - https://github.com/ctrlcctrlv/infinity
@@ -99,3 +94,8 @@ You may also be interested in these lists of imageboard software:
 - uchan - https://github.com/Floens/uchan
 - weabot - used by https://bienvenidoainternet.org/
 - werchan - https://github.com/kfarwell/werchan
+
+You may also be interested in these lists of imageboard software:
+* https://flash.moe/overscript/ (also has mirrors of many scripts)
+* http://9ch.in/overscript/
+* http://9ch.in/over/index2.pl
