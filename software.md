@@ -67,12 +67,14 @@
 - discours - https://github.com/DiscoursProject/Discours
 - ecoup - http://www.wsj21.net/cgi/cgi-ecoup.html
 - gochan - https://github.com/eggbertx/gochan
+- hankiboard - https://gitlab.com/kilves/hankiboard
 - hivebbs - https://github.com/desuwa/hivebbs
 - ib - https://github.com/ABuglaev/ib
 - ib4f - formerly used by http://web.archive.org/web/20101108033202/http://imageboard4free.com:80/
 - koba - used by https://boards.plus4chan.org/
 - lapis-chan - https://github.com/karai17/lapis-chan/
 - makaba - used by https://2ch.hk/
+- mayuri - used by https://horochan.ru/
 - mei - https://github.com/lulalala/mei
 - monaba - https://github.com/ahushh/Monaba
 - monki - https://github.com/exclude/monki

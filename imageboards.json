@@ -2188,6 +2188,9 @@
     "url": "https://horochan.ru/",
     "language": [
       "ru"
+    ],
+    "software": [
+      "mayuri"
     ]
   },
   {
@@ -2706,6 +2709,9 @@
     ],
     "language": [
       "es"
+    ],
+    "software": [
+      "tinyboard"
     ]
   },
   {
@@ -3173,6 +3179,10 @@
     "url": "https://www.nido.org/",
     "language": [
       "es"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
@@ -3466,6 +3476,9 @@
     "url": "http://pohjoislauta.fi/",
     "language": [
       "fi"
+    ],
+    "software": [
+      "hankiboard"
     ]
   },
   {
