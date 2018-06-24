@@ -3096,6 +3096,10 @@
   {
     "name": "Neboard",
     "url": "https://neboard.me/",
+    "mirrors": [
+      "https://neboard.me/",
+      "http://neboardo3svhysmd.onion/"
+    ],
     "language": [
       "ru"
     ],
