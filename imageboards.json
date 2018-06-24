@@ -886,6 +886,9 @@
     "url": "https://apachan.net/",
     "language": [
       "ru"
+    ],
+    "software": [
+      "apachan"
     ]
   },
   {
@@ -1772,6 +1775,9 @@
     ],
     "language": [
       "ru"
+    ],
+    "software": [
+      "erlach"
     ]
   },
   {
