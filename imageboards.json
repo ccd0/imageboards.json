@@ -14,6 +14,17 @@
     ]
   },
   {
+    "name": "【お芋】生鮮！カリカリ堂【蟹】",
+    "url": "http://www.makop.com/~doreon/gazoubbs/futaba.html",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba"
+    ]
+  },
+  {
     "name": "すーぱーかぶメイン１６",
     "url": "http://supercub512.atwebpages.com/test003/imgboard2015.cgi",
     "language": [
@@ -21,6 +32,30 @@
     ],
     "software": [
       "imgboard"
+    ]
+  },
+  {
+    "name": "なまけい",
+    "url": "http://namahousou.com/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "siokara",
+      "siokara-gchan"
+    ]
+  },
+  {
+    "name": "もみぞう",
+    "url": "http://momi3.net/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba"
     ]
   },
   {
@@ -70,6 +105,19 @@
     ]
   },
   {
+    "name": "大阪御堂筋",
+    "url": "http://osaka.rash.jp/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futaba-gchan",
+      "kabuban"
+    ]
+  },
+  {
     "name": "熊の穴ツヴァイ",
     "url": "http://kumasange.bbs.fc2.com/",
     "language": [
@@ -77,6 +125,17 @@
     ],
     "software": [
       "joyfulnote"
+    ]
+  },
+  {
+    "name": "虫我像掲示板",
+    "url": "http://jpmoth.org/~moth-love/futaba/futaba.htm",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba"
     ]
   },
   {
@@ -850,6 +909,20 @@
     ]
   },
   {
+    "name": "ART & DESIGN BBS",
+    "url": "http://design-bbs.jpn.org/design/index.htm",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "moeren",
+      "siokara",
+      "moeren-gchan"
+    ]
+  },
+  {
     "name": "Aurorachan",
     "url": "https://aurorachan.net/",
     "language": [
@@ -983,6 +1056,17 @@
     ],
     "software": [
       "kusaba"
+    ]
+  },
+  {
+    "name": "BLASDEAD B B S",
+    "url": "http://blasdead.com/bbs/futaba.htm",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba"
     ]
   },
   {
@@ -1541,6 +1625,18 @@
     ]
   },
   {
+    "name": "DOLLARS 揭示板",
+    "url": "https://drrr.chat/static/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "pixmicat"
+    ]
+  },
+  {
     "name": "dont.datamine.me",
     "url": "http://dont.datamine.me/boards.html",
     "language": [
@@ -1917,6 +2013,19 @@
     ]
   },
   {
+    "name": "Gnarly-Chan",
+    "url": "http://gchan.x10.mx/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby",
+      "tinyib"
+    ]
+  },
+  {
     "name": "Gochan",
     "url": "https://gochan.org/",
     "mirrors": [
@@ -2194,6 +2303,19 @@
     ],
     "software": [
       "imgboard"
+    ]
+  },
+  {
+    "name": "kabuban",
+    "url": "http://www.kabuban.net/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futaba-gchan",
+      "kabuban"
     ]
   },
   {
@@ -4395,6 +4517,19 @@
     "url": "https://ylilauta.org/",
     "language": [
       "fi"
+    ]
+  },
+  {
+    "name": "もみぞう /ytb/",
+    "url": "http://momi6.momi3.net/ytb/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "siokara",
+      "siokara-gchan"
     ]
   },
   {
