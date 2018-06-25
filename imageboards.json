@@ -3740,6 +3740,16 @@
     ]
   },
   {
+    "name": "Ochiba Sandbox",
+    "url": "http://ochiba.x-maru.org/imgboard/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "ochiba"
+    ]
+  },
+  {
     "name": "Old Home",
     "url": "https://boards.haruhiism.net/abe/wakaba.html",
     "language": [
@@ -3879,6 +3889,16 @@
       "gazoubbs",
       "futaba",
       "pixmicat"
+    ]
+  },
+  {
+    "name": "plurk.hellfroze.net",
+    "url": "http://plurk.hellfroze.net/ochiba/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "ochiba"
     ]
   },
   {
