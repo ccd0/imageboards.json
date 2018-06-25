@@ -3074,6 +3074,10 @@
   {
     "name": "MLPG.co",
     "url": "https://mlpg.co/",
+    "mirrors": [
+      "https://mlpg.co/",
+      "https://horsefucking.co/"
+    ],
     "language": [
       "en"
     ],
