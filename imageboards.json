@@ -3975,6 +3975,18 @@
     ]
   },
   {
+    "name": "Seguridad de Sistemas",
+    "url": "https://tvn.tw/ss/",
+    "language": [
+      "es"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "arisuchan"
+    ]
+  },
+  {
     "name": "Sfc_han",
     "url": "https://sfc.euamo.moe/jp/",
     "language": [
