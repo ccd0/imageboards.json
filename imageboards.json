@@ -863,6 +863,16 @@
     ]
   },
   {
+    "name": "aib.kamgifk.ru",
+    "url": "http://aib.kamgifk.ru/",
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "wakaba"
+    ]
+  },
+  {
     "name": "akitainu-hozonkai.com",
     "url": "http://www.akitainu-hozonkai.com/photo/bbs.cgi",
     "language": [
@@ -1127,6 +1137,19 @@
     ],
     "software": [
       "tinyboard"
+    ]
+  },
+  {
+    "name": "Bants",
+    "url": "https://cssc.asn.au/b/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby",
+      "tinyib"
     ]
   },
   {
@@ -1450,6 +1473,16 @@
     ]
   },
   {
+    "name": "/cams/",
+    "url": "http://tr.ill.cc/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "wakaba"
+    ]
+  },
+  {
     "name": "Catchan",
     "url": "https://catchan.net/lainchan/",
     "language": [
@@ -1534,6 +1567,19 @@
     ],
     "software": [
       "wakaba"
+    ]
+  },
+  {
+    "name": "ChinchillachanIB",
+    "url": "https://www.chinchillachan.cl/",
+    "language": [
+      "es"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby",
+      "tinyib"
     ]
   },
   {
@@ -2587,6 +2633,19 @@
     ]
   },
   {
+    "name": "imgboard.furry.ru",
+    "url": "http://imgboard.furry.ru/",
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby",
+      "tinyib"
+    ]
+  },
+  {
     "name": "InnerChan",
     "url": "https://www.innerchan.org/",
     "language": [
@@ -2652,6 +2711,16 @@
     ],
     "software": [
       "imgboard"
+    ]
+  },
+  {
+    "name": "jojo's bizarre shitpost",
+    "url": "https://jojochan.tk/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "wakaba"
     ]
   },
   {
@@ -3520,6 +3589,17 @@
     ]
   },
   {
+    "name": "Nameless Imageboard",
+    "url": "http://namelessrumia.heliohost.org/img/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "wakaba",
+      "wakaru"
+    ]
+  },
+  {
     "name": "NatureSidePhotoClub Photo BBS",
     "url": "http://nspc.biz/bbs434865/bbs43.cgi",
     "language": [
@@ -4330,6 +4410,16 @@
     ]
   },
   {
+    "name": "Senran Kagura image board",
+    "url": "http://senrankagura.com/wakaba/wakaba.html",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "wakaba"
+    ]
+  },
+  {
     "name": "Sfc_han",
     "url": "https://sfc.euamo.moe/jp/",
     "language": [
@@ -4449,6 +4539,19 @@
       "gazoubbs",
       "futaba",
       "pixmicat"
+    ]
+  },
+  {
+    "name": "spychan.freezonereader.net",
+    "url": "http://spychan.freezonereader.net/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby",
+      "tinyib"
     ]
   },
   {
@@ -4757,6 +4860,19 @@
     "software": [
       "wakaba",
       "wakaba++"
+    ]
+  },
+  {
+    "name": "TranscendIB",
+    "url": "http://www.hellocyb.org/",
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby",
+      "tinyib"
     ]
   },
   {

@@ -37,6 +37,7 @@ This is a list of the software codes used in imageboard.json along with links to
     - hanabira - used by http://dobrochan.com/ (unpublished)
     - phutaba - https://github.com/ernstchan/phutaba
     - taimaba - used by https://420chan.org/
+    - wakaru - https://github.com/NamelessRumia/Wakaru
 - doushio - https://github.com/lalcmellkmal/doushio
     - meguca - https://github.com/bakape/meguca
         - cutechan - https://github.com/cutechan/cutechan
