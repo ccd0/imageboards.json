@@ -568,6 +568,16 @@
     ]
   },
   {
+    "name": "4chon.one",
+    "url": "https://4chon.one/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard"
+    ]
+  },
+  {
     "name": "4kev",
     "url": "http://www.4kev.org/",
     "language": [
@@ -926,6 +936,16 @@
     ]
   },
   {
+    "name": "Art Fair 411",
+    "url": "http://artfair411.com/b/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard"
+    ]
+  },
+  {
     "name": "Aurorachan",
     "url": "https://aurorachan.net/",
     "language": [
@@ -1011,6 +1031,16 @@
     ]
   },
   {
+    "name": "BBW",
+    "url": "https://ebbw.ml/s/bbw/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard"
+    ]
+  },
+  {
     "name": "bbw-chan",
     "url": "https://bbw-chan.nl/",
     "language": [
@@ -1062,6 +1092,16 @@
     ]
   },
   {
+    "name": "Bitchitito",
+    "url": "https://bitchitito.com/Tinyboard/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard"
+    ]
+  },
+  {
     "name": "BLASDEAD B B S",
     "url": "http://blasdead.com/bbs/futaba.htm",
     "language": [
@@ -1070,6 +1110,16 @@
     "software": [
       "gazoubbs",
       "futaba"
+    ]
+  },
+  {
+    "name": "board.ptown2.com",
+    "url": "https://board.ptown2.com/rrerr/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard"
     ]
   },
   {
@@ -1406,6 +1456,17 @@
     ]
   },
   {
+    "name": "controller",
+    "url": "http://johnisdead.com/key592/control/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "coolier.dip.jp/oekaki_07/",
     "url": "http://coolier.dip.jp/oekaki_07/",
     "language": [
@@ -1480,6 +1541,16 @@
       "gazoubbs",
       "futaba",
       "pixmicat"
+    ]
+  },
+  {
+    "name": "DCVN rebirth",
+    "url": "http://boards.extradyne.com/dcvn/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard"
     ]
   },
   {
@@ -1799,6 +1870,16 @@
     ],
     "software": [
       "wakaba"
+    ]
+  },
+  {
+    "name": "eu5ia",
+    "url": "http://eu5ia.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard"
     ]
   },
   {
@@ -2211,6 +2292,16 @@
       "vichan",
       "infinity",
       "openib"
+    ]
+  },
+  {
+    "name": "HWD EPICU IMAGEBORDO",
+    "url": "http://hwd-allstars.bl.ee/boards/",
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "tinyboard"
     ]
   },
   {
@@ -3274,6 +3365,17 @@
     ]
   },
   {
+    "name": "Nomads corner",
+    "url": "http://nomsc.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Not4/jp/",
     "url": "https://not4jp.ml/",
     "language": [
@@ -3576,6 +3678,16 @@
     ]
   },
   {
+    "name": "PulpRiot",
+    "url": "http://riot.pulprev.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard"
+    ]
+  },
+  {
     "name": "qchan",
     "url": "http://qchan.dyndns.org/",
     "language": [
@@ -3750,6 +3862,18 @@
     ]
   },
   {
+    "name": "Secilia / World Première",
+    "url": "https://secilia.zawarudo.org/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "infinity"
+    ]
+  },
+  {
     "name": "Secret Area of VIP Quality",
     "url": "https://secretareaofvipquality.org/saovq/",
     "language": [
@@ -3825,6 +3949,16 @@
     "software": [
       "doushio",
       "meguca"
+    ]
+  },
+  {
+    "name": "SmartMobi",
+    "url": "http://smart.mobi/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard"
     ]
   },
   {
