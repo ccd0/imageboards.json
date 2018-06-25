@@ -42,6 +42,7 @@ This is a list of the software codes used in imageboard.json along with links to
         - cutechan - https://github.com/cutechan/cutechan
 - lynxchan - https://gitgud.io/LynxChan/LynxChan
     - infinitynow - https://gitgud.io/groups/InfinityNow
+- cgi-design - http://cgi-design.net/prog/bbs/index.htm
 - kareha - https://wakaba.c3.cx/s/web/wakaba_kareha
 - atbbs - https://sourceforge.net/projects/atbbs/
     - tinybbs - https://github.com/r04r/minichan

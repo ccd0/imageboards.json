@@ -863,6 +863,16 @@
     ]
   },
   {
+    "name": "akitainu-hozonkai.com",
+    "url": "http://www.akitainu-hozonkai.com/photo/bbs.cgi",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "cgi-design"
+    ]
+  },
+  {
     "name": "alica.dreamhosters.com",
     "url": "http://alica.dreamhosters.com/screenshot/index.xhtml.zh-tw",
     "language": [
@@ -1450,6 +1460,16 @@
       "tinyboard",
       "vichan",
       "lainchan"
+    ]
+  },
+  {
+    "name": "catdiary.littlestar.jp",
+    "url": "http://catdiary.littlestar.jp/cgi-bin/bbs39.cgi",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "cgi-design"
     ]
   },
   {
@@ -2454,6 +2474,13 @@
     ]
   },
   {
+    "name": "hotta.saloon.jp",
+    "url": "http://hotta.saloon.jp/",
+    "language": [
+      "ja"
+    ]
+  },
+  {
     "name": "howler.space",
     "url": "https://howler.space/ncsu/",
     "language": [
@@ -2637,6 +2664,16 @@
       "gazoubbs",
       "futaba",
       "pixmicat"
+    ]
+  },
+  {
+    "name": "J 's Photo B B S",
+    "url": "http://r93.net/bbs_j06302017/bbs39/bbs39.cgi",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "cgi-design"
     ]
   },
   {
@@ -3411,6 +3448,16 @@
     ]
   },
   {
+    "name": "Moto's Photo BBS",
+    "url": "http://endoscopy.jp/bbs/00004/bbs29.cgi",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "cgi-design"
+    ]
+  },
+  {
     "name": "Music Thing",
     "url": "http://151.80.40.155:81/",
     "mirrors": [
@@ -3470,6 +3517,16 @@
       "futaba",
       "siokara",
       "yakuba"
+    ]
+  },
+  {
+    "name": "NatureSidePhotoClub Photo BBS",
+    "url": "http://nspc.biz/bbs434865/bbs43.cgi",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "cgi-design"
     ]
   },
   {
@@ -3747,6 +3804,16 @@
     ],
     "software": [
       "wakaba"
+    ]
+  },
+  {
+    "name": "onavi.sakura.ne.jp",
+    "url": "http://onavi.sakura.ne.jp/comm/db/bbs39/bbs39.cgi",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "cgi-design"
     ]
   },
   {
@@ -4050,6 +4117,16 @@
     "software": [
       "tinyboard",
       "vichan"
+    ]
+  },
+  {
+    "name": "randytrap.com",
+    "url": "http://randytrap.com/pbbs/bbs39.cgi",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "cgi-design"
     ]
   },
   {
@@ -4845,6 +4922,16 @@
       "gazoubbs",
       "futaba",
       "pixmicat"
+    ]
+  },
+  {
+    "name": "umbrella428.pro.tok2.com",
+    "url": "http://umbrella428.pro.tok2.com/index00.html",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "cgi-design"
     ]
   },
   {
