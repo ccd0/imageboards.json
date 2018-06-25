@@ -6,8 +6,8 @@ This is a list of the software codes used in imageboard.json along with links to
     - vichan - https://github.com/vichan-devel/vichan/
         - infinity - https://github.com/ctrlcctrlv/infinity
             - openib - https://github.com/OpenIB/OpenIB
-        - lainchan - https://github.com/lainchan/lainchan
         - npfchan - https://github.com/fallenPineapple/NPFchan
+        - lainchan - https://github.com/lainchan/lainchan
         - fukuro - https://github.com/twiforce/fukuro
         - arisuchan - https://github.com/arisu-dev/arisuchan
     - ponychan - https://bitbucket.org/ponychan/ponychan-tinyboard
