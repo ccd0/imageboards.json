@@ -1449,6 +1449,18 @@
     ]
   },
   {
+    "name": "comic.com.tw",
+    "url": "http://comic.com.tw/03/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "pixmicat"
+    ]
+  },
+  {
     "name": "Containerchan",
     "url": "http://containerchan.org/tb/demo/",
     "language": [
@@ -1478,6 +1490,18 @@
     ],
     "software": [
       "bbsnote"
+    ]
+  },
+  {
+    "name": "Cosplay field 販售品宣傳版",
+    "url": "http://gjs.tw/pixmicat/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "pixmicat"
     ]
   },
   {
@@ -2601,6 +2625,18 @@
   {
     "name": "Komica2",
     "url": "https://komica2.net/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "pixmicat"
+    ]
+  },
+  {
+    "name": "komica.chiisana.net",
+    "url": "https://komica.chiisana.net/",
     "language": [
       "zh"
     ],
@@ -4362,6 +4398,18 @@
     ]
   },
   {
+    "name": "tmp pic",
+    "url": "http://pic.ambest.cc/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "pixmicat"
+    ]
+  },
+  {
     "name": "Tohno-chan",
     "url": "http://tohno-chan.com/",
     "language": [
@@ -4595,6 +4643,18 @@
     ],
     "software": [
       "tinyboard"
+    ]
+  },
+  {
+    "name": "uccu.psper.tw",
+    "url": "http://uccu.psper.tw/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "pixmicat"
     ]
   },
   {
