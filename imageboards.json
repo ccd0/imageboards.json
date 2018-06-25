@@ -365,6 +365,10 @@
   {
     "name": "2cat",
     "url": "http://2cat.cf/",
+    "mirrors": [
+      "http://2cat.cf/",
+      "http://2cat.gq/"
+    ],
     "language": [
       "zh"
     ],
@@ -2455,6 +2459,18 @@
     ]
   },
   {
+    "name": "Jormungandr",
+    "url": "https://jormungandr.info/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "pixmicat"
+    ]
+  },
+  {
     "name": "kabuban",
     "url": "http://www.kabuban.net/",
     "language": [
@@ -3264,6 +3280,18 @@
     ]
   },
   {
+    "name": "NDHU OECLab-留言板",
+    "url": "http://faculty.ndhu.edu.tw/~oec/pixmicat/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "pixmicat"
+    ]
+  },
+  {
     "name": "Neboard",
     "url": "https://neboard.me/",
     "mirrors": [
@@ -3349,6 +3377,18 @@
     "software": [
       "tinyboard",
       "vichan"
+    ]
+  },
+  {
+    "name": "Night-Think",
+    "url": "http://night-think.net/board_right.html",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "pixmicat"
     ]
   },
   {
