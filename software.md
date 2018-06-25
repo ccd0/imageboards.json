@@ -68,7 +68,6 @@ This is a list of the software codes used in imageboard.json along with links to
 - ace-rx - https://github.com/svmn/ace-rx
 - apachan - https://github.com/ilvar/apachan
 - blazechan - https://gitgud.io/blazechan/blazechan
-- bnw - https://github.com/stiletto/bnw/
 - discours - https://github.com/DiscoursProject/Discours
 - ecoup - http://www.wsj21.net/cgi/cgi-ecoup.html
 - erlach - https://github.com/m-2k/erlach
