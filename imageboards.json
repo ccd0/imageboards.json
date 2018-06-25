@@ -2661,7 +2661,8 @@
     ],
     "software": [
       "tinyboard",
-      "vichan"
+      "vichan",
+      "npfchan"
     ]
   },
   {
