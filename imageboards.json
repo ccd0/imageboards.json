@@ -4641,7 +4641,8 @@
       "en"
     ],
     "software": [
-      "tinyboard"
+      "tinyboard",
+      "vichan"
     ]
   },
   {
