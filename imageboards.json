@@ -743,6 +743,17 @@
     ]
   },
   {
+    "name": "A chan for schools",
+    "url": "http://skelbimai.96.lt/chan/",
+    "language": [
+      "lt"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "acm.ssau.ru/b/",
     "url": "http://acm.ssau.ru/b/",
     "language": [
@@ -1723,6 +1734,17 @@
     ]
   },
   {
+    "name": "dovooepjluycxo5r.onion",
+    "url": "http://dovooepjluycxo5r.onion/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "dqwave.net/kouryu2/",
     "url": "http://dqwave.net/kouryu2/",
     "language": [
@@ -1786,6 +1808,17 @@
     ],
     "software": [
       "lynxchan"
+    ]
+  },
+  {
+    "name": "eftan.asia",
+    "url": "http://eftan.asia/",
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
@@ -2152,6 +2185,17 @@
     "url": "http://hardr.io/b/",
     "language": [
       "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
+    "name": "harukochan",
+    "url": "https://harukochan.xyz/",
+    "language": [
+      "ru"
     ],
     "software": [
       "tinyboard",
@@ -2821,6 +2865,18 @@
       "lynxchan"
     ],
     "boardlist": "http://lynxhub.com/index.json"
+  },
+  {
+    "name": "m2ch.hk",
+    "url": "https://m2ch.hk/",
+    "mirrors": [
+      "https://m2ch.hk/",
+      "https://m2ch.611.to/",
+      "http://91.227.17.26/"
+    ],
+    "language": [
+      "ru"
+    ]
   },
   {
     "name": "Macrochan",
