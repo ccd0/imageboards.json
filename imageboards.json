@@ -257,6 +257,19 @@
     ]
   },
   {
+    "name": "ｗｋｔｋ ｃｈａｔ 掲示板",
+    "url": "http://chat.wktk.so/bin/bbs/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "siokara",
+      "siokara-gchan"
+    ]
+  },
+  {
     "name": "02ch",
     "url": "https://02ch.in/all/",
     "language": [
@@ -4812,6 +4825,20 @@
       "gazoubbs",
       "futaba",
       "pixmicat"
+    ]
+  },
+  {
+    "name": "umbrella428.pro.tok2.com/moe/",
+    "url": "http://umbrella428.pro.tok2.com/moe/img.htm",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "moeren",
+      "siokara",
+      "moeren-gchan"
     ]
   },
   {
