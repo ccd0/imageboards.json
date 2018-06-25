@@ -51,6 +51,30 @@
     ]
   },
   {
+    "name": "ひだまり？",
+    "url": "http://ifonly.xii.jp/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "siokara"
+    ]
+  },
+  {
+    "name": "ぶっかけ板",
+    "url": "http://ぶっかけ板.net/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "siokara"
+    ]
+  },
+  {
     "name": "もみぞう",
     "url": "http://momi3.net/",
     "language": [
@@ -59,6 +83,30 @@
     "software": [
       "gazoubbs",
       "futaba"
+    ]
+  },
+  {
+    "name": "エロじゃないけれど～ 伍",
+    "url": "http://3d.skr.jp/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "siokara"
+    ]
+  },
+  {
+    "name": "ジョジョの奇妙な玩具スレ専用 画像掲示板",
+    "url": "http://jojostand.fool.jp/siokara/jojo.htm",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "siokara"
     ]
   },
   {
@@ -85,6 +133,18 @@
       "futaba",
       "siokara",
       "yakuba"
+    ]
+  },
+  {
+    "name": "ラブプラス用 画像掲示板",
+    "url": "http://tvgamewiki.net/loveplus/pics/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "siokara"
     ]
   },
   {
@@ -132,6 +192,18 @@
     ],
     "software": [
       "joyfulnote"
+    ]
+  },
+  {
+    "name": "熟女が好きです",
+    "url": "http://www.e-jukujo.net/main.html",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "siokara"
     ]
   },
   {
@@ -1378,6 +1450,18 @@
     ]
   },
   {
+    "name": "Channel Minamo",
+    "url": "http://bbs.mnmoc.click/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "siokara"
+    ]
+  },
+  {
     "name": "Chanon",
     "url": "https://chanon.ro/",
     "language": [
@@ -1599,6 +1683,18 @@
     ],
     "software": [
       "tinyboard"
+    ]
+  },
+  {
+    "name": "DEMICAFE",
+    "url": "http://adult-cafe.net/top.html",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "siokara"
     ]
   },
   {
@@ -1910,6 +2006,18 @@
       "joyfulnote",
       "joyful2ch",
       "joyful2chme"
+    ]
+  },
+  {
+    "name": "erocos",
+    "url": "http://erocos.net/imgboard/erocos.htm",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "siokara"
     ]
   },
   {
@@ -2395,6 +2503,30 @@
     ]
   },
   {
+    "name": "もみぞう /id/",
+    "url": "http://momi9.momi3.net/id/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "siokara"
+    ]
+  },
+  {
+    "name": "二次元グロGIF＠ORZ",
+    "url": "http://alfh.sakura.ne.jp/alfhord/siokara.htm",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "siokara"
+    ]
+  },
+  {
     "name": "iichan",
     "url": "https://iichan.hk/",
     "language": [
@@ -2702,6 +2834,18 @@
     ],
     "software": [
       "livechan"
+    ]
+  },
+  {
+    "name": "kouryuu",
+    "url": "http://conesan.jp/kouryuu/k.htm",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "siokara"
     ]
   },
   {
@@ -3722,6 +3866,19 @@
     ],
     "software": [
       "koba"
+    ]
+  },
+  {
+    "name": "plus-love",
+    "url": "http://plus-love.net/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "moeren",
+      "siokara"
     ]
   },
   {
