@@ -52,6 +52,7 @@ This is a list of the software codes used in imageboard.json along with links to
     - jn+yyb - http://w-space.net/subcon/cgi.htm
     - joyful2ch - http://falcon.s16.xrea.com/
         - joyful2chme - www.supra.cx/joyful2chMe/index.html
+- ochiba - http://ochiba.x-maru.org/
 - emanon - https://github.com/oprel/emanon
 - foolfuuka - https://github.com/FoolCode/FoolFuuka
 - livechan - https://github.com/emgram769/livechan-js
@@ -85,7 +86,6 @@ This is a list of the software codes used in imageboard.json along with links to
 - monki - https://github.com/exclude/monki
 - neboard - https://bitbucket.org/neko259/neboard
 - nerve - https://github.com/codingneko/nerve
-- ochiba - http://ochiba.x-maru.org/
 - orphereus - https://orphereus.anoma.ch/
 - overmind - used by http://kanal4.org/
 - purplish - https://github.com/Shirakumo/purplish
