@@ -21,8 +21,6 @@ Other lists that may be of interest:
 * http://4x13.net/list/
 * https://komica.org/
 * https://chiru.no/ ("Pick a site" dropdown)
-* http://futaba-only.net/list01.html
-* http://moepic.moe-ren.net/mring/mring.php?req=list
 * https://docs.google.com/document/d/1t10VI-sccy1CfAeMZHwmCS_7agIHFo_B5ipMjzsMtTg/edit (Creamy's list with updates to 2016-10-14)
 * https://pastebin.com/EUrfHx7n (2015 version of Creamy's list in plain text)
 * https://pastebin.com/8QNNKrxV (2016-12-08)
