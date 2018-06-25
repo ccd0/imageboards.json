@@ -2025,6 +2025,16 @@
     ]
   },
   {
+    "name": "Einskanal",
+    "url": "http://www.einskanal.net/",
+    "language": [
+      "de"
+    ],
+    "software": [
+      "lynxchan"
+    ]
+  },
+  {
     "name": "Endchan",
     "url": "https://endchan.xyz/",
     "mirrors": [
