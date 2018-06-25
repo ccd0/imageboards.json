@@ -8,8 +8,8 @@ This is a list of the software codes used in imageboard.json along with links to
             - openib - https://github.com/OpenIB/OpenIB
         - npfchan - https://github.com/fallenPineapple/NPFchan
         - lainchan - https://github.com/lainchan/lainchan
-        - fukuro - https://github.com/twiforce/fukuro
         - arisuchan - https://github.com/arisu-dev/arisuchan
+        - fukuro - https://github.com/twiforce/fukuro
     - ponychan - https://bitbucket.org/ponychan/ponychan-tinyboard
 - gazoubbs - http://web.archive.org/web/20170607054849/http://php.s3.to:80/bbs/bbs3.php
     - futaba - https://www.2chan.net/script/
