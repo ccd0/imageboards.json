@@ -1937,17 +1937,6 @@
     ]
   },
   {
-    "name": "dovooepjluycxo5r.onion",
-    "url": "http://dovooepjluycxo5r.onion/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "dqwave.net/kouryu2/",
     "url": "http://dqwave.net/kouryu2/",
     "language": [
@@ -2278,6 +2267,17 @@
       "gazoubbs",
       "futaba",
       "monaca"
+    ]
+  },
+  {
+    "name": "futureshit",
+    "url": "http://dovooepjluycxo5r.onion/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
