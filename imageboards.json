@@ -3741,6 +3741,19 @@
     ]
   },
   {
+    "name": "neko chan",
+    "url": "http://smyombzkg2nytq7e.onion/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby",
+      "tinyib"
+    ]
+  },
+  {
     "name": "Nen",
     "url": "https://kakashi-nenpo.com/",
     "language": [
@@ -4038,6 +4051,19 @@
   {
     "name": "OtakuTalk /d/",
     "url": "http://otakutalk.org/d/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby",
+      "tinyib"
+    ]
+  },
+  {
+    "name": "Otakutown",
+    "url": "http://img.escott.info/",
     "language": [
       "en"
     ],
@@ -4573,6 +4599,19 @@
     "software": [
       "doushio",
       "meguca"
+    ]
+  },
+  {
+    "name": "skeptic.community",
+    "url": "https://skeptic.community/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby",
+      "tinyib"
     ]
   },
   {
