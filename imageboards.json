@@ -1440,6 +1440,19 @@
     ]
   },
   {
+    "name": "BTChan",
+    "url": "https://btchan.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby",
+      "tinyib"
+    ]
+  },
+  {
     "name": "Bunbunmaru",
     "url": "http://bunbunmaru.com/wakaba/",
     "language": [
@@ -2458,6 +2471,19 @@
     ]
   },
   {
+    "name": "羊chan",
+    "url": "https://chan.dorper.me/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby",
+      "tinyib"
+    ]
+  },
+  {
     "name": "hardr.io",
     "url": "http://hardr.io/b/",
     "language": [
@@ -2750,6 +2776,19 @@
     "software": [
       "wakaba",
       "glaukaba"
+    ]
+  },
+  {
+    "name": "^jear",
+    "url": "http://starwors.de/year/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby",
+      "tinyib"
     ]
   },
   {
@@ -3936,6 +3975,19 @@
     ]
   },
   {
+    "name": "not99chan",
+    "url": "https://not99chan.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby",
+      "tinyib"
+    ]
+  },
+  {
     "name": "Nowhere",
     "url": "https://nowere.net/",
     "language": [
@@ -4684,6 +4736,19 @@
   {
     "name": "spychan.freezonereader.net",
     "url": "http://spychan.freezonereader.net/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby",
+      "tinyib"
+    ]
+  },
+  {
+    "name": "Steamed Hams",
+    "url": "https://steamedha.ms/",
     "language": [
       "en"
     ],
