@@ -33,6 +33,8 @@ This is a list of the software codes used in imageboard.json along with links to
 - kusaba - https://github.com/tslocum/kusaba
     - kusabax - http://kusabax.cultnet.net/
         - kurisaba - https://github.com/makise-homura/kurisaba
+        - kusaba-helma - https://github.com/altbdoor/kusaba-helma
+        - novovvedeniya - http://www.zloiodm.in/trs/ksb.rar
         - ponyach.ru - https://github.com/acilsd/ponyach.ru
 - wakaba - https://wakaba.c3.cx/s/web/wakaba_kareha
     - wakaba++ - described at https://www.lurkmore.com/view/Wakaba++ but appears to be unpublished
