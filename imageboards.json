@@ -425,6 +425,16 @@
     ]
   },
   {
+    "name": "2333chan",
+    "url": "http://x.998fun.com/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "kusaba"
+    ]
+  },
+  {
     "name": "23ch",
     "url": "http://23ch.ru/",
     "language": [
@@ -741,6 +751,16 @@
     "software": [
       "doushio",
       "meguca"
+    ]
+  },
+  {
+    "name": "66Chan",
+    "url": "http://66chan.pw/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "kusaba"
     ]
   },
   {
@@ -1928,6 +1948,16 @@
     ]
   },
   {
+    "name": "Desulauta",
+    "url": "https://desulauta.org/",
+    "language": [
+      "fi"
+    ],
+    "software": [
+      "kusaba"
+    ]
+  },
+  {
     "name": "dev.bbs",
     "url": "http://atbbs.lostsig.com/",
     "language": [
@@ -2121,6 +2151,16 @@
     "boardlist": "https://2ch.hk/boards.json"
   },
   {
+    "name": "Eaglehat",
+    "url": "http://img.flyinglobsters.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "kusaba"
+    ]
+  },
+  {
     "name": "echan",
     "url": "http://isabellanailbar.com/",
     "language": [
@@ -2257,6 +2297,16 @@
     ]
   },
   {
+    "name": "Fakechan",
+    "url": "http://fakepunchstudios.com/fakechan/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "kusaba"
+    ]
+  },
+  {
     "name": "Fapchan",
     "url": "https://fapchan.org/",
     "mirrors": [
@@ -2290,6 +2340,16 @@
       "gazoubbs",
       "futaba",
       "pixmicat"
+    ]
+  },
+  {
+    "name": "Fight Chan",
+    "url": "http://fightanvidya.com/img/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "kusaba"
     ]
   },
   {
@@ -4272,6 +4332,16 @@
     ]
   },
   {
+    "name": "Pacchan",
+    "url": "http://pacchan.altervista.org/",
+    "language": [
+      "it"
+    ],
+    "software": [
+      "kusaba"
+    ]
+  },
+  {
     "name": "parrotchan",
     "url": "http://chan.parrot.coffee/",
     "language": [
@@ -5307,6 +5377,16 @@
     ]
   },
   {
+    "name": "Tsubasa Society",
+    "url": "https://tsubasasociety.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "kusaba"
+    ]
+  },
+  {
     "name": "TSUKICHAN",
     "url": "https://boards.systemspace.link/",
     "language": [
@@ -5617,6 +5697,16 @@
       "gazoubbs",
       "futaba",
       "pixmicat"
+    ]
+  },
+  {
+    "name": "www.solfranc.com/second_hand/",
+    "url": "http://www.solfranc.com/second_hand/2Mano/",
+    "language": [
+      "es"
+    ],
+    "software": [
+      "kusaba"
     ]
   },
   {
