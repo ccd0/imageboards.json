@@ -4082,6 +4082,16 @@
     ]
   },
   {
+    "name": "Neochan",
+    "url": "https://neochan.ru/",
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "neoboard"
+    ]
+  },
+  {
     "name": "Nerve",
     "url": "http://nerve.codingneko.com/",
     "language": [
