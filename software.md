@@ -30,7 +30,10 @@ This is a list of the software codes used in imageboard.json along with links to
         - arisuchan - https://github.com/arisu-dev/arisuchan
         - fukuro - https://github.com/twiforce/fukuro
     - ponychan - https://bitbucket.org/ponychan/ponychan-tinyboard
-- kusaba - Most boards marked this are actually the fork Kusaba X at http://kusabax.cultnet.net/. Since boards running Kusaba and its forks often don't advertise what software they're running, I haven't bothered to distinguish among these.
+- kusaba - https://github.com/tslocum/kusaba
+    - kusabax - http://kusabax.cultnet.net/
+        - kurisaba - https://github.com/makise-homura/kurisaba
+        - ponyach.ru - https://github.com/acilsd/ponyach.ru
 - wakaba - https://wakaba.c3.cx/s/web/wakaba_kareha
     - wakaba++ - described at https://www.lurkmore.com/view/Wakaba++ but appears to be unpublished
     - glaukaba - https://github.com/marlencrabapple/Glaukaba
