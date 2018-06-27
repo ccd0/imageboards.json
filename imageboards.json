@@ -2430,6 +2430,19 @@
     ]
   },
   {
+    "name": "gChan",
+    "url": "https://www.gekoscloud.it/ImageBoard/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby",
+      "tinyib"
+    ]
+  },
+  {
     "name": "GeminiChan",
     "url": "http://upload.geminight.com/",
     "language": [
