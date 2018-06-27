@@ -2681,6 +2681,17 @@
     "boardlist": "https://gochan.lunachan.net/boards.json"
   },
   {
+    "name": "Gowno.club",
+    "url": "https://gowno.club/all/",
+    "language": [
+      "pl"
+    ],
+    "software": [
+      "doushio",
+      "meguca"
+    ]
+  },
+  {
     "name": "GPUCHAN",
     "url": "http://gpuchan.org/",
     "language": [
