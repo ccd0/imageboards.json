@@ -105,5 +105,5 @@ This is a list of the software codes used in imageboard.json along with links to
 
 You may also be interested in these lists of imageboard software:
 * https://flash.moe/overscript/ (also has mirrors of many scripts)
-* http://9ch.in/overscript/
+* http://9ch.in/overscript/ (also has mirrors of many scripts at http://tanami.org/pub/software/TrueScript/)
 * http://9ch.in/over/index2.pl
