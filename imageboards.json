@@ -10,6 +10,17 @@
     ]
   },
   {
+    "name": "Сталкерач",
+    "url": "http://stalker-ass.hol.es/",
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "kusaba",
+      "kusabax"
+    ]
+  },
+  {
     "name": "Файно",
     "url": "https://fajno.in/",
     "language": [
@@ -608,6 +619,21 @@
     ]
   },
   {
+    "name": "3D size board",
+    "url": "http://3dsize.megame.jp/",
+    "mirrors": [
+      "http://3dsize.megame.jp/",
+      "http://3dsize.moe.hm/"
+    ],
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "kusaba",
+      "kusabax"
+    ]
+  },
+  {
     "name": "410chan",
     "url": "http://410chan.org/",
     "language": [
@@ -842,6 +868,17 @@
       "futaba",
       "futallaby",
       "tinyib"
+    ]
+  },
+  {
+    "name": "9chan",
+    "url": "http://kantia.webd.pl/9chan/",
+    "language": [
+      "pl"
+    ],
+    "software": [
+      "kusaba",
+      "kusabax"
     ]
   },
   {
@@ -2039,6 +2076,17 @@
     "url": "https://www.diochan.com/",
     "language": [
       "it"
+    ],
+    "software": [
+      "kusaba",
+      "kusabax"
+    ]
+  },
+  {
+    "name": "#divbot.net chan",
+    "url": "http://chan.divbot.net/",
+    "language": [
+      "en"
     ],
     "software": [
       "kusaba",
@@ -3649,6 +3697,17 @@
     ]
   },
   {
+    "name": "MiChan",
+    "url": "https://ch.milink.us/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "kusaba",
+      "kusabax"
+    ]
+  },
+  {
     "name": "Minichan",
     "url": "https://minichan.org/",
     "language": [
@@ -4283,6 +4342,17 @@
     "url": "http://operatorchan.org/",
     "language": [
       "en"
+    ],
+    "software": [
+      "kusaba",
+      "kusabax"
+    ]
+  },
+  {
+    "name": "Osmochan",
+    "url": "http://osmch.nanodesu.ru/",
+    "language": [
+      "ru"
     ],
     "software": [
       "kusaba",
@@ -5602,6 +5672,17 @@
     ]
   },
   {
+    "name": "/v/CAST",
+    "url": "http://v.asylumst.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "kusaba",
+      "kusabax"
+    ]
+  },
+  {
     "name": "ViejuCHAN",
     "url": "http://chan.vieju.net/",
     "language": [
@@ -5830,6 +5911,17 @@
   {
     "name": "Zadraw",
     "url": "http://www.zadraw.ch/",
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "kusaba",
+      "kusabax"
+    ]
+  },
+  {
+    "name": "Zenchan",
+    "url": "http://zenchan.hk/",
     "language": [
       "ru"
     ],
