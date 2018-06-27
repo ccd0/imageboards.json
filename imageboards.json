@@ -148,6 +148,18 @@
     ]
   },
   {
+    "name": "二次元萌え板",
+    "url": "http://marisa.razor.jp/www2/moe/moepic.htm",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "moeren"
+    ]
+  },
+  {
     "name": "元祖みろ〜り板",
     "url": "https://koitsu100dora.net/mirohli/futaba.html",
     "language": [
@@ -1626,6 +1638,19 @@
     ]
   },
   {
+    "name": "cheersuki.net",
+    "url": "http://www.cheersuki.net/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "moeren",
+      "siokara"
+    ]
+  },
+  {
     "name": "ChinchillachanIB",
     "url": "https://www.chinchillachan.cl/",
     "language": [
@@ -1690,6 +1715,18 @@
       "gazoubbs",
       "futaba",
       "pixmicat"
+    ]
+  },
+  {
+    "name": "comusume.net",
+    "url": "http://www.comusume.net/index2.html",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "moeren"
     ]
   },
   {
@@ -1908,6 +1945,28 @@
     ],
     "software": [
       "kusaba"
+    ]
+  },
+  {
+    "name": "dhildhil-Planet ひまつぶし",
+    "url": "http://dhildhil.la.coocan.jp/bbsnote/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "bbsnote"
+    ]
+  },
+  {
+    "name": "dhildhil-Planet moepic",
+    "url": "http://dhildhil.la.coocan.jp/moepic/moepic.htm",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "moeren"
     ]
   },
   {
@@ -4013,6 +4072,18 @@
     ]
   },
   {
+    "name": "Nude imageboard",
+    "url": "http://nude.x1xhosting.com/imageboard/moepic.htm",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "moeren"
+    ]
+  },
+  {
     "name": "Nyymichan",
     "url": "https://nyymichan.fi/",
     "language": [
@@ -4031,6 +4102,43 @@
     ],
     "software": [
       "ochiba"
+    ]
+  },
+  {
+    "name": "ohgiri.net /a/, /e/, and /x/",
+    "url": "http://www.ohgiri.net/a/imgboard.htm",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "siokara"
+    ]
+  },
+  {
+    "name": "ohgiri.net /gazou/",
+    "url": "http://www.ohgiri.net/gazou/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "moeren",
+      "siokara"
+    ]
+  },
+  {
+    "name": "ohgiri.net /harimachi/",
+    "url": "http://www.ohgiri.net/harimachi/img.htm",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "moeren"
     ]
   },
   {
@@ -4590,6 +4698,19 @@
       "tinyboard",
       "vichan",
       "arisuchan"
+    ]
+  },
+  {
+    "name": "seiup",
+    "url": "http://seiup.net/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "moeren",
+      "siokara"
     ]
   },
   {
