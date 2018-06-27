@@ -1622,6 +1622,19 @@
     ]
   },
   {
+    "name": "chingchan",
+    "url": "https://boards.chingchong.info/nig/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby",
+      "tinyib"
+    ]
+  },
+  {
     "name": "Chlomochan",
     "url": "https://www.chlomo.org/chan/chloe/index.html",
     "language": [
@@ -2792,6 +2805,19 @@
     ],
     "software": [
       "cgi-design"
+    ]
+  },
+  {
+    "name": "jum4vtydneakx2y3.onion",
+    "url": "http://jum4vtydneakx2y3.onion/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby",
+      "tinyib"
     ]
   },
   {
@@ -4069,6 +4095,19 @@
     ]
   },
   {
+    "name": "PCCHAN",
+    "url": "http://www.pcchan.tk/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby",
+      "tinyib"
+    ]
+  },
+  {
     "name": "PirateBox",
     "url": "http://demo.piratebox.cc/board.html",
     "language": [
@@ -4863,6 +4902,19 @@
     ]
   },
   {
+    "name": "top dis?",
+    "url": "https://5p.lt/if-charcoal-period.if-chp/zib/imbx/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby",
+      "tinyib"
+    ]
+  },
+  {
     "name": "Topsape",
     "url": "http://topsape.ru/chan/",
     "language": [
@@ -5070,6 +5122,19 @@
     ]
   },
   {
+    "name": "Uberchan",
+    "url": "https://uberchan.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby",
+      "tinyib"
+    ]
+  },
+  {
     "name": "Uboachan",
     "url": "https://uboachan.net/",
     "language": [
@@ -5147,6 +5212,19 @@
       "futaba",
       "siokara",
       "yakuba"
+    ]
+  },
+  {
+    "name": "uzlabina.ga",
+    "url": "http://uzlabina.ga/",
+    "language": [
+      "cs"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby",
+      "tinyib"
     ]
   },
   {
