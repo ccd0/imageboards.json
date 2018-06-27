@@ -280,6 +280,16 @@
     ]
   },
   {
+    "name": "ＡＺＵＣＯちゃんねる",
+    "url": "http://azuco.sumomo.ne.jp/kareha/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "kareha"
+    ]
+  },
+  {
     "name": "ｗｋｔｋ ｃｈａｔ 掲示板",
     "url": "http://chat.wktk.so/bin/bbs/",
     "language": [
@@ -2702,6 +2712,16 @@
     ]
   },
   {
+    "name": "Grobichan",
+    "url": "http://ghost.dreamingrealms.de/sfw/",
+    "language": [
+      "de"
+    ],
+    "software": [
+      "kareha"
+    ]
+  },
+  {
     "name": "Gurochan",
     "url": "https://www.gurochan.ch/",
     "language": [
@@ -3017,6 +3037,16 @@
       "tinyboard",
       "vichan",
       "npfchan"
+    ]
+  },
+  {
+    "name": "Institute for ---------",
+    "url": "http://thompsonharris.net/imageboard/board.html",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "kareha"
     ]
   },
   {
@@ -3355,6 +3385,16 @@
     ],
     "software": [
       "livechan"
+    ]
+  },
+  {
+    "name": "kotori.me",
+    "url": "https://kotori.me/kareha/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "kareha"
     ]
   },
   {
@@ -4531,6 +4571,16 @@
     ]
   },
   {
+    "name": "pandoramicbox.freehostia.com",
+    "url": "http://pandoramicbox.freehostia.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "kareha"
+    ]
+  },
+  {
     "name": "parrotchan",
     "url": "http://chan.parrot.coffee/",
     "language": [
@@ -4774,6 +4824,16 @@
     ],
     "software": [
       "cgi-design"
+    ]
+  },
+  {
+    "name": "Ref on Kareha",
+    "url": "https://old.whatisthisimnotgoodwithcomputers.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "kareha"
     ]
   },
   {
@@ -5204,6 +5264,16 @@
       "gazoubbs",
       "futaba",
       "pixmicat"
+    ]
+  },
+  {
+    "name": "strawberry-chan",
+    "url": "https://heaven.sakinorva.net/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "kareha"
     ]
   },
   {
