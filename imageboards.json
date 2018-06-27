@@ -488,6 +488,10 @@
   {
     "name": "2ch.rip",
     "url": "https://2ch.rip/",
+    "mirrors": [
+      "https://2ch.rip/",
+      "https://dva-ch.com/"
+    ],
     "language": [
       "ru"
     ],
