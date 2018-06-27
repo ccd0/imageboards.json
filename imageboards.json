@@ -608,6 +608,19 @@
     ]
   },
   {
+    "name": "4.8chan",
+    "url": "https://home.pilsfree.net/qwerty/sandbox/ib/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby",
+      "tinyib"
+    ]
+  },
+  {
     "name": "4-ch",
     "url": "http://4-ch.net/img/",
     "language": [
@@ -1055,6 +1068,19 @@
     ]
   },
   {
+    "name": "[a tiny imageboard]",
+    "url": "https://board.anicow.site/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby",
+      "tinyib"
+    ]
+  },
+  {
     "name": "Aurorachan",
     "url": "https://aurorachan.net/",
     "language": [
@@ -1142,6 +1168,19 @@
   {
     "name": "Bants",
     "url": "https://cssc.asn.au/b/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby",
+      "tinyib"
+    ]
+  },
+  {
+    "name": "Bants (csscwebsite.azurewebsites.net)",
+    "url": "https://csscwebsite.azurewebsites.net/b/",
     "language": [
       "en"
     ],
@@ -2778,6 +2817,19 @@
       "gazoubbs",
       "futaba",
       "pixmicat"
+    ]
+  },
+  {
+    "name": "Kamil Nowak smiec",
+    "url": "http://altaro.webd.pl/images/board/",
+    "language": [
+      "pl"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby",
+      "tinyib"
     ]
   },
   {
