@@ -13,11 +13,6 @@ This is a list of the software codes used in imageboard.json along with links to
     - ponychan - https://bitbucket.org/ponychan/ponychan-tinyboard
 - gazoubbs - http://web.archive.org/web/20170607054849/http://php.s3.to:80/bbs/bbs3.php
     - futaba - https://www.2chan.net/script/
-        - pixmicat - https://github.com/pixmicat/pixmicat/releases
-            - yotsubanome - http://4ch.mooo.com/+4/script/
-        - siokara - http://siokara.que.jp/
-            - yakuba - used by http://t-jun.kemoren.com/
-            - siokara-gchan - http://web.archive.org/web/20140220052910/http://www42.atpages.jp/gscripts/ (many pages not archived)
         - futallaby - https://www.1chan.net/futallaby/
             - tinyib - https://gitlab.com/tslocum/tinyib
                 - futura - https://sourceforge.net/projects/futurascript/
@@ -25,6 +20,11 @@ This is a list of the software codes used in imageboard.json along with links to
             - pihaba - used by https://2ch.rip/
             - saguaro - http://saguaroimgboard.tk/
             - yotsuba - used by https://www.4chan.org/ (unpublished)
+        - pixmicat - https://github.com/pixmicat/pixmicat/releases
+            - yotsubanome - http://4ch.mooo.com/+4/script/
+        - siokara - http://siokara.que.jp/
+            - yakuba - used by http://t-jun.kemoren.com/
+            - siokara-gchan - http://web.archive.org/web/20140220052910/http://www42.atpages.jp/gscripts/ (many pages not archived)
         - moeren - formerly used by http://web.archive.org/web/20050623021441/http://moepic.dip.jp:80/gazo/
             - moeren-gchan - http://web.archive.org/web/20140220052910/http://www42.atpages.jp/gscripts/ (many pages not archived)
         - futaba-gchan - http://web.archive.org/web/20140220052910/http://www42.atpages.jp/gscripts/ (many pages not archived)
