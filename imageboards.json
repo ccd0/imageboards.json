@@ -2900,6 +2900,17 @@
     ]
   },
   {
+    "name": "Hunajalauta",
+    "url": "http://7gsvzcjvupypvz66.onion/",
+    "language": [
+      "fi"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "HWD EPICU IMAGEBORDO",
     "url": "http://hwd-allstars.bl.ee/boards/",
     "language": [
@@ -4175,6 +4186,16 @@
     ]
   },
   {
+    "name": "Nimetönlauta",
+    "url": "http://nimetonsarpyc6mm.onion/",
+    "language": [
+      "fi"
+    ],
+    "software": [
+      "lynxchan"
+    ]
+  },
+  {
     "name": "nineball",
     "url": "https://nineball.party/nap/",
     "language": [
@@ -5424,6 +5445,16 @@
     ],
     "software": [
       "topsape"
+    ]
+  },
+  {
+    "name": "Torilauta",
+    "url": "http://hss33mlbykbsxmug.onion/",
+    "language": [
+      "fi"
+    ],
+    "software": [
+      "lynxchan"
     ]
   },
   {
