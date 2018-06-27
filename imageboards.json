@@ -1328,6 +1328,16 @@
     ]
   },
   {
+    "name": "BillChan",
+    "url": "http://einsynd.pw/waka/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "wakaba"
+    ]
+  },
+  {
     "name": "Bitardchan",
     "url": "http://bitardengine.w.pw/",
     "language": [
@@ -1367,6 +1377,16 @@
     ],
     "software": [
       "tinyboard"
+    ]
+  },
+  {
+    "name": "boards.selfishnode.com",
+    "url": "http://boards.selfishnode.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "wakaba"
     ]
   },
   {
@@ -1863,6 +1883,16 @@
     ],
     "software": [
       "tinyboard"
+    ]
+  },
+  {
+    "name": "Cuckold Chan",
+    "url": "http://www.cuckoldplacetube.com/forum/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "wakaba"
     ]
   },
   {
@@ -2649,6 +2679,16 @@
       "gochan"
     ],
     "boardlist": "https://gochan.lunachan.net/boards.json"
+  },
+  {
+    "name": "GPUCHAN",
+    "url": "http://gpuchan.org/",
+    "language": [
+      "fr"
+    ],
+    "software": [
+      "wakaba"
+    ]
   },
   {
     "name": "Gurochan",
@@ -4712,6 +4752,16 @@
     ],
     "software": [
       "tinyboard"
+    ]
+  },
+  {
+    "name": "Ripper's Anime Page - Music Request Board",
+    "url": "https://www.rippersanime.info/index.php?page=MusicBoard",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "wakaba"
     ]
   },
   {
