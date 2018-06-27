@@ -2,15 +2,6 @@
 
 This is a list of the software codes used in imageboard.json along with links to / info about the corresponding imageboard software.
 
-- tinyboard - https://github.com/savetheinternet/Tinyboard
-    - vichan - https://github.com/vichan-devel/vichan/
-        - infinity - https://github.com/ctrlcctrlv/infinity
-            - openib - https://github.com/OpenIB/OpenIB
-        - npfchan - https://github.com/fallenPineapple/NPFchan
-        - lainchan - https://github.com/lainchan/lainchan
-        - arisuchan - https://github.com/arisu-dev/arisuchan
-        - fukuro - https://github.com/twiforce/fukuro
-    - ponychan - https://bitbucket.org/ponychan/ponychan-tinyboard
 - gazoubbs - http://web.archive.org/web/20170607054849/http://php.s3.to:80/bbs/bbs3.php
     - futaba - https://www.2chan.net/script/
         - futallaby - https://www.1chan.net/futallaby/
@@ -30,6 +21,15 @@ This is a list of the software codes used in imageboard.json along with links to
         - futaba-gchan - http://web.archive.org/web/20140220052910/http://www42.atpages.jp/gscripts/ (many pages not archived)
             - kabuban - used by http://www.kabuban.net/
         - monaca - http://akahuku.dw.land.to/monaca/ (dead)
+- tinyboard - https://github.com/savetheinternet/Tinyboard
+    - vichan - https://github.com/vichan-devel/vichan/
+        - infinity - https://github.com/ctrlcctrlv/infinity
+            - openib - https://github.com/OpenIB/OpenIB
+        - npfchan - https://github.com/fallenPineapple/NPFchan
+        - lainchan - https://github.com/lainchan/lainchan
+        - arisuchan - https://github.com/arisu-dev/arisuchan
+        - fukuro - https://github.com/twiforce/fukuro
+    - ponychan - https://bitbucket.org/ponychan/ponychan-tinyboard
 - kusaba - Most boards marked this are actually the fork Kusaba X at http://kusabax.cultnet.net/. Since boards running Kusaba and its forks often don't advertise what software they're running, I haven't bothered to distinguish among these.
 - wakaba - https://wakaba.c3.cx/s/web/wakaba_kareha
     - wakaba++ - described at https://www.lurkmore.com/view/Wakaba++ but appears to be unpublished
@@ -48,8 +48,8 @@ This is a list of the software codes used in imageboard.json along with links to
 - atbbs - https://sourceforge.net/projects/atbbs/
     - tinybbs - https://github.com/r04r/minichan
         - minibbs - http://www.minibbs.org/
-- imgboard - http://www.big.or.jp/~talk/t-club/soft/index.html
 - bbsnote - http://web.archive.org/web/20050116004959/http://wondercatstudio.com:80/html/download.html
+- imgboard - http://www.big.or.jp/~talk/t-club/soft/index.html
 - joyfulnote - http://www.kent-web.com/bbs/joyful.html
     - jn+yyb - http://w-space.net/subcon/cgi.htm
     - joyful2ch - http://falcon.s16.xrea.com/
