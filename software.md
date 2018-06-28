@@ -44,6 +44,7 @@ This is a list of the software codes used in imageboard.json along with links to
     - phutaba - https://github.com/ernstchan/phutaba
     - taimaba - used by https://420chan.org/
     - wakaru - https://github.com/NamelessRumia/Wakaru
+- bbsnote - http://web.archive.org/web/20050116004959/http://wondercatstudio.com:80/html/download.html
 - doushio - https://github.com/lalcmellkmal/doushio
     - meguca - https://github.com/bakape/meguca
         - cutechan - https://github.com/cutechan/cutechan
@@ -54,7 +55,6 @@ This is a list of the software codes used in imageboard.json along with links to
 - atbbs - https://sourceforge.net/projects/atbbs/
     - tinybbs - https://github.com/r04r/minichan
         - minibbs - http://www.minibbs.org/
-- bbsnote - http://web.archive.org/web/20050116004959/http://wondercatstudio.com:80/html/download.html
 - imgboard - http://www.big.or.jp/~talk/t-club/soft/index.html
 - joyfulnote - http://www.kent-web.com/bbs/joyful.html
     - jn+yyb - http://w-space.net/subcon/cgi.htm
