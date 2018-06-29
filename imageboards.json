@@ -1741,19 +1741,6 @@
     ]
   },
   {
-    "name": "Catchan",
-    "url": "https://catchan.net/lainchan/",
-    "language": [
-      "en",
-      "de"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "lainchan"
-    ]
-  },
-  {
     "name": "catdiary.littlestar.jp",
     "url": "http://catdiary.littlestar.jp/cgi-bin/bbs39.cgi",
     "language": [
@@ -2380,7 +2367,7 @@
   },
   {
     "name": "Einskanal",
-    "url": "http://www.einskanal.net/",
+    "url": "https://www.einskanal.net/",
     "language": [
       "de"
     ],
