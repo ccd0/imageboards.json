@@ -411,7 +411,12 @@
   {
     "name": "10ch お絵描き",
     "url": "http://www.10ch.tv/bbs_draw/bbsnote.cgi",
-    "language": []
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "bbsnote"
+    ]
   },
   {
     "name": "10ch 画像アップロード",
@@ -3398,7 +3403,12 @@
   {
     "name": "kimix.gogo.tc/cgi/bbsnote2/",
     "url": "http://kimix.gogo.tc/cgi/bbsnote2/bbsnote.cgi",
-    "language": []
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "bbsnote"
+    ]
   },
   {
     "name": "Kiwiszon",
