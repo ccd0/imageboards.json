@@ -4052,19 +4052,6 @@
     ]
   },
   {
-    "name": "MMXchan",
-    "url": "http://mmxchan.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "futallaby",
-      "tinyib"
-    ]
-  },
-  {
     "name": "Mod Imageboard",
     "url": "https://www.modception.com/imageboard/",
     "language": [
@@ -6319,16 +6306,6 @@
       "kusaba",
       "kusabax",
       "novovvedeniya"
-    ]
-  },
-  {
-    "name": "ZUUL IB",
-    "url": "https://zuul.biner.xyz/index.html",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "kareha"
     ]
   }
 ]
