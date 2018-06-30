@@ -3745,10 +3745,6 @@
   {
     "name": "Lolnada",
     "url": "https://lolnada.org/",
-    "mirrors": [
-      "https://lolnada.org/",
-      "https://pe-chan.org/"
-    ],
     "language": [
       "es"
     ],
