@@ -4309,9 +4309,9 @@
   },
   {
     "name": "New Chan",
-    "url": "https://proxy.newchan.org/",
+    "url": "https://newchan.torbox.org/",
     "mirrors": [
-      "https://proxy.newchan.org/",
+      "https://newchan.torbox.org/",
       "http://newchancqsm7tjzc.onion/"
     ],
     "language": [
