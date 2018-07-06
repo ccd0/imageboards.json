@@ -1152,6 +1152,17 @@
     ]
   },
   {
+    "name": "Anon Share",
+    "url": "http://anonshrr2pucdpxo.onion/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "anzuchang.com",
     "url": "http://anzuchang.com/",
     "language": [
@@ -4318,9 +4329,9 @@
   },
   {
     "name": "New Chan",
-    "url": "https://newchan.torbox.org/",
+    "url": "https://newchan.org/",
     "mirrors": [
-      "https://newchan.torbox.org/",
+      "https://newchan.org/",
       "http://newchancqsm7tjzc.onion/"
     ],
     "language": [
