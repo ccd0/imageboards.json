@@ -625,7 +625,7 @@
       "ru"
     ],
     "software": [
-      "tinyboard"
+      "exaba"
     ]
   },
   {
@@ -2186,6 +2186,9 @@
     "url": "http://dinky-digger.ru/",
     "language": [
       "ru"
+    ],
+    "software": [
+      "exaba"
     ]
   },
   {
