@@ -56,13 +56,13 @@ This is a list of the software codes used in imageboard.json along with links to
     - tinybbs - https://github.com/r04r/minichan
         - minibbs - http://www.minibbs.org/
 - imgboard - http://www.big.or.jp/~talk/t-club/soft/index.html
+- exaba - http://web.archive.org/web/20150429042034/http://exachan.com/exaba/ (last archived release: http://web.archive.org/web/20130614124246/http://exachan.com/exaba/downloads/exaba_0_9_9.zip)
 - joyfulnote - http://www.kent-web.com/bbs/joyful.html
     - jn+yyb - http://w-space.net/subcon/cgi.htm
     - joyful2ch - http://falcon.s16.xrea.com/
         - joyful2chme - www.supra.cx/joyful2chMe/index.html
 - ochiba - http://ochiba.x-maru.org/
 - emanon - https://github.com/oprel/emanon
-- exaba - http://web.archive.org/web/20150429042034/http://exachan.com/exaba/ (last archived release: http://web.archive.org/web/20130614124246/http://exachan.com/exaba/downloads/exaba_0_9_9.zip)
 - foolfuuka - https://github.com/FoolCode/FoolFuuka
 - livechan - https://github.com/emgram769/livechan-js
 - matsuri - used by https://kyber.io/matsuri
