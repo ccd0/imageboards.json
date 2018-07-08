@@ -3808,18 +3808,6 @@
     "boardlist": "http://lynxhub.com/index.json"
   },
   {
-    "name": "m2ch.hk",
-    "url": "https://m2ch.hk/",
-    "mirrors": [
-      "https://m2ch.hk/",
-      "https://m2ch.611.to/",
-      "http://91.227.17.26/"
-    ],
-    "language": [
-      "ru"
-    ]
-  },
-  {
     "name": "Macrochan",
     "url": "http://macrochan.us/",
     "language": [
