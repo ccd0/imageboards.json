@@ -1409,16 +1409,6 @@
     ]
   },
   {
-    "name": "Berndchan",
-    "url": "https://berndchan.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ]
-  },
-  {
     "name": "Bienvenido a Internet",
     "url": "https://bienvenidoainternet.org/",
     "language": [
@@ -5401,18 +5391,6 @@
     "boardlist": "https://spacechan.xyz/index.json"
   },
   {
-    "name": "spg-web.sytes.net/PasteChart/insect/",
-    "url": "http://spg-web.sytes.net/PasteChart/insect/",
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat"
-    ]
-  },
-  {
     "name": "spychan.freezonereader.net",
     "url": "http://spychan.freezonereader.net/",
     "language": [
@@ -6228,16 +6206,6 @@
     "software": [
       "kusaba",
       "kusabax"
-    ]
-  },
-  {
-    "name": "Xchan",
-    "url": "https://xchan.pw/",
-    "language": [
-      "pt"
-    ],
-    "software": [
-      "monki"
     ]
   },
   {
