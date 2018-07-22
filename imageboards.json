@@ -5944,15 +5944,13 @@
   },
   {
     "name": "Uberchan",
-    "url": "https://uberchan.org/",
+    "url": "https://imageboard.uberchan.org/all/",
     "language": [
       "en"
     ],
     "software": [
-      "gazoubbs",
-      "futaba",
-      "futallaby",
-      "tinyib"
+      "doushio",
+      "meguca"
     ]
   },
   {
