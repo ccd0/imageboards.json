@@ -4858,6 +4858,17 @@
     ]
   },
   {
+    "name": "PokemonBBS",
+    "url": "https://pokemonbbs.com/poke/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "webpatio",
+      "webpatio-kirishima"
+    ]
+  },
+  {
     "name": "polycancer.org",
     "url": "https://polycancer.org/",
     "language": [

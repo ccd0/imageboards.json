@@ -103,6 +103,8 @@ This is a list of the software codes used in imageboard.json along with links to
 - topsape - https://github.com/Spryt/TopsapeChan
 - uchan - https://github.com/Floens/uchan
 - weabot - used by https://bienvenidoainternet.org/
+- webpatio - http://www.kent-web.com/bbs/patio.html
+    - webpatio-kirishima - http://kirishima.it/patio/
 - werchan - https://github.com/kfarwell/werchan
 
 You may also be interested in these lists of imageboard software:
