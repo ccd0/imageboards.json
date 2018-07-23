@@ -2554,7 +2554,7 @@
   },
   {
     "name": "ffdq.com 何でもお絵かき掲示板",
-    "url": "http://www.ffdq.com/cgi-bin/draw2/bbsnote.cgi",
+    "url": "https://www.ffdq.com/cgi-bin/draw2/bbsnote.cgi",
     "language": [
       "ja"
     ],
@@ -4120,7 +4120,7 @@
   },
   {
     "name": "Motherless",
-    "url": "http://motherless.com/boards/",
+    "url": "https://motherless.com/boards/",
     "language": [
       "en"
     ]
