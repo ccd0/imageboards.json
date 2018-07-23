@@ -1163,6 +1163,17 @@
     ]
   },
   {
+    "name": "Anon Sharer",
+    "url": "https://anonsharer.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "anzuchang.com",
     "url": "http://anzuchang.com/",
     "language": [
@@ -4303,21 +4314,6 @@
     ],
     "software": [
       "nerve"
-    ]
-  },
-  {
-    "name": "New Chan",
-    "url": "https://newchan.org/",
-    "mirrors": [
-      "https://newchan.org/",
-      "http://newchancqsm7tjzc.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
     ]
   },
   {
