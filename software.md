@@ -91,7 +91,6 @@ This is a list of the software codes used in imageboard.json along with links to
 - mayuri - used by https://horochan.ru/
 - mei - https://github.com/lulalala/mei
 - monaba - https://github.com/ahushh/Monaba
-- monki - https://github.com/exclude/monki
 - neboard - https://bitbucket.org/neko259/neboard
 - neoboard - https://github.com/neochaner/neochan
 - nerve - https://github.com/codingneko/nerve
