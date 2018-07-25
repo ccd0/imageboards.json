@@ -2607,16 +2607,12 @@
   },
   {
     "name": "Freech",
-    "url": "https://freech.net/",
-    "mirrors": [
-      "https://freech.net/",
-      "https://freech.nfshost.com/"
-    ],
+    "url": "https://freech.net/kareha/",
     "language": [
       "en"
     ],
     "software": [
-      "lynxchan"
+      "kareha"
     ]
   },
   {
