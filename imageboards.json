@@ -473,17 +473,6 @@
     ]
   },
   {
-    "name": "185.62.136.138",
-    "url": "http://185.62.136.138/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "1chan",
     "url": "https://www.1chan.net/rail/",
     "language": [
@@ -1385,16 +1374,6 @@
       "futaba",
       "futallaby",
       "tinyib"
-    ]
-  },
-  {
-    "name": "BBW",
-    "url": "https://ebbw.ml/s/bbw/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard"
     ]
   },
   {
@@ -3280,16 +3259,6 @@
     ]
   },
   {
-    "name": "J 's Photo B B S",
-    "url": "http://r93.net/bbs_j06302017/bbs39/bbs39.cgi",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "cgi-design"
-    ]
-  },
-  {
     "name": "jum4vtydneakx2y3.onion",
     "url": "http://jum4vtydneakx2y3.onion/",
     "language": [
@@ -4448,17 +4417,6 @@
     ]
   },
   {
-    "name": "Nomads corner",
-    "url": "http://nomsc.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "Not4/jp/",
     "url": "https://not4jp.ml/",
     "language": [
@@ -4979,17 +4937,6 @@
     "software": [
       "kusaba",
       "kusabax"
-    ]
-  },
-  {
-    "name": "QuestChan",
-    "url": "https://questchan.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
     ]
   },
   {
@@ -6184,17 +6131,6 @@
     "url": "http://www.solfranc.com/second_hand/2Mano/",
     "language": [
       "es"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
-    ]
-  },
-  {
-    "name": "Xynta",
-    "url": "https://xynta.ch/x/",
-    "language": [
-      "ru"
     ],
     "software": [
       "kusaba",
