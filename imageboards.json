@@ -4712,6 +4712,17 @@
     ]
   },
   {
+    "name": "Perfectchan",
+    "url": "https://perfectchan.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "PirateBox",
     "url": "http://demo.piratebox.cc/board.html",
     "language": [
