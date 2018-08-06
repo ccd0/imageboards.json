@@ -4584,16 +4584,6 @@
     ]
   },
   {
-    "name": "otakunopodcast",
-    "url": "http://wakaba.otakunopodcast.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "wakaba"
-    ]
-  },
-  {
     "name": "OtakuTalk",
     "url": "http://otakutalk.org/",
     "language": [
