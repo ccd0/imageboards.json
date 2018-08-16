@@ -1130,17 +1130,6 @@
     ]
   },
   {
-    "name": "Anon Share",
-    "url": "http://anonshrr2pucdpxo.onion/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "Anon Sharer",
     "url": "https://anonsharer.org/",
     "language": [
