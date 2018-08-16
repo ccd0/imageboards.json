@@ -5310,6 +5310,21 @@
     "boardlist": "https://spacechan.xyz/index.json"
   },
   {
+    "name": "Sportschan",
+    "url": "https://sportschan.org/",
+    "mirrors": [
+      "https://sportschan.org/",
+      "https://carchan.wrigel.xyz/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "spychan.freezonereader.net",
     "url": "http://spychan.freezonereader.net/",
     "language": [
