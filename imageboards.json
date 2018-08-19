@@ -5541,6 +5541,19 @@
     ]
   },
   {
+    "name": "TinaChan",
+    "url": "https://tinachan.club/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby",
+      "tinyib"
+    ]
+  },
+  {
     "name": "TinyChan",
     "url": "https://tinychan.org/",
     "language": [
