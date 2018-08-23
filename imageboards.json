@@ -1349,6 +1349,17 @@
     ]
   },
   {
+    "name": "Barachan",
+    "url": "http://boards.barachan.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "bbw-chan",
     "url": "https://bbw-chan.nl/",
     "language": [
@@ -3928,6 +3939,18 @@
       "tinyboard",
       "vichan",
       "npfchan"
+    ]
+  },
+  {
+    "name": "MMXchan",
+    "url": "http://mmxchan.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "lainchan"
     ]
   },
   {
