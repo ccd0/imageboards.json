@@ -838,19 +838,13 @@
   },
   {
     "name": "64chan",
-    "url": "https://n64chan.me/all/",
-    "mirrors": [
-      "https://n64chan.me/",
-      "http://leb3rkvqzw2qd4dg.onion/",
-      "http://ut43rj3g2pg2cx62.onion/",
-      "http://uebff7g6dfuoupfl.onion/"
-    ],
+    "url": "https://n64chan.me/",
     "language": [
       "en"
     ],
     "software": [
-      "doushio",
-      "meguca"
+      "tinyboard",
+      "vichan"
     ]
   },
   {
