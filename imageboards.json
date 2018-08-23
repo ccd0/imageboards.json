@@ -1360,17 +1360,6 @@
     ]
   },
   {
-    "name": "Belchan",
-    "url": "https://belchan.org/",
-    "language": [
-      "be"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
-    ]
-  },
-  {
     "name": "Bienvenido a Internet",
     "url": "https://bienvenidoainternet.org/",
     "language": [
@@ -2003,16 +1992,6 @@
     ]
   },
   {
-    "name": "DCVN rebirth",
-    "url": "http://boards.extradyne.com/dcvn/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard"
-    ]
-  },
-  {
     "name": "Deep Hole",
     "url": "http://the-deep.hol.es/",
     "language": [
@@ -2195,17 +2174,6 @@
     "software": [
       "wakaba",
       "hanabira"
-    ]
-  },
-  {
-    "name": "Dogolachan",
-    "url": "https://dogolachan.org/",
-    "language": [
-      "pt"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
     ]
   },
   {
@@ -2557,17 +2525,6 @@
     ]
   },
   {
-    "name": "fr.jennair.ca",
-    "url": "http://fr.jennair.ca/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "Fuck Yeah Imageboard",
     "url": "http://fyib.uselessirc.net/",
     "language": [
@@ -2722,19 +2679,6 @@
     ]
   },
   {
-    "name": "Gnarly-Chan",
-    "url": "http://gchan.x10.mx/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "futallaby",
-      "tinyib"
-    ]
-  },
-  {
     "name": "Gochan",
     "url": "https://gochan.org/",
     "mirrors": [
@@ -2828,17 +2772,6 @@
       "futaba",
       "futallaby",
       "tinyib"
-    ]
-  },
-  {
-    "name": "hardr.io",
-    "url": "http://hardr.io/b/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
     ]
   },
   {
@@ -4874,17 +4807,6 @@
     "url": "https://pregchan.com/",
     "language": [
       "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "Ptchan",
-    "url": "https://ptchan.net/",
-    "language": [
-      "pt"
     ],
     "software": [
       "tinyboard",
