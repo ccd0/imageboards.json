@@ -5238,6 +5238,18 @@
     "boardlist": "https://spacechan.xyz/index.json"
   },
   {
+    "name": "spg-web.sytes.net/PasteChart/insect/",
+    "url": "http://spg-web.sytes.net/PasteChart/insect/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "pixmicat"
+    ]
+  },
+  {
     "name": "Sportschan",
     "url": "https://sportschan.org/",
     "mirrors": [
