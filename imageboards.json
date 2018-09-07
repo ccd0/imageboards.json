@@ -2716,6 +2716,17 @@
     "boardlist": "https://gochan.lunachan.net/boards.json"
   },
   {
+    "name": "gopherchan",
+    "url": "gopher://port70.net/1chan",
+    "mirrors": [
+      "gopher://port70.net/",
+      "https://port70.net/?"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
     "name": "Gowno.club",
     "url": "https://gowno.club/all/",
     "language": [
