@@ -859,6 +859,17 @@
     ]
   },
   {
+    "name": "7chan.pw",
+    "url": "http://7chan.pw/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "kusaba",
+      "kusabax"
+    ]
+  },
+  {
     "name": "7clams",
     "url": "http://7clams.org/",
     "language": [
