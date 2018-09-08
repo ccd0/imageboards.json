@@ -4849,6 +4849,17 @@
     ]
   },
   {
+    "name": "Puertochan",
+    "url": "https://puertochan.net/",
+    "language": [
+      "es"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "PulpRiot",
     "url": "http://riot.pulprev.com/",
     "language": [
