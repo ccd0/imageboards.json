@@ -848,6 +848,17 @@
     ]
   },
   {
+    "name": "66Chan",
+    "url": "http://66chan.pw/s/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "kusaba",
+      "kusabax"
+    ]
+  },
+  {
     "name": "7chan",
     "url": "https://7chan.org/",
     "language": [
