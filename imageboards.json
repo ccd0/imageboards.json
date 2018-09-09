@@ -1236,19 +1236,6 @@
     ]
   },
   {
-    "name": "[a tiny imageboard]",
-    "url": "https://board.anicow.site/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "futallaby",
-      "tinyib"
-    ]
-  },
-  {
     "name": "Aurorachan",
     "url": "https://aurorachan.net/",
     "language": [
@@ -1902,17 +1889,6 @@
   {
     "name": "Containerchan",
     "url": "http://containerchan.org/tb/demo/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "controller",
-    "url": "http://johnisdead.com/key592/control/",
     "language": [
       "en"
     ],
@@ -6180,17 +6156,6 @@
   {
     "name": "Zadraw",
     "url": "http://www.zadraw.ch/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
-    ]
-  },
-  {
-    "name": "Zenchan",
-    "url": "http://zenchan.hk/",
     "language": [
       "ru"
     ],
