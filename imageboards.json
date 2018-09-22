@@ -1375,9 +1375,9 @@
       "en"
     ],
     "software": [
-      "tinyboard",
-      "vichan"
-    ]
+      "lynxchan"
+    ],
+    "boardlist": "https://bbw-chan.nl/index.json"
   },
   {
     "name": "Bienvenido a Internet",
