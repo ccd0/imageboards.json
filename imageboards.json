@@ -591,23 +591,6 @@
     ]
   },
   {
-    "name": "2ch.rip",
-    "url": "https://2ch.rip/",
-    "mirrors": [
-      "https://2ch.rip/",
-      "https://dva-ch.com/"
-    ],
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "futallaby",
-      "pihaba"
-    ]
-  },
-  {
     "name": "2fan",
     "url": "http://2fan.ru/ch/",
     "language": [
@@ -837,17 +820,6 @@
     ]
   },
   {
-    "name": "64chan",
-    "url": "https://n64chan.me/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "66Chan",
     "url": "http://66chan.pw/s/",
     "language": [
@@ -918,17 +890,6 @@
     "software": [
       "tinyboard",
       "vichan"
-    ]
-  },
-  {
-    "name": "929chan",
-    "url": "http://929chan.us/kusaba/kusaba.php",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
     ]
   },
   {
@@ -1301,13 +1262,6 @@
     "software": [
       "tinyboard",
       "vichan"
-    ]
-  },
-  {
-    "name": "b4chan",
-    "url": "https://b4chan.org/",
-    "language": [
-      "en"
     ]
   },
   {
@@ -2086,17 +2040,6 @@
     ]
   },
   {
-    "name": "Desulauta",
-    "url": "https://desulauta.org/",
-    "language": [
-      "fi"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
-    ]
-  },
-  {
     "name": "dev.bbs",
     "url": "http://atbbs.lostsig.com/",
     "language": [
@@ -2267,16 +2210,6 @@
     ],
     "software": [
       "tinyboard"
-    ]
-  },
-  {
-    "name": "Dvach",
-    "url": "http://dvach.hut2.ru/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "wakaba"
     ]
   },
   {
@@ -2633,19 +2566,6 @@
     ]
   },
   {
-    "name": "gChan",
-    "url": "https://www.gekoscloud.it/ImageBoard/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "futallaby",
-      "tinyib"
-    ]
-  },
-  {
     "name": "GeminiChan",
     "url": "http://upload.geminight.com/",
     "language": [
@@ -2769,16 +2689,6 @@
       "gazoubbs",
       "futaba",
       "pixmicat"
-    ]
-  },
-  {
-    "name": "haay.s12w.com/BBS/",
-    "url": "https://haay.s12w.com/BBS/index.cgi",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "bbsnote"
     ]
   },
   {
@@ -4896,16 +4806,6 @@
     ]
   },
   {
-    "name": "Requested Everywhere",
-    "url": "http://requestedeverywhere.com/board/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "mitsuba"
-    ]
-  },
-  {
     "name": "Rfch",
     "url": "https://rfch.rocks/",
     "language": [
@@ -5094,18 +4994,6 @@
       "futaba",
       "futallaby",
       "tinyib"
-    ]
-  },
-  {
-    "name": "Seguridad de Sistemas",
-    "url": "https://tvn.tw/ss/",
-    "language": [
-      "es"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "arisuchan"
     ]
   },
   {
