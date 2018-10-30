@@ -21,6 +21,7 @@ This is a list of the software codes used in imageboard.json along with links to
         - futaba-gchan - http://web.archive.org/web/20140220052910/http://www42.atpages.jp/gscripts/ (many pages not archived)
             - kabuban - used by http://www.kabuban.net/
         - monaca - http://akahuku.dw.land.to/monaca/ (dead)
+        - poti-board - http://web.archive.org/web/20170707091918/http://www.punyu.net/php/oekaki.php (downloads not archived)
 - tinyboard - https://github.com/savetheinternet/Tinyboard
     - vichan - https://github.com/vichan-devel/vichan/
         - infinity - https://github.com/ctrlcctrlv/infinity

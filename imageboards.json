@@ -519,7 +519,7 @@
   },
   {
     "name": "23ch",
-    "url": "http://23ch.ru/",
+    "url": "https://23ch.ru/",
     "language": [
       "ru"
     ],
@@ -1265,17 +1265,6 @@
     ]
   },
   {
-    "name": "BABAJILAB",
-    "url": "http://babajilab.org/imageboard.html",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "Balls",
     "url": "http://balls.jimboulter.com/",
     "language": [
@@ -1567,6 +1556,17 @@
     ],
     "software": [
       "matsuri"
+    ]
+  },
+  {
+    "name": "Brucechan",
+    "url": "https://babajilab.org/imageboard.html",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
@@ -2607,7 +2607,7 @@
   },
   {
     "name": "GirlsChannel",
-    "url": "http://girlschannel.net/",
+    "url": "https://girlschannel.net/",
     "language": [
       "ja"
     ]
@@ -4529,8 +4529,20 @@
     ]
   },
   {
+    "name": "PaintBBS/しぃペインター",
+    "url": "https://pbbs.sakura.ne.jp/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "poti-board"
+    ]
+  },
+  {
     "name": "PaintBBS NEOお絵かき掲示板",
-    "url": "http://pbbs.sakura.ne.jp/cgi/neo/",
+    "url": "http://pbbs.sakura.ne.jp/cgi/pastlog/bbs/neo/",
     "language": [
       "ja"
     ],
