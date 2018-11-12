@@ -671,6 +671,18 @@
     ]
   },
   {
+    "name": "3chan",
+    "url": "https://3chan.co/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby"
+    ]
+  },
+  {
     "name": "3D size board",
     "url": "http://3dsize.megame.jp/",
     "mirrors": [
