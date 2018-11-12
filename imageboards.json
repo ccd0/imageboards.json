@@ -683,6 +683,13 @@
     ]
   },
   {
+    "name": "3chan.io",
+    "url": "https://3chan.io/",
+    "language": [
+      "en"
+    ]
+  },
+  {
     "name": "3D size board",
     "url": "http://3dsize.megame.jp/",
     "mirrors": [
