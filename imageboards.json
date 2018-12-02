@@ -3246,6 +3246,17 @@
     ]
   },
   {
+    "name": "Kissu.moe",
+    "url": "http://kissu.moe/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Kiwiszon",
     "url": "https://kiwiszon.org/kusaba.php",
     "language": [
