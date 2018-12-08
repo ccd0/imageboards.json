@@ -839,6 +839,17 @@
     ]
   },
   {
+    "name": "64chan",
+    "url": "http://64ch.net/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "7chan",
     "url": "https://7chan.org/",
     "language": [
