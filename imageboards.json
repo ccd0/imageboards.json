@@ -5970,12 +5970,9 @@
   },
   {
     "name": "Wilchan",
-    "url": "https://wilchan.org/",
+    "url": "https://wilchan.org/dev/",
     "language": [
       "pl"
-    ],
-    "software": [
-      "tinyboard"
     ]
   },
   {
