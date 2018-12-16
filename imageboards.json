@@ -2193,6 +2193,16 @@
     ]
   },
   {
+    "name": "Dominions General",
+    "url": "https://domg.xyz/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ]
+  },
+  {
     "name": "dont.datamine.me",
     "url": "http://dont.datamine.me/boards.html",
     "language": [
@@ -2957,6 +2967,16 @@
     ]
   },
   {
+    "name": "Indiachan",
+    "url": "https://indiachan.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ]
+  },
+  {
     "name": "InnerChan",
     "url": "https://www.innerchan.org/",
     "language": [
@@ -3163,6 +3183,16 @@
       "futaba",
       "futallaby",
       "tinyib"
+    ]
+  },
+  {
+    "name": "kek.fun",
+    "url": "https://kek.fun/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
     ]
   },
   {
@@ -3729,6 +3759,16 @@
     ],
     "software": [
       "bbsnote"
+    ]
+  },
+  {
+    "name": "Meep Morp Central",
+    "url": "https://www.meepmorp.net/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
     ]
   },
   {
@@ -5863,6 +5903,16 @@
     "software": [
       "tinyboard",
       "vichan"
+    ]
+  },
+  {
+    "name": "Waifuist.pro",
+    "url": "https://waifuist.pro/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
     ]
   },
   {
