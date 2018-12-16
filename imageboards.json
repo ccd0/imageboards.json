@@ -10,6 +10,16 @@
     ]
   },
   {
+    "name": "Нарячан",
+    "url": "naryachan.net",
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "tinyboard"
+    ]
+  },
+  {
     "name": "Сталкерач",
     "url": "http://stalker-ass.hol.es/",
     "language": [
@@ -4694,6 +4704,16 @@
     ]
   },
   {
+    "name": "PoorChan",
+    "url": "http://chan.poorcoding.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard"
+    ]
+  },
+  {
     "name": "popup15.tok2.com/home2/piyoraji/",
     "url": "http://popup15.tok2.com/home2/piyoraji/cgi-bin/note/bbsnote.cgi",
     "language": [
@@ -5122,6 +5142,16 @@
       "lynxchan"
     ],
     "boardlist": "https://spacechan.xyz/index.json"
+  },
+  {
+    "name": "spchan",
+    "url": "http://chan.swordpretzel.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard"
+    ]
   },
   {
     "name": "spg-web.sytes.net/PasteChart/insect/",
