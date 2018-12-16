@@ -4531,6 +4531,17 @@
     ]
   },
   {
+    "name": "PASTA SYNDIGAT",
+    "url": "http://boards.xxpizzaxx.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "pawsru.org",
     "url": "https://pawsru.org/",
     "mirrors": [
