@@ -554,11 +554,7 @@
   },
   {
     "name": "2cat",
-    "url": "http://2cat.cf/",
-    "mirrors": [
-      "http://2cat.cf/",
-      "http://2cat.gq/"
-    ],
+    "url": "https://2cat.tk/",
     "language": [
       "zh"
     ],
