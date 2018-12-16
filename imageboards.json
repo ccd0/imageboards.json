@@ -1707,6 +1707,19 @@
     ]
   },
   {
+    "name": "chan.lv",
+    "url": "https://chan.lv/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby",
+      "tinyib"
+    ]
+  },
+  {
     "name": "Channel Minamo",
     "url": "http://bbs.mnmoc.click/",
     "language": [
