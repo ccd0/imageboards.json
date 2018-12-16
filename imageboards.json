@@ -3796,6 +3796,16 @@
     ]
   },
   {
+    "name": "MIPT Cancer Storage",
+    "url": "http://eksusha.campus.mipt.ru/",
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "wakaba"
+    ]
+  },
+  {
     "name": "mirohlichan.net",
     "url": "https://mirohlichan.net/",
     "language": [
