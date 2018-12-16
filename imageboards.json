@@ -353,6 +353,17 @@
     ]
   },
   {
+    "name": "🌲",
+    "url": "https://org.computer/%F0%9F%8C%B2/a/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "02ch",
     "url": "https://02ch.in/all/",
     "language": [
@@ -1637,6 +1648,17 @@
     ]
   },
   {
+    "name": "cakeisdead.rip",
+    "url": "https://cakeisdead.rip/b/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Cal Animage Epsilon",
     "url": "https://clubs.uci.edu/cae/a/index.html",
     "language": [
@@ -1908,6 +1930,16 @@
     ],
     "software": [
       "wakaba"
+    ]
+  },
+  {
+    "name": "Cuntbusters Anonymous",
+    "url": "http://tpowis.net/cba/imageboard/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard"
     ]
   },
   {
@@ -3350,6 +3382,17 @@
     ],
     "software": [
       "tinyboard"
+    ]
+  },
+  {
+    "name": "kurchan",
+    "url": "https://kurac.org/kurchan/b/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
@@ -5680,6 +5723,17 @@
     "software": [
       "kusaba",
       "kusabax"
+    ]
+  },
+  {
+    "name": "UnknownOnline.me",
+    "url": "https://unknownonline.me/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
