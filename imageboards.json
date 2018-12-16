@@ -1107,18 +1107,6 @@
     ]
   },
   {
-    "name": "AnonAmp",
-    "url": "https://anonamp.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "futallaby"
-    ]
-  },
-  {
     "name": "Anon Sharer",
     "url": "https://anonsharer.org/",
     "language": [
@@ -1139,16 +1127,6 @@
       "gazoubbs",
       "futaba",
       "pixmicat"
-    ]
-  },
-  {
-    "name": "Apachan",
-    "url": "https://apachan.net/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "apachan"
     ]
   },
   {
@@ -1898,18 +1876,6 @@
     ]
   },
   {
-    "name": "Cosplay field 販售品宣傳版",
-    "url": "http://gjs.tw/pixmicat/",
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat"
-    ]
-  },
-  {
     "name": "Cryptochan",
     "url": "https://cryptochan.org/boards/",
     "language": [
@@ -2162,16 +2128,6 @@
     ]
   },
   {
-    "name": "DokiDokiChan",
-    "url": "https://aimless.biz/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ]
-  },
-  {
     "name": "DOLLARS 揭示板",
     "url": "https://drrr.chat/static/",
     "language": [
@@ -2268,27 +2224,6 @@
     "software": [
       "kusaba",
       "kusabax"
-    ]
-  },
-  {
-    "name": "echan",
-    "url": "http://echan.nl/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ]
-  },
-  {
-    "name": "eftan.asia",
-    "url": "http://eftan.asia/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
     ]
   },
   {
@@ -2604,17 +2539,6 @@
     ]
   },
   {
-    "name": "Gay NEETs from Outer Space",
-    "url": "https://gnfos.com/jp/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "GeminiChan",
     "url": "http://upload.geminight.com/",
     "language": [
@@ -2720,13 +2644,6 @@
     ],
     "software": [
       "kareha"
-    ]
-  },
-  {
-    "name": "Gurochan",
-    "url": "https://www.gurochan.ch/",
-    "language": [
-      "en"
     ]
   },
   {
@@ -2858,18 +2775,6 @@
     ]
   },
   {
-    "name": "Holmesduck",
-    "url": "http://imageboard.holmesduck.com/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "fukuro"
-    ]
-  },
-  {
     "name": "homph",
     "url": "http://homph.com/board/homph/",
     "language": [
@@ -2905,19 +2810,6 @@
     ],
     "software": [
       "wakaba"
-    ]
-  },
-  {
-    "name": "http://54.38.50.137/",
-    "url": "http://54.38.50.137/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "infinity",
-      "openib"
     ]
   },
   {
@@ -3947,26 +3839,6 @@
     ]
   },
   {
-    "name": "moe-ren",
-    "url": "http://moepic.moe-ren.net/gazo/",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "rentalbbs"
-    ]
-  },
-  {
-    "name": "moe-ren /oebiren/ and /oebiura/",
-    "url": "http://moepic.moe-ren.net/gazo/oebiren/index.html",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "bbsnote"
-    ]
-  },
-  {
     "name": "Monstrochan",
     "url": "http://monstrochan.org/",
     "language": [
@@ -4556,17 +4428,6 @@
     ],
     "software": [
       "imgboard"
-    ]
-  },
-  {
-    "name": "Pacchan",
-    "url": "http://pacchan.altervista.org/",
-    "language": [
-      "it"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
     ]
   },
   {
@@ -5609,19 +5470,6 @@
     ]
   },
   {
-    "name": "TranscendIB",
-    "url": "http://www.hellocyb.org/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "futallaby",
-      "tinyib"
-    ]
-  },
-  {
     "name": "trap.nlf.ee",
     "url": "http://trap.nlf.ee/b/",
     "language": [
@@ -5844,19 +5692,6 @@
     ]
   },
   {
-    "name": "uzlabina.ga",
-    "url": "http://uzlabina.ga/",
-    "language": [
-      "cs"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "futallaby",
-      "tinyib"
-    ]
-  },
-  {
     "name": "Valhal.la",
     "url": "https://valhal.la/bifrost/",
     "language": [
@@ -5865,17 +5700,6 @@
     "software": [
       "tinyboard",
       "vichan"
-    ]
-  },
-  {
-    "name": "/v/CAST",
-    "url": "http://v.asylumst.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
     ]
   },
   {
@@ -5941,16 +5765,6 @@
     "software": [
       "tinyboard",
       "vichan"
-    ]
-  },
-  {
-    "name": "Werchan",
-    "url": "https://guhnoo.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "werchan"
     ]
   },
   {
