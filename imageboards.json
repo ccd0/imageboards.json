@@ -2625,14 +2625,15 @@
   },
   {
     "name": "GHOUL",
-    "url": "https://laghouls.com/",
+    "url": "http://laghouls.com/",
     "language": [
       "en"
     ],
     "software": [
-      "atbbs",
-      "tinybbs",
-      "minibbs"
+      "gazoubbs",
+      "futaba",
+      "futallaby",
+      "tinyib"
     ]
   },
   {
