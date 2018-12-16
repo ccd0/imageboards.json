@@ -2989,16 +2989,6 @@
     ]
   },
   {
-    "name": "iiichan",
-    "url": "http://iiichan.net/boards/music/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "wakaba"
-    ]
-  },
-  {
     "name": "imgboard.furry.ru",
     "url": "http://imgboard.furry.ru/",
     "language": [
