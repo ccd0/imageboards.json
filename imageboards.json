@@ -1109,6 +1109,10 @@
   {
     "name": "Anon Sharer",
     "url": "https://anonsharer.org/",
+    "mirrors": [
+      "https://anonsharer.org/",
+      "https://newchan.org/"
+    ],
     "language": [
       "en"
     ],
