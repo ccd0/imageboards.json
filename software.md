@@ -89,6 +89,7 @@ This is a list of the software codes used in imageboard.json along with links to
 - koba - used by https://boards.plus4chan.org/
 - lapis-chan - https://github.com/karai17/lapis-chan/
 - makaba - used by https://2ch.hk/
+- maniwani - https://github.com/DangerOnTheRanger/maniwani
 - mayuri - used by https://horochan.ru/
 - mei - https://github.com/lulalala/mei
 - monaba - https://github.com/ahushh/Monaba
