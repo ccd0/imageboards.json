@@ -2499,7 +2499,7 @@
   },
   {
     "name": "Freech",
-    "url": "https://freech.net/mystery/",
+    "url": "https://freech.net/",
     "language": [
       "en"
     ],
@@ -4278,6 +4278,16 @@
       "nntpchan"
     ],
     "boardlist": "https://2hu-ch.org/boards.json"
+  },
+  {
+    "name": "nntpchan nntp.freech.net",
+    "url": "https://nntp.freech.net/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "nntpchan"
+    ]
   },
   {
     "name": "nntpchan web.meme",
