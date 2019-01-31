@@ -4836,6 +4836,19 @@
     ]
   },
   {
+    "name": "PTChan",
+    "url": "https://ptchan.org/",
+    "language": [
+      "pt",
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "NPFchan"
+    ]
+  },
+  {
     "name": "Puertochan",
     "url": "https://puertochan.net/",
     "language": [
