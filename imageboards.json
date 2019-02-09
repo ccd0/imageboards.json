@@ -1806,14 +1806,14 @@
   },
   {
     "name": "Cirno",
-    "url": "https://chiru.no/all/",
+    "url": "https://chiru.no/home.js",
     "language": [
       "en"
     ],
     "software": [
-      "doushio",
-      "meguca"
-    ]
+      "lynxchan"
+    ],
+    "boardlist": "https://chiru.no/index.json"
   },
   {
     "name": "comic.com.tw",
