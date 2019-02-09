@@ -20,17 +20,6 @@
     ]
   },
   {
-    "name": "Сталкерач",
-    "url": "http://stalker-ass.hol.es/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
-    ]
-  },
-  {
     "name": "Файно",
     "url": "https://fajno.in/",
     "language": [
@@ -700,13 +689,6 @@
     ]
   },
   {
-    "name": "3chan.io",
-    "url": "https://3chan.io/",
-    "language": [
-      "en"
-    ]
-  },
-  {
     "name": "3D size board",
     "url": "http://3dsize.megame.jp/",
     "mirrors": [
@@ -878,17 +860,6 @@
     ]
   },
   {
-    "name": "7chan.pw",
-    "url": "http://7chan.pw/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
-    ]
-  },
-  {
     "name": "7clams",
     "url": "http://7clams.org/",
     "language": [
@@ -992,17 +963,6 @@
       "gazoubbs",
       "futaba",
       "pixmicat"
-    ]
-  },
-  {
-    "name": "A chan for schools",
-    "url": "http://skelbimai.96.lt/chan/",
-    "language": [
-      "lt"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
     ]
   },
   {
@@ -1355,17 +1315,6 @@
     ],
     "software": [
       "wakaba"
-    ]
-  },
-  {
-    "name": "Bitardchan",
-    "url": "http://bitardengine.w.pw/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
     ]
   },
   {
@@ -2000,16 +1949,6 @@
     ]
   },
   {
-    "name": "Deep Hole",
-    "url": "http://the-deep.hol.es/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "tinyboard"
-    ]
-  },
-  {
     "name": "Deltachan",
     "url": "http://zonadelta.net/deltachan/",
     "language": [
@@ -2131,16 +2070,6 @@
     ]
   },
   {
-    "name": "Dinky-Digger",
-    "url": "http://dinky-digger.ru/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "exaba"
-    ]
-  },
-  {
     "name": "Diochan",
     "url": "https://www.diochan.com/",
     "language": [
@@ -2171,18 +2100,6 @@
     "software": [
       "wakaba",
       "hanabira"
-    ]
-  },
-  {
-    "name": "DOLLARS 揭示板",
-    "url": "https://drrr.chat/static/",
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat"
     ]
   },
   {
@@ -2488,16 +2405,6 @@
     ]
   },
   {
-    "name": "FMKilo",
-    "url": "http://fmkilo.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "wakaba"
-    ]
-  },
-  {
     "name": "Freech",
     "url": "https://freech.net/",
     "language": [
@@ -2733,19 +2640,6 @@
     ]
   },
   {
-    "name": "羊chan",
-    "url": "https://chan.dorper.me/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "futallaby",
-      "tinyib"
-    ]
-  },
-  {
     "name": "harukochan",
     "url": "https://harukochan.xyz/",
     "language": [
@@ -2887,16 +2781,6 @@
     "software": [
       "tinyboard",
       "vichan"
-    ]
-  },
-  {
-    "name": "HWD EPICU IMAGEBORDO",
-    "url": "http://hwd-allstars.bl.ee/boards/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "tinyboard"
     ]
   },
   {
@@ -3097,19 +2981,6 @@
       "gazoubbs",
       "futaba",
       "pixmicat"
-    ]
-  },
-  {
-    "name": "jum4vtydneakx2y3.onion",
-    "url": "http://jum4vtydneakx2y3.onion/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "futallaby",
-      "tinyib"
     ]
   },
   {
@@ -3545,31 +3416,6 @@
     ]
   },
   {
-    "name": "Loistolauta",
-    "url": "https://loistolauta.org/",
-    "language": [
-      "fi"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "Lolchan",
-    "url": "http://chandecarton.zz.mu/",
-    "language": [
-      "es"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "futallaby",
-      "tinyib",
-      "futura"
-    ]
-  },
-  {
     "name": "Lolcow",
     "url": "https://lolcow.farm/",
     "language": [
@@ -3645,16 +3491,6 @@
       "lynxchan"
     ],
     "boardlist": "http://lynxhub.com/index.json"
-  },
-  {
-    "name": "Macrochan",
-    "url": "http://macrochan.us/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard"
-    ]
   },
   {
     "name": "Magic",
@@ -3919,18 +3755,6 @@
     ]
   },
   {
-    "name": "MMXchan",
-    "url": "http://mmxchan.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "lainchan"
-    ]
-  },
-  {
     "name": "Mod Imageboard",
     "url": "https://www.modception.com/imageboard/",
     "language": [
@@ -4120,19 +3944,6 @@
     "url": "https://neet.moe/",
     "language": [
       "en"
-    ]
-  },
-  {
-    "name": "neko chan",
-    "url": "http://smyombzkg2nytq7e.onion/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "futallaby",
-      "tinyib"
     ]
   },
   {
@@ -4627,19 +4438,6 @@
     ]
   },
   {
-    "name": "PCCHAN",
-    "url": "http://www.pcchan.tk/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "futallaby",
-      "tinyib"
-    ]
-  },
-  {
     "name": "Perfectchan",
     "url": "https://perfectchan.org/",
     "language": [
@@ -4957,17 +4755,6 @@
     "url": "https://rupattelu.us/rr/",
     "language": [
       "fi"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "ryoko;systems",
-    "url": "https://ryoko.systems/",
-    "language": [
-      "de"
     ],
     "software": [
       "tinyboard",
@@ -5479,19 +5266,6 @@
     ]
   },
   {
-    "name": "TinaChan",
-    "url": "https://tinachan.club/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "futallaby",
-      "tinyib"
-    ]
-  },
-  {
     "name": "TinyChan",
     "url": "https://tinychan.org/",
     "language": [
@@ -5790,18 +5564,6 @@
     ],
     "software": [
       "tinyboard"
-    ]
-  },
-  {
-    "name": "uccu.psper.tw",
-    "url": "http://uccu.psper.tw/",
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat"
     ]
   },
   {
