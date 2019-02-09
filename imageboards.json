@@ -4112,14 +4112,14 @@
   },
   {
     "name": "nntpchan web.oniichan.onion",
-    "url": "http://urgayxfhweswcb47mm5ipda3msfqyrg253emly2mpeb3nu67p5vuk7qd.onion/",
+    "url": "http://beepedjhffvat3uwij5fxny72vlj7ugqb67ippjebise6adxf73y3uqd.onion/",
     "language": [
       "en"
     ],
     "software": [
       "nntpchan"
     ],
-    "boardlist": "http://benis.oniichanylo2tsi4.onion/boards.json"
+    "boardlist": "http://beepedjhffvat3uwij5fxny72vlj7ugqb67ippjebise6adxf73y3uqd.onion/boards.json"
   },
   {
     "name": "Nobanchan",
