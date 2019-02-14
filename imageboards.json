@@ -3239,6 +3239,17 @@
     ]
   },
   {
+    "name": "Konatachan",
+    "url": "https://konatachan.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "koro-pokemon.com",
     "url": "https://koro-pokemon.com/bbs/paint3/pic.cgi",
     "language": [
