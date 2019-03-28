@@ -4556,6 +4556,18 @@
     ]
   },
   {
+    "name": "Poni.fun",
+    "url": "https://poni.fun/poni/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "npfchan"
+    ]
+  },
+  {
     "name": "Ponilauta",
     "url": "http://ponilauta.fi/",
     "language": [
