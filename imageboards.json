@@ -5711,6 +5711,17 @@
     ]
   },
   {
+    "name": "VileChan",
+    "url": "http://oug34euep5jxpyn5gth75nvg56azqlzxa5yl6zzwajakqcjg6pvbjhid.onion/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "vocaloid.orzhk.net",
     "url": "http://vocaloid.orzhk.net/",
     "language": [
