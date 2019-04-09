@@ -856,6 +856,17 @@
     ]
   },
   {
+    "name": "76chan",
+    "url": "https://76chan.tk/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "7chan",
     "url": "https://7chan.org/",
     "language": [
