@@ -2642,6 +2642,17 @@
     ]
   },
   {
+    "name": "grimchan",
+    "url": "https://grimchan.xyz/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Grobichan",
     "url": "http://ghost.dreamingrealms.de/sfw/",
     "language": [
