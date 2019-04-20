@@ -1793,6 +1793,17 @@
     ]
   },
   {
+    "name": "chen2.org",
+    "url": "https://chen2.org/all/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "doushio",
+      "meguca"
+    ]
+  },
+  {
     "name": "ChinchillachanIB",
     "url": "https://www.chinchillachan.cl/",
     "language": [
