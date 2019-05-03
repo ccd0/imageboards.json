@@ -4012,6 +4012,18 @@
     ]
   },
   {
+    "name": "NeinChan",
+    "url": "https://neinchan.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "npfchan"
+    ]
+  },
+  {
     "name": "Nen",
     "url": "https://kakashi-nenpo.com/",
     "language": [
