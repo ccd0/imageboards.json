@@ -3211,12 +3211,18 @@
   {
     "name": "Kohlchan",
     "url": "https://kohlchan.net/",
+    "mirrors": [
+      "https://kohlchan.net/",
+      "http://kohlchankxguym67.onion/",
+      "http://kohlchan7cwtdwfuicqhxgqx4k47bsvlt2wn5eduzovntrzvonv4cqyd.onion/",
+      "http://fastkohlp6h2seef.onion/",
+      "http://fastkohlt5rxcxtl5no7k3efmahlt7mafry7be6yvxdovekhq2hdnwqd.onion/"
+    ],
     "language": [
       "de"
     ],
     "software": [
-      "tinyboard",
-      "vichan"
+      "lynxchan"
     ]
   },
   {
