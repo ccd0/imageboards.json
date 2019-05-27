@@ -3708,20 +3708,6 @@
     ]
   },
   {
-    "name": "Mewch",
-    "url": "https://mewch.net/",
-    "mirrors": [
-      "https://mewch.net/",
-      "http://mewchqgmqfe6zhnu.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ]
-  },
-  {
     "name": "MiChan",
     "url": "https://ch.milink.us/",
     "language": [
