@@ -150,21 +150,8 @@
     ]
   },
   {
-    "name": "ヌルギコ動画",
-    "url": "http://mpg.nullgiko.net/",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "siokara",
-      "siokara-gchan"
-    ]
-  },
-  {
     "name": "ヌルギコ画像",
-    "url": "http://jpg.nullgiko.net/",
+    "url": "http://www.nullgiko.net/",
     "language": [
       "ja"
     ],
