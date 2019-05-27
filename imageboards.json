@@ -5690,17 +5690,6 @@
     ]
   },
   {
-    "name": "Valhal.la",
-    "url": "https://valhal.la/bifrost/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "Venus BBS",
     "url": "http://chronicle.tsubasa.to/venus_bbs/elements/bbsnote.cgi",
     "language": [
