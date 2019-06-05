@@ -1259,6 +1259,22 @@
     ]
   },
   {
+    "name": "Balkan Chan",
+    "url": "https://balkanchan.ga/",
+    "mirrors": [
+      "https://balkanchan.ga/",
+      "https://kek.ml/",
+      "http://26yukmkrhmhfg6alc56oexe7bcrokv4rilwpfwgh2u6bsbkddu55h4ad.onion/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ],
+    "boardlist": "https://balkanchan.ga/index.json"
+  },
+  {
     "name": "Balls",
     "url": "http://balls.jimboulter.com/",
     "language": [
