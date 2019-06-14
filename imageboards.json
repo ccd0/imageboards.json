@@ -1202,6 +1202,17 @@
     ]
   },
   {
+    "name": "Atenszon",
+    "url": "http://atenszon.ml/b/",
+    "language": [
+      "pl"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Aurorachan",
     "url": "https://aurorachan.net/",
     "language": [
@@ -4980,6 +4991,16 @@
     ]
   },
   {
+    "name": "Shadowchannel",
+    "url": "http://kage.gq/b/",
+    "language": [
+      "pl"
+    ],
+    "software": [
+      "lynxchan"
+    ]
+  },
+  {
     "name": "Sibirchan",
     "url": "https://sibirchan.ru/",
     "language": [
@@ -5009,6 +5030,16 @@
     "software": [
       "tinyboard",
       "vichan"
+    ]
+  },
+  {
+    "name": "Sischan",
+    "url": "https://sischan.club/sis/",
+    "language": [
+      "pl"
+    ],
+    "software": [
+      "mitsuba"
     ]
   },
   {
@@ -5782,6 +5813,16 @@
     "url": "https://wilchan.org/dev/",
     "language": [
       "pl"
+    ]
+  },
+  {
+    "name": "Wilchan (shadow)",
+    "url": "https://shadow.wilchan.org/",
+    "language": [
+      "pl"
+    ],
+    "software": [
+      "tinyboard"
     ]
   },
   {
