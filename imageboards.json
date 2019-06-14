@@ -5864,6 +5864,16 @@
     ]
   },
   {
+    "name": "Yakui",
+    "url": "http://yakui.moe/yakui/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "wakaba"
+    ]
+  },
+  {
     "name": "YL-chan",
     "url": "https://yui-lover.com/tinyboard/",
     "language": [
