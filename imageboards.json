@@ -5229,6 +5229,17 @@
     ]
   },
   {
+    "name": "Szon",
+    "url": "https://szon.cf/",
+    "language": [
+      "pl"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Taco Strait",
     "url": "https://ts.thornbush.monarch-pass.net/",
     "language": [
