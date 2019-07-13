@@ -433,6 +433,17 @@
     ]
   },
   {
+    "name": "1436chan",
+    "url": "gopher://khzae.net/1/chan",
+    "mirrors": [
+      "gopher://khzae.net/",
+      "https://khzae.net/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
     "name": "14x09画像掲示板",
     "url": "http://supercub512cc.co.nf/12x9b/",
     "language": [
@@ -840,6 +851,13 @@
     "software": [
       "tinyboard",
       "vichan"
+    ]
+  },
+  {
+    "name": "70chan",
+    "url": "gopher://gopher.su/1/board",
+    "language": [
+      "en"
     ]
   },
   {
@@ -2631,6 +2649,13 @@
       "gopher://port70.net/",
       "https://port70.net/?"
     ],
+    "language": [
+      "en"
+    ]
+  },
+  {
+    "name": "gopher.su/gochan/",
+    "url": "http://gopher.su/gochan/",
     "language": [
       "en"
     ]
