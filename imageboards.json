@@ -4899,17 +4899,6 @@
     ]
   },
   {
-    "name": "Samachan Live",
-    "url": "http://live.samachan.org/all/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "doushio",
-      "meguca"
-    ]
-  },
-  {
     "name": "Scanchan",
     "url": "http://www.scanchan.net/",
     "mirrors": [
