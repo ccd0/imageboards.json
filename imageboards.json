@@ -4130,6 +4130,16 @@
     ]
   },
   {
+    "name": "Poorchan",
+    "url": "http://poorchan.ga/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tornadoimageboard"
+    ]
+  },
+  {
     "name": "popup15.tok2.com/home2/piyoraji/",
     "url": "http://popup15.tok2.com/home2/piyoraji/cgi-bin/note/bbsnote.cgi",
     "language": [
@@ -4415,6 +4425,23 @@
     "software": [
       "kusaba",
       "kusabax"
+    ]
+  },
+  {
+    "name": "Silver Second 感想・交流用BBS",
+    "url": "https://www.silversecond.com/Community/index_bbs.shtml",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "webpatio"
+    ]
+  },
+  {
+    "name": "Silver Second Illust BBS",
+    "url": "https://silversecond.net/cgi_data/palletbbs/",
+    "language": [
+      "ja"
     ]
   },
   {
