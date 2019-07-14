@@ -1292,16 +1292,6 @@
     ]
   },
   {
-    "name": "bokkikozou.com /bokki/",
-    "url": "http://bokkikozou.com/bokki/ecobbs.cgi?page=1",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "ecoup"
-    ]
-  },
-  {
     "name": "brchan",
     "url": "https://brchan.org/",
     "language": [
