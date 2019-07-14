@@ -570,6 +570,19 @@
     ]
   },
   {
+    "name": "2ch.rip",
+    "url": "https://2ch.rip/",
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby",
+      "pihaba"
+    ]
+  },
+  {
     "name": "2fan",
     "url": "http://2fan.ru/ch/",
     "language": [
@@ -614,6 +627,18 @@
     "software": [
       "kareha"
     ]
+  },
+  {
+    "name": "314chan",
+    "url": "https://www.314chan.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "haruko",
+      "mitsuba"
+    ],
+    "boardlist": "https://www.314chan.org/boards.json"
   },
   {
     "name": "370chan",
@@ -3477,6 +3502,17 @@
       "tinyboard",
       "vichan",
       "infinity"
+    ]
+  },
+  {
+    "name": "Nameless Imageboard",
+    "url": "http://namelessrumia.heliohost.org/img/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "wakaba",
+      "wakaru"
     ]
   },
   {
