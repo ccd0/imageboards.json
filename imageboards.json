@@ -675,6 +675,13 @@
     ]
   },
   {
+    "name": "3Dchan.net",
+    "url": "https://3dchan.net/dungeon/",
+    "language": [
+      "en"
+    ]
+  },
+  {
     "name": "3D size board",
     "url": "http://3dsize.megame.jp/",
     "mirrors": [
