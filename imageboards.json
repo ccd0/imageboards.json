@@ -5102,6 +5102,17 @@
     ]
   },
   {
+    "name": "vch.moe",
+    "url": "https://vch.moe/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Venus BBS",
     "url": "http://chronicle.tsubasa.to/venus_bbs/elements/bbsnote.cgi",
     "language": [
