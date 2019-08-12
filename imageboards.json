@@ -1966,10 +1966,11 @@
   },
   {
     "name": "Endchan",
-    "url": "https://endchan.xyz/",
+    "url": "https://endchan.net/",
     "mirrors": [
-      "https://endchan.xyz/",
       "https://endchan.net/",
+      "https://endchan.org/",
+      "http://enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion/",
       "http://endchan5doxvprs5.onion/",
       "http://s6424n4x4bsmqs27.onion/"
     ],
@@ -1980,7 +1981,7 @@
       "lynxchan",
       "infinitynow"
     ],
-    "boardlist": "https://endchan.xyz/index.json"
+    "boardlist": "https://endchan.net/index.json"
   },
   {
     "name": "Enrive",
