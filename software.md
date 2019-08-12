@@ -4,6 +4,11 @@ This is a list of the software codes used in imageboard.json along with links to
 
 - gazoubbs - http://web.archive.org/web/20170607054849/http://php.s3.to:80/bbs/bbs3.php
     - futaba - https://www.2chan.net/script/
+        - pixmicat - https://github.com/pixmicat/pixmicat/releases
+            - yotsubanome - http://4ch.mooo.com/+4/script/
+        - siokara - http://siokara.que.jp/
+            - yakuba - used by http://t-jun.kemoren.com/
+            - siokara-gchan - http://web.archive.org/web/20140220052910/http://www42.atpages.jp/gscripts/ (many pages not archived)
         - futallaby - https://www.1chan.net/futallaby/
             - tinyib - https://gitlab.com/tslocum/tinyib
                 - futura - https://sourceforge.net/projects/futurascript/
@@ -11,11 +16,6 @@ This is a list of the software codes used in imageboard.json along with links to
             - pihaba - used by https://2ch.rip/
             - saguaro - http://saguaroimgboard.tk/
             - yotsuba - used by https://www.4chan.org/ (unpublished)
-        - pixmicat - https://github.com/pixmicat/pixmicat/releases
-            - yotsubanome - http://4ch.mooo.com/+4/script/
-        - siokara - http://siokara.que.jp/
-            - yakuba - used by http://t-jun.kemoren.com/
-            - siokara-gchan - http://web.archive.org/web/20140220052910/http://www42.atpages.jp/gscripts/ (many pages not archived)
         - moeren - formerly used by http://web.archive.org/web/20050623021441/http://moepic.dip.jp:80/gazo/
             - moeren-gchan - http://web.archive.org/web/20140220052910/http://www42.atpages.jp/gscripts/ (many pages not archived)
         - futaba-gchan - http://web.archive.org/web/20140220052910/http://www42.atpages.jp/gscripts/ (many pages not archived)
@@ -24,9 +24,9 @@ This is a list of the software codes used in imageboard.json along with links to
         - poti-board - http://web.archive.org/web/20170707091918/http://www.punyu.net/php/oekaki.php (downloads not archived)
 - tinyboard - https://github.com/savetheinternet/Tinyboard
     - vichan - https://github.com/vichan-devel/vichan/
+        - npfchan - https://github.com/fallenPineapple/NPFchan
         - infinity - https://github.com/ctrlcctrlv/infinity
             - openib - https://github.com/OpenIB/OpenIB
-        - npfchan - https://github.com/fallenPineapple/NPFchan
         - lainchan - https://github.com/lainchan/lainchan
         - arisuchan - https://github.com/arisu-dev/arisuchan
         - fukuro - https://github.com/twiforce/fukuro
@@ -46,32 +46,31 @@ This is a list of the software codes used in imageboard.json along with links to
     - taimaba - used by https://420chan.org/
     - wakaru - https://github.com/NamelessRumia/Wakaru
 - bbsnote - http://web.archive.org/web/20050116004959/http://wondercatstudio.com:80/html/download.html
+- lynxchan - https://gitgud.io/LynxChan/LynxChan
+    - infinitynow - https://gitgud.io/groups/InfinityNow
 - doushio - https://github.com/lalcmellkmal/doushio
     - meguca - https://github.com/bakape/meguca
         - cutechan - https://github.com/cutechan/cutechan
 - kareha - https://wakaba.c3.cx/s/web/wakaba_kareha
-- lynxchan - https://gitgud.io/LynxChan/LynxChan
-    - infinitynow - https://gitgud.io/groups/InfinityNow
 - cgi-design - http://cgi-design.net/prog/bbs/index.htm
 - atbbs - https://sourceforge.net/projects/atbbs/
     - tinybbs - https://github.com/r04r/minichan
         - minibbs - http://www.minibbs.org/
 - imgboard - http://www.big.or.jp/~talk/t-club/soft/index.html
-- exaba - http://web.archive.org/web/20150429042034/http://exachan.com/exaba/ (last archived release: http://web.archive.org/web/20130614124246/http://exachan.com/exaba/downloads/exaba_0_9_9.zip)
 - joyfulnote - http://www.kent-web.com/bbs/joyful.html
     - jn+yyb - http://w-space.net/subcon/cgi.htm
     - joyful2ch - http://falcon.s16.xrea.com/
         - joyful2chme - www.supra.cx/joyful2chMe/index.html
 - ochiba - http://ochiba.x-maru.org/
 - emanon - https://github.com/oprel/emanon
-- foolfuuka - https://github.com/FoolCode/FoolFuuka
 - livechan - https://github.com/emgram769/livechan-js
-- matsuri - used by https://kyber.io/matsuri
 - mitsuba - https://github.com/MitsubaBBS/Mitsuba
     - haruko - https://gitgud.io/parley/Haruko
 - nntpchan - https://github.com/majestrate/nntpchan
 - ololord.js - https://github.com/ololoepepe/ololord.js
     - tumbach - https://github.com/rngnrs/tumbach
+- webpatio - http://www.kent-web.com/bbs/patio.html
+    - webpatio-kirishima - http://kirishima.it/patio/
 - 1chan - https://github.com/jlbyrey/1chan
 - 4kev - https://github.com/federicoolivo/4kev
 - 4taba - https://github.com/4taba/4taba
@@ -81,6 +80,8 @@ This is a list of the software codes used in imageboard.json along with links to
 - discours - https://github.com/DiscoursProject/Discours
 - ecoup - http://www.wsj21.net/cgi/cgi-ecoup.html
 - erlach - https://github.com/m-2k/erlach
+- exaba - http://web.archive.org/web/20150429042034/http://exachan.com/exaba/ (last archived release: http://web.archive.org/web/20130614124246/http://exachan.com/exaba/downloads/exaba_0_9_9.zip)
+- foolfuuka - https://github.com/FoolCode/FoolFuuka
 - gochan - https://github.com/eggbertx/gochan
 - hankiboard - https://gitlab.com/kilves/hankiboard
 - hivebbs - https://github.com/desuwa/hivebbs
@@ -91,6 +92,7 @@ This is a list of the software codes used in imageboard.json along with links to
 - lapis-chan - https://github.com/karai17/lapis-chan/
 - makaba - used by https://2ch.hk/
 - maniwani - https://github.com/DangerOnTheRanger/maniwani
+- matsuri - used by https://kyber.io/matsuri
 - mayuri - used by https://horochan.ru/
 - mei - https://github.com/lulalala/mei
 - monaba - https://github.com/ahushh/Monaba
@@ -107,8 +109,6 @@ This is a list of the software codes used in imageboard.json along with links to
 - topsape - https://github.com/Spryt/TopsapeChan
 - uchan - https://github.com/Floens/uchan
 - weabot - used by https://bienvenidoainternet.org/
-- webpatio - http://www.kent-web.com/bbs/patio.html
-    - webpatio-kirishima - http://kirishima.it/patio/
 - werchan - https://github.com/kfarwell/werchan
 
 You may also be interested in these lists of imageboard software:
