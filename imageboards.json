@@ -645,8 +645,8 @@
       "en"
     ],
     "software": [
-      "haruko",
-      "mitsuba"
+      "mitsuba",
+      "haruko"
     ],
     "boardlist": "https://www.314chan.org/boards.json"
   },
