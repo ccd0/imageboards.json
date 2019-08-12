@@ -1104,6 +1104,16 @@
     ]
   },
   {
+    "name": "Apachan",
+    "url": "https://apachan.icu/",
+    "language": [
+      "run"
+    ],
+    "software": [
+      "apachan"
+    ]
+  },
+  {
     "name": "Apokalauta",
     "url": "http://www.apokalauta.org/",
     "language": [
