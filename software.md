@@ -11,7 +11,6 @@ This is a list of the software codes used in imageboard.json along with links to
             - siokara-gchan - http://web.archive.org/web/20140220052910/http://www42.atpages.jp/gscripts/ (many pages not archived)
         - futallaby - https://www.1chan.net/futallaby/
             - tinyib - https://gitlab.com/tslocum/tinyib
-                - futura - https://sourceforge.net/projects/futurascript/
             - wakarimasen - https://github.com/weedy/wakarimasen
             - pihaba - used by https://2ch.rip/
             - saguaro - http://saguaroimgboard.tk/
@@ -55,7 +54,6 @@ This is a list of the software codes used in imageboard.json along with links to
 - cgi-design - http://cgi-design.net/prog/bbs/index.htm
 - atbbs - https://sourceforge.net/projects/atbbs/
     - tinybbs - https://github.com/r04r/minichan
-        - minibbs - http://www.minibbs.org/
 - imgboard - http://www.big.or.jp/~talk/t-club/soft/index.html
 - joyfulnote - http://www.kent-web.com/bbs/joyful.html
     - jn+yyb - http://w-space.net/subcon/cgi.htm
@@ -77,15 +75,11 @@ This is a list of the software codes used in imageboard.json along with links to
 - ace-rx - https://github.com/svmn/ace-rx
 - apachan - https://github.com/ilvar/apachan
 - blazechan - https://gitgud.io/blazechan/blazechan
-- discours - https://github.com/DiscoursProject/Discours
-- ecoup - http://www.wsj21.net/cgi/cgi-ecoup.html
-- erlach - https://github.com/m-2k/erlach
 - exaba - http://web.archive.org/web/20150429042034/http://exachan.com/exaba/ (last archived release: http://web.archive.org/web/20130614124246/http://exachan.com/exaba/downloads/exaba_0_9_9.zip)
 - foolfuuka - https://github.com/FoolCode/FoolFuuka
 - gochan - https://github.com/eggbertx/gochan
 - hankiboard - https://gitlab.com/kilves/hankiboard
 - hivebbs - https://github.com/desuwa/hivebbs
-- ib - https://github.com/ABuglaev/ib
 - ib4f - formerly used by http://web.archive.org/web/20101108033202/http://imageboard4free.com:80/
 - koba - used by https://boards.plus4chan.org/
 - kropyva - https://gitlab.com/Kropyva
@@ -103,13 +97,9 @@ This is a list of the software codes used in imageboard.json along with links to
 - orphereus - https://orphereus.anoma.ch/
 - overmind - used by http://kanal4.org/
 - purplish - https://github.com/Shirakumo/purplish
-- pyib - https://github.com/tslocum/PyIB
-- rentalbbs - formerly used by http://web.archive.org/web/20061109010932/http://www.xera.org
 - tornadoimageboard - https://github.com/cnsr/tornado_imageboard
-- topsape - https://github.com/Spryt/TopsapeChan
 - uchan - https://github.com/Floens/uchan
 - weabot - used by https://bienvenidoainternet.org/
-- werchan - https://github.com/kfarwell/werchan
 
 You may also be interested in these lists of imageboard software:
 * https://flash.moe/overscript/ (also has mirrors of many scripts)
