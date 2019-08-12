@@ -3061,12 +3061,8 @@
     ]
   },
   {
-    "name": "libre.land",
-    "url": "https://libre.land/",
-    "mirrors": [
-      "https://libre.land/",
-      "http://kqjcpzmfprcl3u5k45eqap24d3yiuo6go7dwdikopcwfspso3b4zyyqd.onion/"
-    ],
+    "name": "LibreLand",
+    "url": "https://libreland.nl/",
     "language": [
       "en"
     ],
