@@ -3305,17 +3305,6 @@
     ]
   },
   {
-    "name": "MagicChan",
-    "url": "https://www.magicchan.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "Magochan",
     "url": "https://magochan.org/",
     "language": [
