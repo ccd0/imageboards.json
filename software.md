@@ -87,6 +87,7 @@ This is a list of the software codes used in imageboard.json along with links to
 - ib - https://github.com/ABuglaev/ib
 - ib4f - formerly used by http://web.archive.org/web/20101108033202/http://imageboard4free.com:80/
 - koba - used by https://boards.plus4chan.org/
+- kropyva - https://gitlab.com/Kropyva
 - lapis-chan - https://github.com/karai17/lapis-chan/
 - makaba - used by https://2ch.hk/
 - maniwani - https://github.com/DangerOnTheRanger/maniwani

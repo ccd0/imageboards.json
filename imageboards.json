@@ -1,5 +1,15 @@
 [
   {
+    "name": "Кропивач",
+    "url": "https://www.kropyva.ch/",
+    "language": [
+      "uk"
+    ],
+    "software": [
+      "kropyva"
+    ]
+  },
+  {
     "name": "Нарячан",
     "url": "http://naryachan.net/",
     "language": [
@@ -815,6 +825,17 @@
     "url": "gopher://gopher.su/1/board",
     "language": [
       "en"
+    ]
+  },
+  {
+    "name": "792Chan",
+    "url": "https://792chan.net/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
@@ -1657,6 +1678,17 @@
     ]
   },
   {
+    "name": "CPB5K",
+    "url": "http://xn--capspaylambotu5000-m0c33g.com/",
+    "language": [
+      "tr"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "crystal.cafe",
     "url": "https://crystal.cafe/",
     "language": [
@@ -2157,6 +2189,17 @@
     ]
   },
   {
+    "name": "FranChan",
+    "url": "https://franchan.biz/",
+    "language": [
+      "fr"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Freech",
     "url": "https://freech.net/",
     "language": [
@@ -2501,6 +2544,24 @@
     ]
   },
   {
+    "name": "hyperchan",
+    "url": "https://hyperchan.org/",
+    "language": [
+      "uk"
+    ]
+  },
+  {
+    "name": "hyperchan (kropyva/vichan)",
+    "url": "https://k.hyperchan.org/",
+    "language": [
+      "uk"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "i-bbs",
     "url": "http://i-bbs.sijex.net/",
     "language": [
@@ -2528,6 +2589,16 @@
     "software": [
       "kusaba",
       "kusabax"
+    ]
+  },
+  {
+    "name": "i-chan.ru",
+    "url": "http://i-chan.ru/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard"
     ]
   },
   {
@@ -4705,6 +4776,16 @@
     ]
   },
   {
+    "name": "SUCHAN",
+    "url": "https://sue.usermd.net/",
+    "language": [
+      "pl"
+    ],
+    "software": [
+      "tinyboard"
+    ]
+  },
+  {
     "name": "Sushichan",
     "url": "https://sushigirl.us/",
     "language": [
@@ -5078,6 +5159,17 @@
     ]
   },
   {
+    "name": "TuTako",
+    "url": "https://tutako.com/vladi/",
+    "language": [
+      "es"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "tuzach.in",
     "url": "https://tuzach.in/",
     "language": [
@@ -5416,6 +5508,16 @@
     "software": [
       "kusaba",
       "kusabax"
+    ]
+  },
+  {
+    "name": "z-board.ru",
+    "url": "http://z-board.ru/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard"
     ]
   },
   {
