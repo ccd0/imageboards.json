@@ -1523,6 +1523,16 @@
     ]
   },
   {
+    "name": "µchan demo",
+    "url": "https://uchan.plebco.de/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "uchan"
+    ]
+  },
+  {
     "name": "chan.lv",
     "url": "https://chan.lv/",
     "language": [
@@ -4434,6 +4444,17 @@
     ],
     "software": [
       "monaba"
+    ]
+  },
+  {
+    "name": "Rupattelu",
+    "url": "https://rupattelu.us/rr/",
+    "language": [
+      "fi"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
