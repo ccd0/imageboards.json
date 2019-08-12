@@ -3564,6 +3564,17 @@
     ]
   },
   {
+    "name": "more-xxx.net",
+    "url": "http://more-xxx.net/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "kusaba",
+      "kusabax"
+    ]
+  },
+  {
     "name": "Motherless",
     "url": "https://motherless.com/boards/",
     "language": [
