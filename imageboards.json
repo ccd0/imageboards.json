@@ -905,6 +905,16 @@
     ]
   },
   {
+    "name": "Abandon Fun",
+    "url": "https://abandon.fun/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ]
+  },
+  {
     "name": "abma.x-maru.org/images/",
     "url": "http://abma.x-maru.org/images/",
     "language": [
@@ -1664,6 +1674,16 @@
     ],
     "software": [
       "tinyboard"
+    ]
+  },
+  {
+    "name": "Cutie Garden",
+    "url": "https://cutie.garden/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
     ]
   },
   {
@@ -3384,6 +3404,18 @@
     ]
   },
   {
+    "name": "Mlepach: My Little Equestria",
+    "url": "https://mle.party/",
+    "language": [
+      "en",
+      "ru"
+    ],
+    "software": [
+      "lynxchan"
+    ],
+    "boardlist": "https://mle.party/index.json"
+  },
+  {
     "name": "MLPG.co",
     "url": "https://mlpg.co/",
     "mirrors": [
@@ -3855,6 +3887,16 @@
     ],
     "software": [
       "wakaba"
+    ]
+  },
+  {
+    "name": "Onee Chan",
+    "url": "http://onee.ch/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
     ]
   },
   {
@@ -4510,6 +4552,16 @@
       "futaba",
       "futallaby",
       "tinyib"
+    ]
+  },
+  {
+    "name": "SlugChan",
+    "url": "http://possumstu.org:8080/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
     ]
   },
   {
