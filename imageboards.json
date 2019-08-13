@@ -3392,16 +3392,6 @@
     ]
   },
   {
-    "name": "MIPT Cancer Storage",
-    "url": "http://eksusha.campus.mipt.ru/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "wakaba"
-    ]
-  },
-  {
     "name": "mirohlichan.net",
     "url": "https://mirohlichan.net/",
     "language": [
@@ -3617,18 +3607,6 @@
     ],
     "software": [
       "cgi-design"
-    ]
-  },
-  {
-    "name": "NDHU OECLab-留言板",
-    "url": "http://faculty.ndhu.edu.tw/~oec/pixmicat/",
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat"
     ]
   },
   {
