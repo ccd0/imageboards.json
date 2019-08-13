@@ -3704,10 +3704,9 @@
       "en"
     ],
     "software": [
-      "tinyboard",
-      "vichan",
-      "npfchan"
-    ]
+      "lynxchan"
+    ],
+    "boardlist": "https://neinchan.com/index.json"
   },
   {
     "name": "Nen",
