@@ -1365,18 +1365,6 @@
     ]
   },
   {
-    "name": "brchan",
-    "url": "https://brchan.org/",
-    "language": [
-      "pt",
-      "ru"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "britfa.gs",
     "url": "https://britfa.gs/",
     "language": [
