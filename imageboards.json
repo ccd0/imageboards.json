@@ -1185,17 +1185,6 @@
     ]
   },
   {
-    "name": "Autistichan",
-    "url": "http://autistichanreborn.altervista.org/",
-    "language": [
-      "it"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "AwsumChan",
     "url": "https://awsumchan.org/",
     "language": [
@@ -1727,17 +1716,6 @@
     ]
   },
   {
-    "name": "cynet",
-    "url": "http://axiom.cafe/cynet/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "Czwartyczan",
     "url": "https://choppedliver.000webhostapp.com/",
     "language": [
@@ -1932,19 +1910,6 @@
     "url": "https://dollars-bbs.org/main/",
     "language": [
       "en"
-    ]
-  },
-  {
-    "name": "dont.datamine.me",
-    "url": "http://dont.datamine.me/boards.html",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "infinity",
-      "openib"
     ]
   },
   {
@@ -4101,17 +4066,6 @@
     ]
   },
   {
-    "name": "PASTA SYNDIGAT",
-    "url": "http://boards.xxpizzaxx.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "pawsru.org",
     "url": "https://pawsru.org/",
     "mirrors": [
@@ -5116,17 +5070,6 @@
     ],
     "software": [
       "doushio"
-    ]
-  },
-  {
-    "name": "Truth in our Time Chan",
-    "url": "https://www.truthinourtime.com/chan/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
     ]
   },
   {
