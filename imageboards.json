@@ -3392,6 +3392,17 @@
     ]
   },
   {
+    "name": "Mintboard",
+    "url": "https://mintboard.org/vichan/index.html",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "mirohlichan.net",
     "url": "https://mirohlichan.net/",
     "language": [
