@@ -3643,6 +3643,10 @@
   {
     "name": "NeinChan",
     "url": "https://neinchan.com/",
+    "mirrors": [
+      "https://neinchan.com/",
+      "http://vvadkyuldkwon6za.onion/"
+    ],
     "language": [
       "en"
     ],
