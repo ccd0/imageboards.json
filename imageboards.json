@@ -5310,6 +5310,17 @@
     ]
   },
   {
+    "name": "Wiichan",
+    "url": "https://wiichan.uwu.mx/homewii.html",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Wilchan",
     "url": "https://wilchan.org/dev/",
     "language": [
