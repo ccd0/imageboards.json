@@ -1270,6 +1270,16 @@
     ]
   },
   {
+    "name": "bbs.shiptoasting.com",
+    "url": "ssh://nanashi:anon@bbs.shiptoasting.com",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "cursedboard"
+    ]
+  },
+  {
     "name": "bbw-chan",
     "url": "https://bbw-chan.nl/",
     "language": [

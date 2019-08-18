@@ -75,6 +75,7 @@ This is a list of the software codes used in imageboard.json along with links to
 - ace-rx - https://github.com/svmn/ace-rx
 - apachan - https://github.com/ilvar/apachan
 - blazechan - https://gitgud.io/blazechan/blazechan
+- cursedboard - https://github.com/whisperchan/cursedboard / https://github.com/BigSlice/cursedboard
 - exaba - http://web.archive.org/web/20150429042034/http://exachan.com/exaba/ (last archived release: http://web.archive.org/web/20130614124246/http://exachan.com/exaba/downloads/exaba_0_9_9.zip)
 - foolfuuka - https://github.com/FoolCode/FoolFuuka
 - gochan - https://github.com/eggbertx/gochan
