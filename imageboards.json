@@ -4699,6 +4699,18 @@
     ]
   },
   {
+    "name": "Spookychan",
+    "url": "https://spookychan.xyz/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "lainchan"
+    ]
+  },
+  {
     "name": "Sportschan",
     "url": "https://sportschan.org/",
     "mirrors": [
