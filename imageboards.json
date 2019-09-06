@@ -329,17 +329,6 @@
     ]
   },
   {
-    "name": "🌲",
-    "url": "https://org.computer/%F0%9F%8C%B2/a/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "02ch",
     "url": "https://02ch.in/all/",
     "language": [
@@ -566,17 +555,6 @@
     ],
     "language": [
       "ru"
-    ]
-  },
-  {
-    "name": "2chon",
-    "url": "http://mississippianon.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
     ]
   },
   {
@@ -1497,16 +1475,6 @@
       "gazoubbs",
       "futaba",
       "pixmicat"
-    ]
-  },
-  {
-    "name": "/cams/",
-    "url": "http://tr.ill.cc/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "wakaba"
     ]
   },
   {
@@ -3150,16 +3118,6 @@
     ]
   },
   {
-    "name": "Livebunker",
-    "url": "https://livebunker.rocks/chat/home",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "livechan"
-    ]
-  },
-  {
     "name": "Lizchan",
     "url": "https://lizchan.org/",
     "language": [
@@ -3179,22 +3137,6 @@
     "software": [
       "tinyboard"
     ]
-  },
-  {
-    "name": "Lolifox",
-    "url": "https://lolifox.org/",
-    "mirrors": [
-      "https://lolifox.org/",
-      "http://lisach7joohmqk3a.onion/"
-    ],
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ],
-    "boardlist": "https://lolifox.org/boards.json"
   },
   {
     "name": "Lolnada",
@@ -3585,18 +3527,6 @@
       "gazoubbs",
       "futaba",
       "pixmicat"
-    ]
-  },
-  {
-    "name": "NagatoYuki/Next",
-    "url": "https://next.nagatoyuki.org/",
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "infinity"
     ]
   },
   {
@@ -4338,16 +4268,6 @@
     ]
   },
   {
-    "name": "randytrap.com",
-    "url": "http://randytrap.com/pbbs/bbs39.cgi",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "cgi-design"
-    ]
-  },
-  {
     "name": "Rfch",
     "url": "https://rfch.rocks/",
     "language": [
@@ -4808,17 +4728,6 @@
     ]
   },
   {
-    "name": "Szon",
-    "url": "https://szon.cf/",
-    "language": [
-      "pl"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "Taco Strait",
     "url": "https://ts.thornbush.monarch-pass.net/",
     "language": [
@@ -5218,17 +5127,6 @@
     "software": [
       "kusaba",
       "kusabax"
-    ]
-  },
-  {
-    "name": "UnknownOnline.me",
-    "url": "https://unknownonline.me/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
     ]
   },
   {
