@@ -950,16 +950,6 @@
     ]
   },
   {
-    "name": "acm.ssau.ru/b/",
-    "url": "http://acm.ssau.ru/b/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "tinyboard"
-    ]
-  },
-  {
     "name": "Acrimonie",
     "url": "https://www.acrimonie.com/",
     "language": [
@@ -1203,16 +1193,6 @@
     "boardlist": "https://balkanchan.ga/index.json"
   },
   {
-    "name": "Balls",
-    "url": "http://balls.jimboulter.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard"
-    ]
-  },
-  {
     "name": "Bants",
     "url": "https://cssc.asn.au/b/",
     "language": [
@@ -1291,16 +1271,6 @@
     ]
   },
   {
-    "name": "Bitchitito",
-    "url": "https://bitchitito.com/Tinyboard/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard"
-    ]
-  },
-  {
     "name": "BLASDEAD B B S",
     "url": "http://blasdead.com/bbs/futaba.htm",
     "language": [
@@ -1309,16 +1279,6 @@
     "software": [
       "gazoubbs",
       "futaba"
-    ]
-  },
-  {
-    "name": "board.ptown2.com",
-    "url": "https://board.ptown2.com/rrerr/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard"
     ]
   },
   {
@@ -1455,16 +1415,6 @@
     "software": [
       "tinyboard",
       "vichan"
-    ]
-  },
-  {
-    "name": "Cal Animage Epsilon",
-    "url": "https://clubs.uci.edu/cae/a/index.html",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard"
     ]
   },
   {
@@ -1676,16 +1626,6 @@
     ]
   },
   {
-    "name": "Cuntbusters Anonymous",
-    "url": "http://tpowis.net/cba/imageboard/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard"
-    ]
-  },
-  {
     "name": "Cutie Garden",
     "url": "https://cutie.garden/",
     "language": [
@@ -1729,16 +1669,6 @@
       "gazoubbs",
       "futaba",
       "pixmicat"
-    ]
-  },
-  {
-    "name": "Deltachan",
-    "url": "http://zonadelta.net/deltachan/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard"
     ]
   },
   {
@@ -2039,16 +1969,6 @@
     ],
     "software": [
       "wakaba"
-    ]
-  },
-  {
-    "name": "eu5ia",
-    "url": "http://eu5ia.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard"
     ]
   },
   {
@@ -2378,16 +2298,6 @@
     "url": "https://hatsune.ru/",
     "language": [
       "ru"
-    ]
-  },
-  {
-    "name": "haunting-limbs.000webhostapp.com",
-    "url": "http://haunting-limbs.000webhostapp.com/Tinyboard-master/b/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard"
     ]
   },
   {
@@ -3007,27 +2917,6 @@
       "doushio",
       "meguca",
       "cutechan"
-    ]
-  },
-  {
-    "name": "kuchikukan.net",
-    "url": "http://kuchikukan.net/Tinyboard/kc/index.html",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard"
-    ]
-  },
-  {
-    "name": "kurchan",
-    "url": "https://kurac.org/kurchan/b/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
     ]
   },
   {
@@ -4248,16 +4137,6 @@
     ]
   },
   {
-    "name": "PulpRiot",
-    "url": "http://riot.pulprev.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard"
-    ]
-  },
-  {
     "name": "qchan",
     "url": "http://qchan.dyndns.org/",
     "language": [
@@ -4543,16 +4422,6 @@
     ]
   },
   {
-    "name": "SmartMobi",
-    "url": "http://smart.mobi/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard"
-    ]
-  },
-  {
     "name": "smuglo.li",
     "url": "https://smuglo.li/a/",
     "language": [
@@ -4596,16 +4465,6 @@
       "lynxchan"
     ],
     "boardlist": "https://spacechan.xyz/index.json"
-  },
-  {
-    "name": "spchan",
-    "url": "http://chan.swordpretzel.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard"
-    ]
   },
   {
     "name": "spg-web.sytes.net/PasteChart/insect/",
@@ -4974,16 +4833,6 @@
     "software": [
       "wakaba",
       "wakaba++"
-    ]
-  },
-  {
-    "name": "trap.nlf.ee",
-    "url": "http://trap.nlf.ee/b/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard"
     ]
   },
   {
