@@ -3441,6 +3441,13 @@
     ]
   },
   {
+    "name": "naturalpeople.wiki",
+    "url": "https://naturalpeople.wiki/communicate/",
+    "language": [
+      "en"
+    ]
+  },
+  {
     "name": "NatureSidePhotoClub Photo BBS",
     "url": "http://nspc.biz/bbs434865/bbs43.cgi",
     "language": [
@@ -4712,6 +4719,13 @@
     ],
     "software": [
       "bbsnote"
+    ]
+  },
+  {
+    "name": "Time-Telling Fortress",
+    "url": "http://board.seize.ch/fortress/front",
+    "language": [
+      "en"
     ]
   },
   {
