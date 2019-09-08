@@ -3622,6 +3622,10 @@
   {
     "name": "nntpchan web.oniichan.onion",
     "url": "http://beepedjhffvat3uwij5fxny72vlj7ugqb67ippjebise6adxf73y3uqd.onion/",
+    "mirrors": [
+      "http://beepedjhffvat3uwij5fxny72vlj7ugqb67ippjebise6adxf73y3uqd.onion/",
+      "http://g7c54d4b7yva4ktpbaabqeu2yx6axalh4gevb44afpbwm23xuuya.b32.i2p/"
+    ],
     "language": [
       "en"
     ],
