@@ -2706,6 +2706,21 @@
     ]
   },
   {
+    "name": "JulayWorld",
+    "url": "https://julay.world/",
+    "mirrors": [
+      "https://julay.world/",
+      "https://spqrchan.xyz/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ],
+    "boardlist": "https://julay.world/webring.json"
+  },
+  {
     "name": "kabuban",
     "url": "http://www.kabuban.net/",
     "language": [
@@ -4793,21 +4808,6 @@
       "tinyboard",
       "vichan"
     ]
-  },
-  {
-    "name": "TheGuntRetort A-log bunker",
-    "url": "https://julay.world/",
-    "mirrors": [
-      "https://julay.world/",
-      "https://spqrchan.xyz/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ],
-    "boardlist": "https://julay.world/webring.json"
   },
   {
     "name": "Til作品＆イストワール総合お絵描きBBS",
