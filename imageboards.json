@@ -1069,7 +1069,8 @@
     ],
     "software": [
       "lynxchan"
-    ]
+    ],
+    "boardlist": "https://anon.cafe/webring.json"
   },
   {
     "name": "anzuchang.com",
@@ -1944,7 +1945,8 @@
     "software": [
       "tinyboard",
       "vichan"
-    ]
+    ],
+    "boardlist": "https://erischan.org/webring.json"
   },
   {
     "name": "Ernstchan",
@@ -4132,7 +4134,8 @@
     ],
     "software": [
       "lynxchan"
-    ]
+    ],
+    "boardlist": "https://prolikewoah.com/webring.json"
   },
   {
     "name": "PTChan",
@@ -4453,7 +4456,8 @@
       "tinyboard",
       "vichan",
       "infinity"
-    ]
+    ],
+    "boardlist": "https://smuglo.li/webring.json"
   },
   {
     "name": "snow-sugar.net",
@@ -4720,7 +4724,8 @@
     ],
     "software": [
       "lynxchan"
-    ]
+    ],
+    "boardlist": "https://julay.world/webring.json"
   },
   {
     "name": "Til作品＆イストワール総合お絵描きBBS",
@@ -5031,7 +5036,8 @@
       "tinyboard",
       "vichan",
       "npfchan"
-    ]
+    ],
+    "boardlist": "https://vch.moe/webring.json"
   },
   {
     "name": "Venus BBS",
