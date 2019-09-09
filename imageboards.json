@@ -4173,6 +4173,17 @@
     ]
   },
   {
+    "name": "Realchan",
+    "url": "https://realchan.org/",
+    "language": [
+      "pt"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Rfch",
     "url": "https://rfch.rocks/",
     "language": [
