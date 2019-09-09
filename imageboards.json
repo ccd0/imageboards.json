@@ -1936,6 +1936,17 @@
     ]
   },
   {
+    "name": "Erischan",
+    "url": "https://erischan.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Ernstchan",
     "url": "https://ernstchan.xyz/int/",
     "language": [
