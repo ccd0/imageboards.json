@@ -2248,6 +2248,17 @@
     "boardlist": "https://gochan.lunachan.net/boards.json"
   },
   {
+    "name": "Goon Saloon",
+    "url": "https://goonsaloon.pro/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "gopherchan",
     "url": "gopher://port70.net/1chan",
     "mirrors": [
