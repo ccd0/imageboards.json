@@ -1062,6 +1062,16 @@
     ]
   },
   {
+    "name": "anon.cafe",
+    "url": "https://anon.cafe/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ]
+  },
+  {
     "name": "anzuchang.com",
     "url": "http://anzuchang.com/",
     "language": [
