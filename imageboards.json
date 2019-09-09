@@ -214,6 +214,17 @@
     ]
   },
   {
+    "name": "幸运草",
+    "url": "https://heiban.me/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "lynxchan"
+    ],
+    "boardlist": "https://heiban.me/index.json"
+  },
+  {
     "name": "暇人茶屋†お絵かき掲示板",
     "url": "http://himacha.com/bbs/paint/oekaki.cgi",
     "language": [
@@ -767,6 +778,20 @@
     "software": [
       "kusaba",
       "kusabax"
+    ]
+  },
+  {
+    "name": "/4keks/",
+    "url": "https://4keks.org/4keks/",
+    "mirrors": [
+      "https://4keks.org/",
+      "http://4keksride3l75xmr.onion/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
     ]
   },
   {
@@ -2084,6 +2109,16 @@
     ]
   },
   {
+    "name": "Floridachan",
+    "url": "https://floridachan.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ]
+  },
+  {
     "name": "FranChan",
     "url": "https://franchan.biz/",
     "language": [
@@ -2123,6 +2158,17 @@
     "software": [
       "tinyboard"
     ]
+  },
+  {
+    "name": "FurChan",
+    "url": "http://furchan.net/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ],
+    "boardlist": "http://furchan.net/index.json"
   },
   {
     "name": "Futaba Channel",
@@ -4195,6 +4241,16 @@
     ]
   },
   {
+    "name": "ree.Social",
+    "url": "https://ree.social/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ]
+  },
+  {
     "name": "Rfch",
     "url": "https://rfch.rocks/",
     "language": [
@@ -4741,6 +4797,10 @@
   {
     "name": "TheGuntRetort A-log bunker",
     "url": "https://julay.world/",
+    "mirrors": [
+      "https://julay.world/",
+      "https://spqrchan.xyz/"
+    ],
     "language": [
       "en"
     ],
@@ -5241,6 +5301,16 @@
     "software": [
       "kusaba",
       "kusabax"
+    ]
+  },
+  {
+    "name": "xchan.wtf",
+    "url": "https://xchan.wtf/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
     ]
   },
   {
