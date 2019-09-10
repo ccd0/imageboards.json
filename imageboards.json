@@ -2884,6 +2884,17 @@
     ]
   },
   {
+    "name": "/koe/ - Voice & audio CDs",
+    "url": "http://board.kasumi.moe/koe/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Kohlchan",
     "url": "https://kohlchan.net/",
     "mirrors": [
@@ -4695,6 +4706,17 @@
     ],
     "software": [
       "tinyboard"
+    ]
+  },
+  {
+    "name": "Suomilauta",
+    "url": "http://www.suomilauta.org/",
+    "language": [
+      "fi"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
