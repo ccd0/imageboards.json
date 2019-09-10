@@ -2142,11 +2142,15 @@
   {
     "name": "Freech",
     "url": "https://freech.net/",
+    "mirrors": [
+      "https://freech.net/",
+      "http://6ayog62ilt2kkpeuk3mq2t7ijkgzrkeetkdlifxrrnotlh4wlnmh4oqd.onion/"
+    ],
     "language": [
       "en"
     ],
     "software": [
-      "kareha"
+      "lynxchan"
     ]
   },
   {
