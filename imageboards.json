@@ -3541,6 +3541,18 @@
     ]
   },
   {
+    "name": "NagatoYuki/Liaison",
+    "url": "https://liaison.nagatoyuki.org/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "infinity"
+    ]
+  },
+  {
     "name": "Nameless Imageboard",
     "url": "http://namelessrumia.heliohost.org/img/",
     "language": [
