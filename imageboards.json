@@ -2368,6 +2368,17 @@
     ]
   },
   {
+    "name": "Gurochan",
+    "url": "https://www.gurochan.cx/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "gzone-anime.info/UnitedSites/",
     "url": "http://gzone-anime.info/UnitedSites/academic/",
     "language": [
