@@ -1328,6 +1328,17 @@
     ]
   },
   {
+    "name": "B-lokal",
+    "url": "https://www.blokal.eu/",
+    "language": [
+      "sk"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "boards.selfishnode.com",
     "url": "http://boards.selfishnode.com/",
     "language": [
@@ -1648,6 +1659,17 @@
     ],
     "software": [
       "bbsnote"
+    ]
+  },
+  {
+    "name": "/coxg/ Image Board",
+    "url": "https://board.thunderspygaming.net/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
@@ -3157,6 +3179,18 @@
     ],
     "software": [
       "tinyboard"
+    ]
+  },
+  {
+    "name": "Lost Bobbl IB",
+    "url": "http://lostbobbl.com/ib/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "lainchan"
     ]
   },
   {
@@ -4719,6 +4753,18 @@
       "gazoubbs",
       "futaba",
       "pixmicat"
+    ]
+  },
+  {
+    "name": "Subchan",
+    "url": "https://subchan.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "npfchan"
     ]
   },
   {
