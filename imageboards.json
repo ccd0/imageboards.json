@@ -693,21 +693,6 @@
     ]
   },
   {
-    "name": "3D size board",
-    "url": "http://3dsize.megame.jp/",
-    "mirrors": [
-      "http://3dsize.megame.jp/",
-      "http://3dsize.moe.hm/"
-    ],
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
-    ]
-  },
-  {
     "name": "410chan",
     "url": "http://410chan.org/",
     "language": [
@@ -1862,17 +1847,6 @@
     ]
   },
   {
-    "name": "#divbot.net chan",
-    "url": "http://chan.divbot.net/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
-    ]
-  },
-  {
     "name": "Dobrochan",
     "url": "http://dobrochan.com/",
     "language": [
@@ -2052,28 +2026,6 @@
     ]
   },
   {
-    "name": "Everypony",
-    "url": "https://board.everypony.ru/pony/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
-    ]
-  },
-  {
-    "name": "Fakechan",
-    "url": "http://fakepunchstudios.com/fakechan/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
-    ]
-  },
-  {
     "name": "Fapchan",
     "url": "https://fapchan.org/",
     "mirrors": [
@@ -2117,17 +2069,6 @@
     ],
     "software": [
       "bbsnote"
-    ]
-  },
-  {
-    "name": "Fight Chan",
-    "url": "http://fightanvidya.com/img/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
     ]
   },
   {
@@ -4380,17 +4321,6 @@
     "boardlist": "https://ronery.me/index.json"
   },
   {
-    "name": "ROTRBC",
-    "url": "http://boards.rotbrc.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
-    ]
-  },
-  {
     "name": "Хайбане.ru",
     "url": "https://haibane.ru/",
     "language": [
@@ -4809,17 +4739,6 @@
       "tinyboard",
       "vichan",
       "fukuro"
-    ]
-  },
-  {
-    "name": "Taco Strait",
-    "url": "https://ts.thornbush.monarch-pass.net/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
     ]
   },
   {
@@ -5395,17 +5314,6 @@
       "gazoubbs",
       "futaba",
       "pixmicat"
-    ]
-  },
-  {
-    "name": "www.solfranc.com/second_hand/",
-    "url": "http://www.solfranc.com/second_hand/2Mano/",
-    "language": [
-      "es"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
     ]
   },
   {
