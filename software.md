@@ -44,9 +44,9 @@ This is a list of the software codes used in imageboard.json along with links to
     - phutaba - https://github.com/ernstchan/phutaba
     - taimaba - used by https://420chan.org/
     - wakaru - https://github.com/NamelessRumia/Wakaru
-- bbsnote - http://web.archive.org/web/20050116004959/http://wondercatstudio.com:80/html/download.html
 - lynxchan - https://gitgud.io/LynxChan/LynxChan
     - infinitynow - https://gitgud.io/groups/InfinityNow
+- bbsnote - http://web.archive.org/web/20050116004959/http://wondercatstudio.com:80/html/download.html
 - doushio - https://github.com/lalcmellkmal/doushio
     - meguca - https://github.com/bakape/meguca
         - cutechan - https://github.com/cutechan/cutechan
@@ -61,7 +61,6 @@ This is a list of the software codes used in imageboard.json along with links to
         - joyful2chme - www.supra.cx/joyful2chMe/index.html
 - ochiba - http://ochiba.x-maru.org/
 - emanon - https://github.com/oprel/emanon
-- livechan - https://github.com/emgram769/livechan-js
 - mitsuba - https://github.com/MitsubaBBS/Mitsuba
     - haruko - https://gitgud.io/parley/Haruko
 - nntpchan - https://github.com/majestrate/nntpchan
@@ -85,6 +84,7 @@ This is a list of the software codes used in imageboard.json along with links to
 - koba - used by https://boards.plus4chan.org/
 - kropyva - https://gitlab.com/Kropyva
 - lapis-chan - https://github.com/karai17/lapis-chan/
+- livechan - https://github.com/emgram769/livechan-js
 - makaba - used by https://2ch.hk/
 - maniwani - https://github.com/DangerOnTheRanger/maniwani
 - matsuri - used by https://kyber.io/matsuri
