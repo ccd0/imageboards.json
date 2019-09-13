@@ -118,6 +118,16 @@
     ]
   },
   {
+    "name": "オリジナル投稿画像/動画掲示板",
+    "url": "https://liberty-net.jp/toukou/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "imgboard"
+    ]
+  },
+  {
     "name": "ゲーム半角二次元　お絵描き掲示板",
     "url": "http://kazumi386.org/~flatkobo/oekaki/GAME_Hankaku/bbsnote.cgi",
     "language": [
@@ -187,6 +197,18 @@
       "futaba",
       "siokara",
       "yakuba"
+    ]
+  },
+  {
+    "name": "大人の画像掲示板ももがき",
+    "url": "http://momogaki.com/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "joyfulnote",
+      "joyful2ch",
+      "gakinko"
     ]
   },
   {
