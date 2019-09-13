@@ -48,6 +48,13 @@
     ]
   },
   {
+    "name": "がぞろだ",
+    "url": "http://www.gz-loader.com/",
+    "language": [
+      "ja"
+    ]
+  },
+  {
     "name": "すーぱーかぶメイン１６",
     "url": "http://supercub512.atwebpages.com/test003/imgboard2015.cgi",
     "language": [
@@ -302,6 +309,18 @@
     "url": "https://www.imgbbs.dtn.jp/",
     "language": [
       "ja"
+    ]
+  },
+  {
+    "name": "画像掲示板ガレンジャー",
+    "url": "http://garanger.net/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "kenjiweb"
     ]
   },
   {
@@ -2628,6 +2647,13 @@
     ]
   },
   {
+    "name": "画像掲示板PINKのとら",
+    "url": "http://www.pinknotora.net/main.html",
+    "language": [
+      "ja"
+    ]
+  },
+  {
     "name": "Institute for ---------",
     "url": "http://thompsonharris.net/imageboard/board.html",
     "language": [
@@ -4242,6 +4268,13 @@
     ],
     "software": [
       "emanon"
+    ]
+  },
+  {
+    "name": "PPPch",
+    "url": "https://jp.pppch.net/",
+    "language": [
+      "ja"
     ]
   },
   {
