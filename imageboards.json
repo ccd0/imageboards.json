@@ -3953,17 +3953,6 @@
     ]
   },
   {
-    "name": "Osmochan",
-    "url": "http://osmch.nanodesu.ru/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
-    ]
-  },
-  {
     "name": "Ota-ch",
     "url": "https://ota-ch.com/jp/",
     "language": [
