@@ -504,19 +504,6 @@
     ]
   },
   {
-    "name": "1chan.us",
-    "url": "https://1chan.us/board.html",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "futallaby",
-      "tinyib"
-    ]
-  },
-  {
     "name": "22chan",
     "url": "https://22chan.org/",
     "language": [
