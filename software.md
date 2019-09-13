@@ -58,6 +58,7 @@ This is a list of the software codes used in imageboard.json along with links to
 - joyfulnote - http://www.kent-web.com/bbs/joyful.html
     - jn+yyb - http://w-space.net/subcon/cgi.htm
     - joyful2ch - http://falcon.s16.xrea.com/
+        - gakinko - used by http://www.gakinko.net/
         - joyful2chme - www.supra.cx/joyful2chMe/index.html
 - ochiba - http://ochiba.x-maru.org/
 - emanon - https://github.com/oprel/emanon

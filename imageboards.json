@@ -257,6 +257,32 @@
     ]
   },
   {
+    "name": "画像掲示板がきんこ",
+    "url": "http://www.gakinko.net/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "joyfulnote",
+      "joyful2ch",
+      "gakinko"
+    ]
+  },
+  {
+    "name": "画像掲示板しゃんばら",
+    "url": "http://shanbara.jp/",
+    "language": [
+      "ja"
+    ]
+  },
+  {
+    "name": "画像掲示板の泉",
+    "url": "https://www.imgbbs.dtn.jp/",
+    "language": [
+      "ja"
+    ]
+  },
+  {
     "name": "苺ましまろお絵描き掲示板",
     "url": "http://ichigomashimaro.net/oekaki/bbsnote.cgi",
     "language": [
