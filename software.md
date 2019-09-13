@@ -24,8 +24,8 @@ This is a list of the software codes used in imageboard.json along with links to
 - tinyboard - https://github.com/savetheinternet/Tinyboard
     - vichan - https://github.com/vichan-devel/vichan/
         - npfchan - https://github.com/fallenPineapple/NPFchan
-        - infinity - https://github.com/ctrlcctrlv/infinity
         - lainchan - https://github.com/lainchan/lainchan
+        - infinity - https://github.com/ctrlcctrlv/infinity
         - arisuchan - https://github.com/arisu-dev/arisuchan
         - fukuro - https://github.com/twiforce/fukuro
     - ponychan - https://bitbucket.org/ponychan/ponychan-tinyboard
@@ -50,14 +50,14 @@ This is a list of the software codes used in imageboard.json along with links to
         - cutechan - https://github.com/cutechan/cutechan
 - kareha - https://wakaba.c3.cx/s/web/wakaba_kareha
 - cgi-design - http://cgi-design.net/prog/bbs/index.htm
-- atbbs - https://sourceforge.net/projects/atbbs/
-    - tinybbs - https://github.com/r04r/minichan
-- imgboard - http://www.big.or.jp/~talk/t-club/soft/index.html
 - joyfulnote - http://www.kent-web.com/bbs/joyful.html
-    - jn+yyb - http://w-space.net/subcon/cgi.htm
     - joyful2ch - http://falcon.s16.xrea.com/
         - gakinko - used by http://www.gakinko.net/
         - joyful2chme - www.supra.cx/joyful2chMe/index.html
+    - jn+yyb - http://w-space.net/subcon/cgi.htm
+- atbbs - https://sourceforge.net/projects/atbbs/
+    - tinybbs - https://github.com/r04r/minichan
+- imgboard - http://www.big.or.jp/~talk/t-club/soft/index.html
 - ochiba - http://ochiba.x-maru.org/
 - emanon - https://github.com/oprel/emanon
 - mitsuba - https://github.com/MitsubaBBS/Mitsuba
