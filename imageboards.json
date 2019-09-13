@@ -797,17 +797,6 @@
     "boardlist": "https://a.4cdn.org/boards.json"
   },
   {
-    "name": "4chan House",
-    "url": "http://dis.4chanhouse.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
-    ]
-  },
-  {
     "name": "/4keks/",
     "url": "https://4keks.org/4keks/",
     "mirrors": [
