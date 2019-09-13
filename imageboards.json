@@ -4696,6 +4696,17 @@
     ]
   },
   {
+    "name": "Tgchan",
+    "url": "https://tgchan.org/kusaba/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "kusaba",
+      "kusabax"
+    ]
+  },
+  {
     "name": "TGFB",
     "url": "http://tgfb.us/",
     "language": [
