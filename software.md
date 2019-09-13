@@ -5,7 +5,6 @@ This is a list of the software codes used in imageboard.json along with links to
 - gazoubbs - http://web.archive.org/web/20170607054849/http://php.s3.to:80/bbs/bbs3.php
     - futaba - https://www.2chan.net/script/
         - pixmicat - https://github.com/pixmicat/pixmicat/releases
-            - yotsubanome - http://4ch.mooo.com/+4/script/
         - siokara - http://siokara.que.jp/
             - yakuba - used by http://t-jun.kemoren.com/
             - siokara-gchan - http://web.archive.org/web/20140220052910/http://www42.atpages.jp/gscripts/ (many pages not archived)
@@ -26,7 +25,6 @@ This is a list of the software codes used in imageboard.json along with links to
     - vichan - https://github.com/vichan-devel/vichan/
         - npfchan - https://github.com/fallenPineapple/NPFchan
         - infinity - https://github.com/ctrlcctrlv/infinity
-            - openib - https://github.com/OpenIB/OpenIB
         - lainchan - https://github.com/lainchan/lainchan
         - arisuchan - https://github.com/arisu-dev/arisuchan
         - fukuro - https://github.com/twiforce/fukuro
@@ -44,7 +42,6 @@ This is a list of the software codes used in imageboard.json along with links to
     - hanabira - used by http://dobrochan.com/ (unpublished)
     - phutaba - https://github.com/ernstchan/phutaba
     - taimaba - used by https://420chan.org/
-    - wakaru - https://github.com/NamelessRumia/Wakaru
 - lynxchan - https://gitgud.io/LynxChan/LynxChan
     - infinitynow - https://gitgud.io/groups/InfinityNow
 - bbsnote - http://web.archive.org/web/20050116004959/http://wondercatstudio.com:80/html/download.html
