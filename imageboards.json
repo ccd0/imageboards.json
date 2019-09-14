@@ -207,6 +207,18 @@
     ]
   },
   {
+    "name": "双猫村祭典広場",
+    "url": "https://rths.cf/sd/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "pixmicat"
+    ]
+  },
+  {
     "name": "大人の画像掲示板ももがき",
     "url": "http://momogaki.com/",
     "language": [
