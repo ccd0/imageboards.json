@@ -1292,6 +1292,13 @@
     ]
   },
   {
+    "name": "Bindowzuchan",
+    "url": "https://www.windows93.net/b/",
+    "language": [
+      "en"
+    ]
+  },
+  {
     "name": "BLASDEAD B B S",
     "url": "http://blasdead.com/bbs/futaba.htm",
     "language": [
@@ -1577,6 +1584,17 @@
       "lynxchan"
     ],
     "boardlist": "https://chiru.no/index.json"
+  },
+  {
+    "name": "comfy.chat",
+    "url": "https://comfy.chat/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
   },
   {
     "name": "comic.com.tw",
@@ -2380,6 +2398,16 @@
     "url": "http://hotta.saloon.jp/",
     "language": [
       "ja"
+    ]
+  },
+  {
+    "name": "housamo.xyz",
+    "url": "https://boards.housamo.xyz/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "foolfuuka"
     ]
   },
   {
@@ -3550,6 +3578,20 @@
     ],
     "software": [
       "blazechan"
+    ]
+  },
+  {
+    "name": "ni-chan",
+    "url": "http://nichank62kpkrxvg.onion/",
+    "mirrors": [
+      "http://nichank62kpkrxvg.onion/",
+      "http://plnemlsyla6h5t3nuoz2algzmy635ceuendnjwsmhwn2os5fxahshiad.onion/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "wakaba"
     ]
   },
   {
@@ -5130,6 +5172,19 @@
     ],
     "software": [
       "tinyboard"
+    ]
+  },
+  {
+    "name": "Winterchan",
+    "url": "https://winterchan.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "lainchan",
+      "winterchan"
     ]
   },
   {

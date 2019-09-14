@@ -25,6 +25,7 @@ This is a list of the software codes used in imageboard.json along with links to
     - vichan - https://github.com/vichan-devel/vichan/
         - npfchan - https://github.com/fallenPineapple/NPFchan
         - lainchan - https://github.com/lainchan/lainchan
+            - winterchan - https://code.acr.moe/kazari/winterchan
         - infinity - https://github.com/ctrlcctrlv/infinity
         - arisuchan - https://github.com/arisu-dev/arisuchan
         - fukuro - https://github.com/twiforce/fukuro
