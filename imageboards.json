@@ -619,6 +619,10 @@
   {
     "name": "2cat",
     "url": "https://2cat.komica.org/",
+    "boardlistpages": [
+      "https://2cat.komica.org/",
+      "http://web.komica.org/bbsmenu.html"
+    ],
     "language": [
       "zh"
     ],
@@ -679,6 +683,11 @@
   {
     "name": "2nyan.org",
     "url": "http://2nyan.org/",
+    "boardlistpages": [
+      "https://2cat.komica.org/",
+      "http://web.komica.org/bbsmenu.html",
+      "https://komica2.net/mainmenu2018.html"
+    ],
     "language": [
       "zh"
     ],
@@ -1333,6 +1342,10 @@
   {
     "name": "boguspix.com",
     "url": "https://storysol.boguspix.com/",
+    "boardlistpages": [
+      "http://web.komica.org/bbsmenu.html",
+      "https://komica2.net/mainmenu2018.html"
+    ],
     "language": [
       "zh"
     ],
@@ -2268,6 +2281,10 @@
   {
     "name": "gzone-anime.info/UnitedSites/",
     "url": "http://gzone-anime.info/UnitedSites/academic/",
+    "boardlistpages": [
+      "http://web.komica.org/bbsmenu.html",
+      "https://2cat.komica.org/"
+    ],
     "language": [
       "zh"
     ],
@@ -2664,7 +2681,12 @@
   },
   {
     "name": "kagaminerin.org",
-    "url": "http://www.kagaminerin.org/fps/pixmicat.php?res=84598",
+    "url": "http://www.kagaminerin.org/fps/",
+    "boardlistpages": [
+      "http://www.kagaminerin.org/fps/pixmicat.php?res=84598",
+      "http://web.komica.org/bbsmenu.html",
+      "https://2cat.komica.org/"
+    ],
     "language": [
       "zh"
     ],
@@ -2700,6 +2722,10 @@
   {
     "name": "karlsland.net",
     "url": "http://www.karlsland.net/sw/",
+    "boardlistpages": [
+      "http://web.komica.org/bbsmenu.html",
+      "https://2cat.komica.org/"
+    ],
     "language": [
       "zh"
     ],
@@ -2818,6 +2844,10 @@
   {
     "name": "Komica",
     "url": "http://web.komica.org/",
+    "boardlistpages": [
+      "http://web.komica.org/bbsmenu.html",
+      "https://2cat.komica.org/"
+    ],
     "language": [
       "zh"
     ],
@@ -2840,8 +2870,13 @@
     ]
   },
   {
-    "name": "komica.peroneko.org/minecraft/",
+    "name": "komica.peroneko.org",
     "url": "https://komica.peroneko.org/minecraft/",
+    "boardlistpages": [
+      "http://web.komica.org/bbsmenu.html",
+      "https://2cat.komica.org/",
+      "https://komica2.net/bbsmenu2018.html"
+    ],
     "language": [
       "zh"
     ],
@@ -3334,6 +3369,10 @@
   {
     "name": "moecorner.com/iboards/",
     "url": "http://moecorner.com/iboards/Relationship/",
+    "boardlistpages": [
+      "http://web.komica.org/bbsmenu.html",
+      "https://2cat.komica.org/"
+    ],
     "language": [
       "zh"
     ],
@@ -3409,6 +3448,12 @@
   {
     "name": "MyKomica",
     "url": "https://mymoe.moe/",
+    "boardlistpages": [
+      "http://web.komica.org/bbsmenu.html",
+      "https://2cat.komica.org/",
+      "http://camiko.org/bbsmenu.htm",
+      "https://fenrisulfr.org/"
+    ],
     "language": [
       "zh"
     ],
@@ -3597,6 +3642,10 @@
   {
     "name": "ningen.dreamhosters.com",
     "url": "http://ningen.dreamhosters.com/moe/",
+    "boardlistpages": [
+      "http://web.komica.org/bbsmenu.html",
+      "https://2cat.komica.org/"
+    ],
     "language": [
       "zh"
     ],
@@ -4446,6 +4495,11 @@
   {
     "name": "snow-sugar.net",
     "url": "https://imgboard.snow-sugar.net/",
+    "boardlistpages": [
+      "https://imgboard.snow-sugar.net/",
+      "http://web.komica.org/bbsmenu.html",
+      "https://2cat.komica.org/"
+    ],
     "language": [
       "zh"
     ],
