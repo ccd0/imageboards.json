@@ -2840,18 +2840,6 @@
     ]
   },
   {
-    "name": "komica.chiisana.net",
-    "url": "https://komica.chiisana.net/",
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat"
-    ]
-  },
-  {
     "name": "komica.peroneko.org/minecraft/",
     "url": "https://komica.peroneko.org/minecraft/",
     "language": [
