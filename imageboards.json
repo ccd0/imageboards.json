@@ -3582,10 +3582,10 @@
   },
   {
     "name": "ni-chan",
-    "url": "http://nichank62kpkrxvg.onion/",
+    "url": "http://plnemlsyla6h5t3nuoz2algzmy635ceuendnjwsmhwn2os5fxahshiad.onion/",
     "mirrors": [
-      "http://nichank62kpkrxvg.onion/",
-      "http://plnemlsyla6h5t3nuoz2algzmy635ceuendnjwsmhwn2os5fxahshiad.onion/"
+      "http://plnemlsyla6h5t3nuoz2algzmy635ceuendnjwsmhwn2os5fxahshiad.onion/",
+      "http://nichank62kpkrxvg.onion/"
     ],
     "language": [
       "en"
