@@ -1,5 +1,21 @@
 [
   {
+    "name": "Majeur / World Première",
+    "url": "https://majeur.zawarudo.org/",
+    "boardlistpages": [
+      "https://majeur.zawarudo.org/search.php",
+      "https://komica2.net/mainmenu2018.html"
+    ],
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "npfchan"
+    ]
+  },
+  {
     "name": "Кропивач",
     "url": "https://www.kropyva.ch/",
     "language": [
