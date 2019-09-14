@@ -1062,18 +1062,6 @@
     ]
   },
   {
-    "name": "anacel.com Pixmicat!",
-    "url": "http://futaba.anacel.com/figure/",
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat"
-    ]
-  },
-  {
     "name": "Anoma",
     "url": "https://bbs.anoma.ch/",
     "language": [
@@ -1350,18 +1338,6 @@
     ]
   },
   {
-    "name": "broken.goodluck.com.tw",
-    "url": "http://broken.goodluck.com.tw/",
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat"
-    ]
-  },
-  {
     "name": "Bronnen",
     "url": "https://www.bronnen.net/",
     "language": [
@@ -1594,18 +1570,6 @@
     "software": [
       "tinyboard",
       "vichan"
-    ]
-  },
-  {
-    "name": "comic.com.tw",
-    "url": "http://comic.com.tw/03/",
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat"
     ]
   },
   {
@@ -3595,18 +3559,6 @@
     ]
   },
   {
-    "name": "Night-Think",
-    "url": "http://night-think.net/board_right.html",
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat"
-    ]
-  },
-  {
     "name": "nijibox.com/futaba/",
     "url": "http://www.nijibox.com/futaba/",
     "language": [
@@ -4787,18 +4739,6 @@
       "futaba",
       "siokara",
       "yakuba"
-    ]
-  },
-  {
-    "name": "tmp pic",
-    "url": "http://pic.ambest.cc/",
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat"
     ]
   },
   {
