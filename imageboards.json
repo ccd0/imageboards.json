@@ -863,6 +863,16 @@
     ]
   },
   {
+    "name": "64chan",
+    "url": "http://45.142.183.14/mitsuba/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "mitsuba"
+    ]
+  },
+  {
     "name": "70chan",
     "url": "gopher://gopher.su/1/board",
     "language": [
