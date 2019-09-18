@@ -1709,6 +1709,19 @@
     ]
   },
   {
+    "name": "Demo imageboard",
+    "url": "http://demoboard.eu3.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby",
+      "tinyib"
+    ]
+  },
+  {
     "name": "Depreschan",
     "url": "https://depreschan.ovh/",
     "language": [
