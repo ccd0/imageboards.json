@@ -1597,6 +1597,17 @@
     "boardlist": "https://chiru.no/index.json"
   },
   {
+    "name": "clooven.com",
+    "url": "https://clooven.com/vichan/qq/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "comfy.chat",
     "url": "https://comfy.chat/",
     "language": [
