@@ -13,6 +13,7 @@ Other lists that may be of interest:
 * http://overchan.ru/
 * https://0chan.one/catalog/ (also available in JSON: https://0chan.one/chans/chans.json)
 * http://metatorjq65tshfy.onion/catalog/ (also available in JSON: http://metatorjq65tshfy.onion/chans/chans.json)
+* https://dscript.me/chanlist/
 * http://overchan2.narod.ru/
 * https://lurkmore.to/Зарубежные_имиджборды
 * https://lurkmore.to/Отечественные_имиджборды
