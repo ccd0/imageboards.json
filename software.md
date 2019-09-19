@@ -32,7 +32,8 @@ This is a list of the software codes used in imageboard.json along with links to
     - ponychan - https://bitbucket.org/ponychan/ponychan-tinyboard
 - kusaba - https://github.com/tslocum/kusaba
     - kusabax - http://kusabax.cultnet.net/
-        - kurisaba - https://github.com/makise-homura/kurisaba
+        - instant-0chan - https://gitgud.io/devarped/instant-0chan
+            - kurisaba - https://github.com/makise-homura/kurisaba
         - kusaba-helma - https://github.com/altbdoor/kusaba-helma
         - novovvedeniya - http://www.zloiodm.in/trs/ksb.rar
         - ponyach.ru - https://github.com/acilsd/ponyach.ru
@@ -40,7 +41,6 @@ This is a list of the software codes used in imageboard.json along with links to
 - wakaba - https://wakaba.c3.cx/s/web/wakaba_kareha
     - wakaba++ - described at https://www.lurkmore.com/view/Wakaba++ but appears to be unpublished
     - glaukaba - https://github.com/marlencrabapple/Glaukaba
-    - hanabira - used by http://dobrochan.com/ (unpublished)
     - phutaba - https://github.com/ernstchan/phutaba
     - taimaba - used by https://420chan.org/
 - lynxchan - https://gitgud.io/LynxChan/LynxChan
@@ -68,7 +68,10 @@ This is a list of the software codes used in imageboard.json along with links to
     - tumbach - https://github.com/rngnrs/tumbach
 - webpatio - http://www.kent-web.com/bbs/patio.html
     - webpatio-kirishima - http://kirishima.it/patio/
+- 0chan - https://github.com/klkvsk/0chan
+    - ochko - https://gitgud.io/devarped/ochko
 - 1chan - https://github.com/jlbyrey/1chan
+    - pierwszykanal - https://gitgud.io/devarped/pierwszykanal
 - 4kev - https://github.com/federicoolivo/4kev
 - 4taba - https://github.com/4taba/4taba
 - ace-rx - https://github.com/svmn/ace-rx
@@ -96,10 +99,12 @@ This is a list of the software codes used in imageboard.json along with links to
 - neoboard - https://github.com/neochaner/neochan
 - nerve - https://github.com/codingneko/nerve
 - orphereus - https://orphereus.anoma.ch/
+    - hanabira - used by http://dobrochan.com/ (unpublished)
 - overmind - used by http://kanal4.org/
 - purplish - https://github.com/Shirakumo/purplish
 - tornadoimageboard - https://github.com/cnsr/tornado_imageboard
 - uchan - https://github.com/Floens/uchan
+- yboard - https://github.com/LautaMedia/YBoard
 - weabot - used by https://bienvenidoainternet.org/
 
 You may also be interested in these lists of imageboard software:

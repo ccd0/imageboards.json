@@ -449,7 +449,25 @@
     "software": [
       "doushio",
       "meguca"
-    ]
+    ],
+    "boardlist": "https://0-chan.ru/json/board-list"
+  },
+  {
+    "name": "0chan.pl",
+    "url": "https://www.0chan.pl/",
+    "mirrors": [
+      "http://nullplctggmjazqcoboc2pw5anogckczzj6xo45ukrnsaxarpswu7sid.onion/",
+      "https://0.1chan.pl/",
+      "https://p.0chan.pl/"
+    ],
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "0chan",
+      "ochko"
+    ],
+    "boardlist": "https://www.0chan.pl/api/board/list"
   },
   {
     "name": "100chan",
@@ -568,11 +586,49 @@
   {
     "name": "1chan.ca",
     "url": "https://1chan.ca/news/",
+    "mirrors": [
+      "https://1chan.pro/news/"
+    ],
     "language": [
       "ru"
     ],
     "software": [
       "1chan"
+    ]
+  },
+  {
+    "name": "1chan.pl",
+    "url": "https://1chan.pl/news/",
+    "mirrors": [
+      "http://kolchpl6sf4t7yjf57an3gxyprqqtjm2gtvatzkcsx27uu3psssnmyad.onion/news/"
+    ],
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "1chan",
+      "pierwszykanal"
+    ]
+  },
+  {
+    "name": "1chan.ru",
+    "url": "https://1chan.ru/news/",
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "1chan"
+    ]
+  },
+  {
+    "name": "1chan.top",
+    "url": "https://1chan.top/news/",
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "1chan",
+      "pierwszykanal"
     ]
   },
   {
@@ -3009,6 +3065,7 @@
     "software": [
       "kusaba",
       "kusabax",
+      "instant-0chan",
       "kurisaba"
     ]
   },
@@ -3066,6 +3123,13 @@
     ],
     "software": [
       "lapis-chan"
+    ]
+  },
+  {
+    "name": "Lentachan",
+    "url": "http://lenta-chan.ru/",
+    "language": [
+      "ru"
     ]
   },
   {
@@ -3756,7 +3820,7 @@
     ]
   },
   {
-    "name": "Nowhere",
+    "name": "Nowere",
     "url": "https://nowere.net/",
     "language": [
       "ru"
@@ -3786,6 +3850,14 @@
       "gazoubbs",
       "futaba",
       "moeren"
+    ]
+  },
+  {
+    "name": "Nullnyan",
+    "url": "https://www.nullnyan.net/",
+    "language": [
+      "ru",
+      "en"
     ]
   },
   {
@@ -4288,7 +4360,7 @@
     ]
   },
   {
-    "name": "Ronery.Me",
+    "name": "Ronery",
     "url": "https://ronery.me/",
     "language": [
       "ru"
@@ -4299,7 +4371,7 @@
     "boardlist": "https://ronery.me/index.json"
   },
   {
-    "name": "Хайбане.ru",
+    "name": "Хайбане",
     "url": "https://haibane.ru/",
     "language": [
       "ru"
@@ -5313,6 +5385,9 @@
     "url": "https://ylilauta.org/",
     "language": [
       "fi"
+    ],
+    "software": [
+      "yboard"
     ]
   },
   {

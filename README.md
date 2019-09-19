@@ -11,6 +11,8 @@ Other lists that may be of interest:
 * https://allchans.org/
 * http://www.1ch.us/
 * http://overchan.ru/
+* https://0chan.one/catalog/ (also available in JSON: https://0chan.one/chans/chans.json)
+* http://metatorjq65tshfy.onion/catalog/ (also available in JSON: http://metatorjq65tshfy.onion/chans/chans.json)
 * http://overchan2.narod.ru/
 * http://lurkmore.to/Зарубежные_имиджборды
 * http://www.wikinet.pro/wiki/Anexo:Lista_de_chans_brasileiros_ativos
