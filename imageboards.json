@@ -700,19 +700,6 @@
     ]
   },
   {
-    "name": "2ch.rip",
-    "url": "https://2ch.rip/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "futallaby",
-      "pihaba"
-    ]
-  },
-  {
     "name": "2fan",
     "url": "http://2fan.ru/ch/",
     "language": [
@@ -1965,6 +1952,22 @@
     ],
     "software": [
       "tinyboard"
+    ]
+  },
+  {
+    "name": "Dva-ch",
+    "url": "https://dva-ch.net/",
+    "mirrors": [
+      "https://2ch.rip/"
+    ],
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby",
+      "pihaba"
     ]
   },
   {

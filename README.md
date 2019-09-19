@@ -14,7 +14,8 @@ Other lists that may be of interest:
 * https://0chan.one/catalog/ (also available in JSON: https://0chan.one/chans/chans.json)
 * http://metatorjq65tshfy.onion/catalog/ (also available in JSON: http://metatorjq65tshfy.onion/chans/chans.json)
 * http://overchan2.narod.ru/
-* http://lurkmore.to/Зарубежные_имиджборды
+* https://lurkmore.to/Зарубежные_имиджборды
+* https://lurkmore.to/Отечественные_имиджборды
 * http://www.wikinet.pro/wiki/Anexo:Lista_de_chans_brasileiros_ativos
 * http://www.anontalk.info/wiki/Illegal_Clones
 * https://encyclopediadramatica.se/List_of_chans
