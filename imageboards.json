@@ -456,8 +456,10 @@
     "name": "0chan.pl",
     "url": "https://www.0chan.pl/",
     "mirrors": [
+      "http://gd7qe2pu2jwqabz4zcf3wwablrzym7p6qswczoapkm5oa5ouuaua.b32.i2p",
       "http://nullplctggmjazqcoboc2pw5anogckczzj6xo45ukrnsaxarpswu7sid.onion/",
       "https://0.1chan.pl/",
+      "http://0pl.i2p/",
       "https://p.0chan.pl/"
     ],
     "language": [
