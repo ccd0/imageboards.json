@@ -27,6 +27,16 @@
     ]
   },
   {
+    "name": "Хайбане",
+    "url": "https://haibane.ru/",
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "monaba"
+    ]
+  },
+  {
     "name": "【お芋】生鮮！カリカリ堂【蟹】",
     "url": "http://www.makop.com/~doreon/gazoubbs/futaba.html",
     "language": [
@@ -4404,16 +4414,6 @@
       "lynxchan"
     ],
     "boardlist": "https://ronery.me/index.json"
-  },
-  {
-    "name": "Хайбане",
-    "url": "https://haibane.ru/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "monaba"
-    ]
   },
   {
     "name": "Rupattelu",
