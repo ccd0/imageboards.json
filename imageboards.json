@@ -456,7 +456,8 @@
     "name": "0chan.pl",
     "url": "https://www.0chan.pl/",
     "mirrors": [
-      "http://gd7qe2pu2jwqabz4zcf3wwablrzym7p6qswczoapkm5oa5ouuaua.b32.i2p",
+      "https://www.0chan.pl/",
+      "http://gd7qe2pu2jwqabz4zcf3wwablrzym7p6qswczoapkm5oa5ouuaua.b32.i2p/",
       "http://nullplctggmjazqcoboc2pw5anogckczzj6xo45ukrnsaxarpswu7sid.onion/",
       "https://0.1chan.pl/",
       "http://0pl.i2p/",
@@ -589,7 +590,8 @@
     "name": "1chan.ca",
     "url": "https://1chan.ca/news/",
     "mirrors": [
-      "https://1chan.pro/news/"
+      "https://1chan.ca/",
+      "https://1chan.pro/"
     ],
     "language": [
       "ru"
@@ -602,7 +604,8 @@
     "name": "1chan.pl",
     "url": "https://1chan.pl/news/",
     "mirrors": [
-      "http://kolchpl6sf4t7yjf57an3gxyprqqtjm2gtvatzkcsx27uu3psssnmyad.onion/news/"
+      "https://1chan.pl/",
+      "http://kolchpl6sf4t7yjf57an3gxyprqqtjm2gtvatzkcsx27uu3psssnmyad.onion/"
     ],
     "language": [
       "ru"
@@ -1960,6 +1963,7 @@
     "name": "Dva-ch",
     "url": "https://dva-ch.net/",
     "mirrors": [
+      "https://dva-ch.net/",
       "https://2ch.rip/"
     ],
     "language": [
