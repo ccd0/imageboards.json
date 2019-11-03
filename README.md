@@ -5,10 +5,10 @@ Derived from Creamy's list, other imageboard lists, online searches, imageboard 
 JSON endpoints:
 https://ccd0.github.io/imageboards.json/imageboards.json
 
-Codes used for the "software" index are documented at [software.md](software.md).
+Codes used for the "software" field are documented at [software.md](software.md).
 
-The "mirrors" property is an array in the following format:
-* The first element is a part of the site URL ("url" property) and of other URLs (e.g. "boardlist"), usually the protocol and domain part.
+The "mirrors" field is an array in the following format:
+* The first element is a part of the site URL ("url" field) and of other URLs (e.g. "boardlist"), usually the protocol and domain part.
 * Subsequent elements are what the first element should be replaced with to reach corresponding pages on the site's mirrors.
 
 Other lists that may be of interest:
