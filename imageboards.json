@@ -971,6 +971,23 @@
     ]
   },
   {
+    "name": "8kun",
+    "url": "https://8kun.net/",
+    "mirrors": [
+      "https://8kun.net/",
+      "http://www.jthnx5wyvjvzsxtu.onion/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "infinity",
+      "openib"
+    ]
+  },
+  {
     "name": "9231chan",
     "url": "http://casemap.x10host.com/vichan-master/",
     "language": [
