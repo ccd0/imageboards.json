@@ -636,17 +636,6 @@
     ]
   },
   {
-    "name": "1chan.top",
-    "url": "https://1chan.top/news/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "1chan",
-      "pierwszykanal"
-    ]
-  },
-  {
     "name": "22chan",
     "url": "https://22chan.org/",
     "language": [
