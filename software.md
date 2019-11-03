@@ -84,6 +84,7 @@ This is a list of the software codes used in imageboard.json along with links to
 - hankiboard - https://gitlab.com/kilves/hankiboard
 - hivebbs - https://github.com/desuwa/hivebbs
 - ib4f - formerly used by http://web.archive.org/web/20101108033202/http://imageboard4free.com:80/
+- jschan - https://github.com/fatchan/jschan/
 - koba - used by https://boards.plus4chan.org/
 - kropyva - https://gitlab.com/Kropyva
 - lapis-chan - https://github.com/karai17/lapis-chan/

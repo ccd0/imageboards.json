@@ -961,6 +961,16 @@
     ]
   },
   {
+    "name": "8channel",
+    "url": "https://8channel.net/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ]
+  },
+  {
     "name": "9231chan",
     "url": "http://casemap.x10host.com/vichan-master/",
     "language": [
@@ -1939,6 +1949,18 @@
     ]
   },
   {
+    "name": "Dragonchan",
+    "url": "https://dragonchan.net/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "npfchan"
+    ]
+  },
+  {
     "name": "Dramachan",
     "url": "http://dramachan.moe/news.html",
     "language": [
@@ -2094,6 +2116,16 @@
     ],
     "software": [
       "wakaba"
+    ]
+  },
+  {
+    "name": "fatchan",
+    "url": "https://fatpeople.lol/index.html",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "jschan"
     ]
   },
   {
@@ -2613,6 +2645,17 @@
     ],
     "software": [
       "wakaba"
+    ]
+  },
+  {
+    "name": "imageboard.fun",
+    "url": "https://imageboard.fun/all/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "doushio",
+      "meguca"
     ]
   },
   {
