@@ -1393,6 +1393,26 @@
     ]
   },
   {
+    "name": "BlockChan Canada",
+    "url": "https://blockchan.ca/main",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "blockchan"
+    ]
+  },
+  {
+    "name": "BlockChan itsniggernotnig.ga",
+    "url": "http://www.itsniggernotnig.ga/main",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "blockchan"
+    ]
+  },
+  {
     "name": "B-lokal",
     "url": "https://www.blokal.eu/",
     "language": [

@@ -61,6 +61,7 @@ This is a list of the software codes used in imageboard.json along with links to
     - tinybbs - https://github.com/r04r/minichan
 - imgboard - http://www.big.or.jp/~talk/t-club/soft/index.html
 - ochiba - http://ochiba.x-maru.org/
+- blockchan - https://github.com/ndm-inf/BlockChan
 - emanon - https://github.com/oprel/emanon
 - mitsuba - https://github.com/MitsubaBBS/Mitsuba
     - haruko - https://gitgud.io/parley/Haruko
