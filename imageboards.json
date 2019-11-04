@@ -4656,6 +4656,12 @@
   {
     "name": "smuglo.li",
     "url": "https://smuglo.li/a/",
+    "mirrors": [
+      "https://smuglo.li/",
+      "http://bhm5koavobq353j54qichcvzr6uhtri6x4bjjy4xkybgvxkzuslzcqid.onion/",
+      "https://notso.smuglo.li/",
+      "https://smug.nepu.moe/"
+    ],
     "language": [
       "en"
     ],
