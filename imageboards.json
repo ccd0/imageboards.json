@@ -960,6 +960,20 @@
     ]
   },
   {
+    "name": "8channel",
+    "url": "https://8channel.net/",
+    "mirrors": [
+      "https://8channel.net/",
+      "http://4tltgp27isaczz74ithvfajk7pcao4ku56ibydia74f5uu2tcx7zepqd.onion/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ]
+  },
+  {
     "name": "8kun",
     "url": "https://8kun.net/",
     "mirrors": [
