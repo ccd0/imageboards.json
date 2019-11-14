@@ -3421,17 +3421,6 @@
     ]
   },
   {
-    "name": "megu.ca",
-    "url": "https://megu.ca/all/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "doushio",
-      "meguca"
-    ]
-  },
-  {
     "name": "Meguca",
     "url": "https://meguca.org/all/",
     "language": [
@@ -4624,6 +4613,17 @@
     ],
     "software": [
       "lynxchan"
+    ]
+  },
+  {
+    "name": "shamik.ooo",
+    "url": "https://shamik.ooo/all/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "doushio",
+      "meguca"
     ]
   },
   {
