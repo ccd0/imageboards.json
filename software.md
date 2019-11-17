@@ -10,6 +10,7 @@ This is a list of the software codes used in imageboard.json along with links to
             - siokara-gchan - http://web.archive.org/web/20140220052910/http://www42.atpages.jp/gscripts/ (many pages not archived)
         - futallaby - https://www.1chan.net/futallaby/
             - tinyib - https://gitlab.com/tslocum/tinyib
+                - desuib - https://rodentchan.danwin1210.me/script/
             - wakarimasen - https://github.com/weedy/wakarimasen
             - pihaba - used by https://2ch.rip/
             - saguaro - http://saguaroimgboard.tk/

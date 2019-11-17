@@ -865,6 +865,18 @@
     "boardlist": "https://a.4cdn.org/boards.json"
   },
   {
+    "name": "4chon.me",
+    "url": "https://www.4chon.me/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "lainchan"
+    ]
+  },
+  {
     "name": "/4keks/",
     "url": "https://4keks.org/4keks/",
     "mirrors": [
@@ -4463,6 +4475,20 @@
     ]
   },
   {
+    "name": "RodentChad",
+    "url": "https://rodentchan.danwin1210.me/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby",
+      "tinyib",
+      "desuib"
+    ]
+  },
+  {
     "name": "Ronery",
     "url": "https://ronery.me/",
     "language": [
@@ -4631,6 +4657,19 @@
     "software": [
       "doushio",
       "meguca"
+    ]
+  },
+  {
+    "name": "Shitchan",
+    "url": "https://shitchan.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "infinity",
+      "openib"
     ]
   },
   {
