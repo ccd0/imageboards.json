@@ -12,6 +12,8 @@ This is a list of the software codes used in imageboard.json along with links to
             - tinyib - https://gitlab.com/tslocum/tinyib
                 - desuib - https://rodentchan.danwin1210.me/script/
             - wakarimasen - https://github.com/weedy/wakarimasen
+            - fikaba - https://github.com/knarka/fikaba
+                - sakomoto - https://github.com/rileyjamesbell/sakomoto
             - pihaba - used by https://2ch.rip/
             - saguaro - http://saguaroimgboard.tk/
             - yotsuba - used by https://www.4chan.org/ (unpublished)
