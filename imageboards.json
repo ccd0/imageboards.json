@@ -923,12 +923,14 @@
   },
   {
     "name": "64chan",
-    "url": "http://45.142.183.14/mitsuba/",
+    "url": "https://64chan.site/",
     "language": [
       "en"
     ],
     "software": [
-      "mitsuba"
+      "tinyboard",
+      "vichan",
+      "npfchan"
     ]
   },
   {
