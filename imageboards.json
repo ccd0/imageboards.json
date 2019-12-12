@@ -922,7 +922,7 @@
     ]
   },
   {
-    "name": "64chan",
+    "name": "64chan.heliohost.org",
     "url": "http://64chan.heliohost.org/",
     "language": [
       "en"
@@ -933,6 +933,16 @@
       "futallaby",
       "fikaba",
       "sakomoto"
+    ]
+  },
+  {
+    "name": "64chan.me",
+    "url": "https://64chan.me/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
     ]
   },
   {
