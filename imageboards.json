@@ -4463,6 +4463,17 @@
     ]
   },
   {
+    "name": "questden.org",
+    "url": "https://questden.org/kusaba/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "kusaba",
+      "kusabax"
+    ]
+  },
+  {
     "name": "Realchan",
     "url": "https://realchan.org/",
     "language": [
@@ -5035,17 +5046,6 @@
   {
     "name": "TF2chan",
     "url": "http://tf2chan.net/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
-    ]
-  },
-  {
-    "name": "Tgchan",
-    "url": "https://tgchan.org/kusaba/",
     "language": [
       "en"
     ],
