@@ -380,19 +380,6 @@
     ]
   },
   {
-    "name": "１２ｘ１０画像掲示板",
-    "url": "http://kumada512.co.nf/12x10b/",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "siokara",
-      "yakuba"
-    ]
-  },
-  {
     "name": "１８式Ｘ４画像掲示板",
     "url": "http://supercub512.mywebcommunity.org/test001/",
     "language": [
@@ -534,19 +521,6 @@
     ],
     "language": [
       "en"
-    ]
-  },
-  {
-    "name": "14x09画像掲示板",
-    "url": "http://supercub512cc.co.nf/12x9b/",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "siokara",
-      "yakuba"
     ]
   },
   {
@@ -1016,17 +990,6 @@
       "openib"
     ],
     "boardlist": "https://8kun.top/boards.json"
-  },
-  {
-    "name": "9231chan",
-    "url": "http://casemap.x10host.com/vichan-master/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
   },
   {
     "name": "9chan",
@@ -1788,17 +1751,6 @@
     ]
   },
   {
-    "name": "CPB5K",
-    "url": "http://xn--capspaylambotu5000-m0c33g.com/",
-    "language": [
-      "tr"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "crystal.cafe",
     "url": "https://crystal.cafe/",
     "language": [
@@ -1816,17 +1768,6 @@
     ],
     "software": [
       "lynxchan"
-    ]
-  },
-  {
-    "name": "Czwartyczan",
-    "url": "https://choppedliver.000webhostapp.com/",
-    "language": [
-      "pl"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
     ]
   },
   {
@@ -2079,17 +2020,6 @@
       "makaba"
     ],
     "boardlist": "https://2ch.hk/boards.json"
-  },
-  {
-    "name": "Eaglehat",
-    "url": "http://img.flyinglobsters.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
-    ]
   },
   {
     "name": "ElDorado 共有お絵かき掲示板",
@@ -3487,17 +3417,6 @@
     ]
   },
   {
-    "name": "MiChan",
-    "url": "https://ch.milink.us/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
-    ]
-  },
-  {
     "name": "Minichan",
     "url": "https://minichan.org/",
     "language": [
@@ -4266,16 +4185,6 @@
     ]
   },
   {
-    "name": "Pohjoislauta",
-    "url": "http://pohjoislauta.fi/",
-    "language": [
-      "fi"
-    ],
-    "software": [
-      "hankiboard"
-    ]
-  },
-  {
     "name": "PokemonBBS",
     "url": "https://pokemonbbs.com/poke/",
     "language": [
@@ -4309,17 +4218,6 @@
       "tinyboard",
       "vichan",
       "npfchan"
-    ]
-  },
-  {
-    "name": "Ponilauta",
-    "url": "http://ponilauta.fi/",
-    "language": [
-      "fi"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
     ]
   },
   {
@@ -4427,17 +4325,6 @@
       "tinyboard",
       "vichan",
       "npfchan"
-    ]
-  },
-  {
-    "name": "Puertochan",
-    "url": "https://puertochan.net/",
-    "language": [
-      "es"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
     ]
   },
   {
@@ -5207,17 +5094,6 @@
     ]
   },
   {
-    "name": "Trzeciszan",
-    "url": "http://1488chan.web44.net/",
-    "language": [
-      "pl"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
-    ]
-  },
-  {
     "name": "Tsubasa Society",
     "url": "https://tsubasasociety.com/",
     "language": [
@@ -5311,17 +5187,6 @@
     "url": "http://underfoule.xyz/",
     "language": [
       "fr"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
-    ]
-  },
-  {
-    "name": "Unichan",
-    "url": "http://unichan3.org/b/",
-    "language": [
-      "en"
     ],
     "software": [
       "kusaba",
