@@ -3350,17 +3350,6 @@
     ]
   },
   {
-    "name": "LynxHub",
-    "url": "http://lynxhub.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ],
-    "boardlist": "http://lynxhub.com/index.json"
-  },
-  {
     "name": "Magic",
     "url": "https://gensou.chakai.org/magic/",
     "language": [
