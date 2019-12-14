@@ -452,7 +452,7 @@
   },
   {
     "name": "0-chan",
-    "url": "https://0-chan.ru/all/",
+    "url": "https://4.0-chan.ru/all/",
     "language": [
       "ru"
     ],
@@ -460,7 +460,7 @@
       "doushio",
       "meguca"
     ],
-    "boardlist": "https://0-chan.ru/json/board-list"
+    "boardlist": "https://4.0-chan.ru/json/board-list"
   },
   {
     "name": "0chan.pl",
