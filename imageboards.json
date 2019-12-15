@@ -20,6 +20,17 @@
     ]
   },
   {
+    "name": "Уточан",
+    "url": "http://utochan.ru/",
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Файно",
     "url": "https://fajno.in/",
     "language": [
@@ -1275,6 +1286,13 @@
     ]
   },
   {
+    "name": "atob",
+    "url": "https://atob.xyz/gifs",
+    "language": [
+      "en"
+    ]
+  },
+  {
     "name": "Aurorachan",
     "url": "https://aurorachan.net/",
     "language": [
@@ -1315,10 +1333,13 @@
     "mirrors": [
       "https://balkanchan.ga/",
       "https://4kek.ml/",
+      "https://enter.dprkchan.xyz/",
       "http://26yukmkrhmhfg6alc56oexe7bcrokv4rilwpfwgh2u6bsbkddu55h4ad.onion/"
     ],
     "language": [
-      "en"
+      "en",
+      "de",
+      "ru"
     ],
     "software": [
       "lynxchan"
@@ -1694,6 +1715,16 @@
     "url": "https://g.chounyuu.com/",
     "language": [
       "en"
+    ]
+  },
+  {
+    "name": "Christ Channel",
+    "url": "https://christchannel.xyz/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
     ]
   },
   {
@@ -2205,6 +2236,16 @@
     ],
     "software": [
       "lynxchan"
+    ]
+  },
+  {
+    "name": "Formerly Chuck's",
+    "url": "https://formerlychucks.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard"
     ]
   },
   {
@@ -3468,6 +3509,20 @@
     ]
   },
   {
+    "name": "Mewch",
+    "url": "https://mewch.xyz/",
+    "mirrors": [
+      "https://mewch.xyz/",
+      "http://d7bzi5wv4htflbcesqgzoa2ajro2wlrtfuuaft6sahrumvx7buj7w5id.onion/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ]
+  },
+  {
     "name": "Minichan",
     "url": "https://minichan.org/",
     "language": [
@@ -3909,6 +3964,16 @@
       "nntpchan"
     ],
     "boardlist": "http://beepedjhffvat3uwij5fxny72vlj7ugqb67ippjebise6adxf73y3uqd.onion/boards.json"
+  },
+  {
+    "name": "NoirChan",
+    "url": "https://noirchan.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard"
+    ]
   },
   {
     "name": "not99chan",
@@ -4545,6 +4610,17 @@
     "software": [
       "kusaba",
       "kusabax"
+    ]
+  },
+  {
+    "name": "Sebachan",
+    "url": "https://sebachan.fi/",
+    "language": [
+      "fi"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
@@ -5281,6 +5357,17 @@
     ]
   },
   {
+    "name": "vgchan",
+    "url": "https://vgchan.org/all/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "doushio",
+      "meguca"
+    ]
+  },
+  {
     "name": "ViejuCHAN",
     "url": "http://chan.vieju.net/",
     "language": [
@@ -5472,6 +5559,17 @@
     ],
     "software": [
       "wakaba"
+    ]
+  },
+  {
+    "name": "Yang Chan",
+    "url": "http://www.yangchan.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
