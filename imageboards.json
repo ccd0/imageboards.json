@@ -3527,6 +3527,16 @@
     ]
   },
   {
+    "name": "Mechachan",
+    "url": "http://mechachan.net/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "rb-79"
+    ]
+  },
+  {
     "name": "mediasp.kir.jp",
     "url": "http://mediasp.kir.jp/bbsnote/bbsnote.cgi",
     "language": [
@@ -3534,6 +3544,16 @@
     ],
     "software": [
       "bbsnote"
+    ]
+  },
+  {
+    "name": "MegidoChan",
+    "url": "http://megidochan.moe/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
     ]
   },
   {
@@ -5515,6 +5535,20 @@
     "software": [
       "tinyboard",
       "vichan"
+    ]
+  },
+  {
+    "name": "whisper.onthewifi.com",
+    "url": "ssh://bit:byte@whisper.onthewifi.com",
+    "mirrors": [
+      "whisper.onthewifi.com",
+      "2okzlsboulbv6y22foslk7cvgi3nqzj2a7tsofhkzvh6jytjcoxlqlad.onion"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "cursedboard"
     ]
   },
   {
