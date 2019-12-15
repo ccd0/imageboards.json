@@ -1466,6 +1466,17 @@
     ]
   },
   {
+    "name": "brchan",
+    "url": "https://brchan.org/",
+    "language": [
+      "pt"
+    ],
+    "software": [
+      "kusaba",
+      "kusabax"
+    ]
+  },
+  {
     "name": "britfa.gs",
     "url": "https://britfa.gs/",
     "language": [
