@@ -2453,6 +2453,16 @@
     ]
   },
   {
+    "name": "hacktics.nl",
+    "url": "https://hacktics.nl/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard"
+    ]
+  },
+  {
     "name": "Hamstakilla",
     "url": "https://hamstakilla.com/",
     "language": [
@@ -3148,6 +3158,17 @@
       "doushio",
       "meguca",
       "cutechan"
+    ]
+  },
+  {
+    "name": "Krautplausch",
+    "url": "https://krautplausch.hopto.org/chan/b/",
+    "language": [
+      "de"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
