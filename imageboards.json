@@ -795,6 +795,10 @@
   {
     "name": "410chan",
     "url": "http://410chan.org/",
+    "mirrors": [
+      "http://410chan.org/",
+      "http://410chan.ru/"
+    ],
     "language": [
       "ru"
     ],
@@ -1219,9 +1223,9 @@
   },
   {
     "name": "Apachan",
-    "url": "https://apachan.icu/",
+    "url": "https://apachan.us/",
     "language": [
-      "run"
+      "ru"
     ],
     "software": [
       "apachan"
@@ -1400,6 +1404,13 @@
       "lynxchan"
     ],
     "boardlist": "https://bbw-chan.nl/index.json"
+  },
+  {
+    "name": "bernd.group",
+    "url": "https://bernd.group/int",
+    "language": [
+      "en"
+    ]
   },
   {
     "name": "Bienvenido a Internet",
@@ -1691,6 +1702,16 @@
     "url": "http://chanweb.info/",
     "language": [
       "en"
+    ],
+    "software": [
+      "wakaba"
+    ]
+  },
+  {
+    "name": "chaos.fm",
+    "url": "https://chaos.fm/",
+    "language": [
+      "ru"
     ],
     "software": [
       "wakaba"
@@ -5443,6 +5464,13 @@
     "software": [
       "kusaba",
       "kusabax"
+    ]
+  },
+  {
+    "name": "Voxed",
+    "url": "http://www.voxed.net/",
+    "language": [
+      "es"
     ]
   },
   {
