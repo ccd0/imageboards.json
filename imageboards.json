@@ -1275,6 +1275,16 @@
     ]
   },
   {
+    "name": "Astrochan",
+    "url": "https://astrochan.xyz/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ]
+  },
+  {
     "name": "Atenszon",
     "url": "http://atenszon.ml/b/",
     "language": [
@@ -2264,7 +2274,22 @@
     "url": "https://freech.net/",
     "mirrors": [
       "https://freech.net/",
+      "https://infodox.net/",
       "http://6ayog62ilt2kkpeuk3mq2t7ijkgzrkeetkdlifxrrnotlh4wlnmh4oqd.onion/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ]
+  },
+  {
+    "name": "Freech Club",
+    "url": "https://freech.club/",
+    "mirrors": [
+      "https://freech.club/",
+      "http://aa273bpyfasrcr2mjpgccri5buxum4ywfckauftrbvw2vwntsq5lh2id.onion/"
     ],
     "language": [
       "en"
@@ -3310,6 +3335,16 @@
     ]
   },
   {
+    "name": "LibreLand",
+    "url": "https://libreland.xyz/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ]
+  },
+  {
     "name": "Lolcow",
     "url": "https://lolcow.farm/",
     "language": [
@@ -3509,7 +3544,17 @@
     ]
   },
   {
-    "name": "Mewch",
+    "name": "Mewch.ru",
+    "url": "https://mewch.ru/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ]
+  },
+  {
+    "name": "Mewch.xyz",
     "url": "https://mewch.xyz/",
     "mirrors": [
       "https://mewch.xyz/",
