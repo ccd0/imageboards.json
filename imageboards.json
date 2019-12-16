@@ -2152,7 +2152,8 @@
     "name": "Erischan",
     "url": "https://erischan.org/",
     "language": [
-      "en"
+      "en",
+      "pl"
     ],
     "software": [
       "tinyboard",
