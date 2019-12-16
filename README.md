@@ -20,6 +20,7 @@ Other lists that may be of interest:
 * http://metatorjq65tshfy.onion/catalog/ (also available in JSON: http://metatorjq65tshfy.onion/chans/chans.json)
 * https://dscript.me/chanlist/
 * http://overchan2.narod.ru/
+* https://komica.org/
 * http://txtchan.org/ (textchan overchan)
 * http://xiongnu.org/overtext/ (The overtext)
 * https://lurkmore.to/Зарубежные_имиджборды
@@ -32,7 +33,6 @@ Other lists that may be of interest:
 * https://tvtropes.org/pmwiki/pmwiki.php/Main/ImageBoards (tvtropes list of imageboards)
 * https://drama.kropyva.ch/Список_іміджбордів
 * http://4x13.net/list/
-* https://komica.org/
 * https://chiru.no/ ("Pick a site" dropdown)
 * https://stormy-skies.neocities.org/list/chanlist.html
 * https://listography.com/5491020766/websites/imageboard_lists
