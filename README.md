@@ -13,6 +13,20 @@ The "mirrors" field is an array in the following format:
 
 Other lists that may be of interest:
 * https://allchans.org/
+* http://overchan.net/ (another overchan created in 2019)
+* https://tvtropes.org/pmwiki/pmwiki.php/Main/ImageBoards?from=Main.Imageboard (tvtropes list of imageboards)
+* https://drama.kropyva.ch/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%96%D0%BC%D1%96%D0%B4%D0%B6%D0%B1%D0%BE%D1%80%D0%B4%D1%96%D0%B2
+* https://stormy-skies.neocities.org/list/chanlist.html
+* http://archive.is/jHD6 (2ch.us the overchan V.2)
+* http://txtchan.org/ (textchan overchan)
+* http://web.archive.org/web/20161108181843/https://pastebin.com/xgacDKda (Imageboard thread v.8.3 2014-04-14)
+* http://xiongnu.org/overtext/ (The overtext)
+* https://pastebin.com/E4n2qEBa (early creamy's list of imageboards)
+* https://listography.com/5491020766/websites/imageboard_lists 
+* http://web.archive.org/web/20150518223427/https://meltingwax.net/text-overchan (textboard overchan V.2)
+* http://anticopyright.ru/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B8%D0%BC%D0%B8%D0%B4%D0%B6%D0%B1%D0%BE%D1%80%D0%B4%D0%BE%D0%B2 (another russian list of imageboards)
+* https://marttcw.neocities.org/links/ 
+* https://pastebin.com/8QNNKrxV (This is a list of working Imageboards, Textboards and Boorus as of 2016-08-12)
 * http://www.1ch.us/
 * http://overchan.ru/
 * https://0chan.one/catalog/ (also available in JSON: https://0chan.one/chans/chans.json)
