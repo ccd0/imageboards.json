@@ -2005,7 +2005,13 @@
   },
   {
     "name": "Dobrochan",
-    "url": "http://dobrochan.com/",
+    "url": "https://dobrochan.net/",
+    "mirrors": [
+      "https://dobrochan.net/",
+      "http://dobrochan.ru/",
+      "http://dobrochan.org/",
+      "http://dobrochan.com/"
+    ],
     "language": [
       "ru"
     ],
