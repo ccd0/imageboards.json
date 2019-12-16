@@ -2234,6 +2234,20 @@
     ]
   },
   {
+    "name": "fch.bet",
+    "url": "https://fch.bet/",
+    "mirrors": [
+      "https://fch.bet/",
+      "http://72q6ueigxauwempr.onion/"
+    ],
+    "language": [
+      "fr"
+    ],
+    "software": [
+      "lynxchan"
+    ]
+  },
+  {
     "name": "Fenrisulfr",
     "url": "https://fenrisulfr.org/",
     "language": [
@@ -2283,17 +2297,6 @@
     ],
     "software": [
       "tinyboard"
-    ]
-  },
-  {
-    "name": "FranChan",
-    "url": "https://franchan.biz/",
-    "language": [
-      "fr"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
     ]
   },
   {
