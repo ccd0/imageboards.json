@@ -1002,7 +1002,7 @@
   },
   {
     "name": "8kun",
-    "url": "https://8kun.top/",
+    "url": "https://8kun.top/index.html",
     "mirrors": [
       "https://8kun.top/",
       "http://www.jthnx5wyvjvzsxtu.onion/"
@@ -1622,7 +1622,7 @@
   },
   {
     "name": "Camiko",
-    "url": "https://camiko.org/",
+    "url": "https://www.camiko.org/",
     "language": [
       "zh"
     ],
@@ -3415,7 +3415,7 @@
   },
   {
     "name": "Lulz",
-    "url": "https://lulz.net/",
+    "url": "https://dev.lulz.net/",
     "language": [
       "en"
     ],
@@ -5428,7 +5428,7 @@
   },
   {
     "name": "vch.moe",
-    "url": "https://vch.moe/",
+    "url": "https://vch.moe/v/",
     "language": [
       "en"
     ],
