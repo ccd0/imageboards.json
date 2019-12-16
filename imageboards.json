@@ -3345,6 +3345,17 @@
     "boardlist": "https://late.city/webring.json"
   },
   {
+    "name": "Lenaczawka",
+    "url": "https://lenachan.eu.org/b/",
+    "language": [
+      "pl"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Lewd.pics",
     "url": "https://lewd.pics/chan/b/",
     "language": [
