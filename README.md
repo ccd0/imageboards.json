@@ -41,7 +41,8 @@ Other lists that may be of interest:
 * https://docs.google.com/document/d/1t10VI-sccy1CfAeMZHwmCS_7agIHFo_B5ipMjzsMtTg/edit (Creamy's list with updates to 2016-10-14)
 * https://pastebin.com/E4n2qEBa (2015-08-12 version of Creamy's list of imageboards)
 * https://pastebin.com/EUrfHx7n (2015-12-18)
-* https://pastebin.com/8QNNKrxV (2016-12-08)
+* https://pastebin.com/8QNNKrxV (2016-08-12)
+* https://pastebin.com/3e2RddP5 (2016-10-14)
 * http://web.archive.org/web/20160829200019/http://dramatica.org.ua/List_of_image_boards
 * https://bitbin.it/emT3GJ1C/ (2013)
 * https://www.1chan.net/overchan/ (2008)
