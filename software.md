@@ -115,6 +115,7 @@ This is a list of the software codes used in imageboard.json along with links to
 - uchan - https://github.com/Floens/uchan
 - yboard - https://github.com/LautaMedia/YBoard
 - weabot - used by https://bienvenidoainternet.org/
+- erlach - https://github.com/m-2k/erlach
 
 You may also be interested in these lists of imageboard software:
 * https://flash.moe/overscript/ (also has mirrors of many scripts)
