@@ -1150,20 +1150,6 @@
     ]
   },
   {
-    "name": "ART & DESIGN BBS",
-    "url": "http://design-bbs.jpn.org/design/index.htm",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "moeren",
-      "siokara",
-      "moeren-gchan"
-    ]
-  },
-  {
     "name": "ash.jp/~take/",
     "url": "http://ash.jp/~take/bbsnote/bbsnote.cgi",
     "language": [
@@ -1836,18 +1822,6 @@
     ],
     "software": [
       "bbsnote"
-    ]
-  },
-  {
-    "name": "dhildhil-Planet moepic",
-    "url": "http://dhildhil.la.coocan.jp/moepic/moepic.htm",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "moeren"
     ]
   },
   {
