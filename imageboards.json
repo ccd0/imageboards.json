@@ -3587,19 +3587,6 @@
     ]
   },
   {
-    "name": "Mod Imageboard",
-    "url": "https://www.modception.com/imageboard/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "futallaby",
-      "tinyib"
-    ]
-  },
-  {
     "name": "moecorner.com/iboards/",
     "url": "http://moecorner.com/iboards/Relationship/",
     "boardlistpages": [
