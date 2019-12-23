@@ -406,18 +406,6 @@
     ]
   },
   {
-    "name": "100chan",
-    "url": "http://100chan.cookiethievery.com/b/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "futallaby"
-    ]
-  },
-  {
     "name": "100gazou",
     "url": "http://www.100gazou.com/all_link.html",
     "language": [
@@ -741,19 +729,6 @@
     "language": [
       "en",
       "fi"
-    ]
-  },
-  {
-    "name": "4.8chan",
-    "url": "https://home.pilsfree.net/qwerty/sandbox/ib/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "futallaby",
-      "tinyib"
     ]
   },
   {
@@ -1281,19 +1256,6 @@
     "boardlist": "https://balkanchan.ga/index.json"
   },
   {
-    "name": "Bants (csscwebsite.azurewebsites.net)",
-    "url": "https://csscwebsite.azurewebsites.net/b/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "futallaby",
-      "tinyib"
-    ]
-  },
-  {
     "name": "Barachan",
     "url": "http://boards.barachan.org/",
     "language": [
@@ -1464,19 +1426,6 @@
     ],
     "software": [
       "bbsnote"
-    ]
-  },
-  {
-    "name": "BTChan",
-    "url": "https://btchan.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "futallaby",
-      "tinyib"
     ]
   },
   {
@@ -2731,19 +2680,6 @@
     ]
   },
   {
-    "name": "imgboard.furry.ru",
-    "url": "http://imgboard.furry.ru/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "futallaby",
-      "tinyib"
-    ]
-  },
-  {
     "name": "Indiachan",
     "url": "https://indiachan.com/",
     "mirrors": [
@@ -2805,19 +2741,6 @@
     "software": [
       "wakaba",
       "glaukaba"
-    ]
-  },
-  {
-    "name": "^jear",
-    "url": "http://starwors.de/year/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "futallaby",
-      "tinyib"
     ]
   },
   {
@@ -4178,32 +4101,6 @@
     ]
   },
   {
-    "name": "OtakuTalk /d/",
-    "url": "http://otakutalk.org/d/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "futallaby",
-      "tinyib"
-    ]
-  },
-  {
-    "name": "Otakutown",
-    "url": "http://img.escott.info/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "futallaby",
-      "tinyib"
-    ]
-  },
-  {
     "name": "OwlChan",
     "url": "http://owlchan.ru/",
     "language": [
@@ -4347,19 +4244,6 @@
     "software": [
       "webpatio",
       "webpatio-kirishima"
-    ]
-  },
-  {
-    "name": "polycancer.org",
-    "url": "https://polycancer.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "futallaby",
-      "tinyib"
     ]
   },
   {
@@ -4939,32 +4823,6 @@
     ]
   },
   {
-    "name": "spychan.freezonereader.net",
-    "url": "http://spychan.freezonereader.net/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "futallaby",
-      "tinyib"
-    ]
-  },
-  {
-    "name": "Steamed Hams",
-    "url": "https://steamedha.ms/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "futallaby",
-      "tinyib"
-    ]
-  },
-  {
     "name": "Stevenchan",
     "url": "https://chan.tymoon.eu/",
     "language": [
@@ -5148,19 +5006,6 @@
     "software": [
       "kusaba",
       "kusabax"
-    ]
-  },
-  {
-    "name": "top dis?",
-    "url": "https://5p.lt/if-charcoal-period.if-chp/zib/imbx/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "futallaby",
-      "tinyib"
     ]
   },
   {
