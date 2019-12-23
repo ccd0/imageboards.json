@@ -3445,6 +3445,24 @@
     ]
   },
   {
+    "name": "Lolifox",
+    "url": "https://lolifox.cc/",
+    "language": [
+      "ru",
+      "en",
+      "pl"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ],
+    "mirrors": [
+      "https://lolifox.cc/",
+      "http://wb45u7ngedwtgpzz.onion/"
+    ],
+    "boardlist": "https://lolifox.cc/boards.json"
+  },
+  {
     "name": "Lolnada",
     "url": "https://lolnada.org/",
     "language": [
