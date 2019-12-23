@@ -2479,6 +2479,17 @@
     ]
   },
   {
+    "name": "GETchan",
+    "url": "https://www.getchan.net/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "kusaba",
+      "kusabax"
+    ]
+  },
+  {
     "name": "GirlsChannel",
     "url": "https://girlschannel.net/",
     "language": [
