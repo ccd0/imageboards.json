@@ -2888,6 +2888,21 @@
     ]
   },
   {
+    "name": "Kelvinchan",
+    "url": "http://kelvinchan.i2p/",
+    "mirrors": [
+      "http://kelvinchan.i2p/",
+      "http://6s72dyf6jwlvk2u455lksvcs5r7deafc3iniwo5kp4ssm777noma.b32.i2p/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "kek.epizy.com",
     "url": "http://kek.epizy.com/",
     "language": [
