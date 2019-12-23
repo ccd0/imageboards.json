@@ -99,18 +99,6 @@
     ]
   },
   {
-    "name": "ひだまり？",
-    "url": "http://ifonly.xii.jp/",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "siokara"
-    ]
-  },
-  {
     "name": "ぶっかけ板",
     "url": "http://ぶっかけ板.net/",
     "language": [
@@ -166,18 +154,6 @@
     ]
   },
   {
-    "name": "ジョジョの奇妙な玩具スレ専用 画像掲示板",
-    "url": "http://jojostand.fool.jp/siokara/jojo.htm",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "siokara"
-    ]
-  },
-  {
     "name": "ヌルギコ画像",
     "url": "http://www.nullgiko.net/",
     "language": [
@@ -212,19 +188,6 @@
       "gazoubbs",
       "futaba",
       "moeren"
-    ]
-  },
-  {
-    "name": "元祖みろ〜り板",
-    "url": "https://koitsu100dora.net/mirohli/futaba.html",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "siokara",
-      "yakuba"
     ]
   },
   {
@@ -378,32 +341,6 @@
     ]
   },
   {
-    "name": "１２式Ｘ４画像掲示板",
-    "url": "http://kumanonaka.125mb.com/test002/",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "siokara",
-      "yakuba"
-    ]
-  },
-  {
-    "name": "１８式Ｘ４画像掲示板",
-    "url": "http://supercub512.mywebcommunity.org/test001/",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "siokara",
-      "yakuba"
-    ]
-  },
-  {
     "name": "ＡＺＵＣＯちゃんねる",
     "url": "https://azuco.sakura.ne.jp/kareha/",
     "language": [
@@ -411,19 +348,6 @@
     ],
     "software": [
       "kareha"
-    ]
-  },
-  {
-    "name": "ｗｋｔｋ ｃｈａｔ 掲示板",
-    "url": "http://chat.wktk.so/bin/bbs/",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "siokara",
-      "siokara-gchan"
     ]
   },
   {
@@ -566,19 +490,6 @@
     ]
   },
   {
-    "name": "14x2画像掲示板",
-    "url": "http://supercub512.125mb.com/test001/",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "siokara",
-      "yakuba"
-    ]
-  },
-  {
     "name": "1500chan",
     "url": "https://1500chan.org/",
     "language": [
@@ -677,19 +588,6 @@
     ],
     "software": [
       "tinyboard"
-    ]
-  },
-  {
-    "name": "29channel",
-    "url": "http://29chan.net/index.html",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "siokara",
-      "yakuba"
     ]
   },
   {
@@ -2237,18 +2135,6 @@
     ]
   },
   {
-    "name": "erocos",
-    "url": "http://erocos.net/imgboard/erocos.htm",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "siokara"
-    ]
-  },
-  {
     "name": "Eternitychan",
     "url": "http://eternitychan.org/",
     "language": [
@@ -2836,18 +2722,6 @@
     ]
   },
   {
-    "name": "二次元グロGIF＠ORZ",
-    "url": "http://alfh.sakura.ne.jp/alfhord/siokara.htm",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "siokara"
-    ]
-  },
-  {
     "name": "iichan",
     "url": "https://iichan.hk/",
     "language": [
@@ -3296,18 +3170,6 @@
     ]
   },
   {
-    "name": "kouryuu",
-    "url": "http://conesan.jp/kouryuu/k.htm",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "siokara"
-    ]
-  },
-  {
     "name": "Kpop",
     "url": "https://kpop.re/all/",
     "language": [
@@ -3613,18 +3475,6 @@
     ],
     "software": [
       "bbsnote"
-    ]
-  },
-  {
-    "name": "maumau18.if.land.to",
-    "url": "http://maumau18.if.land.to/b/mays.htm",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "siokara"
     ]
   },
   {
@@ -5299,19 +5149,6 @@
     "software": [
       "atbbs",
       "tinybbs"
-    ]
-  },
-  {
-    "name": "t-jun.kemoren.com",
-    "url": "http://t-jun.kemoren.com/",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "siokara",
-      "yakuba"
     ]
   },
   {
