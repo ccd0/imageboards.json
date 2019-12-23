@@ -506,6 +506,17 @@
     ]
   },
   {
+    "name": "100gazou",
+    "url": "http://www.100gazou.com/all_link.html",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "joyfulnote",
+      "jn+yyb"
+    ]
+  },
+  {
     "name": "102chan",
     "url": "http://102chan.i2p/",
     "mirrors": [
@@ -518,17 +529,6 @@
     ],
     "software": [
       "tinyib"
-    ]
-  },
-  {
-    "name": "100gazou",
-    "url": "http://www.100gazou.com/all_link.html",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "joyfulnote",
-      "jn+yyb"
     ]
   },
   {
