@@ -179,18 +179,6 @@
     ]
   },
   {
-    "name": "二次元萌え板",
-    "url": "http://marisa.razor.jp/www2/moe/moepic.htm",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "moeren"
-    ]
-  },
-  {
     "name": "双猫村祭典広場",
     "url": "https://rths.cf/sd/",
     "language": [
@@ -1822,17 +1810,6 @@
     ],
     "software": [
       "bbsnote"
-    ]
-  },
-  {
-    "name": "Digital Ghost",
-    "url": "http://thedigitalghost.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
     ]
   },
   {
