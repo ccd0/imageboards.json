@@ -456,7 +456,8 @@
     ],
     "software": [
       "doushio",
-      "meguca"
+      "meguca",
+      "tetuca"
     ],
     "boardlist": "https://4.0-chan.ru/json/board-list"
   },
@@ -469,7 +470,8 @@
       "http://nullplctggmjazqcoboc2pw5anogckczzj6xo45ukrnsaxarpswu7sid.onion/",
       "https://0.1chan.pl/",
       "http://0pl.i2p/",
-      "https://p.0chan.pl/"
+      "https://p.0chan.pl/",
+      "https://www.0chan.club/"
     ],
     "language": [
       "ru"
@@ -481,6 +483,17 @@
     "boardlist": "https://www.0chan.pl/api/board/list"
   },
   {
+    "name": "0chanrunet",
+    "url": "https://0chanru.net/b/",
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "100chan",
     "url": "http://100chan.cookiethievery.com/b/",
     "language": [
@@ -490,6 +503,21 @@
       "gazoubbs",
       "futaba",
       "futallaby"
+    ]
+  },
+  {
+    "name": "102chan",
+    "url": "http://102chan.i2p",
+    "mirrors": [
+      "http://102chan.i2p/",
+      "http://xxu3lso4h2rh6wmrxiou3ax7r7la7x6dhoepnku3jvrlwp35pefq.b32.i2p/"
+    ],
+    "language": [
+      "ru",
+      "en"
+    ],
+    "software": [
+      "tinyib"
     ]
   },
   {
@@ -1005,7 +1033,10 @@
     "url": "https://8kun.top/index.html",
     "mirrors": [
       "https://8kun.top/",
-      "http://www.jthnx5wyvjvzsxtu.onion/"
+      "http://www.jthnx5wyvjvzsxtu.onion/",
+      "http://pijdty5otm38tdex6kkh51dkbkegf31dqgryryz3s3tys8wdegxo.loki/",
+      "http://s5swbfcf4joom9tzf8w7ss5fptywwpnnfop3pxcf5ebjnz8ioksy.loki/",
+      "http://pchpjz7ubqsfwa7qeyotqszrx5ayt3p1y4mbfnuffoupwq53nury.loki/"
     ],
     "language": [
       "en"
@@ -2130,7 +2161,10 @@
       "https://endchan.org/",
       "http://enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion/",
       "http://endchan5doxvprs5.onion/",
-      "http://s6424n4x4bsmqs27.onion/"
+      "http://s6424n4x4bsmqs27.onion/",
+      "http://4g8bkc1ar8ubgotj1s8gdhftnrj4nxn7hrp8qkddoqhurbno6b8y.loki/",
+      "http://psgnrs5y5aew3foaeijufd3otxmfq3cl6p2b27tekmnqxrc3kgwa.b32.i2p/",
+      "http://[200:4d21:507a:b19e:7876:7b2b:774:1b77]/"
     ],
     "language": [
       "en"
@@ -2160,6 +2194,20 @@
       "vichan"
     ],
     "boardlist": "https://erischan.org/webring.json"
+  },
+  {
+    "name": "Erlach",
+    "url": "https://erlach.services/",
+    "mirrors": [
+      "https://erlach.services/",
+      "http://erlach6sjul42c7h.onion/"
+    ],
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "erlach"
+    ]
   },
   {
     "name": "Ernstchan",
@@ -3606,6 +3654,18 @@
     ]
   },
   {
+    "name": "Metator",
+    "url": "http://metatorjq65tshfy.onion",
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "kusaba",
+      "kusabax",
+      "instant-0chan"
+    ]
+  },
+  {
     "name": "Mewch.ru",
     "url": "https://mewch.ru/",
     "language": [
@@ -4597,6 +4657,11 @@
   {
     "name": "Rfch",
     "url": "https://rfch.rocks/",
+    "mirrors": [
+      "https://rfch.rocks/",
+      "https://rfch.xyz/",
+      "https://rfch.online/"
+    ],
     "language": [
       "ru"
     ],
@@ -5249,6 +5314,21 @@
     ],
     "software": [
       "lynxchan"
+    ]
+  },
+  {
+    "name": "Torodvach",
+    "url": "http://76dqlkbo4ffj475k.onion/",
+    "mirrors": [
+      "http://76dqlkbo4ffj475k.onion/",
+      "http://2ch.i2p/",
+      "http://suzp44odgixf5lthy5ngy6ktabus5gz47squie2shudi6kmlwuaq.b32.i2p/"
+    ],
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "wakaba"
     ]
   },
   {
