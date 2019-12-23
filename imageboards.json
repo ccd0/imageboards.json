@@ -371,7 +371,9 @@
       "https://0.1chan.pl/",
       "http://0pl.i2p/",
       "https://p.0chan.pl/",
-      "https://www.0chan.club/"
+      "https://www.0chan.club/",
+      "https://ygg.0chan.pl/",
+      "http://[202:7668:15bf:63df:d7ee:aab7:ece:fbbb]/"
     ],
     "language": [
       "ru"
@@ -1049,6 +1051,14 @@
     ]
   },
   {
+    "name": "allo.li",
+    "url": "https://allo.li",
+    "language": [
+      "et",
+      "ru"
+    ]
+  },
+  {
     "name": "Alokal",
     "url": "https://alokal.eu/",
     "language": [
@@ -1288,6 +1298,10 @@
   {
     "name": "bernd.group",
     "url": "https://bernd.group/int",
+    "mirrors": [
+      "https://bernd.group/int",
+      "https://xcomm.id/int"
+    ],
     "language": [
       "en"
     ]
@@ -1923,6 +1937,20 @@
     ],
     "software": [
       "tinyboard"
+    ]
+  },
+  {
+    "name": "Dscript",
+    "url": "https://dscript.me/de/",
+    "language": [
+      "ru",
+      "en"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby",
+      "tinyib"
     ]
   },
   {
@@ -4578,6 +4606,19 @@
       "en"
     ],
     "software": [
+      "wakaba"
+    ]
+  },
+  {
+    "name": "Sepulcharium",
+    "url": "https://sepulcharium.tk/",
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby",
       "wakaba"
     ]
   },
