@@ -1016,6 +1016,17 @@
     ]
   },
   {
+    "name": "aletheia.ee",
+    "url": "https://aletheia.ee/board/",
+    "language": [
+      "et"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "alica.dreamhosters.com",
     "url": "https://alica.dreamhosters.com/screenshot/index.xhtml.zh-tw",
     "language": [
@@ -1053,6 +1064,16 @@
     "url": "http://alphachan.org/",
     "language": [
       "ru"
+    ]
+  },
+  {
+    "name": "Alphachan",
+    "url": "https://alphachan.net/index.html",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "jschan"
     ]
   },
   {
@@ -1678,6 +1699,18 @@
     ],
     "software": [
       "tinyboard"
+    ]
+  },
+  {
+    "name": "CSCI IMG Dump",
+    "url": "http://nfcrew.net/img/imgboard.htm",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby"
     ]
   },
   {
@@ -3125,6 +3158,16 @@
       "lynxchan"
     ],
     "boardlist": "https://late.city/webring.json"
+  },
+  {
+    "name": "leftypol.org",
+    "url": "https://leftypol.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "sr"
+    ]
   },
   {
     "name": "Lenaczawka",
@@ -4581,6 +4624,16 @@
       "vichan",
       "infinity",
       "openib"
+    ]
+  },
+  {
+    "name": "Shitty board",
+    "url": "http://shittyboard.ddns.net/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "shittyboard"
     ]
   },
   {
