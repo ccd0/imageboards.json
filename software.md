@@ -2,28 +2,6 @@
 
 This is a list of the software codes used in imageboard.json along with links to / info about the corresponding imageboard software.
 
-- gazoubbs - http://web.archive.org/web/20170607054849/http://php.s3.to:80/bbs/bbs3.php
-    - futaba - https://www.2chan.net/script/
-        - pixmicat - https://github.com/pixmicat/pixmicat/releases
-            - yotsubanome - http://4ch.mooo.com/+4/script/
-        - siokara - http://siokara.que.jp/
-            - yakuba - used by http://t-jun.kemoren.com/
-            - siokara-gchan - http://web.archive.org/web/20140220052910/http://www42.atpages.jp/gscripts/ (many pages not archived)
-        - futallaby - https://www.1chan.net/futallaby/
-            - tinyib - https://gitlab.com/tslocum/tinyib
-                - desuib - https://rodentchan.danwin1210.me/script/
-            - wakarimasen - https://github.com/weedy/wakarimasen
-            - fikaba - https://github.com/knarka/fikaba
-                - sakomoto - https://github.com/rileyjamesbell/sakomoto
-            - pihaba - used by https://2ch.rip/
-            - saguaro - http://saguaroimgboard.tk/
-            - yotsuba - used by https://www.4chan.org/ (unpublished)
-        - moeren - formerly used by http://web.archive.org/web/20050623021441/http://moepic.dip.jp:80/gazo/
-        - futaba-gchan - http://web.archive.org/web/20140220052910/http://www42.atpages.jp/gscripts/ (many pages not archived)
-            - kabuban - used by http://www.kabuban.net/
-        - kenjiweb - http://web.archive.org/web/20071013052850/http://www.kenjiweb.com/ (downloads not archived)
-        - monaca - http://akahuku.dw.land.to/monaca/ (dead)
-        - poti-board - http://web.archive.org/web/20170707091918/http://www.punyu.net/php/oekaki.php (downloads not archived)
 - tinyboard - https://github.com/savetheinternet/Tinyboard
     - vichan - https://github.com/vichan-devel/vichan/
         - npfchan - https://github.com/fallenPineapple/NPFchan
@@ -34,6 +12,30 @@ This is a list of the software codes used in imageboard.json along with links to
         - arisuchan - https://github.com/arisu-dev/arisuchan
         - fukuro - https://github.com/twiforce/fukuro
     - ponychan - https://bitbucket.org/ponychan/ponychan-tinyboard
+- gazoubbs - http://web.archive.org/web/20170607054849/http://php.s3.to:80/bbs/bbs3.php
+    - futaba - https://www.2chan.net/script/
+        - pixmicat - https://github.com/pixmicat/pixmicat/releases
+            - yotsubanome - http://4ch.mooo.com/+4/script/
+        - futallaby - https://www.1chan.net/futallaby/
+            - tinyib - https://gitlab.com/tslocum/tinyib
+                - desuib - https://rodentchan.danwin1210.me/script/
+            - fikaba - https://github.com/knarka/fikaba
+                - sakomoto - https://github.com/rileyjamesbell/sakomoto
+            - wakarimasen - https://github.com/weedy/wakarimasen
+            - pihaba - used by https://2ch.rip/
+            - saguaro - http://saguaroimgboard.tk/
+            - yotsuba - used by https://www.4chan.org/ (unpublished)
+        - siokara - http://siokara.que.jp/
+            - yakuba - used by http://t-jun.kemoren.com/
+            - siokara-gchan - http://web.archive.org/web/20140220052910/http://www42.atpages.jp/gscripts/ (many pages not archived)
+        - moeren - formerly used by http://web.archive.org/web/20050623021441/http://moepic.dip.jp:80/gazo/
+        - futaba-gchan - http://web.archive.org/web/20140220052910/http://www42.atpages.jp/gscripts/ (many pages not archived)
+            - kabuban - used by http://www.kabuban.net/
+        - kenjiweb - http://web.archive.org/web/20071013052850/http://www.kenjiweb.com/ (downloads not archived)
+        - monaca - http://akahuku.dw.land.to/monaca/ (dead)
+        - poti-board - http://web.archive.org/web/20170707091918/http://www.punyu.net/php/oekaki.php (downloads not archived)
+- lynxchan - https://gitgud.io/LynxChan/LynxChan
+    - infinitynow - https://gitgud.io/groups/InfinityNow
 - kusaba - https://github.com/tslocum/kusaba
     - kusabax - http://kusabax.cultnet.net/
         - instant-0chan - https://gitgud.io/devarped/instant-0chan
@@ -47,8 +49,6 @@ This is a list of the software codes used in imageboard.json along with links to
     - glaukaba - https://github.com/marlencrabapple/Glaukaba
     - phutaba - https://github.com/ernstchan/phutaba
     - taimaba - used by https://420chan.org/
-- lynxchan - https://gitgud.io/LynxChan/LynxChan
-    - infinitynow - https://gitgud.io/groups/InfinityNow
 - bbsnote - http://web.archive.org/web/20050116004959/http://wondercatstudio.com:80/html/download.html
 - doushio - https://github.com/lalcmellkmal/doushio
     - meguca - https://github.com/bakape/meguca
@@ -64,28 +64,31 @@ This is a list of the software codes used in imageboard.json along with links to
 - atbbs - https://sourceforge.net/projects/atbbs/
     - tinybbs - https://github.com/r04r/minichan
 - imgboard - http://www.big.or.jp/~talk/t-club/soft/index.html
+- 1chan - https://github.com/jlbyrey/1chan
+    - pierwszykanal - https://gitgud.io/devarped/pierwszykanal
 - ochiba - http://ochiba.x-maru.org/
 - blockchan - https://github.com/milezzz/BlockChan
+- cursedboard - https://github.com/whisperchan/cursedboard / https://github.com/BigSlice/cursedboard
 - emanon - https://github.com/oprel/emanon
+- foolfuuka - https://github.com/FoolCode/FoolFuuka
 - mitsuba - https://github.com/MitsubaBBS/Mitsuba
     - haruko - https://gitgud.io/parley/Haruko
 - nntpchan - https://github.com/majestrate/nntpchan
 - ololord.js - https://github.com/ololoepepe/ololord.js
     - tumbach - https://github.com/rngnrs/tumbach
+- orphereus - https://orphereus.anoma.ch/
+    - hanabira - used by http://dobrochan.com/ (unpublished)
 - webpatio - http://www.kent-web.com/bbs/patio.html
     - webpatio-kirishima - http://kirishima.it/patio/
 - 0chan - https://github.com/klkvsk/0chan
     - ochko - https://gitgud.io/devarped/ochko
-- 1chan - https://github.com/jlbyrey/1chan
-    - pierwszykanal - https://gitgud.io/devarped/pierwszykanal
 - 4kev - https://github.com/federicoolivo/4kev
 - 4taba - https://github.com/4taba/4taba
 - ace-rx - https://github.com/svmn/ace-rx
 - apachan - https://github.com/ilvar/apachan
 - blazechan - https://gitgud.io/blazechan/blazechan
-- cursedboard - https://github.com/whisperchan/cursedboard / https://github.com/BigSlice/cursedboard
+- erlach - https://github.com/m-2k/erlach
 - exaba - http://web.archive.org/web/20150429042034/http://exachan.com/exaba/ (last archived release: http://web.archive.org/web/20130614124246/http://exachan.com/exaba/downloads/exaba_0_9_9.zip)
-- foolfuuka - https://github.com/FoolCode/FoolFuuka
 - gochan - https://github.com/eggbertx/gochan
 - hivebbs - https://github.com/desuwa/hivebbs
 - ib4f - formerly used by http://web.archive.org/web/20101108033202/http://imageboard4free.com:80/
@@ -104,16 +107,13 @@ This is a list of the software codes used in imageboard.json along with links to
 - neboard - https://bitbucket.org/neko259/neboard
 - neoboard - https://github.com/neochaner/neochan
 - nerve - https://github.com/codingneko/nerve
-- orphereus - https://orphereus.anoma.ch/
-    - hanabira - used by http://dobrochan.com/ (unpublished)
 - overmind - used by http://kanal4.org/
 - purplish - https://github.com/Shirakumo/purplish
 - rb-79 - https://repo.or.cz/rb-79.git
 - tornadoimageboard - https://github.com/cnsr/tornado_imageboard
 - uchan - https://github.com/Floens/uchan
-- yboard - https://github.com/LautaMedia/YBoard
 - weabot - used by https://bienvenidoainternet.org/
-- erlach - https://github.com/m-2k/erlach
+- yboard - https://github.com/LautaMedia/YBoard
 
 You may also be interested in these lists of imageboard software:
 * https://flash.moe/overscript/ (also has mirrors of many scripts)
