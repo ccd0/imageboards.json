@@ -19,7 +19,6 @@ This is a list of the software codes used in imageboard.json along with links to
             - saguaro - http://saguaroimgboard.tk/
             - yotsuba - used by https://www.4chan.org/ (unpublished)
         - moeren - formerly used by http://web.archive.org/web/20050623021441/http://moepic.dip.jp:80/gazo/
-            - moeren-gchan - http://web.archive.org/web/20140220052910/http://www42.atpages.jp/gscripts/ (many pages not archived)
         - futaba-gchan - http://web.archive.org/web/20140220052910/http://www42.atpages.jp/gscripts/ (many pages not archived)
             - kabuban - used by http://www.kabuban.net/
         - kenjiweb - http://web.archive.org/web/20071013052850/http://www.kenjiweb.com/ (downloads not archived)
@@ -88,7 +87,6 @@ This is a list of the software codes used in imageboard.json along with links to
 - exaba - http://web.archive.org/web/20150429042034/http://exachan.com/exaba/ (last archived release: http://web.archive.org/web/20130614124246/http://exachan.com/exaba/downloads/exaba_0_9_9.zip)
 - foolfuuka - https://github.com/FoolCode/FoolFuuka
 - gochan - https://github.com/eggbertx/gochan
-- hankiboard - https://gitlab.com/kilves/hankiboard
 - hivebbs - https://github.com/desuwa/hivebbs
 - ib4f - formerly used by http://web.archive.org/web/20101108033202/http://imageboard4free.com:80/
 - jschan - https://github.com/fatchan/jschan/
