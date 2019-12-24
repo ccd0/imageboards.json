@@ -1052,7 +1052,7 @@
   },
   {
     "name": "allo.li",
-    "url": "https://allo.li",
+    "url": "https://allo.li/",
     "language": [
       "et",
       "ru"
@@ -1299,8 +1299,8 @@
     "name": "bernd.group",
     "url": "https://bernd.group/int",
     "mirrors": [
-      "https://bernd.group/int",
-      "https://xcomm.id/int"
+      "https://bernd.group/",
+      "https://xcomm.id/"
     ],
     "language": [
       "en"
