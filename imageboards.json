@@ -1907,18 +1907,6 @@
     ]
   },
   {
-    "name": "Dragonchan",
-    "url": "https://dragonchan.net/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "npfchan"
-    ]
-  },
-  {
     "name": "Dramachan",
     "url": "http://dramachan.moe/news.html",
     "language": [
@@ -2670,17 +2658,6 @@
     ],
     "software": [
       "wakaba"
-    ]
-  },
-  {
-    "name": "imageboard.fun",
-    "url": "https://imageboard.fun/all/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "doushio",
-      "meguca"
     ]
   },
   {
@@ -3488,16 +3465,6 @@
     ]
   },
   {
-    "name": "Mewch.ru",
-    "url": "https://mewch.ru/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ]
-  },
-  {
     "name": "Mewch.xyz",
     "url": "https://mewch.xyz/",
     "mirrors": [
@@ -3726,7 +3693,7 @@
   },
   {
     "name": "nanochan",
-    "url": "https://nanochanpwz3xnue76gteysv6wjm5sim3bbcm2lc65x625at774k77qd.onion/",
+    "url": "http://nanochanpwz3xnue76gteysv6wjm5sim3bbcm2lc65x625at774k77qd.onion/",
     "language": [
       "en"
     ],
