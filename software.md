@@ -83,7 +83,6 @@ This is a list of the software codes used in imageboard.json along with links to
 - 0chan - https://github.com/klkvsk/0chan
     - ochko - https://gitgud.io/devarped/ochko
 - 4kev - https://github.com/federicoolivo/4kev
-- 4taba - https://github.com/4taba/4taba
 - ace-rx - https://github.com/svmn/ace-rx
 - apachan - https://github.com/ilvar/apachan
 - blazechan - https://gitgud.io/blazechan/blazechan
@@ -94,6 +93,7 @@ This is a list of the software codes used in imageboard.json along with links to
 - ib4f - formerly used by http://web.archive.org/web/20101108033202/http://imageboard4free.com:80/
 - jschan - https://github.com/fatchan/jschan/
 - koba - used by https://boards.plus4chan.org/
+- kotatsu - https://gitlab.com/ison2/kotatsu
 - kropyva - https://gitlab.com/Kropyva
 - lapis-chan - https://github.com/karai17/lapis-chan/
 - livechan - https://github.com/emgram769/livechan-js
