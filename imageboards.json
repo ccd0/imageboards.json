@@ -2115,24 +2115,6 @@
     ]
   },
   {
-    "name": "FrChan",
-    "url": "https://fch.yt/",
-    "mirrors": [
-      "https://fch.yt/",
-      "https://fch.tf/",
-      "https://fch.bet/",
-      "http://fchantpaey5or245.onion/",
-      "http://earlk6bjm32fchan.onion/",
-      "http://gjhs4pe3s55vpyb7avy3h2rk3tgiaeetk5rho5uvwacxw2xrxadd34ad.onion/"
-    ],
-    "language": [
-      "fr"
-    ],
-    "software": [
-      "lynxchan"
-    ]
-  },
-  {
     "name": "Fenrisulfr",
     "url": "https://fenrisulfr.org/",
     "language": [
@@ -2182,6 +2164,24 @@
     ],
     "software": [
       "tinyboard"
+    ]
+  },
+  {
+    "name": "FrChan",
+    "url": "https://fch.yt/",
+    "mirrors": [
+      "https://fch.yt/",
+      "https://fch.tf/",
+      "https://fch.bet/",
+      "http://fchantpaey5or245.onion/",
+      "http://earlk6bjm32fchan.onion/",
+      "http://gjhs4pe3s55vpyb7avy3h2rk3tgiaeetk5rho5uvwacxw2xrxadd34ad.onion/"
+    ],
+    "language": [
+      "fr"
+    ],
+    "software": [
+      "lynxchan"
     ]
   },
   {
