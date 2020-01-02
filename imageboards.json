@@ -1194,6 +1194,10 @@
   {
     "name": "Astrochan",
     "url": "https://astrochan.xyz/",
+    "mirrors": [
+      "https://astrochan.xyz/",
+      "http://i77hfmbgblnqei5k6kc2coul4sem7duhlxhk55ideitd64uatellloid.onion/"
+    ],
     "language": [
       "en"
     ],
