@@ -2102,7 +2102,8 @@
     ],
     "software": [
       "jschan"
-    ]
+    ],
+    "boardlist": "https://fatpeople.lol/webring.json"
   },
   {
     "name": "Fchan",
@@ -2154,7 +2155,8 @@
     ],
     "software": [
       "lynxchan"
-    ]
+    ],
+    "boardlist": "https://floridachan.com/webring.json"
   },
   {
     "name": "Formerly Chuck's",
@@ -2168,11 +2170,11 @@
   },
   {
     "name": "FrChan",
-    "url": "https://fch.yt/",
+    "url": "https://fch.bet/",
     "mirrors": [
+      "https://fch.bet/",
       "https://fch.yt/",
       "https://fch.tf/",
-      "https://fch.bet/",
       "http://fchantpaey5or245.onion/",
       "http://earlk6bjm32fchan.onion/",
       "http://gjhs4pe3s55vpyb7avy3h2rk3tgiaeetk5rho5uvwacxw2xrxadd34ad.onion/"
@@ -2182,7 +2184,8 @@
     ],
     "software": [
       "lynxchan"
-    ]
+    ],
+    "boardlist": "https://fch.bet/webring.json"
   },
   {
     "name": "Freech",
@@ -4855,7 +4858,8 @@
     "software": [
       "tinyboard",
       "vichan"
-    ]
+    ],
+    "boardlist": "https://sportschan.org/webring.json"
   },
   {
     "name": "Stevenchan",
