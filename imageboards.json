@@ -1390,6 +1390,18 @@
     ]
   },
   {
+    "name": "boards.initiate.space",
+    "url": "https://boards.initiate.space/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "lainchan"
+    ]
+  },
+  {
     "name": "boards.selfishnode.com",
     "url": "http://boards.selfishnode.com/",
     "language": [
