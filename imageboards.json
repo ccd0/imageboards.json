@@ -557,6 +557,16 @@
     ]
   },
   {
+    "name": "28chan",
+    "url": "http://186.137.157.226/g/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "makiba"
+    ]
+  },
+  {
     "name": "2cat",
     "url": "https://2cat.komica.org/",
     "boardlistpages": [
