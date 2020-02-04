@@ -3677,6 +3677,17 @@
     ]
   },
   {
+    "name": "Moonchan",
+    "url": "https://moonchan.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ],
+    "boardlist": "https://moonchan.org/index.json"
+  },
+  {
     "name": "more-xxx.net",
     "url": "http://more-xxx.net/",
     "language": [
