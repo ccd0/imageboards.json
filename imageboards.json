@@ -5407,6 +5407,10 @@
   {
     "name": "Waifuist.pro",
     "url": "https://waifuist.pro/",
+    "mirrors": [
+      "https://waifuist.pro/",
+      "http://waifuwyuu7fqlf2haidb3izomxyhxme2mk4kdlibdiwgmzelt2iorxyd.onion/"
+    ],
     "language": [
       "en"
     ],
