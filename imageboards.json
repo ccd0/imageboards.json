@@ -1774,6 +1774,20 @@
     ]
   },
   {
+    "name": "Cutie Garden",
+    "url": "https://cutiegarden.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ],
+    "mirrors": [
+      "https://cutiegarden.org/",
+      "http://cutieg6ima3wwyee.onion/"
+    ]
+  },
+  {
     "name": "DameIB",
     "url": "https://dameib.net/",
     "language": [
