@@ -2734,6 +2734,12 @@
   {
     "name": "Infinity-San",
     "url": "https://rodentchan.danwin1210.me/",
+    "mirrors": [
+      "https://rodentchan.danwin1210.me/",
+      "https://infinity-san.danwin1210.me/",
+      "http://jx5occy7c3f7euxcs4orjdlomqmtrmirk3faer2av6jy7xuizv6dyfid.onion/",
+      "http://i7m2kl7tmelclcye.onion/"
+    ],
     "language": [
       "en"
     ],
