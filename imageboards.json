@@ -2732,6 +2732,30 @@
     ]
   },
   {
+    "name": "Infinity-San",
+    "url": "https://rodentchan.danwin1210.me/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby",
+      "tinyib",
+      "desuib"
+    ]
+  },
+  {
+    "name": "Infinity-San Bunker",
+    "url": "http://rdch.heliohost.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "wakaba"
+    ]
+  },
+  {
     "name": "画像掲示板PINKのとら",
     "url": "http://www.pinknotora.net/main.html",
     "language": [
@@ -4488,30 +4512,6 @@
   {
     "name": "Ripper's Anime Page - Music Request Board",
     "url": "https://www.rippersanime.info/index.php?page=MusicBoard",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "wakaba"
-    ]
-  },
-  {
-    "name": "Infinity-San",
-    "url": "https://rodentchan.danwin1210.me/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "futallaby",
-      "tinyib",
-      "desuib"
-    ]
-  },
-  {
-    "name": "Infinity-San Bunker",
-    "url": "http://rdch.heliohost.org/",
     "language": [
       "en"
     ],
