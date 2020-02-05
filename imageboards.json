@@ -4038,6 +4038,23 @@
     ]
   },
   {
+    "name": "Nordchan",
+    "url": "https://nordchan.net/",
+    "language": [
+      "en",
+      "sv",
+      "da",
+      "no",
+      "is",
+      "fo",
+      "fi"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "not99chan",
     "url": "https://not99chan.org/",
     "language": [
