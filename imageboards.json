@@ -2076,6 +2076,16 @@
     "boardlist": "https://erischan.org/webring.json"
   },
   {
+    "name": "erisch.onion",
+    "url": "http://erischscwh5h74f7tcosaoq3722lpx5u4pxtnww3q5rbonvxjo2hiuid.onion/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "erischan"
+    ]
+  },
+  {
     "name": "Erlach",
     "url": "https://erlach.services/",
     "mirrors": [
