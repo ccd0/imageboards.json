@@ -3620,18 +3620,6 @@
     ]
   },
   {
-    "name": "Mlepach: My Little Equestria",
-    "url": "https://mle.party/",
-    "language": [
-      "en",
-      "ru"
-    ],
-    "software": [
-      "lynxchan"
-    ],
-    "boardlist": "https://mle.party/index.json"
-  },
-  {
     "name": "MLPG.co",
     "url": "https://mlpg.co/",
     "mirrors": [
