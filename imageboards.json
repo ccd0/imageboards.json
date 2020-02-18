@@ -5364,6 +5364,17 @@
     ]
   },
   {
+    "name": "VHSCHAN",
+    "url": "https://vhschan.org/",
+    "language": [
+      "pt"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "ViejuCHAN",
     "url": "http://chan.vieju.net/",
     "language": [
