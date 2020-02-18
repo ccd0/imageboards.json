@@ -5195,13 +5195,13 @@
   },
   {
     "name": "Tsubasa Society",
-    "url": "https://tsubasasociety.com/",
+    "url": "https://tsubasasociety.com/ANM/",
     "language": [
       "en"
     ],
     "software": [
-      "kusaba",
-      "kusabax"
+      "tinyboard",
+      "vichan"
     ]
   },
   {
