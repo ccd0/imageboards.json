@@ -5287,6 +5287,18 @@
     ]
   },
   {
+    "name": "tvch",
+    "url": "https://tvch.moe/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "npfchan"
+    ]
+  },
+  {
     "name": "U18chan",
     "url": "https://u18chan.com/",
     "language": [
