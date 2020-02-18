@@ -3396,12 +3396,13 @@
   },
   {
     "name": "Lulz",
-    "url": "https://dev.lulz.net/",
+    "url": "https://lulz.net/",
     "language": [
       "en"
     ],
     "software": [
-      "wakaba"
+      "tinyboard",
+      "vichan"
     ]
   },
   {
