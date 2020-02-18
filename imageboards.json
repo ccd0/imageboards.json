@@ -4646,17 +4646,6 @@
     ]
   },
   {
-    "name": "Selene / Collision Mondiale",
-    "url": "https://selene.zawarudo.org/",
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "Secret Area of VIP Quality",
     "url": "https://secretareaofvipquality.org/saovq/",
     "language": [
@@ -4690,6 +4679,17 @@
       "futaba",
       "moeren",
       "siokara"
+    ]
+  },
+  {
+    "name": "Selene / Collision Mondiale",
+    "url": "https://selene.zawarudo.org/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
