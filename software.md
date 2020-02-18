@@ -112,7 +112,7 @@ This is a list of the software codes used in imageboard.json along with links to
 - overmind - used by http://kanal4.org/
 - purplish - https://github.com/Shirakumo/purplish
 - rb-79 - https://repo.or.cz/rb-79.git
-- shittyboard - http://shittyboard.ddns.net/source.txt
+- shittyboard - https://github.com/shittyboard/shittyboard
 - sr - used by https://leftypol.org/
 - tornadoimageboard - https://github.com/cnsr/tornado_imageboard
 - uchan - https://github.com/Floens/uchan
