@@ -4646,15 +4646,14 @@
     ]
   },
   {
-    "name": "Secilia / World Première",
-    "url": "https://secilia.zawarudo.org/",
+    "name": "Selene / Collision Mondiale",
+    "url": "https://selene.zawarudo.org/",
     "language": [
       "zh"
     ],
     "software": [
       "tinyboard",
-      "vichan",
-      "infinity"
+      "vichan"
     ]
   },
   {
