@@ -46,7 +46,6 @@ This is a list of the software codes used in imageboard.json along with links to
     - serissa - http://web.archive.org/web/20090222195838/http://www.serissa.org:80/ (downloads not archived but mirrored at https://flash.moe/overscript/)
 - wakaba - https://wakaba.c3.cx/s/web/wakaba_kareha
     - wakaba++ - described at https://www.lurkmore.com/view/Wakaba++ but appears to be unpublished
-    - glaukaba - https://github.com/marlencrabapple/Glaukaba
     - phutaba - https://github.com/ernstchan/phutaba
     - taimaba - used by https://420chan.org/
 - bbsnote - http://web.archive.org/web/20050116004959/http://wondercatstudio.com:80/html/download.html
@@ -55,7 +54,6 @@ This is a list of the software codes used in imageboard.json along with links to
         - cutechan - https://github.com/cutechan/cutechan
         - tetuca - https://github.com/nekto-nekto/tetuca
 - kareha - https://wakaba.c3.cx/s/web/wakaba_kareha
-- cgi-design - http://cgi-design.net/prog/bbs/index.htm
 - joyfulnote - http://www.kent-web.com/bbs/joyful.html
     - joyful2ch - http://falcon.s16.xrea.com/
         - gakinko - used by http://www.gakinko.net/
