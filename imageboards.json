@@ -707,16 +707,10 @@
   {
     "name": "4taba",
     "url": "https://4taba.net/",
-    "language": [
-      "en"
+    "mirrors": [
+      "https://4taba.net/",
+      "https://4taba2.net/"
     ],
-    "software": [
-      "kotatsu"
-    ]
-  },
-  {
-    "name": "4taba2",
-    "url": "http://4taba2.net/",
     "language": [
       "en"
     ],
