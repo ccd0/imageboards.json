@@ -54,6 +54,7 @@ This is a list of the software codes used in imageboard.json along with links to
         - cutechan - https://github.com/cutechan/cutechan
         - tetuca - https://github.com/nekto-nekto/tetuca
 - kareha - https://wakaba.c3.cx/s/web/wakaba_kareha
+    - bakareha - https://github.com/f2d/bakareha
 - joyfulnote - http://www.kent-web.com/bbs/joyful.html
     - joyful2ch - http://falcon.s16.xrea.com/
         - gakinko - used by http://www.gakinko.net/

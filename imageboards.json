@@ -512,6 +512,18 @@
     ]
   },
   {
+    "name": "2draw.me",
+    "url": "https://2draw.me/d/",
+    "language": [
+      "ru",
+      "en"
+    ],
+    "software": [
+      "kareha",
+      "bakareha"
+    ]
+  },
+  {
     "name": "2fan",
     "url": "http://2fan.ru/ch/",
     "language": [
@@ -584,6 +596,16 @@
     "software": [
       "tinyboard",
       "vichan"
+    ]
+  },
+  {
+    "name": "-3chan",
+    "url": "http://dash3ch.tekcities.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "kareha"
     ]
   },
   {
@@ -4844,6 +4866,16 @@
     "software": [
       "tinyboard",
       "vichan"
+    ]
+  },
+  {
+    "name": "UGO 0.2",
+    "url": "http://ffzzgg.net/UGO/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "kareha"
     ]
   },
   {
