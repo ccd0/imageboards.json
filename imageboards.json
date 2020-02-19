@@ -48,16 +48,6 @@
     ]
   },
   {
-    "name": "うさぎの絵本",
-    "url": "http://usa.pupu.jp/oekaki/bbsnote.cgi",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "bbsnote"
-    ]
-  },
-  {
     "name": "がぞろだ",
     "url": "http://www.gz-loader.com/",
     "language": [
@@ -130,16 +120,6 @@
     ],
     "software": [
       "imgboard"
-    ]
-  },
-  {
-    "name": "ゲーム半角二次元　お絵描き掲示板",
-    "url": "http://kazumi386.org/~flatkobo/oekaki/GAME_Hankaku/bbsnote.cgi",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "bbsnote"
     ]
   },
   {
@@ -227,16 +207,6 @@
     "boardlist": "https://heiban.me/index.json"
   },
   {
-    "name": "暇人茶屋†お絵かき掲示板",
-    "url": "http://himacha.com/bbs/paint/oekaki.cgi",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "bbsnote"
-    ]
-  },
-  {
     "name": "熊の穴ツヴァイ",
     "url": "http://kumasange.bbs.fc2.com/",
     "language": [
@@ -282,16 +252,6 @@
       "gazoubbs",
       "futaba",
       "kenjiweb"
-    ]
-  },
-  {
-    "name": "苺ましまろお絵描き掲示板",
-    "url": "http://ichigomashimaro.net/oekaki/bbsnote.cgi",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "bbsnote"
     ]
   },
   {
@@ -400,16 +360,6 @@
       "futaba",
       "futallaby",
       "tinyib"
-    ]
-  },
-  {
-    "name": "10ch お絵描き",
-    "url": "http://www.10ch.tv/bbs_draw/bbsnote.cgi",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "bbsnote"
     ]
   },
   {
@@ -1170,16 +1120,6 @@
     ]
   },
   {
-    "name": "ash.jp/~take/",
-    "url": "http://ash.jp/~take/bbsnote/bbsnote.cgi",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "bbsnote"
-    ]
-  },
-  {
     "name": "Astrochan",
     "url": "https://astrochan.xyz/",
     "mirrors": [
@@ -1434,16 +1374,6 @@
     ]
   },
   {
-    "name": "テイルズ本気用お絵かきBBS",
-    "url": "http://tales-search.com/pbbs/tr/bbsnote.cgi",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "bbsnote"
-    ]
-  },
-  {
     "name": "Bunbunmaru",
     "url": "http://bunbunmaru.com/wakaba/",
     "language": [
@@ -1688,16 +1618,6 @@
     ]
   },
   {
-    "name": "coolier.dip.jp/oekaki_07/",
-    "url": "http://coolier.dip.jp/oekaki_07/",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "bbsnote"
-    ]
-  },
-  {
     "name": "/coxg/ Image Board",
     "url": "https://board.thunderspygaming.net/",
     "language": [
@@ -1835,16 +1755,6 @@
     ]
   },
   {
-    "name": "dhildhil-Planet ひまつぶし",
-    "url": "http://dhildhil.la.coocan.jp/bbsnote/",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "bbsnote"
-    ]
-  },
-  {
     "name": "Diochan",
     "url": "https://www.diochan.com/",
     "language": [
@@ -1887,16 +1797,6 @@
     ],
     "software": [
       "doushio"
-    ]
-  },
-  {
-    "name": "dqwave.net/kouryu2/",
-    "url": "http://dqwave.net/kouryu2/",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "bbsnote"
     ]
   },
   {
@@ -1965,16 +1865,6 @@
       "makaba"
     ],
     "boardlist": "https://2ch.hk/boards.json"
-  },
-  {
-    "name": "ElDorado 共有お絵かき掲示板",
-    "url": "http://oebi.eldorado-project.com/rakugaki/oebi.cgi",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "bbsnote"
-    ]
   },
   {
     "name": "Endchan",
@@ -2104,16 +1994,6 @@
       "gazoubbs",
       "futaba",
       "pixmicat"
-    ]
-  },
-  {
-    "name": "ffdq.com 何でもお絵かき掲示板",
-    "url": "https://www.ffdq.com/cgi-bin/draw2/bbsnote.cgi",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "bbsnote"
     ]
   },
   {
@@ -2476,17 +2356,6 @@
       "futallaby",
       "fikaba",
       "sakomoto"
-    ]
-  },
-  {
-    "name": "Hi*kin Oekaki BB",
-    "url": "http://www.hikin.com/bbs-note/bbsnote.cgi",
-    "language": [
-      "kr",
-      "en"
-    ],
-    "software": [
-      "bbsnote"
     ]
   },
   {
@@ -2853,16 +2722,6 @@
     ]
   },
   {
-    "name": "kcn.ne.jp/~hnishi/",
-    "url": "http://www.kcn.ne.jp/~hnishi/cgi-bin/bbsnote/bbsnote.cgi",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "bbsnote"
-    ]
-  },
-  {
     "name": "kek.epizy.com",
     "url": "http://kek.epizy.com/",
     "language": [
@@ -2910,16 +2769,6 @@
       "gazoubbs",
       "futaba",
       "pixmicat"
-    ]
-  },
-  {
-    "name": "kimix.gogo.tc/cgi/bbsnote2/",
-    "url": "http://kimix.gogo.tc/cgi/bbsnote2/bbsnote.cgi",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "bbsnote"
     ]
   },
   {
@@ -3051,16 +2900,6 @@
       "gazoubbs",
       "futaba",
       "pixmicat"
-    ]
-  },
-  {
-    "name": "koro-pokemon.com",
-    "url": "https://koro-pokemon.com/bbs/paint3/pic.cgi",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "bbsnote"
     ]
   },
   {
@@ -4132,16 +3971,6 @@
     ]
   },
   {
-    "name": "PaintBBS NEOお絵かき掲示板",
-    "url": "http://pbbs.sakura.ne.jp/cgi/pastlog/bbs/neo/",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "bbsnote"
-    ]
-  },
-  {
     "name": "pandoramicbox.freehostia.com",
     "url": "http://pandoramicbox.freehostia.com/",
     "language": [
@@ -4308,16 +4137,6 @@
     ],
     "software": [
       "tornadoimageboard"
-    ]
-  },
-  {
-    "name": "popup15.tok2.com/home2/piyoraji/",
-    "url": "http://popup15.tok2.com/home2/piyoraji/cgi-bin/note/bbsnote.cgi",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "bbsnote"
     ]
   },
   {
@@ -4945,16 +4764,6 @@
     ]
   },
   {
-    "name": "Til作品＆イストワール総合お絵描きBBS",
-    "url": "http://scl.littlestar.jp/cgi-bin/bbsnote/bbsnote.cgi",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "bbsnote"
-    ]
-  },
-  {
     "name": "Time-Telling Fortress",
     "url": "http://board.seize.ch/fortress/front",
     "language": [
@@ -5233,16 +5042,6 @@
       "npfchan"
     ],
     "boardlist": "https://vch.moe/webring.json"
-  },
-  {
-    "name": "Venus BBS",
-    "url": "http://chronicle.tsubasa.to/venus_bbs/elements/bbsnote.cgi",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "bbsnote"
-    ]
   },
   {
     "name": "vgchan",
