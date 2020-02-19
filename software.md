@@ -70,6 +70,8 @@ This is a list of the software codes used in imageboard.json along with links to
 - cursedboard - https://github.com/whisperchan/cursedboard / https://github.com/BigSlice/cursedboard
 - emanon - https://github.com/oprel/emanon
 - foolfuuka - https://github.com/FoolCode/FoolFuuka
+- gopherchan - used by gopher://port70.net/1chan
+    - 70chan - https://github.com/sroracle/70chan
 - jschan - https://github.com/fatchan/jschan/
 - mitsuba - https://github.com/MitsubaBBS/Mitsuba
     - haruko - https://gitgud.io/parley/Haruko

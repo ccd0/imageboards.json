@@ -2195,6 +2195,9 @@
     ],
     "language": [
       "en"
+    ],
+    "software": [
+      "gopherchan"
     ]
   },
   {
@@ -4307,6 +4310,21 @@
     "software": [
       "kusaba",
       "kusabax"
+    ]
+  },
+  {
+    "name": "sick.bike BBS",
+    "url": "gopher://bbs.sick.bike/1/70chan",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "gopherchan",
+      "70chan"
+    ],
+    "mirrors": [
+      "gopher://bbs.sick.bike/",
+      "https://bbs.sick.bike/?"
     ]
   },
   {
