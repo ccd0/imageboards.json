@@ -946,16 +946,6 @@
     ]
   },
   {
-    "name": "akitainu-hozonkai.com",
-    "url": "http://www.akitainu-hozonkai.com/photo/bbs.cgi",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "cgi-design"
-    ]
-  },
-  {
     "name": "aletheia.ee",
     "url": "https://aletheia.ee/board/",
     "language": [
@@ -1413,16 +1403,6 @@
       "gazoubbs",
       "futaba",
       "pixmicat"
-    ]
-  },
-  {
-    "name": "catdiary.littlestar.jp",
-    "url": "http://catdiary.littlestar.jp/cgi-bin/bbs39.cgi",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "cgi-design"
     ]
   },
   {
@@ -3428,16 +3408,6 @@
     ]
   },
   {
-    "name": "Moto's Photo BBS",
-    "url": "http://endoscopy.jp/bbs/00004/bbs29.cgi",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "cgi-design"
-    ]
-  },
-  {
     "name": "Musikchan",
     "url": "https://musikchan.com/music/",
     "language": [
@@ -3493,16 +3463,6 @@
     "url": "https://naturalpeople.wiki/communicate/",
     "language": [
       "en"
-    ]
-  },
-  {
-    "name": "NatureSidePhotoClub Photo BBS",
-    "url": "http://nspc.biz/bbs434865/bbs43.cgi",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "cgi-design"
     ]
   },
   {
@@ -4903,16 +4863,6 @@
     "software": [
       "tinyboard",
       "vichan"
-    ]
-  },
-  {
-    "name": "umbrella428.pro.tok2.com",
-    "url": "http://umbrella428.pro.tok2.com/index00.html",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "cgi-design"
     ]
   },
   {
