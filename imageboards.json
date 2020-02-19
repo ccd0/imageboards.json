@@ -48,17 +48,6 @@
     ]
   },
   {
-    "name": "【お芋】生鮮！カリカリ堂【蟹】",
-    "url": "http://www.makop.com/~doreon/gazoubbs/futaba.html",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba"
-    ]
-  },
-  {
     "name": "うさぎの絵本",
     "url": "http://usa.pupu.jp/oekaki/bbsnote.cgi",
     "language": [
@@ -303,17 +292,6 @@
     ],
     "software": [
       "bbsnote"
-    ]
-  },
-  {
-    "name": "虫我像掲示板",
-    "url": "http://jpmoth.org/~moth-love/futaba/futaba.htm",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba"
     ]
   },
   {
@@ -1355,17 +1333,6 @@
     "url": "https://www.windows93.net/b/",
     "language": [
       "en"
-    ]
-  },
-  {
-    "name": "BLASDEAD B B S",
-    "url": "http://blasdead.com/bbs/futaba.htm",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba"
     ]
   },
   {
