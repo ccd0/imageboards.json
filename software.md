@@ -78,6 +78,7 @@ This is a list of the software codes used in imageboard.json along with links to
     - tumbach - https://github.com/rngnrs/tumbach
 - orphereus - https://orphereus.anoma.ch/
     - hanabira - used by http://dobrochan.com/ (unpublished)
+- supremereality - https://github.com/8b2eef7c901269e8e9a6ec532d57b6b1/supremereality
 - webpatio - http://www.kent-web.com/bbs/patio.html
     - webpatio-kirishima - http://kirishima.it/patio/
 - 0chan - https://github.com/klkvsk/0chan
@@ -112,7 +113,6 @@ This is a list of the software codes used in imageboard.json along with links to
 - purplish - https://github.com/Shirakumo/purplish
 - rb-79 - https://repo.or.cz/rb-79.git
 - shittyboard - https://github.com/shittyboard/shittyboard
-- sr - used by https://leftypol.org/
 - tornadoimageboard - https://github.com/cnsr/tornado_imageboard
 - uchan - https://github.com/Floens/uchan
 - weabot - used by https://bienvenidoainternet.org/

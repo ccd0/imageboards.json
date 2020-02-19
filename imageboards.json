@@ -2936,7 +2936,7 @@
       "en"
     ],
     "software": [
-      "sr"
+      "supremereality"
     ]
   },
   {
@@ -4521,6 +4521,16 @@
     "software": [
       "tinyboard",
       "vichan"
+    ]
+  },
+  {
+    "name": "Supreme Reality",
+    "url": "https://supremereality.us/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "supremereality"
     ]
   },
   {
