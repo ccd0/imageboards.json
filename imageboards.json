@@ -3440,7 +3440,7 @@
     ]
   },
   {
-    "name": "Neboard",
+    "name": "Neboard X",
     "url": "https://neboard.me/",
     "mirrors": [
       "https://neboard.me/",
@@ -3451,7 +3451,7 @@
       "ru"
     ],
     "software": [
-      "neboard"
+      "neboard5"
     ]
   },
   {

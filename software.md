@@ -106,7 +106,7 @@ This is a list of the software codes used in imageboard.json along with links to
 - mei - https://github.com/lulalala/mei
 - monaba - https://github.com/ahushh/Monaba
 - nanochan - http://nanochanqwrwtmamtnhkfwbbcducc4i62ciss4byo6f3an5qdkhjngid.onion/source.lua
-- neboard - https://bitbucket.org/neko259/neboard
+- neboard5 - https://bitbucket.org/neko259/neboard5/src/master/
 - neoboard - https://github.com/neochaner/neochan
 - nerve - https://github.com/codingneko/nerve
 - overmind - used by http://kanal4.org/
