@@ -563,16 +563,6 @@
     ]
   },
   {
-    "name": "2san",
-    "url": "http://2san.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "kareha"
-    ]
-  },
-  {
     "name": "314chan",
     "url": "https://www.314chan.org/",
     "language": [
@@ -1381,16 +1371,6 @@
     ],
     "software": [
       "wakaba"
-    ]
-  },
-  {
-    "name": "Bunbunmaru /projects/",
-    "url": "http://bunbunmaru.com/kareha/projects/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "kareha"
     ]
   },
   {
@@ -2260,16 +2240,6 @@
     ]
   },
   {
-    "name": "Grobichan",
-    "url": "http://ghost.dreamingrealms.de/sfw/",
-    "language": [
-      "de"
-    ],
-    "software": [
-      "kareha"
-    ]
-  },
-  {
     "name": "Gurochan",
     "url": "https://www.gurochan.cx/",
     "language": [
@@ -2568,16 +2538,6 @@
     "url": "http://www.pinknotora.net/main.html",
     "language": [
       "ja"
-    ]
-  },
-  {
-    "name": "Institute for ---------",
-    "url": "http://thompsonharris.net/imageboard/board.html",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "kareha"
     ]
   },
   {
@@ -3125,16 +3085,6 @@
     ]
   },
   {
-    "name": "LuckyChan",
-    "url": "https://luckychan.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "kareha"
-    ]
-  },
-  {
     "name": "Lulz",
     "url": "https://lulz.net/",
     "language": [
@@ -3183,16 +3133,6 @@
     ],
     "software": [
       "foolfuuka"
-    ]
-  },
-  {
-    "name": "Mahjong message board",
-    "url": "http://arcturus.su/ch/mj/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "kareha"
     ]
   },
   {
@@ -3968,16 +3908,6 @@
       "gazoubbs",
       "futaba",
       "poti-board"
-    ]
-  },
-  {
-    "name": "pandoramicbox.freehostia.com",
-    "url": "http://pandoramicbox.freehostia.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "kareha"
     ]
   },
   {
@@ -5227,16 +5157,6 @@
       "tinyboard",
       "vichan",
       "npfchan"
-    ]
-  },
-  {
-    "name": "Wonderchan",
-    "url": "http://wonderchan.wonderlandtranslations.net/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "kareha"
     ]
   },
   {
