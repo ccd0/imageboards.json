@@ -48,13 +48,10 @@ This is a list of the software codes used in imageboard.json along with links to
     - wakaba++ - described at https://www.lurkmore.com/view/Wakaba++ but appears to be unpublished
     - phutaba - https://github.com/ernstchan/phutaba
     - taimaba - used by https://420chan.org/
-- bbsnote - http://web.archive.org/web/20050116004959/http://wondercatstudio.com:80/html/download.html
 - doushio - https://github.com/lalcmellkmal/doushio
     - meguca - https://github.com/bakape/meguca
         - cutechan - https://github.com/cutechan/cutechan
         - tetuca - https://github.com/nekto-nekto/tetuca
-- kareha - https://wakaba.c3.cx/s/web/wakaba_kareha
-    - bakareha - https://github.com/f2d/bakareha
 - joyfulnote - http://www.kent-web.com/bbs/joyful.html
     - joyful2ch - http://falcon.s16.xrea.com/
         - gakinko - used by http://www.gakinko.net/
@@ -62,14 +59,17 @@ This is a list of the software codes used in imageboard.json along with links to
     - jn+yyb - http://w-space.net/subcon/cgi.htm
 - atbbs - https://sourceforge.net/projects/atbbs/
     - tinybbs - https://github.com/r04r/minichan
-- imgboard - http://www.big.or.jp/~talk/t-club/soft/index.html
+- kareha - https://wakaba.c3.cx/s/web/wakaba_kareha
+    - bakareha - https://github.com/f2d/bakareha
 - 1chan - https://github.com/jlbyrey/1chan
     - pierwszykanal - https://gitgud.io/devarped/pierwszykanal
 - ochiba - http://ochiba.x-maru.org/
+- bbsnote - http://web.archive.org/web/20050116004959/http://wondercatstudio.com:80/html/download.html
 - blockchan - https://github.com/milezzz/BlockChan
 - cursedboard - https://github.com/whisperchan/cursedboard / https://github.com/BigSlice/cursedboard
 - emanon - https://github.com/oprel/emanon
 - foolfuuka - https://github.com/FoolCode/FoolFuuka
+- jschan - https://github.com/fatchan/jschan/
 - mitsuba - https://github.com/MitsubaBBS/Mitsuba
     - haruko - https://gitgud.io/parley/Haruko
 - nntpchan - https://github.com/majestrate/nntpchan
@@ -91,7 +91,7 @@ This is a list of the software codes used in imageboard.json along with links to
 - gochan - https://github.com/eggbertx/gochan
 - hivebbs - https://github.com/desuwa/hivebbs
 - ib4f - formerly used by http://web.archive.org/web/20101108033202/http://imageboard4free.com:80/
-- jschan - https://github.com/fatchan/jschan/
+- imgboard - http://www.big.or.jp/~talk/t-club/soft/index.html
 - koba - used by https://boards.plus4chan.org/
 - kotatsu - https://gitlab.com/ison2/kotatsu
 - kropyva - https://gitlab.com/Kropyva
