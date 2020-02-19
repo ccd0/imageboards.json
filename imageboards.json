@@ -2538,29 +2538,6 @@
     ]
   },
   {
-    "name": "jkdaisuki.ad55.net",
-    "url": "http://jkdaisuki.ad55.net/index2.html",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "siokara",
-      "yakuba"
-    ]
-  },
-  {
-    "name": "jkdaisuki.ad55.net /otakara/",
-    "url": "http://jkdaisuki.ad55.net/otakara/imgboard.cgi",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "imgboard"
-    ]
-  },
-  {
     "name": "jojo's bizarre shitpost",
     "url": "https://jojochan.tk/",
     "language": [
