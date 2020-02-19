@@ -2692,7 +2692,8 @@
     ],
     "software": [
       "tinyboard",
-      "vichan"
+      "vichan",
+      "viqa"
     ]
   },
   {
