@@ -2100,16 +2100,6 @@
     ]
   },
   {
-    "name": "Eternitychan",
-    "url": "http://eternitychan.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "wakaba"
-    ]
-  },
-  {
     "name": "eurochan.org",
     "url": "https://eurochan.org/",
     "language": [
@@ -2420,16 +2410,6 @@
     "software": [
       "doushio",
       "meguca"
-    ]
-  },
-  {
-    "name": "GPUCHAN",
-    "url": "http://gpuchan.org/",
-    "language": [
-      "fr"
-    ],
-    "software": [
-      "wakaba"
     ]
   },
   {
@@ -2773,28 +2753,6 @@
     "software": [
       "wakaba",
       "wakaba++"
-    ]
-  },
-  {
-    "name": "Internet Resistance",
-    "url": "http://internetresistance.molleindustria.org/board/wakaba.html",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "wakaba"
-    ]
-  },
-  {
-    "name": ".jbotcan.",
-    "url": "https://jbotcan.org/",
-    "language": [
-      "jbo",
-      "en"
-    ],
-    "software": [
-      "wakaba",
-      "glaukaba"
     ]
   },
   {
@@ -4646,16 +4604,6 @@
     ]
   },
   {
-    "name": "Senran Kagura image board",
-    "url": "http://senrankagura.com/wakaba/wakaba.html",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "wakaba"
-    ]
-  },
-  {
     "name": "Sepulcharium",
     "url": "https://sepulcharium.tk/",
     "language": [
@@ -5349,16 +5297,6 @@
     "software": [
       "tinyboard",
       "vichan"
-    ]
-  },
-  {
-    "name": "ViejuCHAN",
-    "url": "http://chan.vieju.net/",
-    "language": [
-      "es"
-    ],
-    "software": [
-      "wakaba"
     ]
   },
   {
