@@ -3518,16 +3518,6 @@
     ]
   },
   {
-    "name": "NeXTCHAN",
-    "url": "https://nextchan.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "blazechan"
-    ]
-  },
-  {
     "name": "ni-chan",
     "url": "http://plnemlsyla6h5t3nuoz2algzmy635ceuendnjwsmhwn2os5fxahshiad.onion/",
     "mirrors": [
