@@ -4731,11 +4731,11 @@
   },
   {
     "name": "snow-sugar.net",
-    "url": "https://imgboard.snow-sugar.net/",
+    "url": "https://tsukisiro.snow-sugar.net/iyasi/",
     "boardlistpages": [
-      "https://imgboard.snow-sugar.net/",
       "http://web.komica.org/bbsmenu.html",
-      "https://2cat.komica.org/"
+      "https://2cat.komica.org/",
+      "https://imgboard.snow-sugar.net/"
     ],
     "language": [
       "zh"
