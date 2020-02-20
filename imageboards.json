@@ -665,6 +665,17 @@
     ]
   },
   {
+    "name": "4cels",
+    "url": "http://4cels.xyz/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "4ch",
     "url": "http://4ch.mooo.com/+4/",
     "language": [
