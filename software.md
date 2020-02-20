@@ -23,7 +23,7 @@ This is a list of the software codes used in imageboard.json along with links to
             - fikaba - https://github.com/knarka/fikaba
                 - sakomoto - https://github.com/rileyjamesbell/sakomoto
             - wakarimasen - https://github.com/weedy/wakarimasen
-            - pihaba - used by https://2ch.rip/
+            - pihaba - used by https://dva-ch.net/
             - saguaro - http://saguaroimgboard.tk/
             - yotsuba - used by https://www.4chan.org/ (unpublished)
         - siokara - http://siokara.que.jp/
