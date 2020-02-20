@@ -441,6 +441,10 @@
     "url": "https://22chan.org/",
     "language": [
       "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
