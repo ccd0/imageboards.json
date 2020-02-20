@@ -87,6 +87,7 @@ This is a list of the software codes used in imageboard.json along with links to
     - ochko - https://gitgud.io/devarped/ochko
 - 4kev - https://github.com/federicoolivo/4kev
 - ace-rx - https://github.com/svmn/ace-rx
+- anonib-3d - https://github.com/AlexKrunch/AnonIB-3D
 - apachan - https://github.com/ilvar/apachan
 - erischan - http://erischscwh5h74f7tcosaoq3722lpx5u4pxtnww3q5rbonvxjo2hiuid.onion/source.tar.gz
 - erlach - https://github.com/m-2k/erlach
