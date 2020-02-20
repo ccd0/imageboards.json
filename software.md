@@ -90,6 +90,7 @@ This is a list of the software codes used in imageboard.json along with links to
 - anonib-3d - https://github.com/AlexKrunch/AnonIB-3D
 - apachan - https://github.com/ilvar/apachan
 - atob - https://github.com/atobs/atob
+- brian - used by https://britfa.gs/
 - dtn - used by https://www.imgbbs.dtn.jp/
 - erischan - http://erischscwh5h74f7tcosaoq3722lpx5u4pxtnww3q5rbonvxjo2hiuid.onion/source.tar.gz
 - erlach - https://github.com/m-2k/erlach
