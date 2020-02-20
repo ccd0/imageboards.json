@@ -22,7 +22,6 @@ This is a list of the software codes used in imageboard.json along with links to
                 - desuib - https://rodentchan.danwin1210.me/script/
             - fikaba - https://github.com/knarka/fikaba
                 - sakomoto - https://github.com/rileyjamesbell/sakomoto
-            - wakarimasen - https://github.com/weedy/wakarimasen
             - pihaba - used by https://dva-ch.net/
             - saguaro - http://saguaroimgboard.tk/
             - yotsuba - used by https://www.4chan.org/ (unpublished)
@@ -81,6 +80,7 @@ This is a list of the software codes used in imageboard.json along with links to
 - orphereus - https://orphereus.anoma.ch/
     - hanabira - used by http://dobrochan.com/ (unpublished)
 - supremereality - https://github.com/8b2eef7c901269e8e9a6ec532d57b6b1/supremereality
+- wakarimasen - https://github.com/weedy/wakarimasen
 - webpatio - http://www.kent-web.com/bbs/patio.html
     - webpatio-kirishima - http://kirishima.it/patio/
 - 0chan - https://github.com/klkvsk/0chan
