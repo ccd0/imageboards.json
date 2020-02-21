@@ -152,17 +152,6 @@
     ]
   },
   {
-    "name": "大人タイムズ",
-    "url": "http://www.otona-times.com/top.html",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba"
-    ]
-  },
-  {
     "name": "大阪御堂筋",
     "url": "http://osaka.rash.jp/",
     "language": [
@@ -3800,6 +3789,17 @@
     "software": [
       "atbbs",
       "tinybbs"
+    ]
+  },
+  {
+    "name": "otona-t.net",
+    "url": "https://otona-t.net/top.html",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba"
     ]
   },
   {
