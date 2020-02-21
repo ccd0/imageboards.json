@@ -4629,7 +4629,11 @@
     "url": "http://board.seize.ch/fortress/front",
     "language": [
       "en"
-    ]
+    ],
+    "software": [
+      "negoto"
+    ],
+    "boardlist": "http://board.seize.ch/fortress/Api/boards"
   },
   {
     "name": "TinyChan",
