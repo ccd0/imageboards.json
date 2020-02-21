@@ -82,8 +82,6 @@ This is a list of the software codes used in imageboard.json along with links to
     - hanabira - used by http://dobrochan.com/ (unpublished)
 - supremereality - https://github.com/8b2eef7c901269e8e9a6ec532d57b6b1/supremereality
 - wakarimasen - https://github.com/weedy/wakarimasen
-- webpatio - http://www.kent-web.com/bbs/patio.html
-    - webpatio-kirishima - http://kirishima.it/patio/
 - 0chan - https://github.com/klkvsk/0chan
     - ochko - https://gitgud.io/devarped/ochko
 - 4kev - https://github.com/federicoolivo/4kev
@@ -124,6 +122,8 @@ This is a list of the software codes used in imageboard.json along with links to
 - tornadoimageboard - https://github.com/cnsr/tornado_imageboard
 - uchan - https://github.com/Floens/uchan
 - weabot - used by https://bienvenidoainternet.org/
+- webpatio - http://www.kent-web.com/bbs/patio.html
+    - webpatio-kirishima - http://kirishima.it/patio/
 - yboard - https://github.com/LautaMedia/YBoard
 
 You may also be interested in these lists of imageboard software:

@@ -2219,16 +2219,6 @@
     ]
   },
   {
-    "name": "gopher.su/gochan/",
-    "url": "http://gopher.su/gochan/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyib"
-    ]
-  },
-  {
     "name": "Gowno.club",
     "url": "https://gowno.club/all/",
     "language": [
@@ -4320,23 +4310,6 @@
     "mirrors": [
       "gopher://bbs.sick.bike/",
       "https://bbs.sick.bike/?"
-    ]
-  },
-  {
-    "name": "Silver Second 感想・交流用BBS",
-    "url": "https://www.silversecond.com/Community/index_bbs.shtml",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "webpatio"
-    ]
-  },
-  {
-    "name": "Silver Second Illust BBS",
-    "url": "https://silversecond.net/cgi_data/palletbbs/",
-    "language": [
-      "ja"
     ]
   },
   {
