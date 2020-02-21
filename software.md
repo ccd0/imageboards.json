@@ -43,7 +43,7 @@ This is a list of the software codes used in imageboard.json along with links to
         - kusaba-helma - https://github.com/altbdoor/kusaba-helma
         - novovvedeniya - http://www.zloiodm.in/trs/ksb.rar
         - ponyach.ru - https://github.com/acilsd/ponyach.ru
-    - serissa - http://web.archive.org/web/20090222195838/http://www.serissa.org:80/ (downloads not archived but mirrored at https://flash.moe/overscript/)
+    - serissa - http://web.archive.org/web/20090222195838/http://www.serissa.org:80/ (downloads not archived)
         - fbe-410 - https://bitbucket.org/Therapont/fbe-410
 - wakaba - https://wakaba.c3.cx/s/web/wakaba_kareha
     - wakaba++ - described at https://www.lurkmore.com/view/Wakaba++ but appears to be unpublished
@@ -126,6 +126,5 @@ This is a list of the software codes used in imageboard.json along with links to
 - yboard - https://github.com/LautaMedia/YBoard
 
 You may also be interested in these lists of imageboard software:
-* https://flash.moe/overscript/ (also has mirrors of many scripts)
-* http://9ch.in/overscript/ (also has mirrors of many scripts at http://tanami.org/pub/software/TrueScript/)
-* http://9ch.in/over/index2.pl
+* https://overscript.net/
+* http://web.archive.org/web/20180501091053/https://flash.moe/overscript/
