@@ -2234,6 +2234,12 @@
     "url": "http://gopher.su/gochan/",
     "language": [
       "en"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby",
+      "tinyib"
     ]
   },
   {
