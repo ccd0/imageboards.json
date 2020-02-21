@@ -17,17 +17,15 @@ This is a list of the software codes used in imageboard.json along with links to
     - futaba - https://www.2chan.net/script/
         - pixmicat - https://github.com/pixmicat/pixmicat/releases
             - yotsubanome - http://4ch.mooo.com/+4/script/
+        - siokara - http://siokara.que.jp/
+            - yakuba - used by http://t-jun.kemoren.com/
+            - siokara-gchan - http://web.archive.org/web/20140220052910/http://www42.atpages.jp/gscripts/ (many pages not archived)
         - futallaby - https://www.1chan.net/futallaby/
-            - tinyib - https://gitlab.com/tslocum/tinyib
-                - desuib - https://rodentchan.danwin1210.me/script/
             - fikaba - https://github.com/knarka/fikaba
                 - sakomoto - https://github.com/rileyjamesbell/sakomoto
             - pihaba - used by https://dva-ch.net/
             - saguaro - http://saguaroimgboard.tk/
             - yotsuba - used by https://www.4chan.org/ (unpublished)
-        - siokara - http://siokara.que.jp/
-            - yakuba - used by http://t-jun.kemoren.com/
-            - siokara-gchan - http://web.archive.org/web/20140220052910/http://www42.atpages.jp/gscripts/ (many pages not archived)
         - moeren - formerly used by http://web.archive.org/web/20050623021441/http://moepic.dip.jp:80/gazo/
         - futaba-gchan - http://web.archive.org/web/20140220052910/http://www42.atpages.jp/gscripts/ (many pages not archived)
             - kabuban - used by http://www.kabuban.net/
@@ -53,6 +51,8 @@ This is a list of the software codes used in imageboard.json along with links to
     - meguca - https://github.com/bakape/meguca
         - cutechan - https://github.com/cutechan/cutechan
         - tetuca - https://github.com/nekto-nekto/tetuca
+- tinyib - https://gitlab.com/tslocum/tinyib
+    - desuib - https://rodentchan.danwin1210.me/script/
 - joyfulnote - http://www.kent-web.com/bbs/joyful.html
     - joyful2ch - http://falcon.s16.xrea.com/
         - gakinko - used by http://www.gakinko.net/
