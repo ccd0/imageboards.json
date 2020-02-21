@@ -44,6 +44,7 @@ This is a list of the software codes used in imageboard.json along with links to
         - novovvedeniya - http://www.zloiodm.in/trs/ksb.rar
         - ponyach.ru - https://github.com/acilsd/ponyach.ru
     - serissa - http://web.archive.org/web/20090222195838/http://www.serissa.org:80/ (downloads not archived but mirrored at https://flash.moe/overscript/)
+        - fbe-410 - https://bitbucket.org/Therapont/fbe-410
 - wakaba - https://wakaba.c3.cx/s/web/wakaba_kareha
     - wakaba++ - described at https://www.lurkmore.com/view/Wakaba++ but appears to be unpublished
     - phutaba - https://github.com/ernstchan/phutaba
