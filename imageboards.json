@@ -1239,13 +1239,15 @@
   },
   {
     "name": "bernd.group",
-    "url": "https://bernd.group/int",
+    "url": "https://bernd.group/",
     "mirrors": [
       "https://bernd.group/",
+      "https://hamstakilla.com/",
       "https://xcomm.id/"
     ],
     "language": [
-      "en"
+      "en",
+      "ru"
     ]
   },
   {
@@ -2288,14 +2290,6 @@
     ],
     "software": [
       "tinyboard"
-    ]
-  },
-  {
-    "name": "Hamstakilla",
-    "url": "https://hamstakilla.com/",
-    "language": [
-      "ru",
-      "en"
     ]
   },
   {
