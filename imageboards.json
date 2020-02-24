@@ -1090,12 +1090,18 @@
     ]
   },
   {
-    "name": "Astrochan",
-    "url": "https://astrochan.xyz/",
-    "mirrors": [
-      "https://astrochan.xyz/",
-      "http://i77hfmbgblnqei5k6kc2coul4sem7duhlxhk55ideitd64uatellloid.onion/"
+    "name": "Asherah's Garden",
+    "url": "https://asherahs.garden/",
+    "language": [
+      "en"
     ],
+    "software": [
+      "lynxchan"
+    ]
+  },
+  {
+    "name": "Astrochan",
+    "url": "https://astrochan.net/",
     "language": [
       "en"
     ],
@@ -1155,6 +1161,17 @@
       "tinyboard",
       "vichan"
     ]
+  },
+  {
+    "name": "B00Bchan",
+    "url": "https://boobchan.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ],
+    "boardlist": "https://boobchan.com/index.json"
   },
   {
     "name": "Balkan Chan",
@@ -2565,6 +2582,17 @@
       "tinyboard",
       "vichan"
     ]
+  },
+  {
+    "name": "Kemoner Club",
+    "url": "https://www.kemoner.club/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ],
+    "boardlist": "https://www.kemoner.club/index.json"
   },
   {
     "name": "kemono.wtako.net",
