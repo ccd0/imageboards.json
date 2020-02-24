@@ -853,6 +853,19 @@
     ]
   },
   {
+    "name": "9channel",
+    "url": "https://9san.ch/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "infinity",
+      "openib"
+    ]
+  },
+  {
     "name": "9inches.org",
     "url": "https://9inches.org/b/",
     "language": [
@@ -1211,6 +1224,17 @@
       "lynxchan"
     ],
     "boardlist": "https://balkanchan.ga/index.json"
+  },
+  {
+    "name": "bbs.monocul.us",
+    "url": "https://bbs.monocul.us/",
+    "language": [
+      "it"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
   },
   {
     "name": "bbs.shiptoasting.com",
@@ -1909,6 +1933,17 @@
       "joyfulnote",
       "joyful2ch",
       "joyful2chme"
+    ]
+  },
+  {
+    "name": "Ethereal",
+    "url": "https://etherealworld.net/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
@@ -3771,6 +3806,17 @@
     ]
   },
   {
+    "name": "Pildilaud",
+    "url": "https://pildilaud.ee/",
+    "language": [
+      "et"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "p.komica.acg.club.tw",
     "url": "http://p.komica.acg.club.tw/",
     "language": [
@@ -4660,6 +4706,17 @@
       "tinyboard",
       "vichan",
       "npfchan"
+    ]
+  },
+  {
+    "name": "twchan",
+    "url": "https://boards.twchan.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
