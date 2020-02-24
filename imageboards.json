@@ -814,20 +814,6 @@
     ]
   },
   {
-    "name": "8channel",
-    "url": "https://8chnl.net/",
-    "mirrors": [
-      "https://8chnl.net/",
-      "http://4tltgp27isaczz74ithvfajk7pcao4ku56ibydia74f5uu2tcx7zepqd.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ]
-  },
-  {
     "name": "8kun",
     "url": "https://8kun.top/index.html",
     "mirrors": [
@@ -3617,6 +3603,20 @@
     ],
     "software": [
       "wakaba"
+    ]
+  },
+  {
+    "name": "Omnichan",
+    "url": "https://omnichan.net/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ],
+    "mirrors": [
+      "https://omnichan.net/",
+      "http://omnichqqnol2hc5nlnz7zkektki4bobiuxxidcmihppq7hnzwieu6gqd.onion/"
     ]
   },
   {
