@@ -20,6 +20,13 @@
     ]
   },
   {
+    "name": "Рисовач",
+    "url": "http://risovach.ru/",
+    "language": [
+      "ru"
+    ]
+  },
+  {
     "name": "Уточан",
     "url": "http://utochan.ru/",
     "language": [
@@ -1020,6 +1027,19 @@
     "software": [
       "tinyboard",
       "vichan"
+    ]
+  },
+  {
+    "name": "Animach",
+    "url": "https://animach.pw/",
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "infinity",
+      "openib"
     ]
   },
   {
@@ -3689,6 +3709,16 @@
     "software": [
       "gazoubbs",
       "futaba"
+    ]
+  },
+  {
+    "name": "Overchan дискуссии",
+    "url": "http://12ch.ru/board/d/",
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "kusaba"
     ]
   },
   {
