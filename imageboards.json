@@ -3939,6 +3939,16 @@
     ]
   },
   {
+    "name": "povedz.to",
+    "url": "https://povedz.to/",
+    "language": [
+      "sk"
+    ],
+    "software": [
+      "lynxchan"
+    ]
+  },
+  {
     "name": "PPPch",
     "url": "https://jp.pppch.net/",
     "language": [
