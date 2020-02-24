@@ -1190,17 +1190,6 @@
     "boardlist": "https://balkanchan.ga/index.json"
   },
   {
-    "name": "Barachan",
-    "url": "http://boards.barachan.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "bbs.shiptoasting.com",
     "url": "ssh://nanashi:anon@bbs.shiptoasting.com",
     "language": [
@@ -1246,16 +1235,6 @@
     ]
   },
   {
-    "name": "BillChan",
-    "url": "http://einsynd.pw/waka/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "wakaba"
-    ]
-  },
-  {
     "name": "Bindowzuchan",
     "url": "https://www.windows93.net/b/",
     "language": [
@@ -1270,16 +1249,6 @@
   {
     "name": "BlockChan Canada",
     "url": "https://blockchan.ca/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "blockchan"
-    ]
-  },
-  {
-    "name": "BlockChan itsniggernotnig.ga",
-    "url": "http://www.itsniggernotnig.ga/",
     "language": [
       "en"
     ],
@@ -2183,17 +2152,6 @@
     "boardlist": "https://gochan.lunachan.net/boards.json"
   },
   {
-    "name": "Goon Saloon",
-    "url": "https://goonsaloon.pro/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "gopherchan",
     "url": "gopher://port70.net/1chan",
     "mirrors": [
@@ -2382,24 +2340,6 @@
     ]
   },
   {
-    "name": "hyperchan",
-    "url": "https://hyperchan.org/",
-    "language": [
-      "uk"
-    ]
-  },
-  {
-    "name": "hyperchan (kropyva/vichan)",
-    "url": "https://k.hyperchan.org/",
-    "language": [
-      "uk"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "i-bbs",
     "url": "http://i-bbs.sijex.net/",
     "language": [
@@ -2427,16 +2367,6 @@
     "software": [
       "kusaba",
       "kusabax"
-    ]
-  },
-  {
-    "name": "i-chan.ru",
-    "url": "http://i-chan.ru/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard"
     ]
   },
   {
@@ -2626,16 +2556,6 @@
     ]
   },
   {
-    "name": "kek.epizy.com",
-    "url": "http://kek.epizy.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyib"
-    ]
-  },
-  {
     "name": "kek.fun",
     "url": "https://kek.fun/",
     "language": [
@@ -2682,18 +2602,6 @@
       "tinyboard",
       "vichan",
       "viqa"
-    ]
-  },
-  {
-    "name": "KlinChan",
-    "url": "http://klinchan.net/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "futallaby"
     ]
   },
   {
@@ -3058,16 +2966,6 @@
     ]
   },
   {
-    "name": "Magic Archive Voile",
-    "url": "http://voile.gensokyo.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "wakaba"
-    ]
-  },
-  {
     "name": "magyarchan",
     "url": "https://magyarchan.net/",
     "language": [
@@ -3152,17 +3050,6 @@
     ],
     "software": [
       "lynxchan"
-    ]
-  },
-  {
-    "name": "Meguca",
-    "url": "https://meguca.org/all/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "doushio",
-      "meguca"
     ]
   },
   {
@@ -3251,18 +3138,6 @@
     ],
     "software": [
       "wakaba"
-    ]
-  },
-  {
-    "name": "miyarei.org/AmericanSuperHeroes/",
-    "url": "http://miyarei.org/AmericanSuperHeroes/",
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat"
     ]
   },
   {
@@ -3415,13 +3290,6 @@
     ],
     "software": [
       "nanochan"
-    ]
-  },
-  {
-    "name": "naturalpeople.wiki",
-    "url": "https://naturalpeople.wiki/communicate/",
-    "language": [
-      "en"
     ]
   },
   {
@@ -3783,17 +3651,6 @@
     ]
   },
   {
-    "name": "OtakuTalk",
-    "url": "http://otakutalk.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "atbbs",
-      "tinybbs"
-    ]
-  },
-  {
     "name": "otona-t.net",
     "url": "https://otona-t.net/top.html",
     "language": [
@@ -3825,17 +3682,6 @@
       "gazoubbs",
       "futaba",
       "poti-board"
-    ]
-  },
-  {
-    "name": "parrotchan",
-    "url": "http://chan.parrot.coffee/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
     ]
   },
   {
@@ -4063,16 +3909,6 @@
     ]
   },
   {
-    "name": "ree.Social",
-    "url": "https://ree.social/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ]
-  },
-  {
     "name": "Rfch",
     "url": "https://rfch.rocks/",
     "mirrors": [
@@ -4097,17 +3933,6 @@
     "software": [
       "wakaba"
     ]
-  },
-  {
-    "name": "Ronery",
-    "url": "https://ronery.me/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "lynxchan"
-    ],
-    "boardlist": "https://ronery.me/index.json"
   },
   {
     "name": "Rupattelu",
@@ -4336,16 +4161,6 @@
     ]
   },
   {
-    "name": "skeptic.community",
-    "url": "https://skeptic.community/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyib"
-    ]
-  },
-  {
     "name": "SlugChan",
     "url": "http://possumstu.org:8080/",
     "language": [
@@ -4422,18 +4237,6 @@
       "gazoubbs",
       "futaba",
       "pixmicat"
-    ]
-  },
-  {
-    "name": "Spookychan",
-    "url": "https://spookychan.xyz/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "lainchan"
     ]
   },
   {
@@ -4746,17 +4549,6 @@
     ]
   },
   {
-    "name": "TSUKICHAN",
-    "url": "https://boards.systemspace.link/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "Tumbach",
     "url": "https://tumba.ch/",
     "mirrors": [
@@ -5001,17 +4793,6 @@
     ],
     "software": [
       "cursedboard"
-    ]
-  },
-  {
-    "name": "Wiichan",
-    "url": "https://wiichan.uwu.mx/homewii.html",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
     ]
   },
   {
