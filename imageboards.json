@@ -4394,7 +4394,13 @@
   },
   {
     "name": "Syn-ch",
-    "url": "https://syn-ch.ru/",
+    "url": "https://syn-ch.org/",
+    "mirrors": [
+      "https://syn-ch.org/",
+      "https://syn-ch.com/",
+      "https://syn-ch.ru/",
+      "https://syn-ch.com.ua/"
+    ],
     "language": [
       "ru"
     ],
