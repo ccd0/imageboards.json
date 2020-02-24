@@ -4726,6 +4726,21 @@
     ]
   },
   {
+    "name": "vichan.xyz",
+    "url": "https://vichan.xyz/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ],
+    "mirrors": [
+      "https://vichan.xyz/",
+      "http://vichanfavx2bvp6eip5b2qudhylxtfnbbdawxa6wwrq7raflf5tuvnyd.onion/"
+    ]
+  },
+  {
     "name": "vocaloid.orzhk.net",
     "url": "http://vocaloid.orzhk.net/",
     "language": [
