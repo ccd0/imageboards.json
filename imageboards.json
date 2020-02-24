@@ -2918,7 +2918,9 @@
     ],
     "software": [
       "tinyboard",
-      "vichan"
+      "vichan",
+      "infinity",
+      "openib"
     ],
     "mirrors": [
       "https://lolifox.cc/",
