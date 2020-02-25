@@ -502,6 +502,20 @@
     ]
   },
   {
+    "name": "2channel.moe",
+    "url": "https://2channel.moe/",
+    "language": [
+      "ru"
+    ],
+    "mirrors": [
+      "https://2channel.moe/",
+      "http://2channel5xx5xchx.onion/",
+      "http://2chmoedsvicn7yspstpkyabkemgsl42johgjkbjknsekra7yakfegrid.onion/",
+      "http://2channel.i2p/",
+      "http://wirxk4kulmd7v6qmttltnu5nx2vtchzvrg7ewocejrvdjcaiv5sq.b32.i2p/"
+    ]
+  },
+  {
     "name": "2draw.me",
     "url": "https://2draw.me/d/",
     "language": [
@@ -999,6 +1013,10 @@
   {
     "name": "Alokal",
     "url": "https://alokal.eu/",
+    "mirrors": [
+      "https://alokal.eu/",
+      "http://alokalaou53jmgum.onion/"
+    ],
     "language": [
       "sk"
     ],
@@ -2471,7 +2489,8 @@
       "https://rodentchan.danwin1210.me/",
       "https://infinity-san.danwin1210.me/",
       "http://jx5occy7c3f7euxcs4orjdlomqmtrmirk3faer2av6jy7xuizv6dyfid.onion/",
-      "http://i7m2kl7tmelclcye.onion/"
+      "http://i7m2kl7tmelclcye.onion/",
+      "http://pwpkileorhbykq3qb4ltp27pa3iagxvzn7rbb3rl5j67rtcyc5o62vyd.onion/"
     ],
     "language": [
       "en"
@@ -3423,7 +3442,12 @@
   },
   {
     "name": "Neochan",
-    "url": "https://neochan.ru/",
+    "url": "https://neochan.net/",
+    "mirrors": [
+      "https://neochan.net/",
+      "https://neochan.ru/",
+      "http://neochansu4cegu4o.onion/"
+    ],
     "language": [
       "ru"
     ],
@@ -3534,7 +3558,8 @@
     "url": "http://cheez4ak47dsoao5nwafhzh4rshtds4kxoe4iu3vprwdbtiajymmf5id.onion/",
     "mirrors": [
       "http://cheez4ak47dsoao5nwafhzh4rshtds4kxoe4iu3vprwdbtiajymmf5id.onion/",
-      "http://g7c54d4b7yva4ktpbaabqeu2yx6axalh4gevb44afpbwm23xuuya.b32.i2p/"
+      "http://g7c54d4b7yva4ktpbaabqeu2yx6axalh4gevb44afpbwm23xuuya.b32.i2p/",
+      "http://bananasbdkj2y7xe.onion/b/"
     ],
     "language": [
       "en"
