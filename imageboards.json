@@ -3790,16 +3790,6 @@
     ]
   },
   {
-    "name": "Overchan дискуссии",
-    "url": "http://12ch.ru/board/d/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "kusaba"
-    ]
-  },
-  {
     "name": "OwlChan",
     "url": "http://owlchan.ru/",
     "language": [
