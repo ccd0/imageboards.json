@@ -65,6 +65,8 @@ This is a list of the software codes used in imageboard.json along with links to
 - atbbs - https://sourceforge.net/projects/atbbs/
     - tinybbs - https://github.com/r04r/minichan
 - ochiba - http://ochiba.x-maru.org/
+- 0chan - https://github.com/klkvsk/0chan
+    - ochko - https://gitgud.io/devarped/ochko
 - bbsnote - http://web.archive.org/web/20050116004959/http://wondercatstudio.com:80/html/download.html
 - cursedboard - https://github.com/whisperchan/cursedboard / https://github.com/BigSlice/cursedboard
 - emanon - https://github.com/oprel/emanon
@@ -81,8 +83,6 @@ This is a list of the software codes used in imageboard.json along with links to
     - hanabira - used by http://dobrochan.com/ (unpublished)
 - supremereality - https://github.com/8b2eef7c901269e8e9a6ec532d57b6b1/supremereality
 - wakarimasen - https://github.com/weedy/wakarimasen
-- 0chan - https://github.com/klkvsk/0chan
-    - ochko - https://gitgud.io/devarped/ochko
 - 4kev - https://github.com/federicoolivo/4kev
 - ace-rx - https://github.com/svmn/ace-rx
 - anonib-3d - https://github.com/AlexKrunch/AnonIB-3D
