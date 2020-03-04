@@ -1554,16 +1554,6 @@
     ]
   },
   {
-    "name": "Christ Channel",
-    "url": "https://christchannel.xyz/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ]
-  },
-  {
     "name": "Cirno",
     "url": "https://chiru.no/home.js",
     "language": [
