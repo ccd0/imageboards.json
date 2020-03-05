@@ -2999,14 +2999,13 @@
   },
   {
     "name": "Lost Bobbl IB",
-    "url": "http://lostbobbl.com/ib/",
+    "url": "http://lostbobbl.com/ib/b/",
     "language": [
       "en"
     ],
     "software": [
       "tinyboard",
-      "vichan",
-      "lainchan"
+      "vichan"
     ]
   },
   {
