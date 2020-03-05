@@ -356,6 +356,17 @@
     ]
   },
   {
+    "name": "128chan",
+    "url": "http://px5cfy62vw4ny5ym37e6nxtt6hial7vwqlabvcqarqiiscnps26rlzad.onion/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyib",
+      "desuib"
+    ]
+  },
+  {
     "name": "1436chan",
     "url": "gopher://khzae.net/1/chan",
     "mirrors": [
