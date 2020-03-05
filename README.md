@@ -17,9 +17,10 @@ The "mirrors" field is an array in the following format:
 * Subsequent elements are what the first element should be replaced with to reach corresponding pages on the site's mirrors.
 
 Other lists that may be of interest:
-* https://allchans.org/
-* http://www.1ch.us/
+* https://bvffalo.land/
 * http://overchan.net/
+* http://www.1ch.us/
+* https://allchans.org/
 * http://overchan.ru/
 * https://0chan.one/catalog/ (also available in JSON: https://0chan.one/chans/chans.json)
 * http://metatorjq65tshfy.onion/catalog/ (also available in JSON: http://metatorjq65tshfy.onion/chans/chans.json)
