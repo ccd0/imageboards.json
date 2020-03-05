@@ -2592,6 +2592,13 @@
     ]
   },
   {
+    "name": "KARABOĞA",
+    "url": "https://karabo.ga/",
+    "language": [
+      "en"
+    ]
+  },
+  {
     "name": "karlsland.net",
     "url": "http://www.karlsland.net/sw/",
     "boardlistpages": [
@@ -3917,6 +3924,16 @@
     "software": [
       "tinyboard",
       "vichan"
+    ]
+  },
+  {
+    "name": "PookaChan",
+    "url": "https://altfur.net/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyib"
     ]
   },
   {
