@@ -899,7 +899,8 @@
       "vichan",
       "infinity",
       "openib"
-    ]
+    ],
+    "boardlist": "https://9san.ch/boards.json"
   },
   {
     "name": "9inches.org",
@@ -3354,7 +3355,8 @@
       "tinyboard",
       "vichan",
       "infinity"
-    ]
+    ],
+    "boardlist": "https://liaison.nagatoyuki.org/boards.json"
   },
   {
     "name": "nanochan",
