@@ -4734,7 +4734,8 @@
       "tinyboard",
       "vichan",
       "npfchan"
-    ]
+    ],
+    "boardlist": "https://tvch.moe/webring.json"
   },
   {
     "name": "twchan",
