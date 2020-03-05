@@ -3733,6 +3733,20 @@
     ]
   },
   {
+    "name": "Openchan",
+    "url": "https://openchan.pro/",
+    "mirrors": [
+      "https://openchan.pro/",
+      "http://opench5rqe3yqenhg6ny3korcwi7guntecjxjhcxhnkbz7vigjdjf2yd.onion/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ]
+  },
+  {
     "name": "OPERATORchan",
     "url": "http://operatorchan.org/",
     "language": [
