@@ -522,15 +522,15 @@
   {
     "name": "2channel.moe",
     "url": "https://2channel.moe/",
-    "language": [
-      "ru"
-    ],
     "mirrors": [
       "https://2channel.moe/",
       "http://2channel5xx5xchx.onion/",
       "http://2chmoedsvicn7yspstpkyabkemgsl42johgjkbjknsekra7yakfegrid.onion/",
       "http://2channel.i2p/",
       "http://wirxk4kulmd7v6qmttltnu5nx2vtchzvrg7ewocejrvdjcaiv5sq.b32.i2p/"
+    ],
+    "language": [
+      "ru"
     ]
   },
   {
@@ -2978,6 +2978,10 @@
   {
     "name": "Lolifox",
     "url": "https://lolifox.cc/",
+    "mirrors": [
+      "https://lolifox.cc/",
+      "http://wn3ghyuon5eaqyxi7yauald3d53gsxrkanzpu2qdyc54vobif2qutsid.onion/"
+    ],
     "language": [
       "ru",
       "en",
@@ -2988,10 +2992,6 @@
       "vichan",
       "infinity",
       "openib"
-    ],
-    "mirrors": [
-      "https://lolifox.cc/",
-      "http://wn3ghyuon5eaqyxi7yauald3d53gsxrkanzpu2qdyc54vobif2qutsid.onion/"
     ],
     "boardlist": "https://lolifox.cc/boards.json"
   },
@@ -3722,15 +3722,15 @@
   {
     "name": "Omnichan",
     "url": "https://omnichan.net/",
+    "mirrors": [
+      "https://omnichan.net/",
+      "http://omnichqqnol2hc5nlnz7zkektki4bobiuxxidcmihppq7hnzwieu6gqd.onion/"
+    ],
     "language": [
       "en"
     ],
     "software": [
       "lynxchan"
-    ],
-    "mirrors": [
-      "https://omnichan.net/",
-      "http://omnichqqnol2hc5nlnz7zkektki4bobiuxxidcmihppq7hnzwieu6gqd.onion/"
     ]
   },
   {
@@ -4286,16 +4286,16 @@
   {
     "name": "sick.bike BBS",
     "url": "gopher://bbs.sick.bike/1/70chan",
+    "mirrors": [
+      "gopher://bbs.sick.bike/",
+      "https://bbs.sick.bike/?"
+    ],
     "language": [
       "en"
     ],
     "software": [
       "gopherchan",
       "70chan"
-    ],
-    "mirrors": [
-      "gopher://bbs.sick.bike/",
-      "https://bbs.sick.bike/?"
     ]
   },
   {
@@ -4877,16 +4877,16 @@
   {
     "name": "vichan.xyz",
     "url": "https://vichan.xyz/",
+    "mirrors": [
+      "https://vichan.xyz/",
+      "http://vichanfavx2bvp6eip5b2qudhylxtfnbbdawxa6wwrq7raflf5tuvnyd.onion/"
+    ],
     "language": [
       "en"
     ],
     "software": [
       "tinyboard",
       "vichan"
-    ],
-    "mirrors": [
-      "https://vichan.xyz/",
-      "http://vichanfavx2bvp6eip5b2qudhylxtfnbbdawxa6wwrq7raflf5tuvnyd.onion/"
     ]
   },
   {
