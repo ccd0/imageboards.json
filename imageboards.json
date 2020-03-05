@@ -391,6 +391,10 @@
   {
     "name": "16chan.xyz",
     "url": "https://16chan.xyz/",
+    "mirrors": [
+      "https://16chan.xyz/",
+      "http://47s7obvdgdpj6fkc.onion/"
+    ],
     "language": [
       "en"
     ],
