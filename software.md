@@ -47,12 +47,12 @@ This is a list of the software codes used in imageboard.json along with links to
     - wakaba++ - described at https://www.lurkmore.com/view/Wakaba++ but appears to be unpublished
     - phutaba - https://github.com/ernstchan/phutaba
     - taimaba - used by https://420chan.org/
+- tinyib - https://gitlab.com/tslocum/tinyib
+    - desuib - https://rodentchan.danwin1210.me/script/
 - doushio - https://github.com/lalcmellkmal/doushio
     - meguca - https://github.com/bakape/meguca
         - cutechan - https://github.com/cutechan/cutechan
         - tetuca - https://github.com/nekto-nekto/tetuca
-- tinyib - https://gitlab.com/tslocum/tinyib
-    - desuib - https://rodentchan.danwin1210.me/script/
 - joyfulnote - http://www.kent-web.com/bbs/joyful.html
     - joyful2ch - http://falcon.s16.xrea.com/
         - gakinko - used by http://www.gakinko.net/
