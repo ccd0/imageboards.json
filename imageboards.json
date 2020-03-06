@@ -898,7 +898,8 @@
       "tinyboard",
       "vichan",
       "infinity",
-      "openib"
+      "openib",
+      "reloaded"
     ],
     "boardlist": "https://9san.ch/boards.json"
   },
