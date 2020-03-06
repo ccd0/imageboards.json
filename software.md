@@ -10,7 +10,6 @@ This is a list of the software codes used in imageboard.json along with links to
                 - reloaded - https://github.com/9san/OpenIB-Reloaded
         - lainchan - https://github.com/lainchan/lainchan
             - winterchan - https://code.acr.moe/kazari/winterchan
-        - arisuchan - https://github.com/arisu-dev/arisuchan
         - fukuro - https://github.com/twiforce/fukuro
         - viqa - https://github.com/ECHibiki/ViQa
     - ponychan - https://bitbucket.org/ponychan/ponychan-tinyboard
