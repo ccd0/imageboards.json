@@ -1781,6 +1781,20 @@
     ]
   },
   {
+    "name": "DolphinChan",
+    "url": "https://oceanchan.xyz/",
+    "mirrors": [
+      "https://oceanchan.xyz/",
+      "http://ocnchantkkzisixl.onion/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ]
+  },
+  {
     "name": "Doushio",
     "url": "https://doushio.com/moe/",
     "language": [
