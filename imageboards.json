@@ -538,6 +538,17 @@
     ]
   },
   {
+    "name": "2chen",
+    "url": "https://2chen.org/all/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "doushio",
+      "meguca"
+    ]
+  },
+  {
     "name": "2draw.me",
     "url": "https://2draw.me/d/",
     "language": [
