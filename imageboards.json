@@ -179,17 +179,6 @@
     ]
   },
   {
-    "name": "幸运草",
-    "url": "https://heiban.me/",
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "lynxchan"
-    ],
-    "boardlist": "https://heiban.me/index.json"
-  },
-  {
     "name": "熊の穴ツヴァイ",
     "url": "http://kumasange.bbs.fc2.com/",
     "language": [
@@ -442,16 +431,6 @@
     ]
   },
   {
-    "name": "1chan.ru",
-    "url": "https://1chan.ru/news/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "1chan"
-    ]
-  },
-  {
     "name": "22chan",
     "url": "https://22chan.org/",
     "language": [
@@ -481,16 +460,6 @@
     ],
     "software": [
       "tinyboard"
-    ]
-  },
-  {
-    "name": "28chan",
-    "url": "http://186.137.157.226/g/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "makiba"
     ]
   },
   {
@@ -820,16 +789,6 @@
     ]
   },
   {
-    "name": "64chan.me",
-    "url": "https://64chan.me/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ]
-  },
-  {
     "name": "70chan",
     "url": "gopher://gopher.su/1/board",
     "language": [
@@ -942,16 +901,6 @@
     ]
   },
   {
-    "name": "Abandon Fun",
-    "url": "https://abandon.fun/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ]
-  },
-  {
     "name": "abma.x-maru.org/images/",
     "url": "http://abma.x-maru.org/images/",
     "language": [
@@ -1037,14 +986,6 @@
     ],
     "software": [
       "ololord.js"
-    ]
-  },
-  {
-    "name": "allo.li",
-    "url": "https://allo.li/",
-    "language": [
-      "et",
-      "ru"
     ]
   },
   {
@@ -1277,16 +1218,6 @@
     "software": [
       "tinyboard",
       "vichan"
-    ]
-  },
-  {
-    "name": "bbs.shiptoasting.com",
-    "url": "ssh://nanashi:anon@bbs.shiptoasting.com",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "cursedboard"
     ]
   },
   {
@@ -1532,16 +1463,6 @@
     ]
   },
   {
-    "name": "Chanweb",
-    "url": "http://chanweb.info/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "wakaba"
-    ]
-  },
-  {
     "name": "chaos.fm",
     "url": "https://chaos.fm/",
     "language": [
@@ -1570,17 +1491,6 @@
     "language": [
       "en"
     ]
-  },
-  {
-    "name": "Cirno",
-    "url": "https://chiru.no/home.js",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ],
-    "boardlist": "https://chiru.no/index.json"
   },
   {
     "name": "clooven.com",
@@ -1708,18 +1618,6 @@
     ],
     "software": [
       "tinyib"
-    ]
-  },
-  {
-    "name": "Depreschan",
-    "url": "https://depreschan.ovh/",
-    "language": [
-      "en",
-      "ru"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
     ]
   },
   {
@@ -2086,21 +1984,6 @@
       "lynxchan"
     ],
     "boardlist": "https://fch.bet/webring.json"
-  },
-  {
-    "name": "Freech",
-    "url": "https://freech.net/",
-    "mirrors": [
-      "https://freech.net/",
-      "https://infodox.net/",
-      "http://6ayog62ilt2kkpeuk3mq2t7ijkgzrkeetkdlifxrrnotlh4wlnmh4oqd.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ]
   },
   {
     "name": "Freech Club",
@@ -2970,16 +2853,6 @@
     ]
   },
   {
-    "name": "LibreLand",
-    "url": "https://libreland.xyz/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ]
-  },
-  {
     "name": "Lizardchan",
     "url": "https://lizchan.xyz/",
     "language": [
@@ -3189,20 +3062,6 @@
     ]
   },
   {
-    "name": "Mewch.xyz",
-    "url": "https://mewch.xyz/",
-    "mirrors": [
-      "https://mewch.xyz/",
-      "http://d7bzi5wv4htflbcesqgzoa2ajro2wlrtfuuaft6sahrumvx7buj7w5id.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ]
-  },
-  {
     "name": "Minichan",
     "url": "https://minichan.org/",
     "language": [
@@ -3318,17 +3177,6 @@
     "software": [
       "tinyib"
     ]
-  },
-  {
-    "name": "Moonchan",
-    "url": "https://moonchan.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ],
-    "boardlist": "https://moonchan.org/index.json"
   },
   {
     "name": "more-xxx.net",
@@ -4772,17 +4620,6 @@
     ]
   },
   {
-    "name": "TuTako",
-    "url": "https://tutako.com/vladi/",
-    "language": [
-      "es"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "tuzach.in",
     "url": "https://tuzach.in/",
     "language": [
@@ -4930,18 +4767,6 @@
     "software": [
       "tinyboard",
       "vichan"
-    ]
-  },
-  {
-    "name": "vocaloid.orzhk.net",
-    "url": "http://vocaloid.orzhk.net/",
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat"
     ]
   },
   {
