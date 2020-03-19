@@ -1087,7 +1087,11 @@
   },
   {
     "name": "Apachan",
-    "url": "https://apachan.us/",
+    "url": "http://apachan.us/",
+    "mirrors": [
+      "http://apachan.us/",
+      "http://apachan.win/"
+    ],
     "language": [
       "ru"
     ],
