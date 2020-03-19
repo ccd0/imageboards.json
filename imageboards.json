@@ -796,6 +796,16 @@
     ]
   },
   {
+    "name": "64chan Bunker",
+    "url": "http://64chan.eu3.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyib"
+    ]
+  },
+  {
     "name": "64chan.heliohost.org",
     "url": "http://64chan.heliohost.org/",
     "language": [
