@@ -695,14 +695,6 @@
     ]
   },
   {
-    "name": "tereve",
-    "url": "http://46.19.36.58/",
-    "language": [
-      "fi",
-      "en"
-    ]
-  },
-  {
     "name": "4cels",
     "url": "http://4cels.xyz/",
     "language": [
@@ -4576,6 +4568,14 @@
     ],
     "software": [
       "doushio"
+    ]
+  },
+  {
+    "name": "tereve",
+    "url": "http://46.19.36.58/",
+    "language": [
+      "fi",
+      "en"
     ]
   },
   {
