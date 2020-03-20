@@ -2102,6 +2102,20 @@
     ]
   },
   {
+    "name": "Ghostchan",
+    "url": "https://ghostchan.xyz/",
+    "mirrors": [
+      "https://ghostchan.xyz/",
+      "http://ghostglom23msi42asdjgdl2zurv3dkjhbuz64ft7ctrj472d3hn3uqd.onion/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ]
+  },
+  {
     "name": "GirlsChannel",
     "url": "https://girlschannel.net/",
     "language": [
