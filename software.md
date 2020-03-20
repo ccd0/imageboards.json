@@ -104,7 +104,6 @@ This is a list of the software codes used in imageboard.json along with links to
 - lapis-chan - https://github.com/karai17/lapis-chan/
 - livechan - https://github.com/emgram769/livechan-js
 - makaba - used by https://2ch.hk/
-- makiba - https://github.com/maki64/makiba
 - maniwani - https://github.com/DangerOnTheRanger/maniwani
 - matsuri - used by https://kyber.io/matsuri
 - mayuri - used by https://horochan.ru/
