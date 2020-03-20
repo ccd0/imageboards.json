@@ -2740,17 +2740,6 @@
     ]
   },
   {
-    "name": "Krautplausch",
-    "url": "https://krautplausch.hopto.org/chan/b/",
-    "language": [
-      "de"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "Kurisu;Imageboard",
     "url": "https://kurisa.ch/",
     "language": [
