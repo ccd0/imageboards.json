@@ -32,8 +32,6 @@ This is a list of the software codes used in imageboard.json along with links to
         - kenjiweb - http://web.archive.org/web/20071013052850/http://www.kenjiweb.com/ (downloads not archived)
         - monaca - http://akahuku.dw.land.to/monaca/ (dead)
         - poti-board - http://web.archive.org/web/20170707091918/http://www.punyu.net/php/oekaki.php (downloads not archived)
-- lynxchan - https://gitgud.io/LynxChan/LynxChan
-    - infinitynow - https://gitgud.io/groups/InfinityNow
 - kusaba - https://github.com/tslocum/kusaba
     - kusabax - http://kusabax.cultnet.net/
         - instant-0chan - https://gitgud.io/devarped/instant-0chan
@@ -43,6 +41,8 @@ This is a list of the software codes used in imageboard.json along with links to
         - ponyach.ru - https://github.com/acilsd/ponyach.ru
     - serissa - http://web.archive.org/web/20090222195838/http://www.serissa.org:80/ (downloads not archived)
         - fbe-410 - https://bitbucket.org/Therapont/fbe-410
+- lynxchan - https://gitgud.io/LynxChan/LynxChan
+    - infinitynow - https://gitgud.io/groups/InfinityNow
 - wakaba - https://wakaba.c3.cx/s/web/wakaba_kareha
     - wakaba++ - described at https://www.lurkmore.com/view/Wakaba++ but appears to be unpublished
     - phutaba - https://github.com/ernstchan/phutaba
@@ -60,15 +60,14 @@ This is a list of the software codes used in imageboard.json along with links to
     - jn+yyb - http://w-space.net/subcon/cgi.htm
 - kareha - https://wakaba.c3.cx/s/web/wakaba_kareha
     - bakareha - https://github.com/f2d/bakareha
-- 1chan - https://github.com/jlbyrey/1chan
-    - pierwszykanal - https://gitgud.io/devarped/pierwszykanal
 - atbbs - https://sourceforge.net/projects/atbbs/
     - tinybbs - https://github.com/r04r/minichan
 - ochiba - http://ochiba.x-maru.org/
 - 0chan - https://github.com/klkvsk/0chan
     - ochko - https://gitgud.io/devarped/ochko
+- 1chan - https://github.com/jlbyrey/1chan
+    - pierwszykanal - https://gitgud.io/devarped/pierwszykanal
 - bbsnote - http://web.archive.org/web/20050116004959/http://wondercatstudio.com:80/html/download.html
-- cursedboard - https://github.com/whisperchan/cursedboard / https://github.com/BigSlice/cursedboard
 - emanon - https://github.com/oprel/emanon
 - foolfuuka - https://github.com/FoolCode/FoolFuuka
 - gopherchan - used by gopher://port70.net/1chan
@@ -76,7 +75,8 @@ This is a list of the software codes used in imageboard.json along with links to
 - jschan - https://github.com/fatchan/jschan/
 - mitsuba - https://github.com/MitsubaBBS/Mitsuba
     - haruko - https://gitgud.io/parley/Haruko
-- nntpchan - https://github.com/majestrate/nntpchan
+- nanochan - http://nanochanqwrwtmamtnhkfwbbcducc4i62ciss4byo6f3an5qdkhjngid.onion/source.lua
+    - picochan - http://picochanrpzlemllkdr46tilw7b4q3bv5ipetkmty37fuqq4hjfnhwad.onion/
 - ololord.js - https://github.com/ololoepepe/ololord.js
     - tumbach - https://github.com/rngnrs/tumbach
 - orphereus - https://orphereus.anoma.ch/
@@ -90,6 +90,7 @@ This is a list of the software codes used in imageboard.json along with links to
 - atob - https://github.com/atobs/atob
 - blockchan - https://github.com/milezzz/BlockChan
 - brian - used by https://britfa.gs/
+- cursedboard - https://github.com/whisperchan/cursedboard / https://github.com/BigSlice/cursedboard
 - dtn - used by https://www.imgbbs.dtn.jp/
 - erischan - http://erischscwh5h74f7tcosaoq3722lpx5u4pxtnww3q5rbonvxjo2hiuid.onion/source.tar.gz
 - erlach - https://github.com/m-2k/erlach
@@ -109,12 +110,11 @@ This is a list of the software codes used in imageboard.json along with links to
 - mayuri - used by https://horochan.ru/
 - mei - https://github.com/lulalala/mei
 - monaba - https://github.com/ahushh/Monaba
-- nanochan - http://nanochanqwrwtmamtnhkfwbbcducc4i62ciss4byo6f3an5qdkhjngid.onion/source.lua
-    - picochan - http://picochanrpzlemllkdr46tilw7b4q3bv5ipetkmty37fuqq4hjfnhwad.onion/
 - neboard5 - https://bitbucket.org/neko259/neboard5/src/master/
 - negoto - https://github.com/steinuil/negoto
 - neoboard - https://github.com/neochaner/neochan
 - nerve - https://github.com/codingneko/nerve
+- nntpchan - https://github.com/majestrate/nntpchan
 - overmind - used by http://kanal4.org/
 - purplish - https://github.com/Shirakumo/purplish
 - rb-79 - https://repo.or.cz/rb-79.git
