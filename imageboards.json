@@ -3447,22 +3447,6 @@
     "boardlist": "https://2hu-ch.org/boards.json"
   },
   {
-    "name": "nntpchan web.oniichan.onion",
-    "url": "http://cheez4ak47dsoao5nwafhzh4rshtds4kxoe4iu3vprwdbtiajymmf5id.onion/",
-    "mirrors": [
-      "http://cheez4ak47dsoao5nwafhzh4rshtds4kxoe4iu3vprwdbtiajymmf5id.onion/",
-      "http://g7c54d4b7yva4ktpbaabqeu2yx6axalh4gevb44afpbwm23xuuya.b32.i2p/",
-      "http://bananasbdkj2y7xe.onion/b/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "nntpchan"
-    ],
-    "boardlist": "http://cheez4ak47dsoao5nwafhzh4rshtds4kxoe4iu3vprwdbtiajymmf5id.onion/boards.json"
-  },
-  {
     "name": "NoirChan",
     "url": "https://noirchan.com/",
     "language": [
