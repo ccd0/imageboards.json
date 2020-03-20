@@ -111,6 +111,7 @@ This is a list of the software codes used in imageboard.json along with links to
 - mei - https://github.com/lulalala/mei
 - monaba - https://github.com/ahushh/Monaba
 - nanochan - http://nanochanqwrwtmamtnhkfwbbcducc4i62ciss4byo6f3an5qdkhjngid.onion/source.lua
+    - picochan - http://picochanrpzlemllkdr46tilw7b4q3bv5ipetkmty37fuqq4hjfnhwad.onion/
 - neboard5 - https://bitbucket.org/neko259/neboard5/src/master/
 - negoto - https://github.com/steinuil/negoto
 - neoboard - https://github.com/neochaner/neochan

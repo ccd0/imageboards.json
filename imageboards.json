@@ -3253,6 +3253,17 @@
     ]
   },
   {
+    "name": "nanochangkn3dxfkr5prfw76hiq3qpjyzr44m4zxbwub5f4kditlufid.onion",
+    "url": "http://nanochangkn3dxfkr5prfw76hiq3qpjyzr44m4zxbwub5f4kditlufid.onion/pico",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "nanochan",
+      "picochan"
+    ]
+  },
+  {
     "name": "Neboard X",
     "url": "https://neboard.me/",
     "mirrors": [
@@ -3664,6 +3675,17 @@
     "software": [
       "gazoubbs",
       "futaba"
+    ]
+  },
+  {
+    "name": "Outerchan",
+    "url": "https://outerch.ga/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
