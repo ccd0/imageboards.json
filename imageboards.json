@@ -2106,6 +2106,16 @@
     ]
   },
   {
+    "name": "GenieChan",
+    "url": "https://geniechan.xyz/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ]
+  },
+  {
     "name": "Ghostchan",
     "url": "https://ghostchan.xyz/",
     "mirrors": [
