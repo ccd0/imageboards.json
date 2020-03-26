@@ -1121,16 +1121,6 @@
     ]
   },
   {
-    "name": "Astrochan",
-    "url": "https://astrochan.net/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ]
-  },
-  {
     "name": "Atenszon",
     "url": "https://atenszon.net/b/",
     "language": [
@@ -4293,6 +4283,17 @@
       "lynxchan"
     ],
     "boardlist": "https://spacechan.xyz/index.json"
+  },
+  {
+    "name": "Spacestro",
+    "url": "http://spacestro.cba.pl/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
   },
   {
     "name": "spg-web.sytes.net/PasteChart/insect/",
