@@ -4495,6 +4495,18 @@
     ]
   },
   {
+    "name": "The Darkness International Imageboard",
+    "url": "http://darkness.epizy.com/",
+    "language": [
+      "ru",
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Time-Telling Fortress",
     "url": "http://board.seize.ch/fortress/front",
     "language": [
