@@ -1799,6 +1799,20 @@
     "boardlist": "https://2ch.hk/boards.json"
   },
   {
+    "name": "Edenchan",
+    "url": "https://edenchan.net/",
+    "mirrors": [
+      "https://edenchan.net/",
+      "http://edench7c2gh6ncy24sy72ur6nbikyceiw3c5u6rjrja2lwffvisfipyd.onion/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ]
+  },
+  {
     "name": "Endchan",
     "url": "https://endchan.net/",
     "mirrors": [
