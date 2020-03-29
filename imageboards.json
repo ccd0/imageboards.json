@@ -718,9 +718,6 @@
   {
     "name": "4feuilles.org",
     "url": "https://4feuilles.org/",
-    "mirrors": [
-      "https://neonroot.net/"
-    ],
     "language": [
       "fr"
     ],
