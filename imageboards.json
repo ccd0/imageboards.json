@@ -716,6 +716,23 @@
     ]
   },
   {
+    "name": "4feuilles.org",
+    "url": "https://4feuilles.org/",
+    "mirrors": [
+      "https://neonroot.net/"
+    ],
+    "language": [
+      "fr"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby",
+      "fikaba",
+      "4feuilles"
+    ]
+  },
+  {
     "name": "/4keks/",
     "url": "https://4keks.org/4keks/",
     "mirrors": [
