@@ -2971,6 +2971,10 @@
   {
     "name": "lynxchan.net",
     "url": "https://lynxchan.net/",
+    "mirrors": [
+      "https://lynxchan.net/",
+      "http://lynxch6qp3dsr54olaeizko7vdz4t4w74lpdh2ipoaokl2p5jmdbccqd.onion/"
+    ],
     "language": [
       "en"
     ],
