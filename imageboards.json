@@ -2969,6 +2969,16 @@
     ]
   },
   {
+    "name": "lynxchan.net",
+    "url": "https://lynxchan.net/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ]
+  },
+  {
     "name": "Magic",
     "url": "https://gensou.chakai.org/magic/",
     "language": [
