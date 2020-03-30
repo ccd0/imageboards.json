@@ -22,8 +22,8 @@ This is a list of the software codes used in imageboard.json along with links to
             - siokara-gchan - http://web.archive.org/web/20140220052910/http://www42.atpages.jp/gscripts/ (many pages not archived)
         - futallaby - https://www.1chan.net/futallaby/
             - fikaba - https://github.com/knarka/fikaba
-                - 4feuilles - https://github.com/MrBn100ful/fikaba-4feuilles.org
                 - sakomoto - https://github.com/rileyjamesbell/sakomoto
+                - 4feuilles - https://github.com/MrBn100ful/fikaba-4feuilles.org
             - pihaba - used by https://dva-ch.net/
             - saguaro - http://saguaroimgboard.tk/
             - yotsuba - used by https://www.4chan.org/ (unpublished)
@@ -33,6 +33,8 @@ This is a list of the software codes used in imageboard.json along with links to
         - kenjiweb - http://web.archive.org/web/20071013052850/http://www.kenjiweb.com/ (downloads not archived)
         - monaca - http://akahuku.dw.land.to/monaca/ (dead)
         - poti-board - http://web.archive.org/web/20170707091918/http://www.punyu.net/php/oekaki.php (downloads not archived)
+- lynxchan - https://gitgud.io/LynxChan/LynxChan
+    - infinitynow - https://gitgud.io/groups/InfinityNow
 - kusaba - https://github.com/tslocum/kusaba
     - kusabax - http://kusabax.cultnet.net/
         - instant-0chan - https://gitgud.io/devarped/instant-0chan
@@ -42,8 +44,6 @@ This is a list of the software codes used in imageboard.json along with links to
         - ponyach.ru - https://github.com/acilsd/ponyach.ru
     - serissa - http://web.archive.org/web/20090222195838/http://www.serissa.org:80/ (downloads not archived)
         - fbe-410 - https://bitbucket.org/Therapont/fbe-410
-- lynxchan - https://gitgud.io/LynxChan/LynxChan
-    - infinitynow - https://gitgud.io/groups/InfinityNow
 - wakaba - https://wakaba.c3.cx/s/web/wakaba_kareha
     - wakaba++ - described at https://www.lurkmore.com/view/Wakaba++ but appears to be unpublished
     - phutaba - https://github.com/ernstchan/phutaba
