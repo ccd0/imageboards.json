@@ -8,6 +8,7 @@ This is a list of the software codes used in imageboard.json along with links to
         - infinity - https://github.com/ctrlcctrlv/infinity
             - openib - https://github.com/OpenIB/OpenIB
                 - reloaded - https://github.com/9san/OpenIB-Reloaded
+            - neoboard - https://github.com/neochaner/neochan
         - lainchan - https://github.com/lainchan/lainchan
             - winterchan - https://code.acr.moe/kazari/winterchan
         - fukuro - https://github.com/twiforce/fukuro
@@ -113,7 +114,6 @@ This is a list of the software codes used in imageboard.json along with links to
 - monaba - https://github.com/ahushh/Monaba
 - neboard5 - https://bitbucket.org/neko259/neboard5/src/master/
 - negoto - https://github.com/steinuil/negoto
-- neoboard - https://github.com/neochaner/neochan
 - nerve - https://github.com/codingneko/nerve
 - nntpchan - https://github.com/majestrate/nntpchan
 - overmind - used by http://kanal4.org/

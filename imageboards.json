@@ -3376,6 +3376,9 @@
       "ru"
     ],
     "software": [
+      "tinyboard",
+      "vichan",
+      "infinity",
       "neoboard"
     ]
   },
