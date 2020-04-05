@@ -779,6 +779,16 @@
     ]
   },
   {
+    "name": "64chan",
+    "url": "https://64ch.net/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ]
+  },
+  {
     "name": "64chan Bunker",
     "url": "http://64chan.eu3.org/",
     "language": [
@@ -4030,6 +4040,16 @@
     ],
     "software": [
       "wakaba"
+    ]
+  },
+  {
+    "name": "ronery.xyz",
+    "url": "http://ronery.xyz/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
     ]
   },
   {
