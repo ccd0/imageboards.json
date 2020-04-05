@@ -3243,17 +3243,15 @@
     ]
   },
   {
-    "name": "NagatoYuki/Liaison",
-    "url": "https://liaison.nagatoyuki.org/",
+    "name": "NagatoYuki/Éclair",
+    "url": "https://eclair.nagatoyuki.org/",
     "language": [
       "zh"
     ],
     "software": [
       "tinyboard",
-      "vichan",
-      "infinity"
-    ],
-    "boardlist": "https://liaison.nagatoyuki.org/boards.json"
+      "vichan"
+    ]
   },
   {
     "name": "nanochan",
