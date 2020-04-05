@@ -114,8 +114,6 @@ This is a list of the software codes used in imageboard.json along with links to
 - monaba - https://github.com/ahushh/Monaba
 - neboard5 - https://bitbucket.org/neko259/neboard5/src/master/
 - negoto - https://github.com/steinuil/negoto
-- nerve - https://github.com/codingneko/nerve
-- nntpchan - https://github.com/majestrate/nntpchan
 - overmind - used by http://kanal4.org/
 - purplish - https://github.com/Shirakumo/purplish
 - rb-79 - https://repo.or.cz/rb-79.git
