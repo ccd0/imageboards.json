@@ -4750,19 +4750,6 @@
     ]
   },
   {
-    "name": "vch.moe",
-    "url": "https://vch.moe/v/index.html",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "npfchan"
-    ],
-    "boardlist": "https://vch.moe/webring.json"
-  },
-  {
     "name": "vgchan",
     "url": "https://vgchan.org/all/",
     "language": [
