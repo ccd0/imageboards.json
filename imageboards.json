@@ -970,16 +970,6 @@
     ]
   },
   {
-    "name": "aib.kamgifk.ru",
-    "url": "http://aib.kamgifk.ru/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "wakaba"
-    ]
-  },
-  {
     "name": "aletheia.ee",
     "url": "https://aletheia.ee/board/",
     "language": [
@@ -1316,16 +1306,6 @@
       "tinyboard",
       "vichan",
       "lainchan"
-    ]
-  },
-  {
-    "name": "boards.selfishnode.com",
-    "url": "http://boards.selfishnode.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "wakaba"
     ]
   },
   {
@@ -1666,16 +1646,6 @@
     ],
     "software": [
       "wakaba"
-    ]
-  },
-  {
-    "name": "dev.bbs",
-    "url": "http://atbbs.lostsig.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "atbbs"
     ]
   },
   {
@@ -2588,16 +2558,6 @@
     ]
   },
   {
-    "name": "kek.fun",
-    "url": "https://kek.fun/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ]
-  },
-  {
     "name": "Kelvinchan",
     "url": "http://kelvinchan.i2p/",
     "mirrors": [
@@ -3393,16 +3353,6 @@
     ]
   },
   {
-    "name": "Nerve",
-    "url": "https://nerve.codingneko.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "nerve"
-    ]
-  },
-  {
     "name": "ni-chan",
     "url": "http://plnemlsyla6h5t3nuoz2algzmy635ceuendnjwsmhwn2os5fxahshiad.onion/",
     "mirrors": [
@@ -3558,14 +3508,6 @@
       "gazoubbs",
       "futaba",
       "moeren"
-    ]
-  },
-  {
-    "name": "Nullnyan",
-    "url": "https://www.nullnyan.net/",
-    "language": [
-      "ru",
-      "en"
     ]
   },
   {
