@@ -3430,17 +3430,6 @@
     ]
   },
   {
-    "name": "nntpchan 2hu-ch.org",
-    "url": "https://2hu-ch.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "nntpchan"
-    ],
-    "boardlist": "https://2hu-ch.org/boards.json"
-  },
-  {
     "name": "NoirChan",
     "url": "https://noirchan.com/",
     "language": [
