@@ -2727,6 +2727,18 @@
     ]
   },
   {
+    "name": "Konomi",
+    "url": "https://konomi.tw/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "pixmicat"
+    ]
+  },
+  {
     "name": "Kotchan",
     "url": "https://kotchan.org/chat/home",
     "language": [
@@ -2987,6 +2999,7 @@
     "name": "Majeur / World Première",
     "url": "https://majeur.zawarudo.org/",
     "boardlistpages": [
+      "https://konomi.tw/menu.html",
       "https://majeur.zawarudo.org/search.php",
       "https://komica2.net/mainmenu2018.html"
     ],
@@ -4098,6 +4111,9 @@
   {
     "name": "Selene / Collision Mondiale",
     "url": "https://selene.zawarudo.org/",
+    "boardlistpages": [
+      "https://konomi.tw/menu.html"
+    ],
     "language": [
       "zh"
     ],
