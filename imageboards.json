@@ -474,6 +474,18 @@
     ]
   },
   {
+    "name": "27chan",
+    "url": "https://27chan.org/",
+    "language": [
+      "pt"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "npfchan"
+    ]
+  },
+  {
     "name": "2cat",
     "url": "https://2cat.komica.org/",
     "boardlistpages": [
@@ -2206,6 +2218,17 @@
     ]
   },
   {
+    "name": "grimchan",
+    "url": "https://grimchan.xyz/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Gurochan",
     "url": "https://www.gurochan.cx/",
     "language": [
@@ -3914,6 +3937,13 @@
     ]
   },
   {
+    "name": "Project Imageboard",
+    "url": "http://social-imageboard.herokuapp.com/",
+    "language": [
+      "en"
+    ]
+  },
+  {
     "name": "prolikewoah.com",
     "url": "https://prolikewoah.com/animu/",
     "language": [
@@ -4647,6 +4677,17 @@
       "gazoubbs",
       "futaba",
       "pixmicat"
+    ]
+  },
+  {
+    "name": "trchan",
+    "url": "https://www.trchan.org/",
+    "language": [
+      "tr"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
