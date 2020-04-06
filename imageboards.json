@@ -34,6 +34,17 @@
     ]
   },
   {
+    "name": "УЧАН",
+    "url": "https://uchan.org.ua/",
+    "language": [
+      "uk"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Уточан",
     "url": "http://utochan.ru/",
     "language": [
