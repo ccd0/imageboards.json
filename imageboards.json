@@ -356,6 +356,17 @@
     ]
   },
   {
+    "name": "1111chan",
+    "url": "https://1111chan.org/b/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "128chan",
     "url": "http://px5cfy62vw4ny5ym37e6nxtt6hial7vwqlabvcqarqiiscnps26rlzad.onion/",
     "language": [
@@ -3010,6 +3021,17 @@
     ]
   },
   {
+    "name": "Magalichan.org",
+    "url": "https://magalichan.org/",
+    "language": [
+      "pt"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Magic",
     "url": "https://gensou.chakai.org/magic/",
     "language": [
@@ -3200,6 +3222,10 @@
   {
     "name": "mlpol",
     "url": "https://mlpol.net/",
+    "mirrors": [
+      "https://mlpol.net/",
+      "https://npf.mlpol.net/"
+    ],
     "language": [
       "en"
     ],
