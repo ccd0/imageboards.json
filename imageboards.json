@@ -2489,13 +2489,6 @@
     ]
   },
   {
-    "name": "画像掲示板PINKのとら",
-    "url": "http://www.pinknotora.net/main.html",
-    "language": [
-      "ja"
-    ]
-  },
-  {
     "name": "Intern3ts",
     "url": "https://www.intern3ts.com/",
     "language": [
@@ -3803,6 +3796,13 @@
     "software": [
       "tinyboard",
       "vichan"
+    ]
+  },
+  {
+    "name": "画像掲示板PINKのとら",
+    "url": "http://www.pinknotora.net/main.html",
+    "language": [
+      "ja"
     ]
   },
   {
