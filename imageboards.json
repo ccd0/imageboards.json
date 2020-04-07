@@ -1081,19 +1081,6 @@
     ]
   },
   {
-    "name": "Animach",
-    "url": "https://animach.pw/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "infinity",
-      "openib"
-    ]
-  },
-  {
     "name": "Anoma",
     "url": "https://bbs.anoma.ch/",
     "language": [
@@ -1985,16 +1972,6 @@
       "lynxchan"
     ],
     "boardlist": "https://floridachan.com/webring.json"
-  },
-  {
-    "name": "Formerly Chuck's",
-    "url": "https://formerlychucks.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard"
-    ]
   },
   {
     "name": "FrChan",
@@ -4286,16 +4263,6 @@
     ]
   },
   {
-    "name": "Sischan",
-    "url": "https://sischan.club/sis/",
-    "language": [
-      "pl"
-    ],
-    "software": [
-      "mitsuba"
-    ]
-  },
-  {
     "name": "SlugChan",
     "url": "http://possumstu.org:8080/",
     "language": [
@@ -4573,17 +4540,6 @@
       "tinyboard",
       "vichan"
     ]
-  },
-  {
-    "name": "Time-Telling Fortress",
-    "url": "http://board.seize.ch/fortress/front",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "negoto"
-    ],
-    "boardlist": "http://board.seize.ch/fortress/Api/boards"
   },
   {
     "name": "TinyChan",
