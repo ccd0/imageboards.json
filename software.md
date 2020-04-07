@@ -113,7 +113,6 @@ This is a list of the software codes used in imageboard.json along with links to
 - mei - https://github.com/lulalala/mei
 - monaba - https://github.com/ahushh/Monaba
 - neboard5 - https://bitbucket.org/neko259/neboard5/src/master/
-- negoto - https://github.com/steinuil/negoto
 - overmind - used by http://kanal4.org/
 - purplish - https://github.com/Shirakumo/purplish
 - rb-79 - https://repo.or.cz/rb-79.git
