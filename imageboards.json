@@ -1555,15 +1555,14 @@
     "url": "https://coronachan.xyz/",
     "mirrors": [
       "https://coronachan.xyz/",
-      "http://coronayyjx6g65u72f2muefkhluh4r3ezmm7567zc3wyaoa3bm632zqd.onion/"
+      "http://xdyyn7zunmyuljd5u7kn2nr3ygtcz7gf2t647jmimimtpfxlbuxsnoad.onion/"
     ],
     "language": [
       "en"
     ],
     "software": [
       "lynxchan"
-    ],
-    "boardlist": "https://coronachan.xyz/index.json"
+    ]
   },
   {
     "name": "/coxg/ Image Board",
