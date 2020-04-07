@@ -34,8 +34,6 @@ This is a list of the software codes used in imageboard.json along with links to
         - kenjiweb - http://web.archive.org/web/20071013052850/http://www.kenjiweb.com/ (downloads not archived)
         - monaca - http://akahuku.dw.land.to/monaca/ (dead)
         - poti-board - http://web.archive.org/web/20170707091918/http://www.punyu.net/php/oekaki.php (downloads not archived)
-- lynxchan - https://gitgud.io/LynxChan/LynxChan
-    - infinitynow - https://gitgud.io/groups/InfinityNow
 - kusaba - https://github.com/tslocum/kusaba
     - kusabax - http://kusabax.cultnet.net/
         - instant-0chan - https://gitgud.io/devarped/instant-0chan
@@ -45,6 +43,8 @@ This is a list of the software codes used in imageboard.json along with links to
         - ponyach.ru - https://github.com/acilsd/ponyach.ru
     - serissa - http://web.archive.org/web/20090222195838/http://www.serissa.org:80/ (downloads not archived)
         - fbe-410 - https://bitbucket.org/Therapont/fbe-410
+- lynxchan - https://gitgud.io/LynxChan/LynxChan
+    - infinitynow - https://gitgud.io/groups/InfinityNow
 - wakaba - https://wakaba.c3.cx/s/web/wakaba_kareha
     - wakaba++ - described at https://www.lurkmore.com/view/Wakaba++ but appears to be unpublished
     - phutaba - https://github.com/ernstchan/phutaba
@@ -74,9 +74,6 @@ This is a list of the software codes used in imageboard.json along with links to
 - foolfuuka - https://github.com/FoolCode/FoolFuuka
 - gopherchan - used by gopher://port70.net/1chan
     - 70chan - https://github.com/sroracle/70chan
-- jschan - https://github.com/fatchan/jschan/
-- mitsuba - https://github.com/MitsubaBBS/Mitsuba
-    - haruko - https://gitgud.io/parley/Haruko
 - nanochan - http://nanochanqwrwtmamtnhkfwbbcducc4i62ciss4byo6f3an5qdkhjngid.onion/source.lua
     - picochan - http://picochanrpzlemllkdr46tilw7b4q3bv5ipetkmty37fuqq4hjfnhwad.onion/
 - ololord.js - https://github.com/ololoepepe/ololord.js
@@ -101,6 +98,7 @@ This is a list of the software codes used in imageboard.json along with links to
 - hivebbs - https://github.com/desuwa/hivebbs
 - ib4f - formerly used by http://web.archive.org/web/20101108033202/http://imageboard4free.com:80/
 - imgboard - http://www.big.or.jp/~talk/t-club/soft/index.html
+- jschan - https://github.com/fatchan/jschan/
 - koba - used by https://boards.plus4chan.org/
 - kotatsu - https://gitlab.com/ison2/kotatsu
 - kropyva - https://gitlab.com/Kropyva
@@ -111,6 +109,8 @@ This is a list of the software codes used in imageboard.json along with links to
 - matsuri - used by https://kyber.io/matsuri
 - mayuri - used by https://horochan.ru/
 - mei - https://github.com/lulalala/mei
+- mitsuba - https://github.com/MitsubaBBS/Mitsuba
+    - haruko - https://gitgud.io/parley/Haruko
 - monaba - https://github.com/ahushh/Monaba
 - neboard5 - https://bitbucket.org/neko259/neboard5/src/master/
 - overmind - used by http://kanal4.org/
