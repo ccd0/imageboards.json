@@ -17,16 +17,6 @@
     ]
   },
   {
-    "name": "Нарячан",
-    "url": "http://naryachan.net/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "tinyboard"
-    ]
-  },
-  {
     "name": "Рисовач",
     "url": "http://risovach.ru/",
     "language": [
@@ -1978,20 +1968,6 @@
     "boardlist": "https://fch.bet/webring.json"
   },
   {
-    "name": "Freech Club",
-    "url": "https://freech.club/",
-    "mirrors": [
-      "https://freech.club/",
-      "http://br2fmdypjcl6z32och3odfw36mj2ac6qgctnzlrk4k7e5me2iiioxaad.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ]
-  },
-  {
     "name": "Fufufu",
     "url": "https://fufufu.moe/a/",
     "language": [
@@ -3606,20 +3582,6 @@
     ]
   },
   {
-    "name": "Omnichan",
-    "url": "https://omnichan.net/",
-    "mirrors": [
-      "https://omnichan.net/",
-      "http://omnichqqnol2hc5nlnz7zkektki4bobiuxxidcmihppq7hnzwieu6gqd.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ]
-  },
-  {
     "name": "Onee Chan",
     "url": "https://onee.ch/",
     "language": [
@@ -4570,17 +4532,6 @@
     ]
   },
   {
-    "name": "Touhouchan",
-    "url": "https://touhouchan.org/all/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "doushio",
-      "meguca"
-    ]
-  },
-  {
     "name": "Touhou.fi",
     "url": "http://touhou.fi/board/",
     "language": [
@@ -4799,21 +4750,6 @@
     "url": "https://vhschan.org/",
     "language": [
       "pt"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "vichan.xyz",
-    "url": "https://vichan.xyz/",
-    "mirrors": [
-      "https://vichan.xyz/",
-      "http://vichanfavx2bvp6eip5b2qudhylxtfnbbdawxa6wwrq7raflf5tuvnyd.onion/"
-    ],
-    "language": [
-      "en"
     ],
     "software": [
       "tinyboard",
