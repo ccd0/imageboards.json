@@ -3341,18 +3341,14 @@
   },
   {
     "name": "NeinChan",
-    "url": "https://neinchan.com/",
-    "mirrors": [
-      "https://neinchan.com/",
-      "http://vvadkyuldkwon6za.onion/"
-    ],
+    "url": "http://vvadkyuldkwon6za.onion/",
     "language": [
       "en"
     ],
     "software": [
       "lynxchan"
     ],
-    "boardlist": "https://neinchan.com/index.json"
+    "boardlist": "http://vvadkyuldkwon6za.onion/index.json"
   },
   {
     "name": "Nen",
