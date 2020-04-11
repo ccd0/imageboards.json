@@ -86,6 +86,7 @@ This is a list of the software codes used in imageboard.json along with links to
 - ace-rx - https://github.com/svmn/ace-rx
 - anonib-3d - https://github.com/AlexKrunch/AnonIB-3D
 - apachan - https://github.com/ilvar/apachan
+- aspnetchan - used by https://mlpol.cc/
 - atob - https://github.com/atobs/atob
 - blockchan - https://github.com/milezzz/BlockChan
 - brian - used by https://britfa.gs/

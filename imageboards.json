@@ -3149,15 +3149,13 @@
     "url": "https://mlpol.net/",
     "mirrors": [
       "https://mlpol.net/",
-      "https://npf.mlpol.net/"
+      "https://mlpol.cc/"
     ],
     "language": [
       "en"
     ],
     "software": [
-      "tinyboard",
-      "vichan",
-      "npfchan"
+      "aspnetchan"
     ]
   },
   {
