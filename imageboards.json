@@ -390,6 +390,16 @@
     ]
   },
   {
+    "name": "16chan",
+    "url": "https://16ch.nl/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "infinity-next"
+    ]
+  },
+  {
     "name": "16chan.xyz",
     "url": "https://16chan.xyz/",
     "mirrors": [
