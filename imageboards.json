@@ -3767,16 +3767,6 @@
     ]
   },
   {
-    "name": "plurk.hellfroze.net",
-    "url": "http://plurk.hellfroze.net/ochiba/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "ochiba"
-    ]
-  },
-  {
     "name": "plus4chan",
     "url": "https://boards.plus4chan.org/",
     "language": [
