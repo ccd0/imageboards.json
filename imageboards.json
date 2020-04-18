@@ -1674,6 +1674,16 @@
     ]
   },
   {
+    "name": "dietchan",
+    "url": "https://dietchan.org/c/",
+    "language": [
+      "de"
+    ],
+    "software": [
+      "dietchan"
+    ]
+  },
+  {
     "name": "Diochan",
     "url": "https://www.diochan.com/",
     "language": [
