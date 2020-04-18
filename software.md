@@ -20,6 +20,7 @@ This is a list of the software codes used in imageboard.json along with links to
             - yotsubanome - http://4ch.mooo.com/+4/script/
         - siokara - http://siokara.que.jp/
             - yakuba - used by http://t-jun.kemoren.com/
+            - moeren+siokara - http://siokara.que.jp/siokara_board2.shtml
             - siokara-gchan - http://web.archive.org/web/20140220052910/http://www42.atpages.jp/gscripts/ (many pages not archived)
         - futallaby - https://www.1chan.net/futallaby/
             - fikaba - https://github.com/knarka/fikaba
@@ -28,7 +29,7 @@ This is a list of the software codes used in imageboard.json along with links to
             - pihaba - used by https://dva-ch.net/
             - saguaro - http://saguaroimgboard.tk/
             - yotsuba - used by https://www.4chan.org/ (unpublished)
-        - moeren - formerly used by http://web.archive.org/web/20050623021441/http://moepic.dip.jp:80/gazo/
+        - moeren - http://siokara.que.jp/siokara_board2.shtml (mirrored from http://web.archive.org/web/20050508021815/http://moepic.dip.jp/gazo/script/index.php)
         - futaba-gchan - http://web.archive.org/web/20140220052910/http://www42.atpages.jp/gscripts/ (many pages not archived)
             - kabuban - used by http://www.kabuban.net/
         - kenjiweb - http://web.archive.org/web/20071013052850/http://www.kenjiweb.com/ (downloads not archived)
