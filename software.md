@@ -35,6 +35,8 @@ This is a list of the software codes used in imageboard.json along with links to
         - kenjiweb - http://web.archive.org/web/20071013052850/http://www.kenjiweb.com/ (downloads not archived)
         - monaca - http://akahuku.dw.land.to/monaca/ (dead)
         - poti-board - http://web.archive.org/web/20170707091918/http://www.punyu.net/php/oekaki.php (downloads not archived)
+- lynxchan - https://gitgud.io/LynxChan/LynxChan
+    - infinitynow - https://gitgud.io/groups/InfinityNow
 - kusaba - https://github.com/tslocum/kusaba
     - kusabax - http://kusabax.cultnet.net/
         - instant-0chan - https://gitgud.io/devarped/instant-0chan
@@ -44,8 +46,6 @@ This is a list of the software codes used in imageboard.json along with links to
         - ponyach.ru - https://github.com/acilsd/ponyach.ru
     - serissa - http://web.archive.org/web/20090222195838/http://www.serissa.org:80/ (downloads not archived)
         - fbe-410 - https://bitbucket.org/Therapont/fbe-410
-- lynxchan - https://gitgud.io/LynxChan/LynxChan
-    - infinitynow - https://gitgud.io/groups/InfinityNow
 - wakaba - https://wakaba.c3.cx/s/web/wakaba_kareha
     - wakaba++ - described at https://www.lurkmore.com/view/Wakaba++ but appears to be unpublished
     - phutaba - https://github.com/ernstchan/phutaba
@@ -81,7 +81,6 @@ This is a list of the software codes used in imageboard.json along with links to
     - tumbach - https://github.com/rngnrs/tumbach
 - orphereus - https://orphereus.anoma.ch/
     - hanabira - used by http://dobrochan.com/ (unpublished)
-- supremereality - https://github.com/8b2eef7c901269e8e9a6ec532d57b6b1/supremereality
 - wakarimasen - https://github.com/weedy/wakarimasen
 - 4kev - https://github.com/federicoolivo/4kev
 - ace-rx - https://github.com/svmn/ace-rx
@@ -122,6 +121,7 @@ This is a list of the software codes used in imageboard.json along with links to
 - rb-79 - https://repo.or.cz/rb-79.git
 - rikchan - https://github.com/hrik2001/RikChan
 - shittyboard - https://github.com/shittyboard/shittyboard
+- supremereality - https://github.com/8b2eef7c901269e8e9a6ec532d57b6b1/supremereality
 - tornadoimageboard - https://github.com/cnsr/tornado_imageboard
 - uchan - https://github.com/Floens/uchan
 - weabot - used by https://bienvenidoainternet.org/
