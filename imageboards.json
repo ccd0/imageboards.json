@@ -1552,20 +1552,6 @@
     ]
   },
   {
-    "name": "Coronachan",
-    "url": "https://coronachan.xyz/",
-    "mirrors": [
-      "https://coronachan.xyz/",
-      "http://xdyyn7zunmyuljd5u7kn2nr3ygtcz7gf2t647jmimimtpfxlbuxsnoad.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ]
-  },
-  {
     "name": "/coxg/ Image Board",
     "url": "https://board.thunderspygaming.net/",
     "language": [
@@ -1792,20 +1778,6 @@
       "makaba"
     ],
     "boardlist": "https://2ch.hk/boards.json"
-  },
-  {
-    "name": "Edenchan",
-    "url": "https://edenchan.net/",
-    "mirrors": [
-      "https://edenchan.net/",
-      "http://edench7c2gh6ncy24sy72ur6nbikyceiw3c5u6rjrja2lwffvisfipyd.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ]
   },
   {
     "name": "Endchan",
@@ -2087,16 +2059,6 @@
     "url": "http://upload.geminight.com/",
     "language": [
       "zh"
-    ]
-  },
-  {
-    "name": "GenieChan",
-    "url": "https://geniechan.xyz/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
     ]
   },
   {
@@ -3608,20 +3570,6 @@
   {
     "name": "Onee Chan",
     "url": "https://onee.ch/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ]
-  },
-  {
-    "name": "Openchan",
-    "url": "https://openchan.pro/",
-    "mirrors": [
-      "https://openchan.pro/",
-      "http://opench5rqe3yqenhg6ny3korcwi7guntecjxjhcxhnkbz7vigjdjf2yd.onion/"
-    ],
     "language": [
       "en"
     ],
