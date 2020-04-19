@@ -2971,21 +2971,6 @@
     ]
   },
   {
-    "name": "Madochan",
-    "url": "https://madochan.monster/",
-    "mirrors": [
-      "https://madochan.monster/",
-      "http://madoch24jfdntn5k4ou6b7mume7rgqx4qjnze35z6coqtozooyhiueqd.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ],
-    "boardlist": "https://madochan.monster/index.json"
-  },
-  {
     "name": "Magalichan.org",
     "url": "https://magalichan.org/",
     "language": [
