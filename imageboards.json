@@ -70,6 +70,17 @@
     ]
   },
   {
+    "name": "くれよん掲示板",
+    "url": "http://crayon-box.jp/crayon_bbs/crayon.cgi",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "joyfulnote",
+      "joyfulnote-isso"
+    ]
+  },
+  {
     "name": "なまけい",
     "url": "http://namahousou.com/",
     "language": [
@@ -177,6 +188,16 @@
       "futaba",
       "futaba-gchan",
       "kabuban"
+    ]
+  },
+  {
+    "name": "満月ポンに寄せられた皆様からの声",
+    "url": "https://www.mangetupon.co.jp/koe/",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "joyfulnote"
     ]
   },
   {
@@ -1211,6 +1232,17 @@
     "boardlist": "https://balkanchan.ga/index.json"
   },
   {
+    "name": "レースシーンBBS",
+    "url": "http://kdcfrp.cside.com/kdcbbs3/joyful.cgi",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "joyfulnote",
+      "joyfulnote-isso"
+    ]
+  },
+  {
     "name": "bbs.monocul.us",
     "url": "https://bbs.monocul.us/",
     "language": [
@@ -1963,6 +1995,16 @@
     "boardlist": "http://furchan.net/index.json"
   },
   {
+    "name": "fureai.or.jp",
+    "url": "http://fureai.or.jp/~arima/keijiban-3/joyful.cgi",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "joyfulnote"
+    ]
+  },
+  {
     "name": "Futaba Channel",
     "url": "https://www.2chan.net/",
     "language": [
@@ -2703,6 +2745,17 @@
       "doushio",
       "meguca",
       "cutechan"
+    ]
+  },
+  {
+    "name": "kuju.main.jp",
+    "url": "http://kuju.main.jp/cgi-bin/joyful1.cgi",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "joyfulnote",
+      "joyfulnote-isso"
     ]
   },
   {
@@ -3840,6 +3893,17 @@
     "boardlist": "https://prolikewoah.com/webring.json"
   },
   {
+    "name": "PSWA会議室",
+    "url": "http://pswa.moo.jp/kaigi/joyful.cgi",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "joyfulnote",
+      "joyfulnote-isso"
+    ]
+  },
+  {
     "name": "PTChan",
     "url": "https://ptchan.org/",
     "language": [
@@ -3988,6 +4052,16 @@
     "software": [
       "kusaba",
       "kusabax"
+    ]
+  },
+  {
+    "name": "Sea's Picture Forum",
+    "url": "https://seasaito.net/sea_cgi2/joyful8y3t4g7n.cgi",
+    "language": [
+      "ja"
+    ],
+    "software": [
+      "joyfulnote"
     ]
   },
   {
@@ -4278,6 +4352,13 @@
     ],
     "software": [
       "tinyboard"
+    ]
+  },
+  {
+    "name": "sumire1100",
+    "url": "http://www26.tok2.com/home/sumire1100/",
+    "language": [
+      "ja"
     ]
   },
   {
