@@ -357,17 +357,6 @@
     ]
   },
   {
-    "name": "128chan",
-    "url": "http://px5cfy62vw4ny5ym37e6nxtt6hial7vwqlabvcqarqiiscnps26rlzad.onion/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyib",
-      "desuib"
-    ]
-  },
-  {
     "name": "1436chan",
     "url": "gopher://khzae.net/1/chan",
     "mirrors": [
@@ -1201,17 +1190,6 @@
       "tinyboard",
       "vichan"
     ]
-  },
-  {
-    "name": "B00Bchan",
-    "url": "https://boobchan.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ],
-    "boardlist": "https://boobchan.com/index.json"
   },
   {
     "name": "Balkan Chan",
@@ -2836,17 +2814,6 @@
     ]
   },
   {
-    "name": "Lizardchan",
-    "url": "https://lizchan.xyz/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "Lolcow",
     "url": "https://lolcow.farm/",
     "language": [
@@ -4230,17 +4197,6 @@
     ]
   },
   {
-    "name": "SpaceChan",
-    "url": "https://spacechan.xyz/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ],
-    "boardlist": "https://spacechan.xyz/index.json"
-  },
-  {
     "name": "Spacestro",
     "url": "https://spacestro.xyz/",
     "language": [
@@ -4626,17 +4582,6 @@
     "boardlist": "https://tvch.moe/webring.json"
   },
   {
-    "name": "twchan",
-    "url": "https://boards.twchan.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "U18chan",
     "url": "https://u18chan.com/",
     "language": [
@@ -4974,16 +4919,6 @@
     "software": [
       "kusaba",
       "kusabax"
-    ]
-  },
-  {
-    "name": "z-board.ru",
-    "url": "http://z-board.ru/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard"
     ]
   },
   {
