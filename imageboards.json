@@ -2882,6 +2882,16 @@
     ]
   },
   {
+    "name": "Livebunker",
+    "url": "https://livebunker.rocks/chat/home",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "livechan"
+    ]
+  },
+  {
     "name": "Lolcow",
     "url": "https://lolcow.farm/",
     "language": [
