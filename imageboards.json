@@ -943,6 +943,21 @@
     ]
   },
   {
+    "name": "9channel",
+    "url": "https://9san.ch/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "infinity",
+      "openib",
+      "reloaded"
+    ],
+    "boardlist": "https://9san.ch/boards.json"
+  },
+  {
     "name": "9chan.tw",
     "url": "https://9chan.tw/",
     "mirrors": [
@@ -960,21 +975,6 @@
     "software": [
       "infinity-next"
     ]
-  },
-  {
-    "name": "9channel",
-    "url": "https://9san.ch/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "infinity",
-      "openib",
-      "reloaded"
-    ],
-    "boardlist": "https://9san.ch/boards.json"
   },
   {
     "name": "9inches.org",
