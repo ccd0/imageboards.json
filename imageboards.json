@@ -778,7 +778,10 @@
     "url": "https://4keks.org/4keks/",
     "mirrors": [
       "https://4keks.org/",
-      "http://4keksride3l75xmr.onion/"
+      "http://4kekspassjutjjjo.onion/"
+    ],
+    "redirects": [
+      "http://4keksride3l75xmr.onion/4keks/"
     ],
     "language": [
       "en"
