@@ -76,7 +76,7 @@ This is a list of the software codes used in imageboard.json along with links to
 - foolfuuka - https://github.com/FoolCode/FoolFuuka
 - gopherchan - used by gopher://port70.net/1chan
     - 70chan - https://github.com/sroracle/70chan
-- infinity-next - https://github.com/infinity-next/infinity-next
+- livechan - https://github.com/emgram769/livechan-js
 - nanochan - http://nanochanqwrwtmamtnhkfwbbcducc4i62ciss4byo6f3an5qdkhjngid.onion/source.lua
     - picochan - http://picochanrpzlemllkdr46tilw7b4q3bv5ipetkmty37fuqq4hjfnhwad.onion/
 - ochiba - http://ochiba.x-maru.org/
@@ -103,12 +103,12 @@ This is a list of the software codes used in imageboard.json along with links to
 - hivebbs - https://github.com/desuwa/hivebbs
 - ib4f - formerly used by http://web.archive.org/web/20101108033202/http://imageboard4free.com:80/
 - imgboard - http://www.big.or.jp/~talk/t-club/soft/index.html
+- infinity-next - https://github.com/infinity-next/infinity-next
 - jschan - https://github.com/fatchan/jschan/
 - koba - used by https://boards.plus4chan.org/
 - kotatsu - https://gitlab.com/ison2/kotatsu
 - kropyva - https://gitlab.com/Kropyva
 - lapis-chan - https://github.com/karai17/lapis-chan/
-- livechan - https://github.com/emgram769/livechan-js
 - makaba - used by https://2ch.hk/
 - maniwani - https://github.com/DangerOnTheRanger/maniwani
 - matsuri - used by https://kyber.io/matsuri
