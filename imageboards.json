@@ -1150,6 +1150,20 @@
     "boardlist": "https://anon.cafe/webring.json"
   },
   {
+    "name": "Anon Social",
+    "url": "https://ibanonsocial.com/recent.html",
+    "redirects": [
+      "https://newchan.org/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "anzuchang.com",
     "url": "http://anzuchang.com/",
     "language": [
