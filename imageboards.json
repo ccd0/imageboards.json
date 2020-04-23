@@ -414,16 +414,6 @@
     ]
   },
   {
-    "name": "16ch.nl",
-    "url": "https://16ch.nl/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "infinity-next"
-    ]
-  },
-  {
     "name": "1chan",
     "url": "https://www.1chan.net/rail/",
     "language": [
@@ -950,11 +940,7 @@
   },
   {
     "name": "9chan.us",
-    "url": "https://9chan.us/",
-    "mirrors": [
-      "https://9chan.us/",
-      "http://ninechnjd5aaxfbcsszlbr4inp7qjsficep4hiffh4jbzovpt2ok3cad.onion/"
-    ],
+    "url": "http://ninechnjd5aaxfbcsszlbr4inp7qjsficep4hiffh4jbzovpt2ok3cad.onion/",
     "language": [
       "en"
     ],
