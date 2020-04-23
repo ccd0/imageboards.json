@@ -12,9 +12,14 @@ I am in the process of removing very slow sites that I previously added.
 
 Codes used for the "software" field are documented at [software.md](software.md).
 
-The "mirrors" field is an array in the following format:
+The "mirrors" field describes alternate ways of accessing the site. It does not include URLs that merely redirect to the main URL. It is an array in the following format:
 * The first element is a part of the site URL ("url" field) and of other URLs (e.g. "boardlist"), usually the protocol and domain part.
 * Subsequent elements are what the first element should be replaced with to reach corresponding pages on the site's mirrors.
+
+The "entrances", "redirects", and "fallbacks" fields are arrays containing various types of alternate URLs for the site.
+* "entrances" are sites that contain links to the main site.
+* "redirects" are URLs that redirect to the site or redirect to a page linking to the site.
+* "fallbacks" are URLs not yet used but which may be activated if the main site goes down.
 
 Other lists that may be of interest:
 * https://bvffalo.land/

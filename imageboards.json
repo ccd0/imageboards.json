@@ -26,6 +26,9 @@
   {
     "name": "УЧАН",
     "url": "https://uchan.org.ua/",
+    "redirects": [
+      "https://hyperchan.org/"
+    ],
     "language": [
       "uk"
     ],
@@ -254,6 +257,9 @@
   {
     "name": "ＡＺＵＣＯちゃんねる",
     "url": "https://azuco.sakura.ne.jp/kareha/",
+    "redirects": [
+      "http://azuco.sumomo.ne.jp/"
+    ],
     "language": [
       "ja"
     ],
@@ -753,6 +759,9 @@
   {
     "name": "4feuilles.org",
     "url": "https://4feuilles.org/",
+    "redirects": [
+      "http://neonroot.net/"
+    ],
     "language": [
       "fr"
     ],
@@ -901,6 +910,13 @@
       "http://s5swbfcf4joom9tzf8w7ss5fptywwpnnfop3pxcf5ebjnz8ioksy.loki/",
       "http://pchpjz7ubqsfwa7qeyotqszrx5ayt3p1y4mbfnuffoupwq53nury.loki/"
     ],
+    "entrances": [
+      "https://8ch.net/",
+      "https://isitwetyet.com/8kun/"
+    ],
+    "redirects": [
+      "https://8kun.net/"
+    ],
     "language": [
       "en"
     ],
@@ -929,6 +945,11 @@
     "mirrors": [
       "https://9chan.tw/",
       "http://ninechnjd5aaxfbcsszlbr4inp7qjsficep4hiffh4jbzovpt2ok3cad.onion/"
+    ],
+    "redirects": [
+      "https://9chan.hk/",
+      "http://9chan.us/",
+      "http://9chan.cc/"
     ],
     "language": [
       "en"
@@ -1731,6 +1752,9 @@
   {
     "name": "Dollchan Extension",
     "url": "https://dollchan.net/de/",
+    "redirects": [
+      "https://dscript.me/de/"
+    ],
     "language": [
       "ru",
       "en"
@@ -1763,6 +1787,9 @@
   {
     "name": "Dreamchan",
     "url": "https://dreamch.net/",
+    "redirects": [
+      "http://dreamchan.net/"
+    ],
     "language": [
       "en"
     ],
@@ -1793,6 +1820,14 @@
     "mirrors": [
       "https://2ch.hk/",
       "https://2ch.pm/"
+    ],
+    "redirects": [
+      "https://2ch.re/",
+      "https://2ch.wf/"
+    ],
+    "fallbacks": [
+      "http://2ch.tf/",
+      "http://2ch.yt/"
     ],
     "language": [
       "ru"
@@ -1977,6 +2012,9 @@
       "http://fchantpaey5or245.onion/",
       "http://earlk6bjm32fchan.onion/",
       "http://gjhs4pe3s55vpyb7avy3h2rk3tgiaeetk5rho5uvwacxw2xrxadd34ad.onion/"
+    ],
+    "redirects": [
+      "https://franchan.biz/"
     ],
     "language": [
       "fr"
@@ -2637,6 +2675,9 @@
       "https://nocsp.kohlchan.net/",
       "http://kohlchanagb7ih5g.onion/",
       "http://kohlchanvwpfx6hthoti5fvqsjxgcwm3tmddvpduph5fqntv5affzfqd.onion/"
+    ],
+    "redirects": [
+      "https://kohlkanal.net/"
     ],
     "language": [
       "de"
@@ -3308,6 +3349,9 @@
   {
     "name": "nanochan",
     "url": "http://nanochanpwz3xnue76gteysv6wjm5sim3bbcm2lc65x625at774k77qd.onion/",
+    "redirects": [
+      "http://nanochanqwrwtmamtnhkfwbbcducc4i62ciss4byo6f3an5qdkhjngid.onion/"
+    ],
     "language": [
       "en"
     ],
@@ -3760,6 +3804,9 @@
   {
     "name": "plus4chan",
     "url": "https://boards.plus4chan.org/",
+    "redirects": [
+      "http://boards.plus4chan.net/"
+    ],
     "language": [
       "en"
     ],
@@ -3953,6 +4000,9 @@
   {
     "name": "questden.org",
     "url": "https://questden.org/kusaba/",
+    "redirects": [
+      "https://tgchan.org/kusaba/"
+    ],
     "language": [
       "en"
     ],
@@ -4193,6 +4243,12 @@
   {
     "name": "Shitty board",
     "url": "http://shittyboard.cba.pl/",
+    "entrances": [
+      "https://shittyboard.neocities.org/"
+    ],
+    "redirects": [
+      "http://shittyboard.ddns.net/"
+    ],
     "language": [
       "en"
     ],
@@ -4515,6 +4571,9 @@
   {
     "name": "TinyChan",
     "url": "https://tinychan.net/",
+    "redirects": [
+      "https://tinychan.org/"
+    ],
     "language": [
       "en"
     ],
