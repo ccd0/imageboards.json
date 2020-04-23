@@ -939,8 +939,12 @@
     "boardlist": "https://9san.ch/boards.json"
   },
   {
-    "name": "9chan.us",
-    "url": "http://ninechnjd5aaxfbcsszlbr4inp7qjsficep4hiffh4jbzovpt2ok3cad.onion/",
+    "name": "9chan.hk",
+    "url": "https://9chan.hk/",
+    "mirrors": [
+      "https://9chan.hk/",
+      "http://ninechnjd5aaxfbcsszlbr4inp7qjsficep4hiffh4jbzovpt2ok3cad.onion/"
+    ],
     "language": [
       "en"
     ],
