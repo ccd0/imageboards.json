@@ -3749,21 +3749,6 @@
     ]
   },
   {
-    "name": "pawsru.org",
-    "url": "https://pawsru.org/",
-    "mirrors": [
-      "https://pawsru.org/",
-      "https://feetpa.ws/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "Perfectchan",
     "url": "https://perfectchan.org/",
     "language": [
