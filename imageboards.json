@@ -924,6 +924,20 @@
     ]
   },
   {
+    "name": "9chan.hk",
+    "url": "https://9chan.hk/",
+    "mirrors": [
+      "https://9chan.hk/",
+      "http://ninechnjd5aaxfbcsszlbr4inp7qjsficep4hiffh4jbzovpt2ok3cad.onion/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "infinity-next"
+    ]
+  },
+  {
     "name": "9channel",
     "url": "https://9san.ch/",
     "language": [
@@ -937,20 +951,6 @@
       "reloaded"
     ],
     "boardlist": "https://9san.ch/boards.json"
-  },
-  {
-    "name": "9chan.hk",
-    "url": "https://9chan.hk/",
-    "mirrors": [
-      "https://9chan.hk/",
-      "http://ninechnjd5aaxfbcsszlbr4inp7qjsficep4hiffh4jbzovpt2ok3cad.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "infinity-next"
-    ]
   },
   {
     "name": "9inches.org",
