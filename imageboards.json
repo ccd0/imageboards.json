@@ -1105,6 +1105,9 @@
   {
     "name": "Alphachan",
     "url": "http://alphachan.org/",
+    "redirects": [
+      "http://alphachan.ru/"
+    ],
     "language": [
       "ru"
     ]
