@@ -924,10 +924,10 @@
     ]
   },
   {
-    "name": "9chan.hk",
-    "url": "https://9chan.hk/",
+    "name": "9chan.tw",
+    "url": "https://9chan.tw/",
     "mirrors": [
-      "https://9chan.hk/",
+      "https://9chan.tw/",
       "http://ninechnjd5aaxfbcsszlbr4inp7qjsficep4hiffh4jbzovpt2ok3cad.onion/"
     ],
     "language": [
