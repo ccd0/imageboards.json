@@ -904,6 +904,16 @@
     ]
   },
   {
+    "name": "8chan.moe",
+    "url": "https://8chan.moe/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ]
+  },
+  {
     "name": "8kun",
     "url": "https://8kun.top/index.html",
     "mirrors": [
