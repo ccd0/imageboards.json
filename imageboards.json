@@ -5122,16 +5122,5 @@
       "kusabax",
       "novovvedeniya"
     ]
-  },
-  {
-    "name": "ZunkoChan",
-    "url": "https://zunkochan.xyz/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ],
-    "boardlist": "https://zunkochan.xyz/index.json"
   }
 ]
