@@ -1184,6 +1184,16 @@
     ]
   },
   {
+    "name": "antares.chan",
+    "url": "http://antares.oss:15000/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ]
+  },
+  {
     "name": "anzuchang.com",
     "url": "http://anzuchang.com/",
     "language": [
