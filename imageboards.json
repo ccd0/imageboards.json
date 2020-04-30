@@ -1976,21 +1976,6 @@
     ]
   },
   {
-    "name": "Fatchan",
-    "url": "https://fatchan.org/index.html",
-    "mirrors": [
-      "https://fatchan.org/",
-      "https://fatpeople.lol/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "jschan"
-    ],
-    "boardlist": "https://fatchan.org/webring.json"
-  },
-  {
     "name": "Fchan",
     "url": "http://fchan.us/",
     "language": [
