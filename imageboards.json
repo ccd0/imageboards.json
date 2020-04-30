@@ -906,6 +906,13 @@
   {
     "name": "8chan.moe",
     "url": "https://8chan.moe/",
+    "mirrors": [
+      "https://8chan.moe/",
+      "https://8chan.se/"
+    ],
+    "fallbacks": [
+      "http://8chan.cc/"
+    ],
     "language": [
       "en"
     ],
