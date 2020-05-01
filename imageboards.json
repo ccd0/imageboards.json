@@ -373,6 +373,20 @@
     ]
   },
   {
+    "name": "10chan",
+    "url": "https://10chan.net/",
+    "mirrors": [
+      "https://10chan.net/",
+      "http://tenchan6uq4weu54cj4qa5twso2fhuszbqt3a7kifqpqqigvjcjlpwid.onion/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ]
+  },
+  {
     "name": "1111chan",
     "url": "https://1111chan.org/b/",
     "language": [
