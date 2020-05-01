@@ -1186,6 +1186,10 @@
   {
     "name": "antares.chan",
     "url": "http://antares.oss:15000/",
+    "mirrors": [
+      "http://antares.oss:15000/",
+      "http://l2sv2h6eoxdu6y6s.onion/"
+    ],
     "language": [
       "en"
     ],
