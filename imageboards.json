@@ -1195,7 +1195,8 @@
     ],
     "software": [
       "lynxchan"
-    ]
+    ],
+    "boardlist": "http://antares.oss:15000/webring.json"
   },
   {
     "name": "anzuchang.com",
