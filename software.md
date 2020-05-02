@@ -118,6 +118,7 @@ This is a list of the software codes used in imageboard.json along with links to
     - haruko - https://gitgud.io/parley/Haruko
 - monaba - https://github.com/ahushh/Monaba
 - neboard5 - https://bitbucket.org/neko259/neboard5/src/master/
+- nekosrv - https://gitgud.io/cathugger/nksrv / https://github.com/cathugger/nksrv/
 - overmind - used by http://kanal4.org/
 - purplish - https://github.com/Shirakumo/purplish
 - rb-79 - https://repo.or.cz/rb-79.git
