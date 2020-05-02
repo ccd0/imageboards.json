@@ -2217,17 +2217,6 @@
     ]
   },
   {
-    "name": "glowchan.icu",
-    "url": "https://glowchan.icu/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ],
-    "boardlist": "https://glowchan.icu/webring.json"
-  },
-  {
     "name": "gmkz4ne.com",
     "url": "http://gmkz4ne.com/",
     "language": [
