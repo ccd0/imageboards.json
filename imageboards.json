@@ -3589,6 +3589,19 @@
     ]
   },
   {
+    "name": "nntpchan nekochan",
+    "url": "http://dszr2z2swmeczeao2bqgop6fyh34jw5baeiybsavwtihllwa5qwq.b32.i2p/",
+    "mirrors": [
+      "http://dszr2z2swmeczeao2bqgop6fyh34jw5baeiybsavwtihllwa5qwq.b32.i2p/",
+      "http://[201:4806:21d5:c971:407f:4ea9:4d7d:e491]:5180/",
+      "http://cathugger.ano:5180/",
+      "http://z7neko7rjbzqkkktrqvxn5h26ao32kcftijdbitdfzknfgolngabguyd.onion/"
+    ],
+    "language": [
+      "en"
+    ]
+  },
+  {
     "name": "NoirChan",
     "url": "https://noirchan.com/",
     "language": [
