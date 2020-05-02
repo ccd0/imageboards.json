@@ -268,6 +268,22 @@
     ]
   },
   {
+    "name": "00chan",
+    "url": "https://00chan.xyz/",
+    "mirrors": [
+      "https://00chan.xyz/",
+      "http://zerochduh4273532f7xftewvtgzqfylmeozprq5hur2eqrymg6wxfcqd.onion/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "infinity"
+    ]
+  },
+  {
     "name": "02ch",
     "url": "https://02ch.in/all/",
     "language": [
@@ -2316,6 +2332,17 @@
     ],
     "software": [
       "tinyboard"
+    ]
+  },
+  {
+    "name": "Hapachan",
+    "url": "http://hapachanzirxtxkvkd25uzabtnzqbrd2l5prmtt6hv5mmyr65oed3nqd.onion/pico",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "nanochan",
+      "picochan"
     ]
   },
   {
