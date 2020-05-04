@@ -91,7 +91,7 @@ This is a list of the software codes used in imageboard.json along with links to
 - apachan - https://github.com/ilvar/apachan
 - aspnetchan - used by https://mlpol.cc/
 - atob - https://github.com/atobs/atob
-- blockchan - https://github.com/milezzz/BlockChan
+- blockchan - https://github.com/ndm-inf/F_Jannies / https://github.com/milezzz/BlockChan
 - brian - used by https://britfa.gs/
 - cursedboard - https://github.com/whisperchan/cursedboard / https://github.com/BigSlice/cursedboard
 - dietchan - https://gitgud.io/zuse/dietchan

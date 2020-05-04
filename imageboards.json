@@ -1418,6 +1418,16 @@
     ]
   },
   {
+    "name": "BlockChan",
+    "url": "http://blockchan.link/main",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "blockchan"
+    ]
+  },
+  {
     "name": "BlockChan Canada",
     "url": "https://blockchan.ca/",
     "language": [
