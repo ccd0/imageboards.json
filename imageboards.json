@@ -2426,6 +2426,22 @@
     ]
   },
   {
+    "name": "Hoppe-sama",
+    "url": "https://hoppe-sama.xyz/",
+    "mirrors": [
+      "https://hoppe-sama.xyz/",
+      "http://r72y7hh2nxwnhtklls5azm6zecdahab3jh4666lg5eciwhi7rm57i3ad.onion/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ],
+    "boardlist": "https://hoppe-sama.xyz/webring.json"
+  },
+  {
     "name": "Horochan",
     "url": "https://horochan.ru/b",
     "language": [
@@ -4119,6 +4135,18 @@
     "software": [
       "wakaba"
     ]
+  },
+  {
+    "name": "RitaChan",
+    "url": "http://rita.null/",
+    "language": [
+      "en",
+      "it"
+    ],
+    "software": [
+      "lynxchan"
+    ],
+    "boardlist": "http://rita.null/webring.json"
   },
   {
     "name": "ronery.xyz",
