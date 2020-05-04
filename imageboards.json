@@ -858,15 +858,12 @@
   {
     "name": "64chan",
     "url": "https://64ch.net/",
-    "mirrors": [
-      "https://64ch.net/",
-      "http://64chan62jwebzzn5hcguxp2evocbxkziq5msnyc6aj43yctws73yzaid.onion/"
-    ],
     "language": [
       "en"
     ],
     "software": [
-      "lynxchan"
+      "tinyboard",
+      "vichan"
     ]
   },
   {
