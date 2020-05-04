@@ -2989,6 +2989,17 @@
     "boardlist": "https://late.city/webring.json"
   },
   {
+    "name": "Lenachan",
+    "url": "https://lenachan.eu.org/b/",
+    "language": [
+      "pl"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Lenaczawka",
     "url": "https://lenachan.eu.org/b/",
     "language": [
