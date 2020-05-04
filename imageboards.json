@@ -787,7 +787,7 @@
     ]
   },
   {
-    "name": "4feuilles.org",
+    "name": "4Feuilles",
     "url": "https://4feuilles.org/",
     "redirects": [
       "http://neonroot.net/"
@@ -801,7 +801,8 @@
       "futallaby",
       "fikaba",
       "4feuilles"
-    ]
+    ],
+    "boardlist": "https://planches.4feuilles.org/webring.json"
   },
   {
     "name": "/4keks/",
