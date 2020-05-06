@@ -665,17 +665,6 @@
     ]
   },
   {
-    "name": "38chan",
-    "url": "http://38chan.net/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "-3chan",
     "url": "http://dash3ch.tekcities.com/",
     "language": [
@@ -732,17 +721,6 @@
     "software": [
       "wakaba",
       "taimaba"
-    ]
-  },
-  {
-    "name": "4cels",
-    "url": "http://4cels.xyz/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
     ]
   },
   {
@@ -1687,17 +1665,6 @@
     ]
   },
   {
-    "name": "/coxg/ Image Board",
-    "url": "https://board.thunderspygaming.net/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "crystal.cafe",
     "url": "https://crystal.cafe/",
     "language": [
@@ -2558,22 +2525,6 @@
     ]
   },
   {
-    "name": "Infinity-San",
-    "url": "http://jx5occy7c3f7euxcs4orjdlomqmtrmirk3faer2av6jy7xuizv6dyfid.onion/",
-    "mirrors": [
-      "http://jx5occy7c3f7euxcs4orjdlomqmtrmirk3faer2av6jy7xuizv6dyfid.onion/",
-      "http://i7m2kl7tmelclcye.onion/",
-      "http://pwpkileorhbykq3qb4ltp27pa3iagxvzn7rbb3rl5j67rtcyc5o62vyd.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyib",
-      "desuib"
-    ]
-  },
-  {
     "name": "Infinity-San Bunker",
     "url": "http://rdch.heliohost.org/",
     "language": [
@@ -2592,16 +2543,6 @@
     "software": [
       "wakaba",
       "wakaba++"
-    ]
-  },
-  {
-    "name": "jojo's bizarre shitpost",
-    "url": "https://jojochan.tk/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "wakaba"
     ]
   },
   {
@@ -3997,16 +3938,6 @@
     ]
   },
   {
-    "name": "Poorchan",
-    "url": "http://poorchan.ga/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tornadoimageboard"
-    ]
-  },
-  {
     "name": "Post Office",
     "url": "http://afternoon.dynu.com/",
     "language": [
@@ -4341,19 +4272,6 @@
     ]
   },
   {
-    "name": "Shitchan",
-    "url": "https://shitchan.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "infinity",
-      "openib"
-    ]
-  },
-  {
     "name": "Shitty board",
     "url": "http://shittyboard.cba.pl/",
     "entrances": [
@@ -4404,16 +4322,6 @@
     "software": [
       "tinyboard",
       "vichan"
-    ]
-  },
-  {
-    "name": "SlugChan",
-    "url": "http://possumstu.org:8080/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
     ]
   },
   {
@@ -5128,17 +5036,6 @@
     ],
     "software": [
       "wakaba"
-    ]
-  },
-  {
-    "name": "Yang Chan",
-    "url": "http://www.yangchan.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
     ]
   },
   {
