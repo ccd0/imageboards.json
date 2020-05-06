@@ -1534,6 +1534,17 @@
     ]
   },
   {
+    "name": "Øchan.cc",
+    "url": "https://0chan.cc/",
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "kusaba",
+      "kusabax"
+    ]
+  },
+  {
     "name": "µchan demo",
     "url": "https://uchan.plebco.de/",
     "language": [
