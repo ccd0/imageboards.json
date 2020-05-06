@@ -64,6 +64,8 @@ This is a list of the software codes used in imageboard.json along with links to
     - jn+yyb - http://w-space.net/subcon/cgi.htm
 - kareha - https://wakaba.c3.cx/s/web/wakaba_kareha
     - bakareha - https://github.com/f2d/bakareha
+- nanochan - http://nanochanqwrwtmamtnhkfwbbcducc4i62ciss4byo6f3an5qdkhjngid.onion/source.lua
+    - picochan - http://picochanrpzlemllkdr46tilw7b4q3bv5ipetkmty37fuqq4hjfnhwad.onion/
 - 0chan - https://github.com/klkvsk/0chan
     - ochko - https://gitgud.io/devarped/ochko
 - 1chan - https://github.com/jlbyrey/1chan
@@ -71,13 +73,12 @@ This is a list of the software codes used in imageboard.json along with links to
 - atbbs - https://sourceforge.net/projects/atbbs/
     - tinybbs - https://github.com/r04r/minichan
 - bbsnote - http://web.archive.org/web/20050116004959/http://wondercatstudio.com:80/html/download.html
+- blockchan - https://github.com/ndm-inf/F_Jannies / https://github.com/milezzz/BlockChan
 - emanon - https://github.com/oprel/emanon
 - foolfuuka - https://github.com/FoolCode/FoolFuuka
 - gopherchan - used by gopher://port70.net/1chan
     - 70chan - https://github.com/sroracle/70chan
 - livechan - https://github.com/emgram769/livechan-js
-- nanochan - http://nanochanqwrwtmamtnhkfwbbcducc4i62ciss4byo6f3an5qdkhjngid.onion/source.lua
-    - picochan - http://picochanrpzlemllkdr46tilw7b4q3bv5ipetkmty37fuqq4hjfnhwad.onion/
 - ochiba - http://ochiba.x-maru.org/
 - ololord.js - https://github.com/ololoepepe/ololord.js
     - tumbach - https://github.com/rngnrs/tumbach
@@ -90,7 +91,6 @@ This is a list of the software codes used in imageboard.json along with links to
 - apachan - https://github.com/ilvar/apachan
 - aspnetchan - used by https://mlpol.cc/
 - atob - https://github.com/atobs/atob
-- blockchan - https://github.com/ndm-inf/F_Jannies / https://github.com/milezzz/BlockChan
 - brian - used by https://britfa.gs/
 - cursedboard - https://github.com/whisperchan/cursedboard / https://github.com/BigSlice/cursedboard
 - dietchan - https://gitgud.io/zuse/dietchan
