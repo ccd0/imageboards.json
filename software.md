@@ -52,7 +52,6 @@ This is a list of the software codes used in imageboard.json along with links to
     - phutaba - https://github.com/ernstchan/phutaba
     - taimaba - used by https://420chan.org/
 - tinyib - https://gitlab.com/tslocum/tinyib
-    - desuib - https://rodentchan.danwin1210.me/script/
 - doushio - https://github.com/lalcmellkmal/doushio
     - meguca - https://github.com/bakape/meguca
         - cutechan - https://github.com/cutechan/cutechan
@@ -104,7 +103,6 @@ This is a list of the software codes used in imageboard.json along with links to
 - ib4f - formerly used by http://web.archive.org/web/20101108033202/http://imageboard4free.com:80/
 - imgboard - http://www.big.or.jp/~talk/t-club/soft/index.html
 - infinity-next - https://github.com/infinity-next/infinity-next
-- jschan - https://github.com/fatchan/jschan/
 - koba - used by https://boards.plus4chan.org/
 - kotatsu - https://gitlab.com/ison2/kotatsu
 - kropyva - https://gitlab.com/Kropyva
@@ -125,7 +123,6 @@ This is a list of the software codes used in imageboard.json along with links to
 - rikchan - https://github.com/hrik2001/RikChan
 - shittyboard - https://github.com/shittyboard/shittyboard
 - supremereality - https://github.com/8b2eef7c901269e8e9a6ec532d57b6b1/supremereality
-- tornadoimageboard - https://github.com/cnsr/tornado_imageboard
 - uchan - https://github.com/Floens/uchan
 - weabot - used by https://bienvenidoainternet.org/
 - webpatio - http://www.kent-web.com/bbs/patio.html
