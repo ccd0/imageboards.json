@@ -3003,6 +3003,16 @@
     ]
   },
   {
+    "name": "LoliChurch",
+    "url": "https://chan.loli.church/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ]
+  },
+  {
     "name": "Lolifox",
     "url": "https://lolifox.cc/",
     "mirrors": [
