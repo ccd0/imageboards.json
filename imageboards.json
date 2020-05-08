@@ -4952,8 +4952,8 @@
     "name": "whisper.onthewifi.com",
     "url": "ssh://bit:byte@whisper.onthewifi.com",
     "mirrors": [
-      "whisper.onthewifi.com",
-      "2okzlsboulbv6y22foslk7cvgi3nqzj2a7tsofhkzvh6jytjcoxlqlad.onion"
+      "ssh://bit:byte@whisper.onthewifi.com",
+      "ssh://bit:byte@2okzlsboulbv6y22foslk7cvgi3nqzj2a7tsofhkzvh6jytjcoxlqlad.onion"
     ],
     "language": [
       "en"
