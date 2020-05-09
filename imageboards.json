@@ -1312,6 +1312,7 @@
       "https://4kek.ml/",
       "https://enter.dprkchan.xyz/",
       "https://www.4biz.xyz/",
+      "https://www.lynxchan.net/",
       "http://26yukmkrhmhfg6alc56oexe7bcrokv4rilwpfwgh2u6bsbkddu55h4ad.onion/"
     ],
     "language": [
@@ -3072,20 +3073,6 @@
     ],
     "software": [
       "tinyboard"
-    ]
-  },
-  {
-    "name": "lynxchan.net",
-    "url": "https://lynxchan.net/",
-    "mirrors": [
-      "https://lynxchan.net/",
-      "http://lynxch6qp3dsr54olaeizko7vdz4t4w74lpdh2ipoaokl2p5jmdbccqd.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
     ]
   },
   {
