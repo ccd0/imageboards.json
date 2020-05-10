@@ -4946,19 +4946,6 @@
     ]
   },
   {
-    "name": "Winterchan",
-    "url": "https://winterchan.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "lainchan",
-      "winterchan"
-    ]
-  },
-  {
     "name": "wirechan",
     "url": "https://wirechan.org/",
     "language": [
