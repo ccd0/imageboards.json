@@ -2055,17 +2055,6 @@
     ]
   },
   {
-    "name": "Floridachan",
-    "url": "https://floridachan.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ],
-    "boardlist": "https://floridachan.com/webring.json"
-  },
-  {
     "name": "FrChan",
     "url": "https://fch.bet/",
     "mirrors": [
