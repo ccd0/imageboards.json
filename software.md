@@ -90,6 +90,7 @@ This is a list of the software codes used in imageboard.json along with links to
 - apachan - https://github.com/ilvar/apachan
 - aspnetchan - used by https://mlpol.cc/
 - atob - https://github.com/atobs/atob
+- bbwarps - https://github.com/shittyboard/bbwarps
 - brian - used by https://britfa.gs/
 - cursedboard - https://github.com/whisperchan/cursedboard / https://github.com/BigSlice/cursedboard
 - dietchan - https://gitgud.io/zuse/dietchan
@@ -121,7 +122,6 @@ This is a list of the software codes used in imageboard.json along with links to
 - purplish - https://github.com/Shirakumo/purplish
 - rb-79 - https://repo.or.cz/rb-79.git
 - rikchan - https://github.com/hrik2001/RikChan
-- shittyboard - https://github.com/shittyboard/shittyboard
 - supremereality - https://github.com/8b2eef7c901269e8e9a6ec532d57b6b1/supremereality
 - uchan - https://github.com/Floens/uchan
 - weabot - used by https://bienvenidoainternet.org/
