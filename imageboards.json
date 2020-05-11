@@ -1359,6 +1359,21 @@
     "boardlist": "https://bbw-chan.nl/index.json"
   },
   {
+    "name": "Bchan",
+    "url": "https://bchan.net/",
+    "mirrors": [
+      "https://bchan.net/",
+      "http://bchan46hwn7fxf67hav7khj3ca7v4avg7yhieahqyocgnaolazgi6tqd.onion/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ],
+    "boardlist": "https://bchan.net/index.json"
+  },
+  {
     "name": "bernd.group",
     "url": "https://bernd.group/",
     "mirrors": [
