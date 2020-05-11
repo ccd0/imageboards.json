@@ -3780,6 +3780,16 @@
     ]
   },
   {
+    "name": "PaperChan",
+    "url": "https://paperboard.ddns.net/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyib"
+    ]
+  },
+  {
     "name": "Perfectchan",
     "url": "https://perfectchan.org/",
     "language": [
