@@ -3425,16 +3425,6 @@
     ]
   },
   {
-    "name": "neetBBS",
-    "url": "https://bbs.neet.tv/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "hivebbs"
-    ]
-  },
-  {
     "name": "neet.moe",
     "url": "https://neet.moe/",
     "language": [
