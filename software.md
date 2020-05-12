@@ -51,7 +51,7 @@ This is a list of the software codes used in imageboard.json along with links to
     - phutaba - https://github.com/ernstchan/phutaba
     - taimaba - used by https://420chan.org/
 - tinyib - https://gitlab.com/tslocum/tinyib
-    - 0kub-tinyib - https://gitgud.io/devarped/0kun-tinyib
+    - 0kun-tinyib - https://gitgud.io/devarped/0kun-tinyib
 - doushio - https://github.com/lalcmellkmal/doushio
     - meguca - https://github.com/bakape/meguca
         - cutechan - https://github.com/cutechan/cutechan
