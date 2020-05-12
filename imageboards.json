@@ -58,6 +58,10 @@
   {
     "name": "Хайбане",
     "url": "https://haibane.ru/",
+    "mirrors": [
+      "https://haibane.ru/",
+      "http://haibanej33s4gfts.onion/"
+    ],
     "language": [
       "ru"
     ],
