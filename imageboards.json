@@ -3242,6 +3242,10 @@
       "kusaba",
       "kusabax",
       "instant-0chan"
+    ],
+    "boardlists": [
+      "http://metatorjq65tshfy.onion/boards10.json",
+      "http://metatorjq65tshfy.onion/boards20.json"
     ]
   },
   {
