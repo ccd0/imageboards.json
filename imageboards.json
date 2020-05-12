@@ -330,7 +330,8 @@
       "https://p.0chan.pl/",
       "https://www.0chan.club/",
       "https://ygg.0chan.pl/",
-      "http://[202:7668:15bf:63df:d7ee:aab7:ece:fbbb]/"
+      "http://[202:7668:15bf:63df:d7ee:aab7:ece:fbbb]/",
+      "http://0chan.ygg/"
     ],
     "language": [
       "ru"
@@ -350,6 +351,18 @@
     "software": [
       "tinyboard",
       "vichan"
+    ]
+  },
+  {
+    "name": "0kun",
+    "url": "https://www.0kun.net/",
+    "language": [
+      "ru",
+      "en"
+    ],
+    "software": [
+      "tinyib",
+      "0kun-tinyib"
     ]
   },
   {
@@ -1557,7 +1570,16 @@
     ],
     "software": [
       "kusaba",
-      "kusabax"
+      "kusabax",
+      "instant-0chan"
+    ],
+    "mirrors": [
+      "https://0chan.cc/",
+      "https://0chan-cc.ngmt.host/"
+    ],
+    "boardlists": [
+      "https://0chan.cc/boards10.json",
+      "https://0chan.cc/boards20.json"
     ]
   },
   {
