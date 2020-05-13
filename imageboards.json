@@ -2587,6 +2587,9 @@
       "https://spqrchan.xyz/",
       "http://bhlnasxdkbaoxf4gtpbhavref7l2j3bwooes77hqcacxztkindztzrad.onion/"
     ],
+    "fallbacks": [
+      "https://alogs.theguntretort.com/"
+    ],
     "language": [
       "en"
     ],
