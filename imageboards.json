@@ -3280,6 +3280,10 @@
   {
     "name": "Miskatonic Channel",
     "url": "https://m-ch.ml/",
+    "mirrors": [
+      "https://m-ch.ml/",
+      "https://chan.miskatonic.ga/"
+    ],
     "language": [
       "ru"
     ],
