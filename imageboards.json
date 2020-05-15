@@ -1194,9 +1194,10 @@
   },
   {
     "name": "Anon Social",
-    "url": "https://ibanonsocial.com/recent.html",
+    "url": "https://anonsocial.org/",
     "redirects": [
-      "https://newchan.org/"
+      "https://newchan.org/",
+      "https://ibanonsocial.com/"
     ],
     "language": [
       "en"
