@@ -2572,9 +2572,8 @@
   },
   {
     "name": "JulayWorld",
-    "url": "https://julay.world/",
+    "url": "https://spqrchan.xyz/",
     "mirrors": [
-      "https://julay.world/",
       "https://spqrchan.xyz/",
       "http://bhlnasxdkbaoxf4gtpbhavref7l2j3bwooes77hqcacxztkindztzrad.onion/"
     ],
@@ -2587,7 +2586,7 @@
     "software": [
       "lynxchan"
     ],
-    "boardlist": "https://julay.world/webring.json"
+    "boardlist": "https://spqrchan.xyz/webring.json"
   },
   {
     "name": "kabuban",
