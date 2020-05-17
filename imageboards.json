@@ -4143,17 +4143,6 @@
     ]
   },
   {
-    "name": "Samachan",
-    "url": "https://samachan.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "Scanchan",
     "url": "http://www.scanchan.net/",
     "mirrors": [
