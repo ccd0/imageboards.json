@@ -36,7 +36,7 @@ This is a list of the software codes used in imageboard.json along with links to
         - monaca - http://akahuku.dw.land.to/monaca/ (dead)
         - poti-board - http://web.archive.org/web/20170707091918/http://www.punyu.net/php/oekaki.php (downloads not archived)
 - kusaba - https://github.com/tslocum/kusaba
-    - kusabax - http://kusabax.cultnet.net/
+    - kusabax - https://sourceforge.net/projects/kusabax/
         - instant-0chan - https://gitgud.io/devarped/instant-0chan
             - kurisaba - https://github.com/makise-homura/kurisaba
         - kusaba-helma - https://github.com/altbdoor/kusaba-helma
