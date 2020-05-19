@@ -4063,6 +4063,17 @@
     ]
   },
   {
+    "name": "Revoluchan",
+    "url": "https://revoluchan.org/",
+    "language": [
+      "pt"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Rfch",
     "url": "https://rfch.rocks/",
     "mirrors": [
@@ -4545,6 +4556,13 @@
     "software": [
       "tinyboard",
       "vichan"
+    ]
+  },
+  {
+    "name": "Tchan",
+    "url": "https://www.tchan.fun/",
+    "language": [
+      "pt"
     ]
   },
   {
