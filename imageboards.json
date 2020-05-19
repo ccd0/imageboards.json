@@ -1982,16 +1982,6 @@
     "boardlist": "https://erischan.org/webring.json"
   },
   {
-    "name": "erisch.onion",
-    "url": "http://erischscwh5h74f7tcosaoq3722lpx5u4pxtnww3q5rbonvxjo2hiuid.onion/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "erischan"
-    ]
-  },
-  {
     "name": "Erlach",
     "url": "https://erlach.services/",
     "mirrors": [
@@ -2677,17 +2667,6 @@
     ]
   },
   {
-    "name": "Kemoner Club",
-    "url": "https://www.kemoner.club/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ],
-    "boardlist": "https://www.kemoner.club/index.json"
-  },
-  {
     "name": "kemono.wtako.net",
     "url": "https://kemono.wtako.net/kemono/",
     "language": [
@@ -2878,17 +2857,6 @@
       "kusabax",
       "instant-0chan",
       "kurisaba"
-    ]
-  },
-  {
-    "name": "Kusaba X",
-    "url": "http://kusabax.cultnet.net/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
     ]
   },
   {
@@ -3092,17 +3060,6 @@
       "lynxchan"
     ],
     "boardlist": "https://madochan.monster/index.json"
-  },
-  {
-    "name": "Magalichan.org",
-    "url": "https://magalichan.org/",
-    "language": [
-      "pt"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
   },
   {
     "name": "Magic",
@@ -3593,23 +3550,6 @@
     ],
     "software": [
       "tinyboard"
-    ]
-  },
-  {
-    "name": "Nordchan",
-    "url": "https://nordchan.net/",
-    "language": [
-      "en",
-      "sv",
-      "da",
-      "no",
-      "is",
-      "fo",
-      "fi"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
     ]
   },
   {
@@ -4926,13 +4866,6 @@
     "software": [
       "tinyboard",
       "vichan"
-    ]
-  },
-  {
-    "name": "Vulka",
-    "url": "https://xn--vulk-ooa.com/",
-    "language": [
-      "en"
     ]
   },
   {
