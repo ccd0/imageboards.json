@@ -64,7 +64,7 @@ This is a list of the software codes used in imageboard.json along with links to
     - jn+yyb - http://w-space.net/subcon/cgi.htm
 - kareha - https://wakaba.c3.cx/s/web/wakaba_kareha
     - bakareha - https://github.com/f2d/bakareha
-- nanochan - http://nanochanqwrwtmamtnhkfwbbcducc4i62ciss4byo6f3an5qdkhjngid.onion/source.lua
+- nanochan - http://nanochanpwz3xnue76gteysv6wjm5sim3bbcm2lc65x625at774k77qd.onion/source.lua (unofficial installation instructions: http://nanochanpwz3xnue76gteysv6wjm5sim3bbcm2lc65x625at774k77qd.onion/g/7796.html#post7822)
     - picochan - http://picochanrpzlemllkdr46tilw7b4q3bv5ipetkmty37fuqq4hjfnhwad.onion/
 - 0chan - https://github.com/klkvsk/0chan
     - ochko - https://gitgud.io/devarped/ochko
