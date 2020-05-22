@@ -2888,16 +2888,6 @@
     ]
   },
   {
-    "name": "kyber.io/matsuri",
-    "url": "https://kyber.io/matsuri",
-    "language": [
-      "no"
-    ],
-    "software": [
-      "matsuri"
-    ]
-  },
-  {
     "name": "Lainchan",
     "url": "https://lainchan.org/",
     "language": [

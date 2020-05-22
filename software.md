@@ -111,7 +111,6 @@ This is a list of the software codes used in imageboard.json along with links to
 - lapis-chan - https://github.com/karai17/lapis-chan/
 - makaba - used by https://2ch.hk/
 - maniwani - https://github.com/DangerOnTheRanger/maniwani
-- matsuri - used by https://kyber.io/matsuri
 - mayuri - used by https://horochan.ru/
 - mei - https://github.com/lulalala/mei
 - mitsuba - https://github.com/MitsubaBBS/Mitsuba
