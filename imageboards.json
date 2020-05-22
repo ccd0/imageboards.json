@@ -5128,6 +5128,16 @@
     ]
   },
   {
+    "name": "Yuichan",
+    "url": "https://yuichan.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ]
+  },
+  {
     "name": "Yumechan",
     "url": "https://yumechan.org/",
     "language": [
