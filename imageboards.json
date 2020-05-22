@@ -1344,6 +1344,17 @@
     "boardlist": "https://balkanchan.ga/index.json"
   },
   {
+    "name": "Bando Bandada",
+    "url": "https://bandada.club/",
+    "language": [
+      "es"
+    ],
+    "software": [
+      "lynxchan"
+    ],
+    "boardlist": "https://bandada.club/webring.json"
+  },
+  {
     "name": "レースシーンBBS",
     "url": "http://kdcfrp.cside.com/kdcbbs3/joyful.cgi",
     "language": [
