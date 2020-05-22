@@ -1709,6 +1709,20 @@
     ]
   },
   {
+    "name": "Coronachan",
+    "url": "https://coronachan.xyz/",
+    "mirrors": [
+      "https://coronachan.xyz/",
+      "http://coronayyjx6g65u72f2muefkhluh4r3ezmm7567zc3wyaoa3bm632zqd.onion/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ]
+  },
+  {
     "name": "crystal.cafe",
     "url": "https://crystal.cafe/",
     "language": [
@@ -4341,6 +4355,16 @@
     ]
   },
   {
+    "name": "Spacechan",
+    "url": "https://spacechan.xyz/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ]
+  },
+  {
     "name": "Spacestro",
     "url": "https://spacestro.xyz/",
     "language": [
@@ -4762,6 +4786,17 @@
     "boardlist": "https://tvch.moe/webring.json"
   },
   {
+    "name": "twchan",
+    "url": "https://boards.twchan.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "U18chan",
     "url": "https://u18chan.com/",
     "language": [
@@ -4937,6 +4972,17 @@
     ]
   },
   {
+    "name": "Wiichan",
+    "url": "https://wiichan.uwu.mx/homewii.html",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Wilchan",
     "url": "https://wilchan.org/dev/",
     "language": [
@@ -4951,6 +4997,19 @@
     ],
     "software": [
       "tinyboard"
+    ]
+  },
+  {
+    "name": "Winterchan",
+    "url": "https://winterchan.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "lainchan",
+      "winterchan"
     ]
   },
   {
