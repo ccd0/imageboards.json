@@ -3978,6 +3978,16 @@
     ]
   },
   {
+    "name": "pyib.appspot.com",
+    "url": "http://pyib.appspot.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "kumo"
+    ]
+  },
+  {
     "name": "qchan",
     "url": "http://qchan.dyndns.org/",
     "language": [
