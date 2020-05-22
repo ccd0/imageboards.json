@@ -4983,6 +4983,20 @@
     ]
   },
   {
+    "name": "Wikieat 2.0",
+    "url": "https://wikieat.club/",
+    "entrances": [
+      "http://chlomo.org/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Wilchan",
     "url": "https://wilchan.org/dev/",
     "language": [
