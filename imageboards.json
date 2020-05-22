@@ -4573,7 +4573,8 @@
     "software": [
       "tinyboard",
       "vichan"
-    ]
+    ],
+    "boardlist": "https://tengureich.com/webring.json"
   },
   {
     "name": "tereve",
