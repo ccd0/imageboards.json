@@ -5127,11 +5127,17 @@
   {
     "name": "xchan.wtf",
     "url": "https://xchan.wtf/",
+    "mirrors": [
+      "https://xchan.wtf/",
+      "https://crxss.org/"
+    ],
     "language": [
       "en"
     ],
     "software": [
-      "lynxchan"
+      "tinyboard",
+      "vichan",
+      "lainchan"
     ]
   },
   {
