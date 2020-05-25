@@ -674,6 +674,11 @@
   {
     "name": "370chan",
     "url": "https://370chan.lt/",
+    "mirrors": [
+      "https://370chan.lt/",
+      "https://370ch.lt/",
+      "https://370chan.info/"
+    ],
     "language": [
       "lt"
     ],
@@ -1402,6 +1407,11 @@
       "lynxchan"
     ],
     "boardlist": "https://bchan.net/index.json"
+  },
+  {
+    "name": "beey",
+    "url": "https://beey.space/",
+    "language": []
   },
   {
     "name": "bernd.group",
@@ -3404,6 +3414,17 @@
     ]
   },
   {
+    "name": "nagadashi chan",
+    "url": "http://g7c54d4b7yva4ktpbaabqeu2yx6axalh4gevb44afpbwm23xuuya.b32.i2p/all/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "doushio",
+      "meguca"
+    ]
+  },
+  {
     "name": "NagatoYuki/Éclair",
     "url": "https://eclair.nagatoyuki.org/",
     "language": [
@@ -3418,7 +3439,9 @@
     "name": "nanochan",
     "url": "http://nanochanpwz3xnue76gteysv6wjm5sim3bbcm2lc65x625at774k77qd.onion/",
     "redirects": [
-      "http://nanochanqwrwtmamtnhkfwbbcducc4i62ciss4byo6f3an5qdkhjngid.onion/"
+      "http://nanochanqwrwtmamtnhkfwbbcducc4i62ciss4byo6f3an5qdkhjngid.onion/",
+      "http://nanochancsvnej4vxiidu4fhpchkxffl3mgqypub63xadeetkjttavqd.onion/",
+      "http://nanochanxv2lxnqi.onion/"
     ],
     "language": [
       "en"
