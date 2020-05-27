@@ -937,7 +937,8 @@
     "url": "https://8chan.moe/",
     "mirrors": [
       "https://8chan.moe/",
-      "https://8chan.se/"
+      "https://8chan.se/",
+      "http://4usoivrpy52lmc4mgn2h34cmfiltslesthr56yttv2pxudd3dapqciyd.onion/"
     ],
     "fallbacks": [
       "http://8chan.cc/"
