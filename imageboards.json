@@ -3557,22 +3557,6 @@
     ]
   },
   {
-    "name": "ningen.dreamhosters.com",
-    "url": "http://ningen.dreamhosters.com/moe/",
-    "boardlistpages": [
-      "http://web.komica.org/bbsmenu.html",
-      "https://2cat.komica.org/"
-    ],
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat"
-    ]
-  },
-  {
     "name": "NiuChan",
     "url": "https://niuchan.org/",
     "language": [
