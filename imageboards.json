@@ -2842,7 +2842,10 @@
   },
   {
     "name": "Konatachan",
-    "url": "https://konatach.xyz/",
+    "url": "https://konatachan.org/",
+    "redirects": [
+      "http://konatach.xyz/"
+    ],
     "language": [
       "en"
     ],
