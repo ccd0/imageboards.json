@@ -3429,8 +3429,9 @@
   },
   {
     "name": "nanochan",
-    "url": "http://nanochanpwz3xnue76gteysv6wjm5sim3bbcm2lc65x625at774k77qd.onion/",
+    "url": "http://nanochanqzaytwlydykbg5nxkgyjxk3zsrctxuoxdmbx5jbh2ydyprid.onion/",
     "redirects": [
+      "http://nanochanpwz3xnue76gteysv6wjm5sim3bbcm2lc65x625at774k77qd.onion/",
       "http://nanochanqwrwtmamtnhkfwbbcducc4i62ciss4byo6f3an5qdkhjngid.onion/",
       "http://nanochancsvnej4vxiidu4fhpchkxffl3mgqypub63xadeetkjttavqd.onion/",
       "http://nanochanxv2lxnqi.onion/"
