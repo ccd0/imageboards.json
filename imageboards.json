@@ -337,6 +337,9 @@
       "http://0chan.ygg/",
       "https://ygg.0chan.pl/"
     ],
+    "redirects": [
+      "http://nullchpl673e6jo3.onion/"
+    ],
     "language": [
       "ru"
     ],
@@ -482,6 +485,9 @@
     "mirrors": [
       "https://1chan.pl/",
       "http://kolchpl6sf4t7yjf57an3gxyprqqtjm2gtvatzkcsx27uu3psssnmyad.onion/"
+    ],
+    "redirects": [
+      "http://kolchplzpprjfa7e.onion/"
     ],
     "language": [
       "ru"
@@ -3781,6 +3787,10 @@
     "language": [
       "en"
     ],
+    "mirrors": [
+      "https://paperboard.ddns.net/",
+      "http://[200:3aab:c11c:db20:f65d:5bf:9fdc:17e9]/"
+	],
     "software": [
       "tinyib"
     ]
