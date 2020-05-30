@@ -3790,7 +3790,7 @@
     "mirrors": [
       "https://paperboard.ddns.net/",
       "http://[200:3aab:c11c:db20:f65d:5bf:9fdc:17e9]/"
-	],
+    ],
     "software": [
       "tinyib"
     ]
