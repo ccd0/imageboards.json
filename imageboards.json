@@ -5203,7 +5203,8 @@
     ],
     "software": [
       "jschan"
-    ]
+    ],
+    "boardlist": "https://zchan.cc/webring.json"
   },
   {
     "name": "Ziemniaczan",
