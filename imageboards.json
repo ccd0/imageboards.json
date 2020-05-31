@@ -2840,7 +2840,8 @@
     ],
     "software": [
       "tinyboard",
-      "vichan"
+      "vichan",
+      "kissu-vi"
     ]
   },
   {
