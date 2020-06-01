@@ -340,6 +340,9 @@
     "redirects": [
       "http://nullchpl673e6jo3.onion/"
     ],
+    "fallbacks": [
+      "https://www1.0kun.net/"
+    ],
     "language": [
       "ru"
     ],
@@ -3211,7 +3214,10 @@
   },
   {
     "name": "Metator",
-    "url": "http://metatorjq65tshfy.onion/",
+    "url": "http://metatorrkdagnx2njwvnzqeclsk3qbwabr6hori4vmivj25qy6s6gsad.onion/",
+    "redirects": [
+      "http://metatorjq65tshfy.onion/"
+    ],
     "language": [
       "ru"
     ],
@@ -3221,8 +3227,8 @@
       "instant-0chan"
     ],
     "boardlists": [
-      "http://metatorjq65tshfy.onion/boards10.json",
-      "http://metatorjq65tshfy.onion/boards20.json"
+      "http://metatorrkdagnx2njwvnzqeclsk3qbwabr6hori4vmivj25qy6s6gsad.onion/boards10.json",
+      "http://metatorrkdagnx2njwvnzqeclsk3qbwabr6hori4vmivj25qy6s6gsad.onion/boards20.json"
     ]
   },
   {
