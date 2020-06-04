@@ -853,14 +853,20 @@
   },
   {
     "name": "64chan",
-    "url": "https://64ch.cc/",
+    "url": "https://64ch.net/",
+    "mirrors": [
+      "https://64ch.net/",
+      "http://ceis4dw4ttu6gpg5jl4erz4acuqrn4s5xo7gbhtwh2bwurrgwgvuarqd.onion/"
+    ],
     "language": [
       "en"
     ],
     "software": [
       "tinyboard",
-      "vichan"
-    ]
+      "vichan",
+      "infinity"
+    ],
+    "boardlist": "https://64ch.net/boards.json"
   },
   {
     "name": "64chan Bunker",
