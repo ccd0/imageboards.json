@@ -1730,8 +1730,9 @@
       "en"
     ],
     "software": [
-      "kareha"
-    ]
+      "lynxchan"
+    ],
+    "boardlist": "https://coronachan.xyz/index.json"
   },
   {
     "name": "crystal.cafe",
@@ -1976,11 +1977,12 @@
     "url": "https://endchan.net/",
     "mirrors": [
       "https://endchan.net/",
+      "https://endchan.gg/",
       "https://endchan.org/",
       "http://enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion/",
       "http://endchan5doxvprs5.onion/",
       "http://s6424n4x4bsmqs27.onion/",
-      "http://4g8bkc1ar8ubgotj1s8gdhftnrj4nxn7hrp8qkddoqhurbno6b8y.loki/",
+      "http://kqrtg5wz4qbyjprujkz33gza7r73iw3ainqp1mz5zmu16symcdwy.loki/",
       "http://psgnrs5y5aew3foaeijufd3otxmfq3cl6p2b27tekmnqxrc3kgwa.b32.i2p/",
       "http://[200:4d21:507a:b19e:7876:7b2b:774:1b77]/"
     ],
@@ -2067,6 +2069,17 @@
     "url": "https://eurochan.org/",
     "language": [
       "en"
+    ]
+  },
+  {
+    "name": "Failchan",
+    "url": "https://chan.fail/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
@@ -3091,10 +3104,6 @@
   {
     "name": "Madochan",
     "url": "https://madochan.monster/",
-    "mirrors": [
-      "https://madochan.monster/",
-      "http://madoch24jfdntn5k4ou6b7mume7rgqx4qjnze35z6coqtozooyhiueqd.onion/"
-    ],
     "language": [
       "en"
     ],
@@ -3617,7 +3626,7 @@
   },
   {
     "name": "Nuclear-IB",
-    "url": "https://nuclear-ib.com/",
+    "url": "http://nuclear-ib.com/",
     "language": [
       "en"
     ],
@@ -4279,6 +4288,10 @@
   {
     "name": "shamik.ooo",
     "url": "https://shamik.ooo/all/",
+    "mirrors": [
+      "https://shamik.ooo/",
+      "https://meguca.org/"
+    ],
     "language": [
       "en"
     ],
