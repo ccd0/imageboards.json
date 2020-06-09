@@ -93,6 +93,7 @@ This is a list of the software codes used in imageboard.json along with links to
 - aspnetchan - used by https://mlpol.cc/
 - atob - https://github.com/atobs/atob
 - bbwarps - https://github.com/shittyboard/bbwarps
+- belugachan - used by https://dolphinch.xyz/
 - brian - used by https://britfa.gs/
 - cursedboard - https://github.com/whisperchan/cursedboard / https://github.com/BigSlice/cursedboard
 - dietchan - https://gitgud.io/zuse/dietchan
