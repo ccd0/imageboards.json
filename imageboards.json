@@ -879,20 +879,6 @@
     ]
   },
   {
-    "name": "64chan.heliohost.org",
-    "url": "http://64chan.heliohost.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "futallaby",
-      "fikaba",
-      "sakomoto"
-    ]
-  },
-  {
     "name": "70chan",
     "url": "gopher://gopher.su/1/board",
     "language": [
@@ -2355,17 +2341,6 @@
   {
     "name": "grimchan",
     "url": "https://grimchan.xyz/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "Gurochan",
-    "url": "https://www.gurochan.cx/",
     "language": [
       "en"
     ],
@@ -3970,16 +3945,6 @@
     ],
     "software": [
       "emanon"
-    ]
-  },
-  {
-    "name": "povedz.to",
-    "url": "https://povedz.to/",
-    "language": [
-      "sk"
-    ],
-    "software": [
-      "lynxchan"
     ]
   },
   {
