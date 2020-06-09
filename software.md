@@ -12,8 +12,8 @@ This is a list of the software codes used in imageboard.json along with links to
             - neoboard - https://github.com/neochaner/neochan
         - lainchan - https://github.com/lainchan/lainchan
             - winterchan - https://code.acr.moe/kazari/winterchan
-        - kissu-vi - https://github.com/ECHibiki/Kissu-Vi
         - fukuro - https://github.com/twiforce/fukuro
+        - kissu-vi - https://github.com/ECHibiki/Kissu-Vi
     - ponychan - https://bitbucket.org/ponychan/ponychan-tinyboard
 - gazoubbs - http://web.archive.org/web/20170607054849/http://php.s3.to:80/bbs/bbs3.php
     - futaba - https://www.2chan.net/script/
@@ -25,8 +25,8 @@ This is a list of the software codes used in imageboard.json along with links to
             - siokara-gchan - http://web.archive.org/web/20140220052910/http://www42.atpages.jp/gscripts/ (many pages not archived)
         - futallaby - https://www.1chan.net/futallaby/
             - fikaba - https://github.com/knarka/fikaba
-                - sakomoto - https://github.com/rileyjamesbell/sakomoto
                 - 4feuilles - https://github.com/MrBn100ful/fikaba-4feuilles.org
+                - sakomoto - https://github.com/rileyjamesbell/sakomoto
             - pihaba - used by https://dva-ch.net/
             - saguaro - http://saguaroimgboard.tk/
             - yotsuba - used by https://www.4chan.org/ (unpublished)
