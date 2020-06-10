@@ -908,17 +908,6 @@
     ]
   },
   {
-    "name": "7clams",
-    "url": "http://7clams.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
-    ]
-  },
-  {
     "name": "8chan.moe",
     "url": "https://8chan.moe/",
     "mirrors": [
