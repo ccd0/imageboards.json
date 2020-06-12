@@ -853,10 +853,13 @@
   },
   {
     "name": "64chan",
-    "url": "https://64ch.net/",
+    "url": "https://64ch.me/",
     "mirrors": [
-      "https://64ch.net/",
+      "https://64ch.me/",
       "http://ceis4dw4ttu6gpg5jl4erz4acuqrn4s5xo7gbhtwh2bwurrgwgvuarqd.onion/"
+    ],
+    "redirects": [
+      "http://konatach.xyz/"
     ],
     "language": [
       "en"
@@ -866,7 +869,7 @@
       "vichan",
       "infinity"
     ],
-    "boardlist": "https://64ch.net/boards.json"
+    "boardlist": "https://64ch.me/boards.json"
   },
   {
     "name": "64chan Bunker",
