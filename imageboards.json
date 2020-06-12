@@ -882,6 +882,16 @@
     ]
   },
   {
+    "name": "6chan",
+    "url": "https://6chan.net/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ]
+  },
+  {
     "name": "70chan",
     "url": "gopher://gopher.su/1/board",
     "language": [
@@ -2129,6 +2139,21 @@
       "lynxchan"
     ],
     "boardlist": "https://fch.bet/webring.json"
+  },
+  {
+    "name": "Freech 2.0",
+    "url": "https://freech2.net/",
+    "mirrors": [
+      "https://freech2.net/",
+      "http://freech2rvtgbob52jucljackpl5jj24s3es774tjnpgdny4jo7h75dqd.onion/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ],
+    "boardlist": "https://freech2.net/index.json"
   },
   {
     "name": "Fufufu",
