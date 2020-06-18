@@ -272,22 +272,6 @@
     ]
   },
   {
-    "name": "00chan",
-    "url": "https://00chan.xyz/",
-    "mirrors": [
-      "https://00chan.xyz/",
-      "http://zerochduh4273532f7xftewvtgzqfylmeozprq5hur2eqrymg6wxfcqd.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "infinity"
-    ]
-  },
-  {
     "name": "02ch",
     "url": "https://02ch.in/all/",
     "language": [
@@ -1495,17 +1479,6 @@
       "gazoubbs",
       "futaba",
       "pixmicat"
-    ]
-  },
-  {
-    "name": "brchan",
-    "url": "https://brchan.org/",
-    "language": [
-      "pt"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
     ]
   },
   {
@@ -4843,17 +4816,6 @@
     ],
     "software": [
       "kareha"
-    ]
-  },
-  {
-    "name": "Underfoule",
-    "url": "http://underfoule.xyz/",
-    "language": [
-      "fr"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
     ]
   },
   {
