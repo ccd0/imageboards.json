@@ -1631,6 +1631,21 @@
     ]
   },
   {
+    "name": "Chantopia",
+    "url": "https://chantopia.org/",
+    "mirrors": [
+      "https://chantopia.org/",
+      "http://chtpia3bfn5xhxijvd6tmbgu6hxwed7ec67ndffzlscbl4z6mo5fq3id.onion/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ],
+    "boardlist": "https://chantopia.org/index.json"
+  },
+  {
     "name": "chaos.fm",
     "url": "https://chaos.fm/",
     "language": [
