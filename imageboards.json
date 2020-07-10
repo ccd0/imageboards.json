@@ -4637,6 +4637,20 @@
     ]
   },
   {
+    "name": "tinyib.net",
+    "url": "https://tinyib.net/",
+    "mirrors": [
+      "https://tinyib.net/",
+      "http://tinyib3eidonezb5loyenqdio63xopxlafify43o3iknh4emuuad5hqd.onion/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyib"
+    ]
+  },
+  {
     "name": "Tohno-chan",
     "url": "http://tohno-chan.com/",
     "language": [
