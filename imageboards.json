@@ -4321,6 +4321,16 @@
     ]
   },
   {
+    "name": "Slothchan",
+    "url": "https://slothchan.net/index.html",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "jschan"
+    ]
+  },
+  {
     "name": "smuglo.li",
     "url": "https://smuglo.li/a/",
     "mirrors": [
