@@ -1715,16 +1715,6 @@
     ]
   },
   {
-    "name": "Cumtown",
-    "url": "https://cumtown.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyib"
-    ]
-  },
-  {
     "name": "DameIB",
     "url": "https://dameib.net/",
     "language": [
