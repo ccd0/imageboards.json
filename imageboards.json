@@ -2227,6 +2227,16 @@
     ]
   },
   {
+    "name": "Getgle",
+    "url": "http://boards.getgle.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyib"
+    ]
+  },
+  {
     "name": "Ghostchan",
     "url": "https://ghostchan.xyz/",
     "mirrors": [
