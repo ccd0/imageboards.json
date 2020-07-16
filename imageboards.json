@@ -1424,17 +1424,6 @@
     ]
   },
   {
-    "name": "B-lokal",
-    "url": "https://www.blokal.eu/",
-    "language": [
-      "sk"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "boards.initiate.space",
     "url": "https://boards.initiate.space/",
     "language": [
