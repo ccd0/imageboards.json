@@ -977,21 +977,6 @@
     ]
   },
   {
-    "name": "9channel",
-    "url": "https://9san.ch/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "infinity",
-      "openib",
-      "reloaded"
-    ],
-    "boardlist": "https://9san.ch/boards.json"
-  },
-  {
     "name": "9chan.tw",
     "url": "https://9chan.tw/",
     "mirrors": [
@@ -1111,14 +1096,6 @@
     ],
     "software": [
       "ololord.js"
-    ]
-  },
-  {
-    "name": "allo.li",
-    "url": "https://allo.li/",
-    "language": [
-      "et",
-      "ru"
     ]
   },
   {
@@ -1434,16 +1411,6 @@
       "gazoubbs",
       "futaba",
       "futallaby"
-    ]
-  },
-  {
-    "name": "BlockChan",
-    "url": "http://blockchan.link/main",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "blockchan"
     ]
   },
   {
@@ -2396,28 +2363,6 @@
     ]
   },
   {
-    "name": "hacktics.nl",
-    "url": "https://hacktics.nl/",
-    "language": [
-      "nl",
-      "en"
-    ],
-    "software": [
-      "tinyboard"
-    ]
-  },
-  {
-    "name": "Hapachan",
-    "url": "http://hapachanzirxtxkvkd25uzabtnzqbrd2l5prmtt6hv5mmyr65oed3nqd.onion/pico",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "nanochan",
-      "picochan"
-    ]
-  },
-  {
     "name": "Hatsune.ru",
     "url": "https://hatsune.ru/",
     "language": [
@@ -2482,22 +2427,6 @@
       "kusaba",
       "kusabax"
     ]
-  },
-  {
-    "name": "Hoppe-sama",
-    "url": "https://hoppe-sama.xyz/",
-    "mirrors": [
-      "https://hoppe-sama.xyz/",
-      "http://r72y7hh2nxwnhtklls5azm6zecdahab3jh4666lg5eciwhi7rm57i3ad.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ],
-    "boardlist": "https://hoppe-sama.xyz/webring.json"
   },
   {
     "name": "Horochan",
@@ -3022,16 +2951,6 @@
     ]
   },
   {
-    "name": "LoliChurch",
-    "url": "https://chan.loli.church/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ]
-  },
-  {
     "name": "Lolifox",
     "url": "https://lolifox.cc/",
     "mirrors": [
@@ -3448,17 +3367,6 @@
     ]
   },
   {
-    "name": "nanochangkn3dxfkr5prfw76hiq3qpjyzr44m4zxbwub5f4kditlufid.onion",
-    "url": "http://nanochangkn3dxfkr5prfw76hiq3qpjyzr44m4zxbwub5f4kditlufid.onion/pico",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "nanochan",
-      "picochan"
-    ]
-  },
-  {
     "name": "Neboard X",
     "url": "https://neboard.me/",
     "mirrors": [
@@ -3585,16 +3493,6 @@
     ],
     "software": [
       "nekosrv"
-    ]
-  },
-  {
-    "name": "NoirChan",
-    "url": "https://noirchan.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard"
     ]
   },
   {
@@ -3972,13 +3870,6 @@
       "tinyboard",
       "vichan",
       "npfchan"
-    ]
-  },
-  {
-    "name": "Project Imageboard",
-    "url": "http://social-imageboard.herokuapp.com/",
-    "language": [
-      "en"
     ]
   },
   {
@@ -4573,18 +4464,6 @@
     ]
   },
   {
-    "name": "TENGU REICH",
-    "url": "https://tengureich.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ],
-    "boardlist": "https://tengureich.com/webring.json"
-  },
-  {
     "name": "tereve",
     "url": "https://46.19.36.58/",
     "language": [
@@ -4607,18 +4486,6 @@
     "name": "TGFB",
     "url": "http://tgfb.us/",
     "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "The Darkness International Imageboard",
-    "url": "http://www.darkness.epizy.com/",
-    "language": [
-      "ru",
       "en"
     ],
     "software": [
