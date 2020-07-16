@@ -5008,23 +5008,6 @@
     ]
   },
   {
-    "name": "Zchan",
-    "url": "https://zchan.cc/index.html",
-    "mirrors": [
-      "https://zchan.cc/",
-      "https://zchan.pro/",
-      "https://anonchan.pro/",
-      "https://phoenixchan.net/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "jschan"
-    ],
-    "boardlist": "https://zchan.cc/webring.json"
-  },
-  {
     "name": "Ziemniaczan",
     "url": "https://ziemniachan.altervista.org/vichan-master/",
     "language": [
