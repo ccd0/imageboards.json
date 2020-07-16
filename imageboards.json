@@ -17,6 +17,17 @@
     ]
   },
   {
+    "name": "Нічан",
+    "url": "https://nichan.net/",
+    "language": [
+      "uk"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Рисовач",
     "url": "http://risovach.ru/",
     "language": [
@@ -1292,6 +1303,17 @@
       "tinyboard",
       "vichan"
     ]
+  },
+  {
+    "name": "/baaa/chan",
+    "url": "https://baaachan.fun/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ],
+    "boardlist": "https://baaachan.fun/index.json"
   },
   {
     "name": "Balkan Chan",
