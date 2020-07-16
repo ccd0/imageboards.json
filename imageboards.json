@@ -1166,6 +1166,12 @@
   {
     "name": "anon.cafe",
     "url": "https://anon.cafe/",
+    "mirrors": [
+      "https://anon.cafe/",
+      "https://anoncafe.org/",
+      "https://anoncafe.co/",
+      "http://tew7tfz7dvv4tsom45z2wseql7kwfxnc77btftzssaskdw22oa5ckbqd.onion/"
+    ],
     "language": [
       "en"
     ],
@@ -3687,7 +3693,8 @@
     ],
     "mirrors": [
       "https://paperboard.ddns.net/",
-      "http://[200:3aab:c11c:db20:f65d:5bf:9fdc:17e9]/"
+      "http://[200:3aab:c11c:db20:f65d:5bf:9fdc:17e9]/",
+      "http://a6pyumhy5pn5louoiqevddncjjqjsr6jefskzyta6ib3jl6mammtzcid.onion/"
     ],
     "software": [
       "tinyib"
@@ -4204,6 +4211,18 @@
     ],
     "software": [
       "jschan"
+    ]
+  },
+  {
+    "name": "Sminem",
+    "url": "http://sminem.org/",
+    "mirrors": [
+      "http://sminem.org/",
+      "http://sminem3mmhzwfeyx.onion/",
+      "http://sminemxulmdmqr2miwxoitxor2lkgytsduhi7a362oudjxme3u5tp3id.onion/"
+    ],
+    "language": [
+      "en"
     ]
   },
   {
