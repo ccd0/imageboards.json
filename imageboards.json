@@ -1599,18 +1599,20 @@
   },
   {
     "name": "Chantopia",
-    "url": "https://chantopia.org/",
+    "url": "https://chantopia.net/",
     "mirrors": [
-      "https://chantopia.org/",
+      "https://chantopia.net/",
       "http://chtpia3bfn5xhxijvd6tmbgu6hxwed7ec67ndffzlscbl4z6mo5fq3id.onion/"
     ],
     "language": [
       "en"
     ],
     "software": [
-      "lynxchan"
+      "tinyboard",
+      "vichan",
+      "infinity"
     ],
-    "boardlist": "https://chantopia.org/index.json"
+    "boardlist": "https://chantopia.net/boards.json"
   },
   {
     "name": "chaos.fm",
