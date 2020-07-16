@@ -6,9 +6,8 @@ JSON endpoints:
 https://ccd0.github.io/imageboards.json/imageboards.json
 
 Archives and closed boards that it is no longer possible to post to will not be listed.
-To avoid disturbing very slow boards, sites will not be listed unless they have at least 12 posts per year.
+To avoid disturbing very slow boards, sites will not be listed unless they have at least 12 posts per year, and sites which drop below this threshold will be removed when found.
 Exceptions will be made for new sites, demo sites for imageboard software, and sites that specifically request to be added.
-I am in the process of removing very slow sites that I previously added.
 
 Codes used for the "software" field are documented at [software.md](software.md).
 
