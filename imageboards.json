@@ -1452,18 +1452,6 @@
     ]
   },
   {
-    "name": "boards.initiate.space",
-    "url": "https://boards.initiate.space/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "lainchan"
-    ]
-  },
-  {
     "name": "boguspix.com",
     "url": "https://storysol.boguspix.com/",
     "boardlistpages": [
@@ -4634,17 +4622,6 @@
     ],
     "software": [
       "doushio"
-    ]
-  },
-  {
-    "name": "Tsubasa Society",
-    "url": "https://tsubasasociety.com/ANM/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
     ]
   },
   {
