@@ -4808,17 +4808,6 @@
     ]
   },
   {
-    "name": "Wiichan",
-    "url": "https://wiichan.uwu.mx/homewii.html",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "Wikieat 2.0",
     "url": "https://wikieat.club/",
     "entrances": [
