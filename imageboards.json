@@ -1441,16 +1441,6 @@
     ]
   },
   {
-    "name": "BlockChan Canada",
-    "url": "https://blockchan.ca/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "blockchan"
-    ]
-  },
-  {
     "name": "boguspix.com",
     "url": "https://storysol.boguspix.com/",
     "boardlistpages": [
@@ -2028,17 +2018,6 @@
     "url": "https://eurochan.org/",
     "language": [
       "en"
-    ]
-  },
-  {
-    "name": "Failchan",
-    "url": "https://chan.fail/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
     ]
   },
   {
