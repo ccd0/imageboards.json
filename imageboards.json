@@ -649,10 +649,10 @@
   },
   {
     "name": "370chan",
-    "url": "https://370chan.info/",
+    "url": "https://370ch.lt/",
     "mirrors": [
-      "https://370chan.info/",
-      "https://370ch.lt/"
+      "https://370ch.lt/",
+      "https://370chan.info/"
     ],
     "language": [
       "lt"
