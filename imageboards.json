@@ -3280,6 +3280,10 @@
   {
     "name": "nagadashi chan",
     "url": "http://whiner5dxg5qcwdlluptmufvj74xafsvishfaoglnmtubvdds4wgsvqd.onion/all/",
+    "mirrors": [
+      "http://whiner5dxg5qcwdlluptmufvj74xafsvishfaoglnmtubvdds4wgsvqd.onion/all/",
+      "http://2222omrocmjwvj2lauuqwgonggvjxunhhv7vr25ens4vddl4linwsiqd.onion/all/"
+    ],
     "language": [
       "en"
     ],
