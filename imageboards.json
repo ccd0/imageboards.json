@@ -495,7 +495,7 @@
   },
   {
     "name": "2333chan",
-    "url": "http://x.998fun.com/",
+    "url": "https://x.998fun.com/",
     "language": [
       "zh"
     ],
@@ -620,7 +620,7 @@
   },
   {
     "name": "2nyan.org",
-    "url": "http://2nyan.org/",
+    "url": "https://2nyan.org/",
     "boardlistpages": [
       "https://2cat.komica.org/",
       "http://web.komica.org/bbsmenu.html",
@@ -696,10 +696,10 @@
   },
   {
     "name": "410chan",
-    "url": "http://410chan.org/",
+    "url": "https://410chan.org/",
     "mirrors": [
-      "http://410chan.org/",
-      "http://410chan.ru/"
+      "https://410chan.org/",
+      "https://410chan.ru/"
     ],
     "language": [
       "ru"
@@ -1112,7 +1112,7 @@
   },
   {
     "name": "Alphachan",
-    "url": "http://alphachan.org/",
+    "url": "https://alphachan.org/",
     "redirects": [
       "http://alphachan.ru/"
     ],
@@ -1639,7 +1639,7 @@
   },
   {
     "name": "comusume.net",
-    "url": "http://www.comusume.net/index2.html",
+    "url": "https://www.comusume.net/index2.html",
     "language": [
       "ja"
     ],
@@ -1697,7 +1697,7 @@
   },
   {
     "name": "dbfoxtw.me",
-    "url": "http://komica.dbfoxtw.me/",
+    "url": "https://komica.dbfoxtw.me/",
     "language": [
       "zh"
     ],
@@ -2198,7 +2198,7 @@
   },
   {
     "name": "Getgle",
-    "url": "http://boards.getgle.org/",
+    "url": "https://boards.getgle.org/",
     "language": [
       "en"
     ],
@@ -2316,7 +2316,7 @@
   },
   {
     "name": "heretyk.org",
-    "url": "http://heretyk.org/",
+    "url": "https://heretyk.org/",
     "language": [
       "pl"
     ],
@@ -2686,7 +2686,7 @@
   },
   {
     "name": "komica.yucie.net",
-    "url": "http://komica.yucie.net/",
+    "url": "https://komica.yucie.net/",
     "language": [
       "zh"
     ],
@@ -2698,7 +2698,7 @@
   },
   {
     "name": "Komicolle",
-    "url": "http://komicolle.org/",
+    "url": "https://komicolle.org/",
     "language": [
       "zh"
     ],
@@ -2710,7 +2710,7 @@
   },
   {
     "name": "komicolle.dreamhosters.com",
-    "url": "http://komicolle.dreamhosters.com/",
+    "url": "https://komicolle.dreamhosters.com/",
     "language": [
       "zh"
     ],
@@ -3450,7 +3450,7 @@
   },
   {
     "name": "Nuclear-IB",
-    "url": "http://nuclear-ib.com/",
+    "url": "https://nuclear-ib.com/",
     "language": [
       "en"
     ],
@@ -3779,7 +3779,7 @@
   },
   {
     "name": "Post Office",
-    "url": "http://afternoon.dynu.com/",
+    "url": "https://afternoon.dynu.com/",
     "language": [
       "en"
     ],
@@ -4136,9 +4136,9 @@
   },
   {
     "name": "Sminem",
-    "url": "http://sminem.org/",
+    "url": "https://sminem.org/",
     "mirrors": [
-      "http://sminem.org/",
+      "https://sminem.org/",
       "http://sminem3mmhzwfeyx.onion/",
       "http://sminemxulmdmqr2miwxoitxor2lkgytsduhi7a362oudjxme3u5tp3id.onion/"
     ],
@@ -4938,7 +4938,7 @@
   },
   {
     "name": "Zadraw",
-    "url": "http://www.zadraw.ch/",
+    "url": "https://www.zadraw.ch/",
     "language": [
       "ru"
     ],
