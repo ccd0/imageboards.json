@@ -2086,6 +2086,16 @@
     "boardlist": "https://freech2.net/index.json"
   },
   {
+    "name": "freon gabon",
+    "url": "http://r410a.ga/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "cafe"
+    ]
+  },
+  {
     "name": "Fufufu",
     "url": "https://fufufu.moe/a/",
     "language": [
