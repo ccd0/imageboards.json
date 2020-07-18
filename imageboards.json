@@ -3890,17 +3890,6 @@
     ]
   },
   {
-    "name": "Revoluchan",
-    "url": "https://revoluchan.org/",
-    "language": [
-      "pt"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "Rfch",
     "url": "https://rfch.rocks/",
     "mirrors": [
