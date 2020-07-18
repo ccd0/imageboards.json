@@ -8,7 +8,6 @@ This is a list of the software codes used in imageboard.json along with links to
             - bazukachan - https://github.com/27chan/bazukachan
         - infinity - https://github.com/ctrlcctrlv/infinity
             - openib - https://github.com/OpenIB/OpenIB
-                - reloaded - https://github.com/9san/OpenIB-Reloaded
             - neoboard - https://github.com/neochaner/neochan
         - lainchan - https://github.com/lainchan/lainchan
             - winterchan - https://code.acr.moe/kazari/winterchan
@@ -40,7 +39,6 @@ This is a list of the software codes used in imageboard.json along with links to
     - kusabax - https://sourceforge.net/projects/kusabax/
         - instant-0chan - https://gitgud.io/devarped/instant-0chan
             - kurisaba - https://github.com/makise-homura/kurisaba
-        - kusaba-helma - https://github.com/altbdoor/kusaba-helma
         - novovvedeniya - http://www.zloiodm.in/trs/ksb.rar
         - ponyach.ru - https://github.com/acilsd/ponyach.ru
     - serissa - http://web.archive.org/web/20090222195838/http://www.serissa.org:80/ (downloads not archived)
@@ -66,7 +64,6 @@ This is a list of the software codes used in imageboard.json along with links to
 - kareha - https://wakaba.c3.cx/s/web/wakaba_kareha
     - bakareha - https://github.com/f2d/bakareha
 - nanochan - http://nanochanqzaytwlydykbg5nxkgyjxk3zsrctxuoxdmbx5jbh2ydyprid.onion/nanochan-public.tgz (latest source.lua at http://nanochanqzaytwlydykbg5nxkgyjxk3zsrctxuoxdmbx5jbh2ydyprid.onion/source.lua)
-    - picochan - http://picochanrpzlemllkdr46tilw7b4q3bv5ipetkmty37fuqq4hjfnhwad.onion/
 - 0chan - https://github.com/klkvsk/0chan
     - ochko - https://gitgud.io/devarped/ochko
 - 1chan - https://github.com/jlbyrey/1chan
@@ -74,7 +71,6 @@ This is a list of the software codes used in imageboard.json along with links to
 - atbbs - https://sourceforge.net/projects/atbbs/
     - tinybbs - https://github.com/r04r/minichan
 - bbsnote - http://web.archive.org/web/20050116004959/http://wondercatstudio.com:80/html/download.html
-- blockchan - https://github.com/ndm-inf/F_Jannies / https://github.com/milezzz/BlockChan
 - emanon - https://github.com/oprel/emanon
 - foolfuuka - https://github.com/FoolCode/FoolFuuka
 - gopherchan - used by gopher://port70.net/1chan
@@ -92,7 +88,6 @@ This is a list of the software codes used in imageboard.json along with links to
 - apachan - https://github.com/ilvar/apachan
 - aspnetchan - used by https://mlpol.cc/
 - atob - https://github.com/atobs/atob
-- bbwarps - https://github.com/shittyboard/bbwarps
 - belugachan - used by https://dolphinch.xyz/
 - brian - used by https://britfa.gs/
 - cafe - used by http://r410a.ga/
