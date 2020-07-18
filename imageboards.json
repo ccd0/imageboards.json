@@ -441,6 +441,16 @@
     ]
   },
   {
+    "name": "19chan",
+    "url": "https://19chan.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "supremereality"
+    ]
+  },
+  {
     "name": "1chan",
     "url": "https://www.1chan.net/rail/",
     "language": [
@@ -4130,6 +4140,17 @@
     ]
   },
   {
+    "name": "Sleeping Pizza",
+    "url": "https://boards.sleeping.pizza/all/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "doushio",
+      "meguca"
+    ]
+  },
+  {
     "name": "Sminem",
     "url": "https://sminem.org/",
     "mirrors": [
@@ -4630,6 +4651,16 @@
     ],
     "software": [
       "kareha"
+    ]
+  },
+  {
+    "name": "UN FUF A DOO",
+    "url": "http://unfufadoo.net/index.html",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "jschan"
     ]
   },
   {
