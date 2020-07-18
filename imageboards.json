@@ -664,12 +664,13 @@
   },
   {
     "name": "-3chan",
-    "url": "http://dash3ch.tekcities.com/",
+    "url": "http://dash3ch.tekcities.com/b/",
     "language": [
       "en"
     ],
     "software": [
-      "kareha"
+      "tinyboard",
+      "vichan"
     ]
   },
   {
