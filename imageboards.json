@@ -1924,6 +1924,10 @@
   {
     "name": "Enrive",
     "url": "https://enrive.org/",
+    "mirrors": [
+      "https://enrive.org/",
+      "https://ccluster.com/"
+    ],
     "language": [
       "en"
     ]
