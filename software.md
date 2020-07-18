@@ -90,7 +90,7 @@ This is a list of the software codes used in imageboard.json along with links to
 - atob - https://github.com/atobs/atob
 - belugachan - used by https://dolphinch.xyz/
 - brian - used by https://britfa.gs/
-- cafe - used by http://r410a.ga/
+- cafe - https://github.com/shittyboard/cafe (software not released yet)
 - cursedboard - https://github.com/whisperchan/cursedboard / https://github.com/BigSlice/cursedboard
 - dietchan - https://gitgud.io/zuse/dietchan
 - dtn - used by https://www.imgbbs.dtn.jp/
