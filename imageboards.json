@@ -1721,6 +1721,10 @@
   {
     "name": "Dch",
     "url": "https://c.d0.cx/",
+    "mirrors": [
+      "https://c.d0.cx/",
+      "https://chan.dorper.me/"
+    ],
     "language": [
       "en"
     ]
