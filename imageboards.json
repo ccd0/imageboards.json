@@ -2470,6 +2470,16 @@
     ]
   },
   {
+    "name": "ii.yakuji.moe",
+    "url": "http://ii.yakuji.moe/",
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "wakaba"
+    ]
+  },
+  {
     "name": "Indiachan",
     "url": "https://indiachan.com/",
     "mirrors": [
@@ -3583,16 +3593,6 @@
       "gazoubbs",
       "futaba",
       "moeren"
-    ]
-  },
-  {
-    "name": "Old Home",
-    "url": "https://boards.haruhiism.net/abe/wakaba.html",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "wakaba"
     ]
   },
   {
