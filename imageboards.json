@@ -1177,10 +1177,13 @@
   },
   {
     "name": "Anon Social",
-    "url": "https://anonsocial.org/",
+    "url": "https://2020.anonimageboard.com/",
+    "entrances": [
+      "https://anonsocial.org/"
+    ],
     "redirects": [
-      "https://newchan.org/",
-      "https://ibanonsocial.com/"
+      "https://ibanonsocial.com/",
+      "https://newchan.org/"
     ],
     "language": [
       "en"
