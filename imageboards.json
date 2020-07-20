@@ -3296,24 +3296,6 @@
     ]
   },
   {
-    "name": "MyKomica",
-    "url": "https://mymoe.moe/",
-    "boardlistpages": [
-      "http://web.komica.org/bbsmenu.html",
-      "https://2cat.komica.org/",
-      "http://camiko.org/bbsmenu.htm",
-      "https://fenrisulfr.org/"
-    ],
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat"
-    ]
-  },
-  {
     "name": "nagadashi chan",
     "url": "http://whiner5dxg5qcwdlluptmufvj74xafsvishfaoglnmtubvdds4wgsvqd.onion/all/",
     "mirrors": [
