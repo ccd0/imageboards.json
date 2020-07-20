@@ -1209,6 +1209,21 @@
     "boardlist": "http://antares.oss/webring.json"
   },
   {
+    "name": "anusIB",
+    "url": "https://anusib.com/",
+    "mirrors": [
+      "https://anusib.com/",
+      "http://boards.anonib.ru/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "anzuchang.com",
     "url": "http://anzuchang.com/",
     "language": [
@@ -2098,6 +2113,21 @@
     ],
     "software": [
       "cafe"
+    ]
+  },
+  {
+    "name": "Fuck Jannies",
+    "url": "https://fuckjannies.com/",
+    "mirrors": [
+      "https://fuckjannies.com/",
+      "http://smarteam.in/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
@@ -3190,6 +3220,17 @@
     ],
     "software": [
       "wakaba"
+    ]
+  },
+  {
+    "name": "mlabs-cz.com",
+    "url": "https://mlabs-cz.com/",
+    "language": [
+      "cs"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
