@@ -283,6 +283,9 @@
   {
     "name": "02ch.su",
     "url": "http://02ch.su/",
+    "redirects": [
+      "http://xn--02-7mc.xn--p1ai/"
+    ],
     "language": [
       "ru"
     ],
