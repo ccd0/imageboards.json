@@ -3237,17 +3237,6 @@
     ]
   },
   {
-    "name": "mle.party",
-    "url": "https://mle.party/all/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "doushio",
-      "meguca"
-    ]
-  },
-  {
     "name": "MLPG.co",
     "url": "https://mlpg.co/",
     "mirrors": [
