@@ -1677,17 +1677,6 @@
     ]
   },
   {
-    "name": "Containerchan",
-    "url": "http://containerchan.org/tb/demo/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "crystal.cafe",
     "url": "https://crystal.cafe/",
     "language": [
