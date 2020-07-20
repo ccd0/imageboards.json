@@ -2511,6 +2511,17 @@
     ]
   },
   {
+    "name": "Image Board 4 Free",
+    "url": "http://imageboard4free.mooo.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Indiachan",
     "url": "https://indiachan.com/",
     "mirrors": [
@@ -4475,6 +4486,16 @@
     "language": [
       "fi",
       "en"
+    ]
+  },
+  {
+    "name": "TestIB",
+    "url": "https://va.wtf/ib/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyib"
     ]
   },
   {
