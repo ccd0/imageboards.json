@@ -957,10 +957,8 @@
     ],
     "entrances": [
       "https://8ch.net/",
+      "https://8kun.net/",
       "https://isitwetyet.com/8kun/"
-    ],
-    "redirects": [
-      "https://8kun.net/"
     ],
     "language": [
       "en"
