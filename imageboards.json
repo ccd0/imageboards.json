@@ -2541,12 +2541,30 @@
   {
     "name": "Infinity-San",
     "url": "http://infsan7uxvnwirohy55qei3hgnbkw6nqi2q4tb7xxcgoiafvmqhicjyd.onion/",
+    "mirrors": [
+      "http://infsan7uxvnwirohy55qei3hgnbkw6nqi2q4tb7xxcgoiafvmqhicjyd.onion/",
+      "http://ve5xzk2p2ekrv7ea.onion/"
+    ],
     "language": [
       "en"
     ],
     "software": [
       "tinyib",
       "desuib"
+    ]
+  },
+  {
+    "name": "Infinity-San /kareha/",
+    "url": "http://infsan7uxvnwirohy55qei3hgnbkw6nqi2q4tb7xxcgoiafvmqhicjyd.onion/kareha/",
+    "mirrors": [
+      "http://infsan7uxvnwirohy55qei3hgnbkw6nqi2q4tb7xxcgoiafvmqhicjyd.onion/",
+      "http://ve5xzk2p2ekrv7ea.onion/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "kareha"
     ]
   },
   {
