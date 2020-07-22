@@ -1921,6 +1921,16 @@
     "boardlist": "https://2ch.hk/boards.json"
   },
   {
+    "name": "Eggchan",
+    "url": "https://eggchan.net/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ]
+  },
+  {
     "name": "Endchan",
     "url": "https://endchan.net/",
     "mirrors": [
