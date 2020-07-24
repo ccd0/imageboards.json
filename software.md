@@ -71,7 +71,6 @@ This is a list of the software codes used in imageboard.json along with links to
 - atbbs - https://sourceforge.net/projects/atbbs/
     - tinybbs - https://github.com/r04r/minichan
 - bbsnote - http://web.archive.org/web/20050116004959/http://wondercatstudio.com:80/html/download.html
-- emanon - https://github.com/oprel/emanon
 - foolfuuka - https://github.com/FoolCode/FoolFuuka
 - gopherchan - used by gopher://port70.net/1chan
     - 70chan - https://github.com/sroracle/70chan
@@ -88,7 +87,6 @@ This is a list of the software codes used in imageboard.json along with links to
 - anonib-3d - https://github.com/AlexKrunch/AnonIB-3D
 - apachan - https://github.com/ilvar/apachan
 - aspnetchan - used by https://mlpol.cc/
-- atob - https://github.com/atobs/atob
 - belugachan - used by https://dolphinch.xyz/
 - brian - used by https://britfa.gs/
 - cafe - https://github.com/shittyboard/cafe (software not released yet)
