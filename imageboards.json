@@ -1436,18 +1436,6 @@
     ]
   },
   {
-    "name": "Bonzichan",
-    "url": "https://www.windows93.net/b/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "futallaby"
-    ]
-  },
-  {
     "name": "boguspix.com",
     "url": "https://storysol.boguspix.com/",
     "boardlistpages": [
@@ -1461,6 +1449,18 @@
       "gazoubbs",
       "futaba",
       "pixmicat"
+    ]
+  },
+  {
+    "name": "Bonzichan",
+    "url": "https://www.windows93.net/b/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futallaby"
     ]
   },
   {
