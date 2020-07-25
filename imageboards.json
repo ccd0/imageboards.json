@@ -2083,21 +2083,6 @@
     "boardlist": "https://fch.bet/webring.json"
   },
   {
-    "name": "Freech 2.0",
-    "url": "https://freech2.net/",
-    "mirrors": [
-      "https://freech2.net/",
-      "http://freech2rvtgbob52jucljackpl5jj24s3es774tjnpgdny4jo7h75dqd.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ],
-    "boardlist": "https://freech2.net/index.json"
-  },
-  {
     "name": "freon gabon",
     "url": "http://r410a.ga/",
     "language": [
@@ -2486,17 +2471,6 @@
     ],
     "software": [
       "wakaba"
-    ]
-  },
-  {
-    "name": "Image Board 4 Free",
-    "url": "http://imageboard4free.mooo.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
     ]
   },
   {
