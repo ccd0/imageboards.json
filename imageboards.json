@@ -1944,17 +1944,6 @@
     "boardlist": "https://endchan.net/index.json"
   },
   {
-    "name": "Enrive",
-    "url": "https://enrive.org/",
-    "mirrors": [
-      "https://enrive.org/",
-      "https://ccluster.com/"
-    ],
-    "language": [
-      "en"
-    ]
-  },
-  {
     "name": "Erischan",
     "url": "https://erischan.org/",
     "language": [
