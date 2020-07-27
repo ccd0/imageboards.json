@@ -1436,6 +1436,17 @@
     ]
   },
   {
+    "name": "Bitardsk",
+    "url": "https://chan32f103c8t6.online/kusaba.php",
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "kusaba",
+      "kusabax"
+    ]
+  },
+  {
     "name": "boguspix.com",
     "url": "https://storysol.boguspix.com/",
     "boardlistpages": [
@@ -3612,6 +3623,13 @@
     "software": [
       "kusaba",
       "kusabax"
+    ]
+  },
+  {
+    "name": "НЯШ.ORG",
+    "url": "https://nyash.org/",
+    "language": [
+      "ru"
     ]
   },
   {
