@@ -2662,6 +2662,17 @@
     ]
   },
   {
+    "name": "kind.moe",
+    "url": "https://kind.moe/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Kissu.moe",
     "url": "https://kissu.moe/",
     "language": [
