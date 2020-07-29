@@ -1428,6 +1428,10 @@
   {
     "name": "Bienvenido a Internet",
     "url": "https://bienvenidoainternet.org/",
+    "mirrors": [
+      "https://bienvenidoainternet.org/",
+      "http://bai5vj7eniqkrau5.onion/"
+    ],
     "language": [
       "es"
     ],
