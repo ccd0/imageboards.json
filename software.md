@@ -83,6 +83,7 @@ This is a list of the software codes used in imageboard.json along with links to
 - orphereus - https://orphereus.anoma.ch/
     - hanabira - used by http://dobrochan.com/ (unpublished)
 - wakarimasen - https://github.com/weedy/wakarimasen
+- 1436chan - https://github.com/kibook/1436chan
 - 4kev - https://github.com/federicoolivo/4kev
 - ace-rx - https://github.com/svmn/ace-rx
 - anonib-3d - https://github.com/AlexKrunch/AnonIB-3D
