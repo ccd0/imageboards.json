@@ -1043,18 +1043,6 @@
     ]
   },
   {
-    "name": "acgmoe.com",
-    "url": "https://doujin2.acgmoe.com/board/",
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat"
-    ]
-  },
-  {
     "name": "ACGSpace",
     "url": "http://acgspace.wsfun.com/kancolle/",
     "language": [
