@@ -26,6 +26,7 @@ This is a list of the software codes used in imageboard.json along with links to
             - fikaba - https://github.com/knarka/fikaba
                 - 4feuilles - https://github.com/MrBn100ful/fikaba-4feuilles.org
                 - sakomoto - https://github.com/rileyjamesbell/sakomoto
+            - nelliel - https://github.com/NellielProject/Nelliel
             - pihaba - used by https://dva-ch.net/
             - saguaro - http://saguaroimgboard.tk/
             - yotsuba - used by https://www.4chan.org/ (unpublished)
