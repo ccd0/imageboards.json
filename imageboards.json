@@ -4970,12 +4970,8 @@
     ]
   },
   {
-    "name": "xchan.wtf",
-    "url": "https://xchan.wtf/",
-    "mirrors": [
-      "https://xchan.wtf/",
-      "https://crxss.org/"
-    ],
+    "name": "Xchan",
+    "url": "https://crxss.org/",
     "language": [
       "en"
     ],
