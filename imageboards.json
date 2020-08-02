@@ -4611,11 +4611,7 @@
   },
   {
     "name": "Trashchan",
-    "url": "https://trashchan.fail/",
-    "mirrors": [
-      "https://trashchan.fail/",
-      "http://trashch5druvtprkwboh23t4fxxexdbh4zwbl2rxshpda6yq2cutmsyd.onion/"
-    ],
+    "url": "http://trashch5druvtprkwboh23t4fxxexdbh4zwbl2rxshpda6yq2cutmsyd.onion/",
     "language": [
       "en"
     ],
