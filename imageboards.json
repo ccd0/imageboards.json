@@ -481,6 +481,17 @@
     ]
   },
   {
+    "name": "1chan.ga",
+    "url": "https://1chan.ga/news/",
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "1chan",
+      "pierwszykanal"
+    ]
+  },
+  {
     "name": "1chan.pl",
     "url": "https://1chan.pl/news/",
     "mirrors": [
