@@ -2055,6 +2055,24 @@
     ]
   },
   {
+    "name": "firechan",
+    "url": "https://firechan.org/",
+    "mirrors": [
+      "https://firechan.org/",
+      "http://vvz4kctgebn2tcccgl43ei3dvobanph5ays3nbe2ae2kumagt7zdztid.onion/"
+    ],
+    "fallbacks": [
+      "https://110chan.org/"
+    ],
+    "language": [
+      "pt"
+    ],
+    "software": [
+      "lynxchan"
+    ],
+    "boardlist": "https://firechan.org/index.json"
+  },
+  {
     "name": "FrChan",
     "url": "https://frchan.bet/",
     "mirrors": [
