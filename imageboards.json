@@ -4315,16 +4315,6 @@
     ]
   },
   {
-    "name": "Spacechan",
-    "url": "https://spacechan.xyz/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ]
-  },
-  {
     "name": "spg-web.sytes.net/PasteChart/insect/",
     "url": "http://spg-web.sytes.net/PasteChart/insect/",
     "language": [
@@ -4496,16 +4486,6 @@
     "language": [
       "fi",
       "en"
-    ]
-  },
-  {
-    "name": "TestIB",
-    "url": "https://va.wtf/ib/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyib"
     ]
   },
   {
