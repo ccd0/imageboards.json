@@ -1,5 +1,16 @@
 [
   {
+    "name": "Белчан",
+    "url": "http://belchan.eu/",
+    "language": [
+      "be"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Даблач",
     "url": "https://www.22ch.ru/",
     "language": [
@@ -5068,6 +5079,13 @@
     "software": [
       "kusaba",
       "kusabax"
+    ]
+  },
+  {
+    "name": "Zero BBS",
+    "url": "https://bbs.iriscot.org/",
+    "language": [
+      "ru"
     ]
   },
   {
