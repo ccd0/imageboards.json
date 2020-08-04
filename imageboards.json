@@ -2589,15 +2589,15 @@
     ]
   },
   {
-    "name": "JulayWorld",
-    "url": "https://julay.world/",
+    "name": "AlogSpace",
+    "url": "https://alogs.theguntretort.com/",
     "mirrors": [
-      "https://julay.world/",
-      "https://spqrchan.xyz/",
+      "https://alogs.theguntretort.com/",
       "http://bhlnasxdkbaoxf4gtpbhavref7l2j3bwooes77hqcacxztkindztzrad.onion/"
     ],
-    "fallbacks": [
-      "https://alogs.theguntretort.com/"
+    "entrances": [
+      "https://julay.world/rebirth/",
+      "https://spqrchan.xyz/rebirth/"
     ],
     "language": [
       "en"
@@ -2605,7 +2605,7 @@
     "software": [
       "lynxchan"
     ],
-    "boardlist": "https://spqrchan.xyz/webring.json"
+    "boardlist": "https://alogs.theguntretort.com/webring.json"
   },
   {
     "name": "kabuban",
