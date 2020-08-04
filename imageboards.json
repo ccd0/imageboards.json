@@ -1117,6 +1117,25 @@
     ]
   },
   {
+    "name": "AlogSpace",
+    "url": "https://alogs.theguntretort.com/",
+    "mirrors": [
+      "https://alogs.theguntretort.com/",
+      "http://bhlnasxdkbaoxf4gtpbhavref7l2j3bwooes77hqcacxztkindztzrad.onion/"
+    ],
+    "entrances": [
+      "https://julay.world/rebirth/",
+      "https://spqrchan.xyz/rebirth/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ],
+    "boardlist": "https://alogs.theguntretort.com/webring.json"
+  },
+  {
     "name": "Alokal",
     "url": "https://alokal.eu/",
     "mirrors": [
@@ -2577,25 +2596,6 @@
       "futaba",
       "pixmicat"
     ]
-  },
-  {
-    "name": "AlogSpace",
-    "url": "https://alogs.theguntretort.com/",
-    "mirrors": [
-      "https://alogs.theguntretort.com/",
-      "http://bhlnasxdkbaoxf4gtpbhavref7l2j3bwooes77hqcacxztkindztzrad.onion/"
-    ],
-    "entrances": [
-      "https://julay.world/rebirth/",
-      "https://spqrchan.xyz/rebirth/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ],
-    "boardlist": "https://alogs.theguntretort.com/webring.json"
   },
   {
     "name": "kabuban",
