@@ -4780,6 +4780,21 @@
     ]
   },
   {
+    "name": "VIPboard",
+    "url": "https://vipboard.ddns.net/",
+    "mirrors": [
+      "https://vipboard.ddns.net/",
+      "http://vipbrd6cvyp6ysjk7cve6dxplaiunbbmevy7iww275b55urwqlitukqd.onion/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Volgach",
     "url": "https://volgach.ru/",
     "language": [
