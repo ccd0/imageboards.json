@@ -1824,6 +1824,16 @@
     ]
   },
   {
+    "name": "Diaperbooru",
+    "url": "https://diaperbooru.com/wakaba.html",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "wakaba"
+    ]
+  },
+  {
     "name": "dietchan",
     "url": "https://dietchan.org/c/",
     "language": [
