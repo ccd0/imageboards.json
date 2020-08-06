@@ -1825,12 +1825,12 @@
   },
   {
     "name": "Diaperbooru",
-    "url": "https://diaperbooru.com/wakaba.html",
+    "url": "https://diaperbooru.com/",
     "language": [
       "en"
     ],
     "software": [
-      "wakaba"
+      "tinyib"
     ]
   },
   {
