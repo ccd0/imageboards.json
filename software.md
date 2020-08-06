@@ -65,10 +65,10 @@ This is a list of the software codes used in imageboard.json along with links to
     - jn+yyb - http://w-space.net/subcon/cgi.htm
 - kareha - https://wakaba.c3.cx/s/web/wakaba_kareha
     - bakareha - https://github.com/f2d/bakareha
-- 0chan - https://github.com/klkvsk/0chan
-    - ochko - https://gitgud.io/devarped/ochko
 - 1chan - https://github.com/jlbyrey/1chan
     - pierwszykanal - https://gitgud.io/devarped/pierwszykanal
+- 0chan - https://github.com/klkvsk/0chan
+    - ochko - https://gitgud.io/devarped/ochko
 - atbbs - https://sourceforge.net/projects/atbbs/
     - tinybbs - https://github.com/r04r/minichan
 - bbsnote - http://web.archive.org/web/20050116004959/http://wondercatstudio.com:80/html/download.html
@@ -78,6 +78,7 @@ This is a list of the software codes used in imageboard.json along with links to
     - 70chan - https://github.com/sroracle/70chan
 - jschan - https://github.com/fatchan/jschan/
 - livechan - https://github.com/emgram769/livechan-js
+- nanochan - http://nanochanqzaytwlydykbg5nxkgyjxk3zsrctxuoxdmbx5jbh2ydyprid.onion/nanochan-public.tgz (latest source.lua at http://nanochanqzaytwlydykbg5nxkgyjxk3zsrctxuoxdmbx5jbh2ydyprid.onion/source.lua)
 - ochiba - http://ochiba.x-maru.org/
 - ololord.js - https://github.com/ololoepepe/ololord.js
     - tumbach - https://github.com/rngnrs/tumbach
@@ -113,7 +114,6 @@ This is a list of the software codes used in imageboard.json along with links to
 - mitsuba - https://github.com/MitsubaBBS/Mitsuba
     - haruko - https://gitgud.io/parley/Haruko
 - monaba - https://github.com/ahushh/Monaba
-- nanochan - http://nanochanqzaytwlydykbg5nxkgyjxk3zsrctxuoxdmbx5jbh2ydyprid.onion/nanochan-public.tgz (latest source.lua at http://nanochanqzaytwlydykbg5nxkgyjxk3zsrctxuoxdmbx5jbh2ydyprid.onion/source.lua)
 - neboard5 - https://bitbucket.org/neko259/neboard5/src/master/
 - nekosrv - https://gitgud.io/cathugger/nksrv / https://github.com/cathugger/nksrv/
 - overmind - used by http://kanal4.org/
