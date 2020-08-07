@@ -1212,13 +1212,9 @@
   },
   {
     "name": "Anon Social",
-    "url": "https://anonimageboard.com/",
+    "url": "https://anonimageboards.com/",
     "entrances": [
-      "https://anonsocial.org/"
-    ],
-    "redirects": [
-      "https://ibanonsocial.com/",
-      "https://newchan.org/"
+      "https://anonme.la/"
     ],
     "language": [
       "en"
