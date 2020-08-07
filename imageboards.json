@@ -962,6 +962,10 @@
   {
     "name": "8channel",
     "url": "https://8channel.org/",
+    "mirrors": [
+      "https://8channel.org/",
+      "http://eightchgaw4nnxcn66nszcgxzzvpjxnlfdv7djaxx5tcw25xlpyfjaqd.onion/"
+    ],
     "language": [
       "en"
     ],
