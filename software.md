@@ -8,6 +8,7 @@ This is a list of the software codes used in imageboard.json along with links to
             - bazukachan - https://github.com/27chan/bazukachan
         - infinity - https://github.com/ctrlcctrlv/infinity
             - openib - https://github.com/OpenIB/OpenIB
+                - reloaded - https://github.com/9san/OpenIB-Reloaded
             - neoboard - https://github.com/neochaner/neochan
         - lainchan - https://github.com/lainchan/lainchan
             - winterchan - https://code.acr.moe/kazari/winterchan
