@@ -4318,6 +4318,10 @@
   {
     "name": "Son Gönderiler",
     "url": "https://tahta.ch/",
+    "mirrors": [
+      "https://tahta.ch/",
+      "https://tahta.se/"
+    ],
     "language": [
       "tr"
     ],
