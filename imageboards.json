@@ -5124,5 +5124,15 @@
       "kusabax",
       "novovvedeniya"
     ]
+  },
+  {
+    "name": "zzzchan",
+    "url": "https://zzzchan.xyz/index.html",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "jschan"
+    ]
   }
 ]
