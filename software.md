@@ -68,6 +68,7 @@ This is a list of the software codes used in imageboard.json along with links to
     - bakareha - https://github.com/f2d/bakareha
 - 1chan - https://github.com/jlbyrey/1chan
     - pierwszykanal - https://gitgud.io/devarped/pierwszykanal
+- jschan - https://github.com/fatchan/jschan/
 - 0chan - https://github.com/klkvsk/0chan
     - ochko - https://gitgud.io/devarped/ochko
 - atbbs - https://sourceforge.net/projects/atbbs/
@@ -77,7 +78,6 @@ This is a list of the software codes used in imageboard.json along with links to
 - foolfuuka - https://github.com/FoolCode/FoolFuuka
 - gopherchan - used by gopher://port70.net/1chan
     - 70chan - https://github.com/sroracle/70chan
-- jschan - https://github.com/fatchan/jschan/
 - livechan - https://github.com/emgram769/livechan-js
 - nanochan - http://nanochanqzaytwlydykbg5nxkgyjxk3zsrctxuoxdmbx5jbh2ydyprid.onion/nanochan-public.tgz (latest source.lua at http://nanochanqzaytwlydykbg5nxkgyjxk3zsrctxuoxdmbx5jbh2ydyprid.onion/source.lua)
 - ochiba - http://ochiba.x-maru.org/
