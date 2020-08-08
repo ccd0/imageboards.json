@@ -25,6 +25,7 @@ https://imageboards.net/
 
 Other lists that may be of interest:
 * https://bvffalo.land/
+* https://socialwiki.top/wiki/Imageboards
 * http://overchan.net/
 * http://www.1ch.us/
 * https://allchans.org/
