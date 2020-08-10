@@ -962,7 +962,10 @@
   },
   {
     "name": "8channel",
-    "url": "https://8channel.org/",
+    "url": "https://8channel.cat/",
+    "entrances": [
+      "https://8channel.neocities.org/"
+    ],
     "language": [
       "en"
     ],
