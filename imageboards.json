@@ -3405,12 +3405,14 @@
   },
   {
     "name": "nagadashi chan",
-    "url": "http://whiner5dxg5qcwdlluptmufvj74xafsvishfaoglnmtubvdds4wgsvqd.onion/all/",
+    "url": "http://sexualjthwu5pbofyjtw2fo4ktz6ob5qq5crnqqbqlqrkc6osreouqid.onion/all/",
     "mirrors": [
-      "http://whiner5dxg5qcwdlluptmufvj74xafsvishfaoglnmtubvdds4wgsvqd.onion/",
-      "http://2222omrocmjwvj2lauuqwgonggvjxunhhv7vr25ens4vddl4linwsiqd.onion/",
       "http://sexualjthwu5pbofyjtw2fo4ktz6ob5qq5crnqqbqlqrkc6osreouqid.onion/",
+      "http://2222omrocmjwvj2lauuqwgonggvjxunhhv7vr25ens4vddl4linwsiqd.onion/",
       "http://g7c54d4b7yva4ktpbaabqeu2yx6axalh4gevb44afpbwm23xuuya.b32.i2p/"
+    ],
+    "redirects": [
+      "http://whiner5dxg5qcwdlluptmufvj74xafsvishfaoglnmtubvdds4wgsvqd.onion/"
     ],
     "language": [
       "en"
