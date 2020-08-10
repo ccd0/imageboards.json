@@ -4272,6 +4272,17 @@
     ]
   },
   {
+    "name": "Site de Marde",
+    "url": "https://4chan.ca/sdm/",
+    "language": [
+      "fr"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Sleeping Pizza",
     "url": "https://boards.sleeping.pizza/all/",
     "language": [
