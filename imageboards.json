@@ -1841,7 +1841,9 @@
       "en"
     ],
     "software": [
-      "tinyib"
+      "tinyboard",
+      "vichan",
+      "lainchan"
     ]
   },
   {
