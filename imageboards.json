@@ -2494,6 +2494,17 @@
     ]
   },
   {
+    "name": "ib.acxyz.ca",
+    "url": "https://ib.acxyz.ca/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "i-bbs",
     "url": "http://i-bbs.sijex.net/",
     "language": [
@@ -3616,6 +3627,17 @@
     ],
     "software": [
       "wakaba"
+    ]
+  },
+  {
+    "name": "nu-mos.com",
+    "url": "http://nu-mos.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
