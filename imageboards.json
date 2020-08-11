@@ -954,6 +954,9 @@
     "entrances": [
       "https://8channel.neocities.org/"
     ],
+    "redirects": [
+      "https://8chnl.net/"
+    ],
     "language": [
       "en"
     ],
