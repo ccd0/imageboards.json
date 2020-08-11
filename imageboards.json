@@ -4062,16 +4062,6 @@
     ]
   },
   {
-    "name": "RikChan",
-    "url": "https://rikchan.pythonanywhere.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "rikchan"
-    ]
-  },
-  {
     "name": "RitaChan",
     "url": "http://rita.null/",
     "language": [
