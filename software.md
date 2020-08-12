@@ -52,7 +52,6 @@ This is a list of the software codes used in imageboard.json along with links to
     - phutaba - https://gitlab.com/ernstchan/phutaba
     - taimaba - used by https://420chan.org/
 - tinyib - https://gitlab.com/tslocum/tinyib
-    - 0kun-tinyib - https://gitgud.io/devarped/0kun-tinyib
     - desuib - http://infsan7uxvnwirohy55qei3hgnbkw6nqi2q4tb7xxcgoiafvmqhicjyd.onion/script/
 - doushio - https://github.com/lalcmellkmal/doushio
     - meguca - https://github.com/bakape/meguca
@@ -120,7 +119,6 @@ This is a list of the software codes used in imageboard.json along with links to
 - overmind - used by http://kanal4.org/
 - purplish - https://github.com/Shirakumo/purplish
 - rb-79 - https://repo.or.cz/rb-79.git
-- rikchan - https://github.com/hrik2001/RikChan
 - supremereality - https://github.com/8b2eef7c901269e8e9a6ec532d57b6b1/supremereality
 - weabot - used by https://bienvenidoainternet.org/
 - webpatio - http://www.kent-web.com/bbs/patio.html
