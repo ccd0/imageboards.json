@@ -1969,12 +1969,13 @@
   },
   {
     "name": "Eggchan",
-    "url": "https://eggchan.net/",
+    "url": "https://eggchan.net/all/",
     "language": [
       "en"
     ],
     "software": [
-      "lynxchan"
+      "doushio",
+      "meguca"
     ]
   },
   {
