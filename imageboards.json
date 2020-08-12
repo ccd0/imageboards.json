@@ -3107,17 +3107,6 @@
     ]
   },
   {
-    "name": "Madochan",
-    "url": "https://madochan.monster/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ],
-    "boardlist": "https://madochan.monster/index.json"
-  },
-  {
     "name": "Magic",
     "url": "https://gensou.chakai.org/magic/",
     "language": [
