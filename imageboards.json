@@ -1972,13 +1972,12 @@
   },
   {
     "name": "Eggchan",
-    "url": "https://eggchan.net/all/",
+    "url": "https://eggchan.net/",
     "language": [
       "en"
     ],
     "software": [
-      "doushio",
-      "meguca"
+      "tinyib"
     ]
   },
   {
