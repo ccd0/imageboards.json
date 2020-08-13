@@ -2580,16 +2580,6 @@
     ]
   },
   {
-    "name": "Imperial Repository",
-    "url": "http://rnkfkmxa7mjubuwpwetwhfkogtljhsusrq2lnnubxfn7fyj4w6lsosqd.onion/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "nanochan"
-    ]
-  },
-  {
     "name": "Indiachan",
     "url": "https://indiachan.com/",
     "mirrors": [
