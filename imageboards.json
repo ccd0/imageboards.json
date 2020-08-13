@@ -2549,6 +2549,18 @@
     ]
   },
   {
+    "name": "iichan.cf",
+    "url": "https://iichan.cf/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "futabawall"
+    ]
+  },
+  {
     "name": "ii.yakuji.moe",
     "url": "http://ii.yakuji.moe/",
     "language": [
