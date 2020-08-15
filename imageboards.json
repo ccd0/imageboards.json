@@ -4818,17 +4818,6 @@
     ]
   },
   {
-    "name": "vgchan",
-    "url": "https://vgchan.org/all/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "doushio",
-      "meguca"
-    ]
-  },
-  {
     "name": "VHSCHAN",
     "url": "https://vhschan.org/",
     "language": [
