@@ -4680,17 +4680,6 @@
     ]
   },
   {
-    "name": "trchan",
-    "url": "https://www.trchan.org/",
-    "language": [
-      "tr"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "tripchan",
     "url": "https://tripchan.org/att/",
     "language": [
