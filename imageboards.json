@@ -1520,21 +1520,6 @@
     ]
   },
   {
-    "name": "btards",
-    "url": "https://btards.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "infinity",
-      "openib",
-      "reloaded"
-    ],
-    "boardlist": "https://btards.com/boards.json"
-  },
-  {
     "name": "Bunbunmaru",
     "url": "http://bunbunmaru.com/wakaba/",
     "language": [
