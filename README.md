@@ -11,9 +11,11 @@ Exceptions will be made for new sites, demo sites for imageboard software, and s
 
 Codes used for the "software" field are documented at [software.md](software.md).
 
-The "mirrors" field describes alternate ways of accessing the site. It does not include URLs that merely redirect to the main URL. It is an array in the following format:
+The "mirrors" field describes alternate ways of accessing the site with substantially the same interface. It does not include URLs that merely redirect to the main URL. It is an array in the following format:
 * The first element is a part of the site URL ("url" field) and of other URLs (e.g. "boardlist"), usually the protocol and domain part.
 * Subsequent elements are what the first element should be replaced with to reach corresponding pages on the site's mirrors.
+
+The "interfaces" field describes alternate ways of accessing the site with substantially different interfaces.
 
 The "entrances", "redirects", and "fallbacks" fields are arrays containing various types of alternate URLs for the site.
 * "entrances" are sites that contain links to the main site.
