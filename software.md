@@ -8,7 +8,6 @@ This is a list of the software codes used in imageboard.json along with links to
             - bazukachan - https://github.com/27chan/bazukachan
         - infinity - https://github.com/ctrlcctrlv/infinity
             - openib - https://github.com/OpenIB/OpenIB
-                - reloaded - https://github.com/9san/OpenIB-Reloaded
             - neoboard - https://github.com/neochaner/neochan
         - lainchan - https://github.com/lainchan/lainchan
             - winterchan - https://code.acr.moe/kazari/winterchan
@@ -33,7 +32,6 @@ This is a list of the software codes used in imageboard.json along with links to
         - moeren - http://siokara.que.jp/siokara_board2.shtml (mirrored from http://web.archive.org/web/20050508021815/http://moepic.dip.jp/gazo/script/index.php)
         - futaba-gchan - http://web.archive.org/web/20140220052910/http://www42.atpages.jp/gscripts/ (many pages not archived)
             - kabuban - used by http://www.kabuban.net/
-        - futabawall - https://github.com/403chan/FutabaWall
         - kenjiweb - http://web.archive.org/web/20071013052850/http://www.kenjiweb.com/ (downloads not archived)
         - monaca - http://akahuku.dw.land.to/monaca/ (dead)
         - poti-board - http://web.archive.org/web/20170707091918/http://www.punyu.net/php/oekaki.php (downloads not archived)
