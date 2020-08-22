@@ -78,6 +78,7 @@ This is a list of the software codes used in imageboard.json along with links to
     - 70chan - https://github.com/sroracle/70chan
 - livechan - https://github.com/emgram769/livechan-js
 - nanochan - http://nanochanqzaytwlydykbg5nxkgyjxk3zsrctxuoxdmbx5jbh2ydyprid.onion/nanochan-public.tgz (latest source.lua at http://nanochanqzaytwlydykbg5nxkgyjxk3zsrctxuoxdmbx5jbh2ydyprid.onion/source.lua)
+    - picochan - https://github.com/vxiiduu/picochan
 - ochiba - http://ochiba.x-maru.org/
 - ololord.js - https://github.com/ololoepepe/ololord.js
     - tumbach - https://github.com/rngnrs/tumbach
