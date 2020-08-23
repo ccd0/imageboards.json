@@ -268,6 +268,26 @@
     ]
   },
   {
+    "name": "딥웹코리아",
+    "url": "https://dwkor.com/게시판/",
+    "language": [
+      "ko"
+    ],
+    "software": [
+      "kboard"
+    ]
+  },
+  {
+    "name": "차단우회 연구소",
+    "url": "https://govbunker.xyz/board/",
+    "language": [
+      "ko"
+    ],
+    "software": [
+      "kboard"
+    ]
+  },
+  {
     "name": "ＡＺＵＣＯちゃんねる",
     "url": "https://azuco.sakura.ne.jp/kareha/",
     "redirects": [
@@ -2746,6 +2766,16 @@
       "gazoubbs",
       "futaba",
       "pixmicat"
+    ]
+  },
+  {
+    "name": "KBoard 데모",
+    "url": "https://www.cosmosfarm.com/demo/",
+    "language": [
+      "ko"
+    ],
+    "software": [
+      "kboard"
     ]
   },
   {

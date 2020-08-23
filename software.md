@@ -69,6 +69,7 @@ This is a list of the software codes used in imageboard.json along with links to
     - picochan - https://github.com/vxiiduu/picochan
 - 1chan - https://github.com/jlbyrey/1chan
     - pierwszykanal - https://gitgud.io/devarped/pierwszykanal
+- kboard - https://www.cosmosfarm.com/products/kboard
 - 0chan - https://github.com/klkvsk/0chan
     - ochko - https://gitgud.io/devarped/ochko
 - atbbs - https://sourceforge.net/projects/atbbs/
