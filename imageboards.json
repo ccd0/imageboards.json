@@ -2006,6 +2006,10 @@
   {
     "name": "Eggchan",
     "url": "https://eggchan.net/",
+    "mirrors": [
+      "https://eggchan.net/",
+      "http://eggchan2mqzuhlapd5a34vzovrayol47vf53aey2uypbn7b5n4s7kfqd.onion/"
+    ],
     "language": [
       "en"
     ],
