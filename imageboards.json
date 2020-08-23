@@ -1774,6 +1774,16 @@
     ]
   },
   {
+    "name": "DeaChan",
+    "url": "http://si3ejlflofkhujlhtqomonsznjmcrnv5auld7irjyyuaxugxd5wdjvad.onion/",
+    "language": [
+      "it"
+    ],
+    "software": [
+      "tinyib"
+    ]
+  },
+  {
     "name": "Demo imageboard",
     "url": "http://demoboard.eu3.org/",
     "language": [
@@ -4915,6 +4925,16 @@
     "software": [
       "tinyboard",
       "vichan"
+    ]
+  },
+  {
+    "name": "Weißkohlchan",
+    "url": "http://refwl63b7pd5cta3hm5fp4dvmmiuagtldfyeghwgi2ip66eklho7nsqd.onion/",
+    "language": [
+      "de"
+    ],
+    "software": [
+      "tinyib"
     ]
   },
   {
