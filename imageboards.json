@@ -2653,21 +2653,6 @@
     ]
   },
   {
-    "name": "Infinity-San /kareha/",
-    "url": "http://infsan7uxvnwirohy55qei3hgnbkw6nqi2q4tb7xxcgoiafvmqhicjyd.onion/kareha/",
-    "mirrors": [
-      "http://infsan7uxvnwirohy55qei3hgnbkw6nqi2q4tb7xxcgoiafvmqhicjyd.onion/",
-      "http://mr5o4b4vtqmzyor2.onion/",
-      "http://ve5xzk2p2ekrv7ea.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "kareha"
-    ]
-  },
-  {
     "name": "Intern3ts",
     "url": "https://www.intern3ts.com/",
     "language": [
