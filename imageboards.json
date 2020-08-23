@@ -4378,6 +4378,17 @@
     "boardlist": "https://smuglo.li/webring.json"
   },
   {
+    "name": "Snowchan",
+    "url": "http://wlztysxymdumpzjmp4lkcggpavbeso43d5rlfgaptxftf5uw4ar3ydyd.onion/b/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyib",
+      "desuib"
+    ]
+  },
+  {
     "name": "snow-sugar.net",
     "url": "https://tsukisiro.snow-sugar.net/iyasi/",
     "boardlistpages": [
