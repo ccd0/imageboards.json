@@ -555,6 +555,17 @@
     ]
   },
   {
+    "name": "28chan",
+    "url": "https://28chan.hopto.org/board/",
+    "language": [
+      "en",
+      "es"
+    ],
+    "software": [
+      "tinyib"
+    ]
+  },
+  {
     "name": "2cat",
     "url": "https://2cat.komica.org/",
     "boardlistpages": [
@@ -5187,17 +5198,6 @@
     ],
     "software": [
       "jschan"
-    ]
-  },
-   {
-    "name": "28chan",
-    "url": "https://28chan.hopto.org/board/",
-    "language": [
-      "en",
-      "es"
-    ],
-    "software": [
-      "tinyib"
     ]
   }
 ]
