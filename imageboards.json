@@ -2560,13 +2560,19 @@
     ]
   },
   {
-    "name": "iichan.cf",
-    "url": "https://iichan.cf/",
+    "name": "64chan.cf",
+    "url": "https://64chan.cf/board/",
+    "mirrors": [
+      "https://64chan.cf/",
+      "https://iichan.cf/"
+    ],
     "language": [
       "en"
     ],
     "software": [
-      "wakaba"
+      "tinyboard",
+      "vichan",
+      "kissu-vi"
     ]
   },
   {
