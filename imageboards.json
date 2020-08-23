@@ -2640,6 +2640,7 @@
     "url": "http://infsan7uxvnwirohy55qei3hgnbkw6nqi2q4tb7xxcgoiafvmqhicjyd.onion/",
     "mirrors": [
       "http://infsan7uxvnwirohy55qei3hgnbkw6nqi2q4tb7xxcgoiafvmqhicjyd.onion/",
+      "http://infsan7lch6eyzvbbw6653623acouugks7nn6sqzkretk2o7srphxhyd.onion/",
       "http://mr5o4b4vtqmzyor2.onion/",
       "http://ve5xzk2p2ekrv7ea.onion/"
     ],
@@ -3499,6 +3500,10 @@
   {
     "name": "nanochang",
     "url": "http://nanochangkn3dxfkr5prfw76hiq3qpjyzr44m4zxbwub5f4kditlufid.onion/",
+    "mirrors": [
+      "http://nanochangkn3dxfkr5prfw76hiq3qpjyzr44m4zxbwub5f4kditlufid.onion/",
+      "http://nanochan5hrrhxtb.onion/"
+    ],
     "language": [
       "en"
     ],
