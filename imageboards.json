@@ -937,22 +937,6 @@
     ]
   },
   {
-    "name": "64chan.cf",
-    "url": "https://64chan.cf/board/",
-    "mirrors": [
-      "https://64chan.cf/",
-      "https://iichan.cf/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "kissu-vi"
-    ]
-  },
-  {
     "name": "6chan",
     "url": "https://6chan.net/",
     "language": [
