@@ -3211,20 +3211,18 @@
       "tinyboard"
     ]
   },
-  
-    {
+  {
     "name": "ManChan",
     "url": "https://www.infringirino.com/",
     "language": [
       "en"
     ],
     "software": [
-      "vichan",
       "tinyboard",
-      "original kissu"
+      "vichan",
+      "kissu-vi"
     ]
   },
-  
   {
     "name": "Math PBBS",
     "url": "https://holy-fairytale.ssl-lolipop.jp/cgi-bin/m-pbbs/m-pbbs.cgi",
