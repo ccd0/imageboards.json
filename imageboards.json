@@ -3234,6 +3234,18 @@
     ]
   },
   {
+    "name": "ManChan",
+    "url": "https://www.infringirino.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "kissu-vi"
+    ]
+  },
+  {
     "name": "Math PBBS",
     "url": "https://holy-fairytale.ssl-lolipop.jp/cgi-bin/m-pbbs/m-pbbs.cgi",
     "language": [
