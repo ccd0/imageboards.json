@@ -46,12 +46,12 @@ This is a list of the software codes used in imageboard.json along with links to
         - fbe-410 - https://bitbucket.org/Therapont/fbe-410
 - lynxchan - https://gitgud.io/LynxChan/LynxChan
     - infinitynow - https://gitgud.io/groups/InfinityNow
-- tinyib - https://gitlab.com/tslocum/tinyib
-    - desuib - http://infsan7uxvnwirohy55qei3hgnbkw6nqi2q4tb7xxcgoiafvmqhicjyd.onion/script/
 - wakaba - https://wakaba.c3.cx/s/web/wakaba_kareha
     - wakaba++ - described at https://www.lurkmore.com/view/Wakaba++ but appears to be unpublished
     - phutaba - https://gitlab.com/ernstchan/phutaba
     - taimaba - used by https://420chan.org/
+- tinyib - https://gitlab.com/tslocum/tinyib
+    - desuib - http://infsan7uxvnwirohy55qei3hgnbkw6nqi2q4tb7xxcgoiafvmqhicjyd.onion/script/
 - doushio - https://github.com/lalcmellkmal/doushio
     - meguca - https://github.com/bakape/meguca
         - cutechan - https://github.com/cutechan/cutechan
@@ -63,12 +63,12 @@ This is a list of the software codes used in imageboard.json along with links to
         - joyful2chme - www.supra.cx/joyful2chMe/index.html
     - jn+yyb - http://w-space.net/subcon/cgi.htm
 - jschan - https://github.com/fatchan/jschan/
-- kareha - https://wakaba.c3.cx/s/web/wakaba_kareha
-    - bakareha - https://github.com/f2d/bakareha
 - nanochan - http://nanochanqzaytwlydykbg5nxkgyjxk3zsrctxuoxdmbx5jbh2ydyprid.onion/nanochan-public.tgz (latest source.lua at http://nanochanqzaytwlydykbg5nxkgyjxk3zsrctxuoxdmbx5jbh2ydyprid.onion/source.lua)
     - picochan - https://github.com/vxiiduu/picochan
 - 1chan - https://github.com/jlbyrey/1chan
     - pierwszykanal - https://gitgud.io/devarped/pierwszykanal
+- kareha - https://wakaba.c3.cx/s/web/wakaba_kareha
+    - bakareha - https://github.com/f2d/bakareha
 - kboard - https://www.cosmosfarm.com/products/kboard
 - 0chan - https://github.com/klkvsk/0chan
     - ochko - https://gitgud.io/devarped/ochko
