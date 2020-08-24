@@ -387,6 +387,18 @@
     ]
   },
   {
+    "name": "0kun",
+    "url": "https://www.0kun.net/",
+    "language": [
+      "ru",
+      "en"
+    ],
+    "software": [
+      "tinyib",
+      "0kun-tinyib"
+    ]
+  },
+  {
     "name": "100gazou",
     "url": "http://www.100gazou.com/all_link.html",
     "language": [
