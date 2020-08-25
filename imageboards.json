@@ -949,6 +949,23 @@
     ]
   },
   {
+    "name": "64chan.cf",
+    "url": "https://64chan.cf/test/",
+    "mirrors": [
+      "https://64chan.cf/",
+      "https://iichan.cf/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "pixmicat",
+      "yotsubanome"
+    ]
+  },
+  {
     "name": "6chan",
     "url": "https://6chan.net/",
     "language": [
