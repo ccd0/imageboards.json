@@ -320,7 +320,7 @@
   },
   {
     "name": "02ch.su",
-    "url": "http://02ch.su/",
+    "url": "https://02ch.su/",
     "redirects": [
       "http://xn--02-7mc.xn--p1ai/"
     ],
@@ -609,7 +609,7 @@
     "url": "https://2cat.komica.org/",
     "boardlistpages": [
       "https://2cat.komica.org/",
-      "http://web.komica.org/bbsmenu.html"
+      "https://web.komica.org/bbsmenu.html"
     ],
     "language": [
       "zh"
@@ -704,7 +704,7 @@
     ],
     "boardlistpages": [
       "https://2cat.komica.org/",
-      "http://web.komica.org/bbsmenu.html",
+      "https://web.komica.org/bbsmenu.html",
       "https://komica2.net/mainmenu2018.html"
     ],
     "language": [
@@ -873,7 +873,7 @@
       "http://4kekspassjutjjjo.onion/"
     ],
     "redirects": [
-      "http://4keksride3l75xmr.onion/4keks/"
+      "http://4keksride3l75xmr.onion/"
     ],
     "language": [
       "en"
@@ -925,7 +925,6 @@
       "http://ceis4dw4ttu6gpg5jl4erz4acuqrn4s5xo7gbhtwh2bwurrgwgvuarqd.onion/"
     ],
     "redirects": [
-      "http://64ch.net/",
       "http://konatach.xyz/"
     ],
     "language": [
@@ -1562,7 +1561,7 @@
     "name": "boguspix.com",
     "url": "http://storysol.boguspix.com/",
     "boardlistpages": [
-      "http://web.komica.org/bbsmenu.html",
+      "https://web.komica.org/bbsmenu.html",
       "https://komica2.net/mainmenu2018.html"
     ],
     "language": [
@@ -2164,6 +2163,16 @@
     ]
   },
   {
+    "name": "fatchan",
+    "url": "http://qga4iyo7rp3kjhwvbkdo6vxeuo4r2suq4fygkwbsw7hve7cykwgrdpyd.onion/index.html",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "jschan"
+    ]
+  },
+  {
     "name": "Fchan",
     "url": "http://fchan.us/",
     "language": [
@@ -2358,6 +2367,9 @@
   {
     "name": "Gay NEETs from Outer Space",
     "url": "https://gnfos.com/jp/",
+    "redirects": [	
+      "http://bombch.us/Ba3n"	
+    ],	
     "language": [
       "en"
     ],
@@ -2474,7 +2486,7 @@
     "name": "gzone-anime.info/UnitedSites/",
     "url": "http://gzone-anime.info/UnitedSites/academic/",
     "boardlistpages": [
-      "http://web.komica.org/bbsmenu.html",
+      "https://web.komica.org/bbsmenu.html",
       "https://2cat.komica.org/"
     ],
     "language": [
@@ -2552,7 +2564,7 @@
   },
   {
     "name": "hotta.saloon.jp",
-    "url": "http://hotta.saloon.jp/lnk/ass71/ass71.cgi",
+    "url": "http://hotta.saloon.jp/lnk/ass7-1/ass81.cgi",
     "language": [
       "ja"
     ]
@@ -2733,7 +2745,7 @@
     "url": "http://www.kagaminerin.org/fps/",
     "boardlistpages": [
       "http://www.kagaminerin.org/fps/pixmicat.php?res=84598",
-      "http://web.komica.org/bbsmenu.html",
+      "https://web.komica.org/bbsmenu.html",
       "https://2cat.komica.org/"
     ],
     "language": [
@@ -2776,7 +2788,7 @@
     "name": "karlsland.net",
     "url": "http://www.karlsland.net/sw/",
     "boardlistpages": [
-      "http://web.komica.org/bbsmenu.html",
+      "https://web.komica.org/bbsmenu.html",
       "https://2cat.komica.org/"
     ],
     "language": [
@@ -2883,9 +2895,9 @@
   },
   {
     "name": "Komica",
-    "url": "http://web.komica.org/",
+    "url": "https://web.komica.org/",
     "boardlistpages": [
-      "http://web.komica.org/bbsmenu.html",
+      "https://web.komica.org/bbsmenu.html",
       "https://2cat.komica.org/"
     ],
     "language": [
@@ -2913,7 +2925,7 @@
     "name": "komica.peroneko.org",
     "url": "https://komica.peroneko.org/minecraft/",
     "boardlistpages": [
-      "http://web.komica.org/bbsmenu.html",
+      "https://web.komica.org/bbsmenu.html",
       "https://2cat.komica.org/",
       "https://komica2.net/bbsmenu2018.html"
     ],
@@ -3338,6 +3350,9 @@
   {
     "name": "Minichan",
     "url": "https://minichan.org/",
+    "redirects": [	
+      "http://anontalk.com/"	
+    ],
     "language": [
       "en"
     ],
@@ -3436,7 +3451,7 @@
     "name": "moecorner.com/iboards/",
     "url": "http://moecorner.com/iboards/Relationship/",
     "boardlistpages": [
-      "http://web.komica.org/bbsmenu.html",
+      "https://web.komica.org/bbsmenu.html",
       "https://2cat.komica.org/"
     ],
     "language": [
@@ -4040,7 +4055,7 @@
     ]
   },
   {
-    "name": "Post Office",
+    "name": "Post Office Photoboard",
     "url": "https://afternoon.dynu.com/photo.html",
     "language": [
       "en"
@@ -4445,7 +4460,7 @@
     "name": "snow-sugar.net",
     "url": "https://tsukisiro.snow-sugar.net/iyasi/",
     "boardlistpages": [
-      "http://web.komica.org/bbsmenu.html",
+      "https://web.komica.org/bbsmenu.html",
       "https://2cat.komica.org/",
       "https://imgboard.snow-sugar.net/"
     ],
@@ -4643,16 +4658,6 @@
     "language": [
       "fi",
       "en"
-    ]
-  },
-  {
-    "name": "testchan",
-    "url": "http://qga4iyo7rp3kjhwvbkdo6vxeuo4r2suq4fygkwbsw7hve7cykwgrdpyd.onion/index.html",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "jschan"
     ]
   },
   {
@@ -5121,7 +5126,7 @@
   },
   {
     "name": "wowhk.org",
-    "url": "http://www.wowhk.org/",
+    "url": "https://www.wowhk.org/",
     "language": [
       "zh"
     ],
@@ -5254,6 +5259,9 @@
   {
     "name": "zzzchan",
     "url": "https://zzzchan.xyz/index.html",
+    "redirects": [	
+      "https://zchan.pro/"	
+    ],
     "language": [
       "en"
     ],
