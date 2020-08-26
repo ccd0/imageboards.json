@@ -94,7 +94,6 @@ This is a list of the software codes used in imageboard.json along with links to
 - apachan - https://github.com/ilvar/apachan
 - aspnetchan - used by https://mlpol.cc/
 - brian - used by https://britfa.gs/
-- cafe - https://github.com/shittyboard/cafe (software not released yet)
 - cursedboard - https://github.com/whisperchan/cursedboard / https://github.com/BigSlice/cursedboard
 - dietchan - https://gitgud.io/zuse/dietchan
 - dtn - used by https://www.imgbbs.dtn.jp/
