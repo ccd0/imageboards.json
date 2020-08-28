@@ -949,7 +949,7 @@
   },
   {
     "name": "64chan.cf",
-    "url": "https://64chan.cf/test/",
+    "url": "https://64chan.cf/board/",
     "mirrors": [
       "https://64chan.cf/",
       "https://iichan.cf/"
@@ -960,8 +960,8 @@
     "software": [
       "gazoubbs",
       "futaba",
-      "pixmicat",
-      "yotsubanome"
+      "futallaby",
+      "fikaba"
     ]
   },
   {
