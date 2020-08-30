@@ -4010,7 +4010,11 @@
   },
   {
     "name": "PossumLand",
-    "url": "http://wnkrienrdb4wmoi3zyh7a3rflambfm4zk2zfct75kwbwajjocoegryid.onion/",
+    "url": "http://possum7qbhyuipcpaydyfd47zxufy3urmdttu3d3es36euggg62yfeid.onion/",
+    "mirrors": [
+      "http://possum7qbhyuipcpaydyfd47zxufy3urmdttu3d3es36euggg62yfeid.onion/",
+      "http://wnkrienrdb4wmoi3zyh7a3rflambfm4zk2zfct75kwbwajjocoegryid.onion/"
+    ],
     "language": [
       "en"
     ],
