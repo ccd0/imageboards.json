@@ -3861,13 +3861,13 @@
   {
     "name": "PaperChan",
     "url": "https://paperboard.ddns.net/",
-    "language": [
-      "en"
-    ],
     "mirrors": [
       "https://paperboard.ddns.net/",
       "http://[200:3aab:c11c:db20:f65d:5bf:9fdc:17e9]/",
       "http://a6pyumhy5pn5louoiqevddncjjqjsr6jefskzyta6ib3jl6mammtzcid.onion/"
+    ],
+    "language": [
+      "en"
     ],
     "software": [
       "tinyib"
