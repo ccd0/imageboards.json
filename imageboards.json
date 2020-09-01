@@ -2442,8 +2442,12 @@
     ]
   },
   {
-    "name": "grimchan",
+    "name": "Grimchan",
     "url": "https://grimchan.xyz/",
+    "mirrors": [
+      "https://grimchan.xyz/",
+      "http://outerch.ga/"
+    ],
     "language": [
       "en"
     ],
@@ -3822,17 +3826,6 @@
     "software": [
       "gazoubbs",
       "futaba"
-    ]
-  },
-  {
-    "name": "Outerchan",
-    "url": "https://outerch.ga/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
     ]
   },
   {
