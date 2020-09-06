@@ -2392,20 +2392,6 @@
     ]
   },
   {
-    "name": "Getgle",
-    "url": "https://boards.getgle.org/",
-    "mirrors": [
-      "https://boards.getgle.org/",
-      "https://fuck4chan.com/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyib"
-    ]
-  },
-  {
     "name": "GirlsChannel",
     "url": "https://girlschannel.net/",
     "language": [
