@@ -26,8 +26,8 @@ A third-party human-readable version of this list:
 https://imageboards.net/
 
 Other lists that may be of interest:
-* https://bvffalo.land/
 * https://socialwiki.top/wiki/Imageboards
+* https://bvffalo.land/the-rest/
 * http://overchan.net/
 * http://www.1ch.us/
 * https://allchans.org/
