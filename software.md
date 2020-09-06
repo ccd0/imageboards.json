@@ -56,6 +56,7 @@ This is a list of the software codes used in imageboard.json along with links to
 - doushio - https://github.com/lalcmellkmal/doushio
     - meguca - https://github.com/bakape/meguca
         - cutechan - https://github.com/cutechan/cutechan
+        - ffmboard - https://github.com/filteredfm/ffmboard
         - tetuca - https://github.com/nekto-nekto/tetuca
 - joyfulnote - http://www.kent-web.com/bbs/joyful.html
     - joyfulnote-isso - http://web.archive.org/web/20100417062303/http://swanbay-web.hp.infoseek.co.jp:80/joyful/index.html (downloads not archived)

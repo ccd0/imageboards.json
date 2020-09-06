@@ -460,6 +460,16 @@
     ]
   },
   {
+    "name": "149.56.217.207",
+    "url": "http://149.56.217.207/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyib"
+    ]
+  },
+  {
     "name": "1500chan",
     "url": "https://1500chan.org/",
     "language": [
@@ -2198,6 +2208,18 @@
     ]
   },
   {
+    "name": "filtered.fm",
+    "url": "https://filtered.fm/all/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "doushio",
+      "meguca",
+      "ffmboard"
+    ]
+  },
+  {
     "name": "Finalchan",
     "url": "https://finalchan.net/",
     "language": [
@@ -2646,6 +2668,16 @@
     ],
     "software": [
       "nanochan"
+    ]
+  },
+  {
+    "name": "inch.esy.es",
+    "url": "http://inch.esy.es/b/",
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "tinyib"
     ]
   },
   {
@@ -3244,6 +3276,16 @@
       "tinyboard",
       "vichan",
       "kissu-vi"
+    ]
+  },
+  {
+    "name": "Martwy",
+    "url": "http://trumienka.eu5.net/",
+    "language": [
+      "pl"
+    ],
+    "software": [
+      "tinyib"
     ]
   },
   {
@@ -3891,6 +3933,17 @@
     ]
   },
   {
+    "name": "Pin board",
+    "url": "http://93.50.194.9/imageboard/",
+    "language": [
+      "it",
+      "en"
+    ],
+    "software": [
+      "tinyib"
+    ]
+  },
+  {
     "name": "画像掲示板PINKのとら",
     "url": "http://www.pinknotora.net/main.html",
     "language": [
@@ -4477,6 +4530,16 @@
       "vichan"
     ],
     "boardlist": "https://sportschan.org/webring.json"
+  },
+  {
+    "name": "Sărăcean",
+    "url": "https://saracean.com/b/",
+    "language": [
+      "ro"
+    ],
+    "software": [
+      "tinyib"
+    ]
   },
   {
     "name": "Stevenchan",
@@ -5129,6 +5192,17 @@
     ]
   },
   {
+    "name": "yohanan.hosting-israel.co.il",
+    "url": "http://yohanan.hosting-israel.co.il/vichan-master/b/",
+    "language": [
+      "pl"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "もみぞう /ytb/",
     "url": "http://momi6.momi3.net/ytb/",
     "language": [
@@ -5184,6 +5258,17 @@
     "url": "https://bbs.iriscot.org/",
     "language": [
       "ru"
+    ]
+  },
+  {
+    "name": "zerochan",
+    "url": "http://zerochan.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
