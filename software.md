@@ -94,6 +94,7 @@ This is a list of the software codes used in imageboard.json along with links to
 - anonib-3d - https://github.com/AlexKrunch/AnonIB-3D
 - apachan - https://github.com/ilvar/apachan
 - aspnetchan - used by https://mlpol.cc/
+- belugachan - used by http://yue4y26z5oha2r56mprtappzambddvbtu6wwopizarbfgz7fmbcmq7ad.onion/
 - brian - used by https://britfa.gs/
 - cursedboard - https://github.com/whisperchan/cursedboard / https://github.com/BigSlice/cursedboard
 - dietchan - https://gitgud.io/zuse/dietchan
