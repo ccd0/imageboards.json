@@ -1380,20 +1380,6 @@
     ]
   },
   {
-    "name": "Astrochan",
-    "url": "https://astrochan.net/",
-    "mirrors": [
-      "https://astrochan.net/",
-      "http://cukfagsxcwswlgkkxeb5uwpqc53cyjzlt4qpzs7xbtl6mwb4pkprgoad.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ]
-  },
-  {
     "name": "Atenszon",
     "url": "https://atenszon.net/b/",
     "language": [
