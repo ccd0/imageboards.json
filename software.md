@@ -65,13 +65,13 @@ This is a list of the software codes used in imageboard.json along with links to
         - joyful2chme - www.supra.cx/joyful2chMe/index.html
     - jn+yyb - http://w-space.net/subcon/cgi.htm
 - jschan - https://github.com/fatchan/jschan/
-- nanochan - http://nanochanqzaytwlydykbg5nxkgyjxk3zsrctxuoxdmbx5jbh2ydyprid.onion/nanochan-public.tgz (latest source.lua at http://nanochanqzaytwlydykbg5nxkgyjxk3zsrctxuoxdmbx5jbh2ydyprid.onion/source.lua)
-    - picochan - https://github.com/vxiiduu/picochan
 - 1chan - https://github.com/jlbyrey/1chan
     - pierwszykanal - https://gitgud.io/devarped/pierwszykanal
 - kareha - https://wakaba.c3.cx/s/web/wakaba_kareha
     - bakareha - https://github.com/f2d/bakareha
 - kboard - https://www.cosmosfarm.com/products/kboard
+- nanochan - http://nanochanqzaytwlydykbg5nxkgyjxk3zsrctxuoxdmbx5jbh2ydyprid.onion/nanochan-public.tgz (latest source.lua at http://nanochanqzaytwlydykbg5nxkgyjxk3zsrctxuoxdmbx5jbh2ydyprid.onion/source.lua)
+    - picochan - https://github.com/vxiiduu/picochan
 - 0chan - https://github.com/klkvsk/0chan
     - ochko - https://gitgud.io/devarped/ochko
 - atbbs - https://sourceforge.net/projects/atbbs/
