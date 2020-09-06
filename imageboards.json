@@ -1427,17 +1427,6 @@
     ]
   },
   {
-    "name": "/baaa/chan",
-    "url": "https://baaachan.fun/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ],
-    "boardlist": "https://baaachan.fun/index.json"
-  },
-  {
     "name": "Balkan Chan",
     "url": "https://4biz.xyz/",
     "mirrors": [
@@ -4785,16 +4774,6 @@
       "gazoubbs",
       "futaba",
       "pixmicat"
-    ]
-  },
-  {
-    "name": "tripchan",
-    "url": "https://tripchan.org/att/",
-    "language": [
-      "pt"
-    ],
-    "software": [
-      "doushio"
     ]
   },
   {
