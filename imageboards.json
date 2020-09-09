@@ -1279,9 +1279,12 @@
   },
   {
     "name": "Anon Social",
-    "url": "https://anonimageboards.com/",
+    "url": "https://boards.anonreloaded.com/",
     "entrances": [
       "https://anonme.la/"
+    ],
+    "redirects": [
+      "https://anonimageboards.com/"
     ],
     "language": [
       "en"
