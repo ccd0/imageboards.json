@@ -2222,11 +2222,9 @@
     "url": "https://frchan.bet/",
     "mirrors": [
       "https://frchan.bet/",
+      "https://fch.bet/",
       "http://fchantpaey5or245.onion/",
       "http://frchano4z7wr37nlzogiboypoc7hvwrtskkexk2chtjmbioysevmetad.onion/"
-    ],
-    "redirects": [
-      "https://fch.bet/"
     ],
     "language": [
       "fr"
