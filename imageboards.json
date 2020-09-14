@@ -518,17 +518,6 @@
     ]
   },
   {
-    "name": "1chan.ga",
-    "url": "https://1chan.ga/news/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "1chan",
-      "pierwszykanal"
-    ]
-  },
-  {
     "name": "1chan.pl",
     "url": "https://1chan.pl/news/",
     "mirrors": [
@@ -5050,19 +5039,6 @@
     ],
     "software": [
       "tinyboard"
-    ]
-  },
-  {
-    "name": "Winterchan",
-    "url": "https://winterchan.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "lainchan",
-      "winterchan"
     ]
   },
   {
