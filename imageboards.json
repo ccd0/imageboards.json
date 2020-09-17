@@ -2145,21 +2145,6 @@
     ]
   },
   {
-    "name": "jschan",
-    "url": "https://fatchan.org/index.html",
-    "mirrors": [
-      "https://fatchan.org/",
-      "https://fatpeople.lol/",
-      "http://qga4iyo7rp3kjhwvbkdo6vxeuo4r2suq4fygkwbsw7hve7cykwgrdpyd.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "jschan"
-    ]
-  },
-  {
     "name": "Fchan",
     "url": "http://fchan.us/",
     "language": [
@@ -2700,6 +2685,21 @@
       "gazoubbs",
       "futaba",
       "pixmicat"
+    ]
+  },
+  {
+    "name": "jschan",
+    "url": "https://fatchan.org/index.html",
+    "mirrors": [
+      "https://fatchan.org/",
+      "https://fatpeople.lol/",
+      "http://qga4iyo7rp3kjhwvbkdo6vxeuo4r2suq4fygkwbsw7hve7cykwgrdpyd.onion/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "jschan"
     ]
   },
   {
