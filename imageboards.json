@@ -5238,6 +5238,7 @@
     ],
     "software": [
       "jschan"
-    ]
+    ],
+    "boardlist": "https://zzzchan.xyz/webring.json"
   }
 ]
