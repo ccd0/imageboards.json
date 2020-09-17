@@ -6,10 +6,10 @@ This is a list of the software codes used in imageboard.json along with links to
     - vichan - https://github.com/vichan-devel/vichan/
         - npfchan - https://github.com/fallenPineapple/NPFchan
             - bazukachan - https://github.com/27chan/bazukachan
-        - lainchan - https://github.com/lainchan/lainchan
         - infinity - https://github.com/ctrlcctrlv/infinity
             - openib - https://github.com/OpenIB/OpenIB
             - neoboard - https://github.com/neochaner/neochan
+        - lainchan - https://github.com/lainchan/lainchan
         - kissu-vi - https://github.com/ECHibiki/Kissu-Vi
         - fukuro - https://github.com/twiforce/fukuro
     - ponychan - https://bitbucket.org/ponychan/ponychan-tinyboard
@@ -65,8 +65,6 @@ This is a list of the software codes used in imageboard.json along with links to
         - joyful2chme - www.supra.cx/joyful2chMe/index.html
     - jn+yyb - http://w-space.net/subcon/cgi.htm
 - jschan - https://github.com/fatchan/jschan/
-- 1chan - https://github.com/jlbyrey/1chan
-    - pierwszykanal - https://gitgud.io/devarped/pierwszykanal
 - kareha - https://wakaba.c3.cx/s/web/wakaba_kareha
     - bakareha - https://github.com/f2d/bakareha
 - kboard - https://www.cosmosfarm.com/products/kboard
@@ -74,6 +72,8 @@ This is a list of the software codes used in imageboard.json along with links to
     - picochan - https://github.com/vxiiduu/picochan
 - 0chan - https://github.com/klkvsk/0chan
     - ochko - https://gitgud.io/devarped/ochko
+- 1chan - https://github.com/jlbyrey/1chan
+    - pierwszykanal - https://gitgud.io/devarped/pierwszykanal
 - atbbs - https://sourceforge.net/projects/atbbs/
     - tinybbs - https://github.com/r04r/minichan
 - bbsnote - http://web.archive.org/web/20050116004959/http://wondercatstudio.com:80/html/download.html
