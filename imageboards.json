@@ -938,18 +938,14 @@
     ]
   },
   {
-    "name": "64chan.cf",
-    "url": "https://64chan.cf/board/",
-    "mirrors": [
-      "https://64chan.cf/",
-      "https://iichan.cf/"
-    ],
+    "name": "64chan.ga",
+    "url": "http://64chan.ga/desuib/",
     "language": [
       "en"
     ],
     "software": [
-      "tinyboard",
-      "vichan"
+      "tinyib",
+      "desuib"
     ]
   },
   {
