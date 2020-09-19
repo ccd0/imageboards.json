@@ -989,12 +989,15 @@
   },
   {
     "name": "8chan.moe",
-    "url": "https://8chan.moe/",
+    "url": "https://8ch.moe/",
     "mirrors": [
-      "https://8chan.moe/",
-      "https://8chan.se/",
+      "https://8ch.moe/",
       "https://redchannit.net/",
+      "https://redchannit.org/",
       "http://4usoivrpy52lmc4mgn2h34cmfiltslesthr56yttv2pxudd3dapqciyd.onion/"
+    ],
+    "redirects": [
+      "http://8chan.moe/"
     ],
     "fallbacks": [
       "http://8chan.cc/"
