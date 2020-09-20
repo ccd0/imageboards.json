@@ -4684,10 +4684,10 @@
   },
   {
     "name": "Torodvach",
-    "url": "http://76dqlkbo4ffj475k.onion/",
+    "url": "http://exzho67ozpdadzcif6vna5y2i2jbcl32rerdrdyuu3b7lcfajqme55id.onion/",
     "mirrors": [
-      "http://76dqlkbo4ffj475k.onion/",
       "http://exzho67ozpdadzcif6vna5y2i2jbcl32rerdrdyuu3b7lcfajqme55id.onion/",
+      "http://76dqlkbo4ffj475k.onion/",
       "http://2ch.i2p/",
       "http://suzp44odgixf5lthy5ngy6ktabus5gz47squie2shudi6kmlwuaq.b32.i2p/"
     ],
