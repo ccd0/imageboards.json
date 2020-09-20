@@ -4667,7 +4667,11 @@
   },
   {
     "name": "Torilauta",
-    "url": "http://hss33mlbykbsxmug.onion/",
+    "url": "http://rflj2y2sqf4du7imfe6yjt5hhbjytbbfsp3tvqhzasls3tyauevvseyd.onion/",
+    "mirrors": [
+      "http://rflj2y2sqf4du7imfe6yjt5hhbjytbbfsp3tvqhzasls3tyauevvseyd.onion/",
+      "http://hss33mlbykbsxmug.onion/"
+    ],
     "language": [
       "fi"
     ],
