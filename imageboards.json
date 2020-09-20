@@ -1590,6 +1590,9 @@
   {
     "name": "Bunkerchan",
     "url": "https://bunkerchan.xyz/",
+    "redirects": [
+      "http://leftypol.org/"
+    ],
     "language": [
       "en"
     ],
