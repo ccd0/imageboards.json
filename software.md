@@ -121,7 +121,6 @@ This is a list of the software codes used in imageboard.json along with links to
 - overmind - used by http://kanal4.org/
 - purplish - https://github.com/Shirakumo/purplish
 - rb-79 - https://repo.or.cz/rb-79.git
-- supremereality - https://github.com/8b2eef7c901269e8e9a6ec532d57b6b1/supremereality
 - weabot - used by https://bienvenidoainternet.org/
 - webpatio - http://www.kent-web.com/bbs/patio.html
     - webpatio-kirishima - http://kirishima.it/patio/
