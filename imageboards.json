@@ -4363,7 +4363,9 @@
       "https://smuglo.li/",
       "http://bhm5koavobq353j54qichcvzr6uhtri6x4bjjy4xkybgvxkzuslzcqid.onion/",
       "https://notso.smuglo.li/",
-      "https://smugloli.net/",
+      "https://smugloli.net/"
+    ],
+    "fallbacks": [
       "https://smug.nepu.moe/"
     ],
     "language": [
