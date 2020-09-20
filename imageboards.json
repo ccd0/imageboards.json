@@ -4298,6 +4298,16 @@
     ]
   },
   {
+    "name": "ShitpostChan",
+    "url": "https://chan.funshitposting.xyz/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyib"
+    ]
+  },
+  {
     "name": "Sibirchan",
     "url": "https://sibirchan.ru/",
     "language": [
