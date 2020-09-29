@@ -1265,7 +1265,10 @@
       "https://anonme.la/"
     ],
     "redirects": [
-      "https://anonimageboards.com/"
+      "https://iboards.org/",
+      "https://anonme.org/",
+      "https://anonimageboards.com/",
+      "https://anonimageboard.com/"
     ],
     "language": [
       "en"
