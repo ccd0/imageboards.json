@@ -4387,6 +4387,9 @@
   {
     "name": "soyjak.party",
     "url": "https://soyjak.party/",
+    "redirects": [
+      "https://basedjak.party/"
+    ],
     "language": [
       "en"
     ],
