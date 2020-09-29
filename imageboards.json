@@ -3046,6 +3046,17 @@
     ]
   },
   {
+    "name": "Lizchan",
+    "url": "https://lizchan.top/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Lolcow",
     "url": "https://lolcow.farm/",
     "language": [
