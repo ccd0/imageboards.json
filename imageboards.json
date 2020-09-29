@@ -1867,18 +1867,6 @@
     ]
   },
   {
-    "name": "Diaperbooru",
-    "url": "https://diaperbooru.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "lainchan"
-    ]
-  },
-  {
     "name": "dietchan",
     "url": "https://dietchan.org/c/",
     "language": [
@@ -4235,16 +4223,6 @@
     "software": [
       "tinyboard",
       "vichan"
-    ]
-  },
-  {
-    "name": "Sepulcharium",
-    "url": "https://sepulcharium.tk/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "wakaba"
     ]
   },
   {
