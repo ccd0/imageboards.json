@@ -1696,23 +1696,6 @@
     ]
   },
   {
-    "name": "Chantopia",
-    "url": "https://chantopia.net/",
-    "mirrors": [
-      "https://chantopia.net/",
-      "http://ha2z6khgxjhs4daebfigjkbn2arz2bwzitnmft5qwmztmb5nov52hoyd.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "infinity"
-    ],
-    "boardlist": "https://chantopia.net/boards.json"
-  },
-  {
     "name": "chaos.fm",
     "url": "https://chaos.fm/",
     "language": [
