@@ -28,7 +28,6 @@ https://imageboards.net/
 Other lists that may be of interest:
 * https://socialwiki.top/wiki/Imageboards
 * https://bvffalo.land/the-rest/
-* http://overchan.net/
 * http://www.1ch.us/
 * https://allchans.org/
 * http://overchan.ru/
