@@ -904,7 +904,6 @@
       "http://ceis4dw4ttu6gpg5jl4erz4acuqrn4s5xo7gbhtwh2bwurrgwgvuarqd.onion/"
     ],
     "redirects": [
-      "https://64ch.net",
       "http://konatach.xyz/"
     ],
     "language": [
@@ -2636,7 +2635,6 @@
     "url": "https://fatchan.org/index.html",
     "mirrors": [
       "https://fatchan.org/",
-      "https://fatpeople.lol/",
       "http://qga4iyo7rp3kjhwvbkdo6vxeuo4r2suq4fygkwbsw7hve7cykwgrdpyd.onion/"
     ],
     "language": [
@@ -4712,6 +4710,10 @@
   {
     "name": "Touhou Project Imageboard",
     "url": "https://www.touhou-project.com/",
+    "mirrors": [
+      "https://www.touhou-project.com/",
+      "https://www.thp.moe/"
+    ],
     "language": [
       "en"
     ],
