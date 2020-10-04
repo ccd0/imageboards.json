@@ -2635,7 +2635,13 @@
     "url": "https://fatchan.org/index.html",
     "mirrors": [
       "https://fatchan.org/",
-      "http://qga4iyo7rp3kjhwvbkdo6vxeuo4r2suq4fygkwbsw7hve7cykwgrdpyd.onion/"
+      "https://fatchan.net/",
+      "https://fatchan.top/",
+      "https://fatchan.tw/",
+      "https://fatchan.ru/",
+      "https://fatchan.li/",
+      "https://fatchan.is/",
+      "http://uupw57ljeuazndzwglfum2zrebucsk3vfprikus5rbyyelmh54lte5yd.onion/"
     ],
     "language": [
       "en"
