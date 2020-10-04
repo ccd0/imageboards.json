@@ -103,6 +103,7 @@ This is a list of the software codes used in imageboard.json along with links to
 - ib4f - formerly used by http://web.archive.org/web/20101108033202/http://imageboard4free.com:80/
 - imgboard - http://www.big.or.jp/~talk/t-club/soft/index.html
 - infinity-next - https://github.com/infinity-next/infinity-next
+- jard - https://github.com/njuro/jard
 - koba - used by https://boards.plus4chan.org/
 - kotatsu - https://gitlab.com/ison2/kotatsu
 - kropyva - https://gitlab.com/Kropyva

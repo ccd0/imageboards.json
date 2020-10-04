@@ -2619,6 +2619,16 @@
     ]
   },
   {
+    "name": "jard",
+    "url": "https://jard.buzz/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "jard"
+    ]
+  },
+  {
     "name": "Jormungandr",
     "url": "https://jormungandr.info/",
     "language": [
