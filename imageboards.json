@@ -355,12 +355,13 @@
       "http://nullplctggmjazqcoboc2pw5anogckczzj6xo45ukrnsaxarpswu7sid.onion/",
       "http://0pl.i2p/",
       "http://gd7qe2pu2jwqabz4zcf3wwablrzym7p6qswczoapkm5oa5ouuaua.b32.i2p/",
-      "http://[202:7668:15bf:63df:d7ee:aab7:ece:fbbb]/",
+      "http://[225:55:9ebf:1709:7b1f:a315:1119:6eff]/",
       "http://0chan.ygg/",
       "https://ygg.0chan.pl/"
     ],
     "redirects": [
-      "http://nullchpl673e6jo3.onion/"
+      "http://nullchpl673e6jo3.onion/",
+      "http://[202:7668:15bf:63df:d7ee:aab7:ece:fbbb]/"
     ],
     "fallbacks": [
       "https://www1.0kun.net/"
