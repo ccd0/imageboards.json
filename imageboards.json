@@ -4814,6 +4814,17 @@
     ]
   },
   {
+    "name": "trashchan",
+    "url": "https://trashchan.xyz/index.html",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "jschan"
+    ],
+    "boardlist": "https://trashchan.xyz/webring.json"
+  },
+  {
     "name": "travel.voidfactory.com",
     "url": "https://travel.voidfactory.com/",
     "language": [
