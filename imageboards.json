@@ -897,6 +897,17 @@
     ]
   },
   {
+    "name": "56chan",
+    "url": "https://56chan.org/",
+    "language": [
+      "pt"
+    ],
+    "software": [
+      "lynxchan"
+    ],
+    "boardlist": "https://56chan.org/index.json"
+  },
+  {
     "name": "64chan",
     "url": "https://64ch.me/",
     "mirrors": [
