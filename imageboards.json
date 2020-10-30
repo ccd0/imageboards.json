@@ -2482,6 +2482,17 @@
     ]
   },
   {
+    "name": "Hispasexy",
+    "url": "https://www.hispasexy.org/",
+    "language": [
+      "es"
+    ],
+    "software": [
+      "kusaba",
+      "kusabax"
+    ]
+  },
+  {
     "name": "Horochan",
     "url": "https://horochan.ru/b",
     "language": [
@@ -3037,6 +3048,18 @@
       "lynxchan"
     ],
     "boardlist": "https://late.city/webring.json"
+  },
+  {
+    "name": "Latinchan",
+    "url": "https://www.latinchan.org/",
+    "language": [
+      "es"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "arisuchan"
+    ]
   },
   {
     "name": "Lenachan",

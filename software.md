@@ -11,6 +11,7 @@ This is a list of the software codes used in imageboard.json along with links to
             - neoboard - https://github.com/neochaner/neochan
         - lainchan - https://github.com/lainchan/lainchan
         - kissu-vi - https://github.com/ECHibiki/Kissu-Vi
+        - arisuchan - https://github.com/arisu-dev/arisuchan
         - fukuro - https://github.com/twiforce/fukuro
     - ponychan - https://bitbucket.org/ponychan/ponychan-tinyboard
 - gazoubbs - http://web.archive.org/web/20170607054849/http://php.s3.to:80/bbs/bbs3.php
