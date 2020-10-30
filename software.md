@@ -54,9 +54,9 @@ This is a list of the software codes used in imageboard.json along with links to
     - taimaba - used by https://420chan.org/
 - doushio - https://github.com/lalcmellkmal/doushio
     - meguca - https://github.com/bakape/meguca
+        - ffmboard - formerly at https://github.com/filteredfm/ffmboard
         - 2chen - formerly at https://github.com/chuuloves/2chen
         - cutechan - https://github.com/cutechan/cutechan
-        - ffmboard - formerly at https://github.com/filteredfm/ffmboard
         - tetuca - https://github.com/nekto-nekto/tetuca
 - joyfulnote - http://www.kent-web.com/bbs/joyful.html
     - joyfulnote-isso - http://web.archive.org/web/20100417062303/http://swanbay-web.hp.infoseek.co.jp:80/joyful/index.html (downloads not archived)
@@ -67,9 +67,8 @@ This is a list of the software codes used in imageboard.json along with links to
 - jschan - https://github.com/fatchan/jschan/
 - kareha - https://wakaba.c3.cx/s/web/wakaba_kareha
     - bakareha - https://github.com/f2d/bakareha
+- foolfuuka - https://github.com/FoolCode/FoolFuuka
 - kboard - https://www.cosmosfarm.com/products/kboard
-- nanochan - http://nanochanqzaytwlydykbg5nxkgyjxk3zsrctxuoxdmbx5jbh2ydyprid.onion/nanochan-public.tgz (latest source.lua at http://nanochanqzaytwlydykbg5nxkgyjxk3zsrctxuoxdmbx5jbh2ydyprid.onion/source.lua)
-    - picochan - https://github.com/vxiiduu/picochan
 - 0chan - https://github.com/klkvsk/0chan
     - ochko - https://gitgud.io/devarped/ochko
 - 1chan - https://github.com/jlbyrey/1chan
@@ -78,10 +77,12 @@ This is a list of the software codes used in imageboard.json along with links to
     - tinybbs - https://github.com/r04r/minichan
 - bbsnote - http://web.archive.org/web/20050116004959/http://wondercatstudio.com:80/html/download.html
 - emanon - https://github.com/oprel/emanon
-- foolfuuka - https://github.com/FoolCode/FoolFuuka
 - gopherchan - used by gopher://port70.net/1chan
     - 70chan - https://github.com/sroracle/70chan
+- kropyva - https://gitlab.com/Kropyva
 - livechan - https://github.com/emgram769/livechan-js
+- nanochan - http://nanochanqzaytwlydykbg5nxkgyjxk3zsrctxuoxdmbx5jbh2ydyprid.onion/nanochan-public.tgz (latest source.lua at http://nanochanqzaytwlydykbg5nxkgyjxk3zsrctxuoxdmbx5jbh2ydyprid.onion/source.lua)
+    - picochan - https://github.com/vxiiduu/picochan
 - ochiba - http://ochiba.x-maru.org/
 - ololord.js - https://github.com/ololoepepe/ololord.js
     - tumbach - https://github.com/rngnrs/tumbach
@@ -107,7 +108,6 @@ This is a list of the software codes used in imageboard.json along with links to
 - jard - https://github.com/njuro/jard
 - koba - used by https://boards.plus4chan.org/
 - kotatsu - https://gitlab.com/ison2/kotatsu
-- kropyva - https://gitlab.com/Kropyva
 - kumo - https://github.com/tslocum/kumo
 - kunhatan - https://git.topkek.cf/birunda/kunhatan-core
 - lapis-chan - https://github.com/karai17/lapis-chan/
