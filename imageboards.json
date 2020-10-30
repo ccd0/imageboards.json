@@ -3870,10 +3870,10 @@
   },
   {
     "name": "PaperChan",
-    "url": "http://[200:3aab:c11c:db20:f65d:5bf:9fdc:17e9]/",
+    "url": "http://a6pyumhy5pn5louoiqevddncjjqjsr6jefskzyta6ib3jl6mammtzcid.onion/",
     "mirrors": [
-      "http://[200:3aab:c11c:db20:f65d:5bf:9fdc:17e9]/",
-      "http://a6pyumhy5pn5louoiqevddncjjqjsr6jefskzyta6ib3jl6mammtzcid.onion/"
+      "http://a6pyumhy5pn5louoiqevddncjjqjsr6jefskzyta6ib3jl6mammtzcid.onion/",
+      "http://[200:3aab:c11c:db20:f65d:5bf:9fdc:17e9]/"
     ],
     "language": [
       "en"
