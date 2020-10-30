@@ -3888,6 +3888,16 @@
     ]
   },
   {
+    "name": "Picochan",
+    "url": "http://picochanwvqfa2xsrfzlul4x4aqtog2eljll5qnj5iagpbhx2vmfqnid.onion/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "picochan"
+    ]
+  },
+  {
     "name": "Pildilaud",
     "url": "https://pildilaud.ee/",
     "language": [
