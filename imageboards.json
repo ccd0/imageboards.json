@@ -1263,6 +1263,10 @@
   {
     "name": "Anon Reloaded",
     "url": "https://boards.anonreloaded.com/",
+    "mirrors": [
+      "https://boards.anonreloaded.com/",
+      "https://boards.anonimages.com/"
+    ],
     "entrances": [
       "https://anonme.la/"
     ],
