@@ -4194,16 +4194,6 @@
     "boardlist": "http://rita.null/webring.json"
   },
   {
-    "name": "ronery.xyz",
-    "url": "http://ronery.xyz/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ]
-  },
-  {
     "name": "Rupattelu",
     "url": "https://rupattelu.us/rr/",
     "language": [
