@@ -3973,6 +3973,18 @@
     ]
   },
   {
+    "name": "politics.lol",
+    "url": "https://politics.lol/all/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "doushio",
+      "meguca",
+      "ffmboard"
+    ]
+  },
+  {
     "name": "Poni.fun",
     "url": "https://poni.fun/poni/",
     "language": [
