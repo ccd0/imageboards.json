@@ -106,6 +106,7 @@ This is a list of the software codes used in imageboard.json along with links to
 - imgboard - http://www.big.or.jp/~talk/t-club/soft/index.html
 - infinity-next - https://github.com/infinity-next/infinity-next
 - jard - https://github.com/njuro/jard
+- kirasen - http://secysonfrxo2qmpzz7zox65gp65zyiys327mrdst4jdtfqo3a4lm3vqd.onion/?kirasen
 - koba - used by https://boards.plus4chan.org/
 - kotatsu - https://gitlab.com/ison2/kotatsu
 - kumo - https://github.com/tslocum/kumo
