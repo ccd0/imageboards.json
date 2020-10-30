@@ -5221,6 +5221,10 @@
   {
     "name": "zzzchan",
     "url": "https://zzzchan.xyz/index.html",
+    "mirrors": [
+      "https://zzzchan.xyz/",
+      "http://crghlabr45r5pqkgnbgehywk5nxutdks5iss7tabyux5psikqqjirryd.onion/"
+    ],
     "language": [
       "en"
     ],
