@@ -1634,6 +1634,16 @@
     ]
   },
   {
+    "name": "µchan",
+    "url": "https://microchan.net/index.html",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "jschan"
+    ]
+  },
+  {
     "name": "Øchan.cc",
     "url": "https://0chan.cc/",
     "language": [
