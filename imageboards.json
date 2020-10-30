@@ -1095,7 +1095,8 @@
   },
   {
     "name": "A岛匿名版",
-    "url": "https://adnmb2.com/Forum",
+    "url": "https://adnmb3.com/Forum",
+    "redirects": "https://adnmb.com/",
     "language": [
       "zh"
     ]
