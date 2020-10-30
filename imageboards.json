@@ -1176,8 +1176,7 @@
       "http://bhlnasxdkbaoxf4gtpbhavref7l2j3bwooes77hqcacxztkindztzrad.onion/"
     ],
     "entrances": [
-      "https://julay.world/rebirth/",
-      "https://spqrchan.xyz/rebirth/"
+      "https://julay.world/rebirth/"
     ],
     "language": [
       "en"
@@ -2212,10 +2211,6 @@
   {
     "name": "Fuck Jannies",
     "url": "https://fuckjannies.com/",
-    "mirrors": [
-      "https://fuckjannies.com/",
-      "http://smarteam.in/"
-    ],
     "language": [
       "en"
     ],
@@ -2591,16 +2586,6 @@
     ],
     "software": [
       "wakaba"
-    ]
-  },
-  {
-    "name": "Imperial Repository",
-    "url": "http://rnkfkmxa7mjubuwpwetwhfkogtljhsusrq2lnnubxfn7fyj4w6lsosqd.onion/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "nanochan"
     ]
   },
   {
@@ -3572,21 +3557,6 @@
     ]
   },
   {
-    "name": "nanochang",
-    "url": "http://nanochangkn3dxfkr5prfw76hiq3qpjyzr44m4zxbwub5f4kditlufid.onion/pico/",
-    "mirrors": [
-      "http://nanochangkn3dxfkr5prfw76hiq3qpjyzr44m4zxbwub5f4kditlufid.onion/",
-      "http://nanochan5hrrhxtb.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "nanochan",
-      "picochan"
-    ]
-  },
-  {
     "name": "Neboard X",
     "url": "https://neboard.me/",
     "mirrors": [
@@ -4356,10 +4326,6 @@
   {
     "name": "shamik.ooo",
     "url": "https://shamik.ooo/all/",
-    "mirrors": [
-      "https://shamik.ooo/",
-      "https://meguca.org/"
-    ],
     "language": [
       "en"
     ],
@@ -4966,21 +4932,6 @@
     ]
   },
   {
-    "name": "VIPboard",
-    "url": "https://vipboard.ddns.net/",
-    "mirrors": [
-      "https://vipboard.ddns.net/",
-      "http://vipbrd6cvyp6ysjk7cve6dxplaiunbbmevy7iww275b55urwqlitukqd.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "Volgach",
     "url": "https://volgach.ru/",
     "language": [
@@ -5186,16 +5137,6 @@
       "futaba",
       "siokara",
       "siokara-gchan"
-    ]
-  },
-  {
-    "name": "Yuichan",
-    "url": "https://yuichan.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
     ]
   },
   {
