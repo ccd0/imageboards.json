@@ -4635,11 +4635,9 @@
     "url": "https://tbpchan.cz/",
     "mirrors": [
       "https://tbpchan.cz/",
+      "https://tbpchan.net/",
       "https://24r6p7yo6v2duju3.onion/",
       "https://tbpchan.libre/"
-    ],
-    "redirects": [
-      "https://tbpchan.net/"
     ],
     "language": [
       "en"
