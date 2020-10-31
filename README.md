@@ -41,6 +41,7 @@ Other lists that may be of interest:
 * https://lurkmore.to/Зарубежные_имиджборды
 * https://lurkmore.to/Отечественные_имиджборды
 * http://www.wikinet.pro/wiki/Anexo:Lista_de_chans_brasileiros_ativos
+* https://chanes.uwu.mx/
 * http://www.anontalk.info/wiki/Illegal_Clones
 * https://encyclopediadramatica.se/List_of_chans
 * https://encyclopediadramatica.se/List_of_imageboards

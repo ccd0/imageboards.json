@@ -1273,6 +1273,17 @@
     "boardlist": "https://anon.cafe/webring.json"
   },
   {
+    "name": "anonima.club",
+    "url": "https://anonima.club/",
+    "language": [
+      "es"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Anon Reloaded",
     "url": "https://boards.anonreloaded.com/",
     "mirrors": [
@@ -1670,6 +1681,17 @@
     "boardlists": [
       "https://0chan.cc/boards10.json",
       "https://0chan.cc/boards20.json"
+    ]
+  },
+  {
+    "name": "chanes.uwu.mx",
+    "url": "https://chanes.uwu.mx/chanes/",
+    "language": [
+      "es"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
