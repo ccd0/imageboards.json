@@ -435,6 +435,17 @@
     ]
   },
   {
+    "name": "128chan",
+    "url": "http://128chan.tk/",
+    "language": [
+      "pt"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "1436chan",
     "url": "gopher://khzae.net/1/chan",
     "mirrors": [
@@ -1784,6 +1795,17 @@
     "url": "https://g.chounyuu.com/",
     "language": [
       "en"
+    ]
+  },
+  {
+    "name": "ChristChan",
+    "url": "http://christchan.net/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
@@ -4020,6 +4042,17 @@
     "software": [
       "webpatio",
       "webpatio-kirishima"
+    ]
+  },
+  {
+    "name": "polder.tk",
+    "url": "https://polder.tk/",
+    "language": [
+      "nl"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
