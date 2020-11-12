@@ -507,10 +507,6 @@
   {
     "name": "1chan.ca",
     "url": "https://1chan.ca/news/",
-    "mirrors": [
-      "https://1chan.ca/",
-      "https://1chan.pro/"
-    ],
     "language": [
       "ru"
     ],
@@ -1440,7 +1436,6 @@
     "url": "https://4biz.xyz/",
     "mirrors": [
       "https://4biz.xyz/",
-      "https://enter.dprkchan.xyz/",
       "https://www.lynxchan.net/",
       "http://26yukmkrhmhfg6alc56oexe7bcrokv4rilwpfwgh2u6bsbkddu55h4ad.onion/",
       "http://2m2ebnwffydmcnxmb4hhgjh5eqt4cb4k2wxhffvyrzq37a33x7oq.b32.i2p/"
@@ -4255,21 +4250,6 @@
     "software": [
       "kusaba",
       "kusabax"
-    ]
-  },
-  {
-    "name": "Scanchan",
-    "url": "http://www.scanchan.net/",
-    "mirrors": [
-      "http://www.scanchan.net/",
-      "http://scanchan.jckf.no/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
     ]
   },
   {
