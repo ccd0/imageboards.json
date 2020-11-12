@@ -1030,9 +1030,6 @@
       "https://8channel.bz/",
       "http://eightchgaw4nnxcn66nszcgxzzvpjxnlfdv7djaxx5tcw25xlpyfjaqd.onion/"
     ],
-    "entrances": [
-      "https://eggchan.net/"
-    ],
     "redirects": [
       "https://8chnl.net/",
       "https://8channel.net/"
@@ -2069,21 +2066,6 @@
       "makaba"
     ],
     "boardlist": "https://2ch.hk/boards.json"
-  },
-  {
-    "name": "Eggchan",
-    "url": "https://eggchan.net/",
-    "mirrors": [
-      "https://eggchan.net/",
-      "http://eggchan2mqzuhlapd5a34vzovrayol47vf53aey2uypbn7b5n4s7kfqd.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
   },
   {
     "name": "Endchan",
