@@ -1433,9 +1433,9 @@
   },
   {
     "name": "Balkanchan",
-    "url": "https://4biz.xyz/",
+    "url": "https://smelle.xyz/",
     "mirrors": [
-      "https://4biz.xyz/",
+      "https://smelle.xyz/",
       "https://www.lynxchan.net/",
       "http://26yukmkrhmhfg6alc56oexe7bcrokv4rilwpfwgh2u6bsbkddu55h4ad.onion/",
       "http://2m2ebnwffydmcnxmb4hhgjh5eqt4cb4k2wxhffvyrzq37a33x7oq.b32.i2p/"
@@ -1448,7 +1448,7 @@
     "software": [
       "lynxchan"
     ],
-    "boardlist": "https://4biz.xyz/index.json"
+    "boardlist": "https://smelle.xyz/index.json"
   },
   {
     "name": "Bando Bandada",
