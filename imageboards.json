@@ -1270,16 +1270,11 @@
     ]
   },
   {
-    "name": "Anon Reloaded",
-    "url": "https://boards.anonreloaded.com/",
-    "mirrors": [
-      "https://boards.anonreloaded.com/",
-      "https://boards.anonimages.com/"
-    ],
-    "entrances": [
-      "https://anonme.la/"
-    ],
+    "name": "Anon Images",
+    "url": "https://boards.anonimages.com/",
     "redirects": [
+      "https://boards.anonreloaded.com/",
+      "https://anonme.la/",
       "https://iboards.org/",
       "https://anonme.org/",
       "https://anonimageboards.com/",
