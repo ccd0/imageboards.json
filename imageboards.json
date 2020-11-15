@@ -1020,25 +1020,6 @@
     ]
   },
   {
-    "name": "8channel",
-    "url": "https://8channel.bz/index.html",
-    "mirrors": [
-      "https://8channel.bz/",
-      "https://8channel.info/",
-      "http://eightchgaw4nnxcn66nszcgxzzvpjxnlfdv7djaxx5tcw25xlpyfjaqd.onion/"
-    ],
-    "redirects": [
-      "https://8chnl.net/",
-      "https://8channel.net/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "jschan"
-    ]
-  },
-  {
     "name": "8kun",
     "url": "https://8kun.top/index.html",
     "mirrors": [
