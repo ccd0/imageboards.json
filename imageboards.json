@@ -1850,17 +1850,6 @@
     ]
   },
   {
-    "name": "Dch",
-    "url": "https://c.d0.cx/",
-    "mirrors": [
-      "https://c.d0.cx/",
-      "https://chan.dorper.me/"
-    ],
-    "language": [
-      "en"
-    ]
-  },
-  {
     "name": "Demo imageboard",
     "url": "http://demoboard.eu3.org/",
     "language": [
