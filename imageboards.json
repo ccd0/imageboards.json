@@ -2152,6 +2152,19 @@
     ]
   },
   {
+    "name": "Favelachan",
+    "url": "https://favelachan.org/",
+    "language": [
+      "pt"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "infinity",
+      "neoboard"
+    ]
+  },
+  {
     "name": "Fchan",
     "url": "http://fchan.us/",
     "language": [
