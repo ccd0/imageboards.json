@@ -1422,6 +1422,9 @@
       "http://26yukmkrhmhfg6alc56oexe7bcrokv4rilwpfwgh2u6bsbkddu55h4ad.onion/",
       "http://2m2ebnwffydmcnxmb4hhgjh5eqt4cb4k2wxhffvyrzq37a33x7oq.b32.i2p/"
     ],
+    "redirects": [
+      "https://4biz.xyz/"
+    ],
     "language": [
       "en",
       "de",
