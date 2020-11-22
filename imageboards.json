@@ -629,9 +629,12 @@
     "mirrors": [
       "https://2channel.moe/",
       "http://2channel5xx5xchx.onion/",
-      "http://2chmoedsvicn7yspstpkyabkemgsl42johgjkbjknsekra7yakfegrid.onion/",
+      "http://2channel5s3pvmo2364gs25e5xrx7nz6kivqhpj6ihh3df4hykvxysqd.onion/",
       "http://2channel.i2p/",
       "http://wirxk4kulmd7v6qmttltnu5nx2vtchzvrg7ewocejrvdjcaiv5sq.b32.i2p/"
+    ],
+    "redirects": [
+      "http://2chmoedsvicn7yspstpkyabkemgsl42johgjkbjknsekra7yakfegrid.onion/"
     ],
     "language": [
       "ru"
