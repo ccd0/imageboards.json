@@ -3125,11 +3125,7 @@
   },
   {
     "name": "Lolifox",
-    "url": "https://lolifox.cc/",
-    "mirrors": [
-      "https://lolifox.cc/",
-      "http://wn3ghyuon5eaqyxi7yauald3d53gsxrkanzpu2qdyc54vobif2qutsid.onion/"
-    ],
+    "url": "http://wn3ghyuon5eaqyxi7yauald3d53gsxrkanzpu2qdyc54vobif2qutsid.onion/",
     "language": [
       "ru",
       "en",
@@ -3141,7 +3137,7 @@
       "infinity",
       "openib"
     ],
-    "boardlist": "https://lolifox.cc/boards.json"
+    "boardlist": "http://wn3ghyuon5eaqyxi7yauald3d53gsxrkanzpu2qdyc54vobif2qutsid.onion/boards.json"
   },
   {
     "name": "Lolnada",
