@@ -2270,7 +2270,7 @@
     "name": "futaba-only.net",
     "url": "https://futaba-only.net/imgboard/index.html",
     "mirrors": [
-      "http://futaba-only.net/",
+      "https://futaba-only.net/",
       "https://lolipop-dp53020672.ssl-lolipop.jp/"
     ],
     "language": [
