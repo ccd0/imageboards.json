@@ -580,7 +580,11 @@
   },
   {
     "name": "28chan",
-    "url": "http://28chan.hopto.org/board/",
+    "url": "http://28chan.org/board/",
+    "mirrors": [
+      "http://28chan.org/board/",
+      "http://28chan.hopto.org/board/"
+    ],
     "language": [
       "en",
       "es"
