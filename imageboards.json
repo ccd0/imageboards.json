@@ -1046,17 +1046,6 @@
     "boardlist": "https://8kun.top/boards.json"
   },
   {
-    "name": "9chan",
-    "url": "http://kantia.webd.pl/9chan/",
-    "language": [
-      "pl"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
-    ]
-  },
-  {
     "name": "9chan.tw",
     "url": "https://9chan.tw/",
     "mirrors": [
