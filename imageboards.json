@@ -2222,20 +2222,6 @@
     "boardlist": "https://fch.bet/webring.json"
   },
   {
-    "name": "Freech",
-    "url": "https://freech.org/",
-    "mirrors": [
-      "https://freech.org/",
-      "http://freech3w5dxcq3qdhkij3mzxalfw6gphgp2ufd32keyjkdctjr5lcoyd.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "kareha"
-    ]
-  },
-  {
     "name": "Fuck Jannies",
     "url": "https://fuckjannies.com/",
     "language": [
