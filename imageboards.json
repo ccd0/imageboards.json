@@ -4944,6 +4944,10 @@
   {
     "name": "VHSCHAN",
     "url": "https://vhschan.org/",
+    "mirrors": [
+      "https://vhschan.org/",
+      "https://www.brchan.org/"
+    ],
     "language": [
       "pt"
     ],
