@@ -2818,6 +2818,7 @@
     "url": "https://kissu.moe/",
     "interfaces": [
       "https://beta.kissu.moe/",
+      "https://original.kissu.moe/",
       "https://demo.verniy.ca/"
     ],
     "language": [
