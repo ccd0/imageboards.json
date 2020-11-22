@@ -4176,6 +4176,10 @@
   {
     "name": "RitaChan",
     "url": "http://rita.null/",
+    "mirrors": [
+      "http://rita.null/",
+      "http://elysia-medium.com/"
+    ],
     "language": [
       "en",
       "it"
