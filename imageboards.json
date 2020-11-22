@@ -1190,10 +1190,6 @@
   {
     "name": "Alokal",
     "url": "https://alokal.eu/",
-    "mirrors": [
-      "https://alokal.eu/",
-      "http://alokalaou53jmgum.onion/"
-    ],
     "language": [
       "sk"
     ],
