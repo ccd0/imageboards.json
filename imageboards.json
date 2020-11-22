@@ -4802,6 +4802,10 @@
   {
     "name": "trashchan",
     "url": "https://trashchan.xyz/index.html",
+    "mirrors": [
+      "https://trashchan.xyz/",
+      "http://trashchan2rvdng5zm7346sfxrrkjwvqzolw4lfdyldcsdpmsyj4dkid.onion/"
+    ],
     "language": [
       "en"
     ],
