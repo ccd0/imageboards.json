@@ -4163,8 +4163,7 @@
     "url": "https://rfch.rocks/",
     "mirrors": [
       "https://rfch.rocks/",
-      "https://rfch.xyz/",
-      "https://rfch.online/"
+      "https://rfch.xyz/"
     ],
     "language": [
       "ru"
