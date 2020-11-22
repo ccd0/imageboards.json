@@ -731,7 +731,7 @@
   },
   {
     "name": "-3chan",
-    "url": "http://dash3ch.tekcities.com/",
+    "url": "https://minus3ch.net/",
     "language": [
       "en"
     ],
@@ -1492,7 +1492,9 @@
   {
     "name": "beey",
     "url": "https://beey.space/",
-    "language": []
+    "language": [
+      "en"
+    ]
   },
   {
     "name": "bernd.group",
@@ -2837,7 +2839,8 @@
     "name": "Kissu.moe",
     "url": "https://kissu.moe/",
     "interfaces": [
-      "https://beta.kissu.moe/"
+      "https://beta.kissu.moe/",
+      "https://demo.verniy.ca/"
     ],
     "language": [
       "en"
@@ -3074,17 +3077,6 @@
   },
   {
     "name": "Lenachan",
-    "url": "https://lenachan.eu.org/b/",
-    "language": [
-      "pl"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "Lenaczawka",
     "url": "https://lenachan.eu.org/b/",
     "language": [
       "pl"
