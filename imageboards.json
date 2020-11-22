@@ -4431,6 +4431,16 @@
     ]
   },
   {
+    "name": "socal.win",
+    "url": "https://socal.win/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ]
+  },
+  {
     "name": "Son Gönderiler",
     "url": "https://tahta.ch/",
     "mirrors": [
