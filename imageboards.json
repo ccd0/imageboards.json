@@ -1484,6 +1484,17 @@
     ]
   },
   {
+    "name": "boards.initiate.space",
+    "url": "https://boards.initiate.space/b/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "boguspix.com",
     "url": "https://storysol.boguspix.com/",
     "boardlistpages": [
