@@ -97,6 +97,7 @@ This is a list of the software codes used in imageboard.json along with links to
 - aspnetchan - used by https://mlpol.cc/
 - brian - used by https://britfa.gs/
 - cursedboard - https://github.com/whisperchan/cursedboard / https://github.com/BigSlice/cursedboard
+- dch - described at https://dorper.me/dch/
 - dietchan - https://gitgud.io/zuse/dietchan
 - dtn - used by https://www.imgbbs.dtn.jp/
 - erlach - https://github.com/m-2k/erlach
