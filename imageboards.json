@@ -460,16 +460,6 @@
     ]
   },
   {
-    "name": "[a tiny imageboard on a big empty site]",
-    "url": "http://149.56.217.207/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyib"
-    ]
-  },
-  {
     "name": "1500chan",
     "url": "https://1500chan.org/",
     "language": [
@@ -1331,6 +1321,16 @@
     "software": [
       "tinyboard",
       "vichan"
+    ]
+  },
+  {
+    "name": "[a tiny imageboard on a big empty site]",
+    "url": "http://149.56.217.207/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyib"
     ]
   },
   {
