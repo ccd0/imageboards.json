@@ -4586,6 +4586,18 @@
     ]
   },
   {
+    "name": "STAcat",
+    "url": "https://stacat.cf/",
+    "language": [
+      "ca",
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Stevenchan",
     "url": "https://chan.tymoon.eu/",
     "language": [
