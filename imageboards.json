@@ -5222,6 +5222,16 @@
     ]
   },
   {
+    "name": "Zoomerchan",
+    "url": "https://zoomerchan.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ]
+  },
+  {
     "name": "zzzchan",
     "url": "https://zzzchan.xyz/index.html",
     "mirrors": [
