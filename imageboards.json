@@ -1081,6 +1081,16 @@
     ]
   },
   {
+    "name": "AgathaChan",
+    "url": "https://agathachan.club/Agatha/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyib"
+    ]
+  },
+  {
     "name": "aletheia.ee",
     "url": "https://aletheia.ee/board/",
     "language": [
@@ -1388,6 +1398,17 @@
     "boardlist": "https://smelle.xyz/index.json"
   },
   {
+    "name": "Bananachan",
+    "url": "https://bananachan.xyz/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Bando Bandada",
     "url": "https://bandada.club/",
     "language": [
@@ -1541,6 +1562,16 @@
     "software": [
       "tinyboard",
       "vichan"
+    ]
+  },
+  {
+    "name": "bumblebucks club",
+    "url": "https://bumblebuck.com/club/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyib"
     ]
   },
   {
@@ -2622,6 +2653,17 @@
     ]
   },
   {
+    "name": "isheadog.com",
+    "url": "https://www.isheadog.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "jard",
     "url": "https://jard.buzz/",
     "language": [
@@ -3606,6 +3648,17 @@
     ]
   },
   {
+    "name": "NeoTek Gaming",
+    "url": "https://neotekgaming.com/chan/b/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "ni-chan",
     "url": "http://plnemlsyla6h5t3nuoz2algzmy635ceuendnjwsmhwn2os5fxahshiad.onion/",
     "mirrors": [
@@ -3861,6 +3914,17 @@
     ],
     "software": [
       "tinyib"
+    ]
+  },
+  {
+    "name": "Path B",
+    "url": "https://pathb.net/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
@@ -4347,6 +4411,17 @@
     ]
   },
   {
+    "name": "Simulacrum",
+    "url": "http://simulacrum.xyz/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "sirkku.pw/lauta/b/",
     "url": "https://sirkku.pw/lauta/b/",
     "language": [
@@ -4648,6 +4723,16 @@
     "software": [
       "tinyboard",
       "vichan"
+    ]
+  },
+  {
+    "name": "TheDailyAutist",
+    "url": "http://thedailyautist.com/board/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyib"
     ]
   },
   {
