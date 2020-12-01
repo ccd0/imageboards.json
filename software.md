@@ -65,9 +65,9 @@ This is a list of the software codes used in imageboard.json along with links to
         - joyful2chme - www.supra.cx/joyful2chMe/index.html
     - jn+yyb - http://w-space.net/subcon/cgi.htm
 - jschan - https://github.com/fatchan/jschan/
+- foolfuuka - https://github.com/FoolCode/FoolFuuka
 - kareha - https://wakaba.c3.cx/s/web/wakaba_kareha
     - bakareha - https://github.com/f2d/bakareha
-- foolfuuka - https://github.com/FoolCode/FoolFuuka
 - kboard - https://www.cosmosfarm.com/products/kboard
 - 0chan - https://github.com/klkvsk/0chan
     - ochko - https://gitgud.io/devarped/ochko
