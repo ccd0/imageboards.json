@@ -3320,6 +3320,17 @@
     ]
   },
   {
+    "name": "MChan",
+    "url": "http://mchan.eu5.org/",
+    "language": [
+      "fr",
+      "en"
+    ],
+    "software": [
+      "tinyib"
+    ]
+  },
+  {
     "name": "Mechachan",
     "url": "http://mechachan.net/",
     "language": [
@@ -3337,6 +3348,16 @@
     ],
     "software": [
       "bbsnote"
+    ]
+  },
+  {
+    "name": "Megamindchan",
+    "url": "https://megamindchan.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyib"
     ]
   },
   {
@@ -4069,6 +4090,21 @@
       "doushio",
       "meguca",
       "ffmboard"
+    ]
+  },
+  {
+    "name": "Polski vichan",
+    "url": "https://vichan.org/*/index.html",
+    "mirrors": [
+      "https://vichan.org/",
+      "http://vichan6jaktoao2o.onion/"
+    ],
+    "language": [
+      "pl"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
@@ -5058,6 +5094,17 @@
     ]
   },
   {
+    "name": "Waifuchan",
+    "url": "https://waifuchan.net/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Waifuist.pro",
     "url": "https://waifuist.pro/",
     "mirrors": [
@@ -5255,6 +5302,16 @@
     "software": [
       "kusaba",
       "kusabax"
+    ]
+  },
+  {
+    "name": "ZChan",
+    "url": "https://zchan.org/z/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyib"
     ]
   },
   {
