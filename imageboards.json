@@ -2819,6 +2819,13 @@
     ]
   },
   {
+    "name": "Keskustori",
+    "url": "http://oivkrzn5xeisuvqtzeeexc53revzq7uf2ksoxmhfnl242hvlmbrwamqd.onion/",
+    "language": [
+      "fi"
+    ]
+  },
+  {
     "name": "kind.moe",
     "url": "https://kind.moe/",
     "language": [
@@ -4631,6 +4638,16 @@
     ]
   },
   {
+    "name": "Suomilauta (onion)",
+    "url": "http://rzaktmwhivbypkcp3qjraduou7ts3xsczwgbzpb5qmvzvcmmm7rnneid.onion/",
+    "language": [
+      "fi"
+    ],
+    "software": [
+      "lynxchan"
+    ]
+  },
+  {
     "name": "Sushichan",
     "url": "https://sushigirl.us/",
     "language": [
@@ -4768,23 +4785,6 @@
     ],
     "software": [
       "kunhatan"
-    ]
-  },
-  {
-    "name": "Torilauta",
-    "url": "http://rflj2y2sqf4du7imfe6yjt5hhbjytbbfsp3tvqhzasls3tyauevvseyd.onion/",
-    "mirrors": [
-      "http://rflj2y2sqf4du7imfe6yjt5hhbjytbbfsp3tvqhzasls3tyauevvseyd.onion/",
-      "http://hss33mlbykbsxmug.onion/"
-    ],
-    "entrances": [
-      "https://torilauta.net/"
-    ],
-    "language": [
-      "fi"
-    ],
-    "software": [
-      "lynxchan"
     ]
   },
   {
