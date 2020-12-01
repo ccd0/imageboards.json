@@ -1209,6 +1209,21 @@
     "boardlist": "https://anon.cafe/webring.json"
   },
   {
+    "name": "AnonIB",
+    "url": "https://anusib.com/",
+    "mirrors": [
+      "https://anusib.com/",
+      "https://boards.anonib.ru/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "anonima.club",
     "url": "https://anonima.club/",
     "language": [
@@ -1252,21 +1267,6 @@
       "lynxchan"
     ],
     "boardlist": "http://antares.oss/webring.json"
-  },
-  {
-    "name": "AnonIB",
-    "url": "https://anusib.com/",
-    "mirrors": [
-      "https://anusib.com/",
-      "https://boards.anonib.ru/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
   },
   {
     "name": "anzuchang.com",
