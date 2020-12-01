@@ -46,8 +46,8 @@ This is a list of the software codes used in imageboard.json along with links to
 - lynxchan - https://gitgud.io/LynxChan/LynxChan
     - infinitynow - https://gitgud.io/groups/InfinityNow
 - tinyib - https://gitlab.com/tslocum/tinyib
-    - desuib - http://infsan7uxvnwirohy55qei3hgnbkw6nqi2q4tb7xxcgoiafvmqhicjyd.onion/script/
     - 0kun-tinyib - https://gitgud.io/devarped/0kun-tinyib
+    - desuib - http://infsan7uxvnwirohy55qei3hgnbkw6nqi2q4tb7xxcgoiafvmqhicjyd.onion/script/
 - wakaba - https://wakaba.c3.cx/s/web/wakaba_kareha
     - wakaba++ - described at https://www.lurkmore.com/view/Wakaba++ but appears to be unpublished
     - phutaba - https://gitlab.com/ernstchan/phutaba
