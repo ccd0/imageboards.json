@@ -3931,6 +3931,10 @@
   {
     "name": "Path B",
     "url": "https://pathb.net/",
+    "mirrors": [
+      "https://pathb.net/",
+      "http://d4lkrpbhnnhxocgshder2binhu5i3ifv6yskbkqnoa3bve7st2wvh3yd.onion/"
+    ],
     "language": [
       "en"
     ],
