@@ -3146,6 +3146,17 @@
     ]
   },
   {
+    "name": "Loistolauta",
+    "url": "https://loistolauta.org/",
+    "language": [
+      "fi"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Lolcow",
     "url": "https://lolcow.farm/",
     "language": [
