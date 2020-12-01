@@ -556,16 +556,6 @@
     ]
   },
   {
-    "name": "23ch",
-    "url": "https://23ch.ru/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "tinyboard"
-    ]
-  },
-  {
     "name": "27chan",
     "url": "https://27chan.org/",
     "language": [
@@ -954,42 +944,10 @@
     ]
   },
   {
-    "name": "64chan.ga",
-    "url": "http://64chan.ga/desuib/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyib",
-      "desuib"
-    ]
-  },
-  {
-    "name": "6chan",
-    "url": "https://6chan.net/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ]
-  },
-  {
     "name": "70chan",
     "url": "gopher://gopher.su/1/board",
     "language": [
       "en"
-    ]
-  },
-  {
-    "name": "792Chan",
-    "url": "https://792chan.net/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
     ]
   },
   {
@@ -1442,17 +1400,6 @@
     "software": [
       "joyfulnote",
       "joyfulnote-isso"
-    ]
-  },
-  {
-    "name": "bbs.monocul.us",
-    "url": "https://bbs.monocul.us/",
-    "language": [
-      "it"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
     ]
   },
   {
@@ -4383,17 +4330,6 @@
     ]
   },
   {
-    "name": "Sleeping Pizza",
-    "url": "https://boards.sleeping.pizza/all/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "doushio",
-      "meguca"
-    ]
-  },
-  {
     "name": "smuglo.li",
     "url": "https://smuglo.li/a/",
     "mirrors": [
@@ -4651,14 +4587,6 @@
     ],
     "software": [
       "doushio"
-    ]
-  },
-  {
-    "name": "tereve",
-    "url": "https://46.19.36.58/",
-    "language": [
-      "fi",
-      "en"
     ]
   },
   {
@@ -4967,17 +4895,6 @@
     "software": [
       "kusaba",
       "kusabax"
-    ]
-  },
-  {
-    "name": "/vp/nsfw",
-    "url": "https://www.drawfag.net/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
     ]
   },
   {
