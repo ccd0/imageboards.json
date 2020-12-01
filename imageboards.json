@@ -1083,6 +1083,10 @@
   {
     "name": "AgathaChan",
     "url": "https://agathachan.club/Agatha/",
+    "mirrors": [
+      "https://agathachan.club/",
+      "https://blackpill.club/"
+    ],
     "language": [
       "en"
     ],
