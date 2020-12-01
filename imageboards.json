@@ -1213,7 +1213,9 @@
     "url": "https://anusib.com/",
     "mirrors": [
       "https://anusib.com/",
-      "https://boards.anonib.ru/"
+      "https://anonib.ru/",
+      "https://boards.anonib.ru/",
+      "https://anonib.su/"
     ],
     "language": [
       "en"
