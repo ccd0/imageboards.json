@@ -867,6 +867,16 @@
     ]
   },
   {
+    "name": "4plebs",
+    "url": "https://archive.4plebs.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "foolfuuka"
+    ]
+  },
+  {
     "name": "4taba",
     "url": "https://4taba.net/",
     "mirrors": [
@@ -1867,6 +1877,16 @@
     ],
     "software": [
       "tinyib"
+    ]
+  },
+  {
+    "name": "Desuarchive",
+    "url": "https://desuarchive.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "foolfuuka"
     ]
   },
   {
