@@ -560,10 +560,11 @@
   },
   {
     "name": "28chan",
-    "url": "http://28chan.org/board/",
+    "url": "https://28chan.org/board/",
     "language": [
       "en",
-      "es"
+      "es",
+      "pt"
     ],
     "software": [
       "tinyib"
