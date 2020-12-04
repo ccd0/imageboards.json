@@ -4442,6 +4442,17 @@
     ]
   },
   {
+    "name": "shinkuchan",
+    "url": "http://shinkuchan.cf/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ],
+    "boardlist": "http://shinkuchan.cf/index.json"
+  },
+  {
     "name": "ShitpostChan",
     "url": "https://chan.funshitposting.xyz/",
     "language": [
