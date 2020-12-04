@@ -900,27 +900,6 @@
     "boardlist": "https://56chan.org/index.json"
   },
   {
-    "name": "64chan",
-    "url": "https://64ch.me/",
-    "mirrors": [
-      "https://64ch.me/",
-      "http://ceis4dw4ttu6gpg5jl4erz4acuqrn4s5xo7gbhtwh2bwurrgwgvuarqd.onion/"
-    ],
-    "redirects": [
-      "http://konatach.xyz/",
-      "https://64ch.net/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "infinity"
-    ],
-    "boardlist": "https://64ch.me/boards.json"
-  },
-  {
     "name": "64chan Bunker",
     "url": "http://64chan.eu3.org/",
     "language": [
