@@ -3846,17 +3846,6 @@
     ]
   },
   {
-    "name": "Onionchan",
-    "url": "http://onionch6w7tfrf4exxyvivkavfz7cqxa3i4uud4qrrp6esul2yqye2qd.onion/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "OPERATORchan",
     "url": "http://operatorchan.org/",
     "language": [
