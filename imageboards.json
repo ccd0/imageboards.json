@@ -948,7 +948,8 @@
     ],
     "software": [
       "lynxchan"
-    ]
+    ],
+    "boardlist": "https://8chan.moe/webring.json"
   },
   {
     "name": "8kun",
