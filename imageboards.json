@@ -3772,12 +3772,12 @@
   },
   {
     "name": "Novachan",
-    "url": "http://novach3msrbifdfcfdtdzh63esz3ssxoqpbcwpztooftrmz7jor5yrad.onion/",
+    "url": "http://novach3msrbifdfcfdtdzh63esz3ssxoqpbcwpztooftrmz7jor5yrad.onion/index.html",
     "language": [
       "en"
     ],
     "software": [
-      "tinyib"
+      "jschan"
     ]
   },
   {
