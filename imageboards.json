@@ -900,6 +900,18 @@
     "boardlist": "https://56chan.org/index.json"
   },
   {
+    "name": "64chan",
+    "url": "http://64ch.me/board/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "kissu-vi"
+    ]
+  },
+  {
     "name": "64chan Bunker",
     "url": "http://64chan.eu3.org/",
     "language": [
