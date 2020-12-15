@@ -4400,6 +4400,16 @@
     ]
   },
   {
+    "name": "senhi.me",
+    "url": "http://senhi.me/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard"
+    ]
+  },
+  {
     "name": "Sfc_han",
     "url": "https://sfc.euamo.moe/jp/",
     "language": [
