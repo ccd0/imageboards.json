@@ -567,7 +567,8 @@
       "pt"
     ],
     "software": [
-      "tinyib"
+      "tinyboard",
+      "vichan"
     ]
   },
   {
