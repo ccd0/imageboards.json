@@ -2631,10 +2631,8 @@
   },
   {
     "name": "Infinity-San",
-    "url": "http://infsan7uxvnwirohy55qei3hgnbkw6nqi2q4tb7xxcgoiafvmqhicjyd.onion/",
+    "url": "http://mr5o4b4vtqmzyor2.onion/",
     "mirrors": [
-      "http://infsan7uxvnwirohy55qei3hgnbkw6nqi2q4tb7xxcgoiafvmqhicjyd.onion/",
-      "http://infsan7lch6eyzvbbw6653623acouugks7nn6sqzkretk2o7srphxhyd.onion/",
       "http://mr5o4b4vtqmzyor2.onion/",
       "http://ve5xzk2p2ekrv7ea.onion/"
     ],
@@ -3773,6 +3771,11 @@
   {
     "name": "Novachan",
     "url": "http://novach3msrbifdfcfdtdzh63esz3ssxoqpbcwpztooftrmz7jor5yrad.onion/index.html",
+    "mirrors": [
+      "http://novach3msrbifdfcfdtdzh63esz3ssxoqpbcwpztooftrmz7jor5yrad.onion/",
+      "http://infsan7uxvnwirohy55qei3hgnbkw6nqi2q4tb7xxcgoiafvmqhicjyd.onion/",
+      "http://infsan7lch6eyzvbbw6653623acouugks7nn6sqzkretk2o7srphxhyd.onion/"
+    ],
     "language": [
       "en"
     ],
