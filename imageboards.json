@@ -1634,6 +1634,20 @@
     ]
   },
   {
+    "name": "C-board",
+    "url": "https://c-board.org/index.html",
+    "mirrors": [
+      "https://c-board.org/index.html",
+      "http://cboard4lmji6cwnqs3xzrhs63md5gtvnzvnuomefmgf5v6352a3byjyd.onion/index.html"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "jschan"
+    ]
+  },
+  {
     "name": "µchan",
     "url": "https://microchan.net/index.html",
     "language": [
