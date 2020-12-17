@@ -18,17 +18,6 @@
     ]
   },
   {
-    "name": "Кислица.i2p",
-    "url": "http://kislitsa.i2p/",
-    "mirrors": [
-      "http://kislitsa.i2p/",
-      "http://khceo3smaxtng2tnuicmcbhdnkk2j6myi4nkigcux76qh3aabdhq.b32.i2p/"
-    ],
-    "language": [
-      "ru"
-    ]
-  },
-  {
     "name": "Кропивач",
     "url": "https://www.kropyva.ch/",
     "language": [
@@ -2585,6 +2574,17 @@
     ],
     "software": [
       "foolfuuka"
+    ]
+  },
+  {
+    "name": "Кислица.i2p",
+    "url": "http://kislitsa.i2p/",
+    "mirrors": [
+      "http://kislitsa.i2p/",
+      "http://khceo3smaxtng2tnuicmcbhdnkk2j6myi4nkigcux76qh3aabdhq.b32.i2p/"
+    ],
+    "language": [
+      "ru"
     ]
   },
   {
