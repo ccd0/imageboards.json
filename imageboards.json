@@ -1026,17 +1026,6 @@
     ]
   },
   {
-    "name": "9inches.org",
-    "url": "https://9inches.org/b/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "A岛-备胎匿名版",
     "url": "https://tnmb.org/Forum",
     "language": [
@@ -4136,17 +4125,6 @@
     ]
   },
   {
-    "name": "polder.tk",
-    "url": "https://polder.tk/",
-    "language": [
-      "nl"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "politics.lol",
     "url": "https://politics.lol/all/",
     "language": [
@@ -4251,13 +4229,6 @@
     ],
     "software": [
       "emanon"
-    ]
-  },
-  {
-    "name": "PPPch",
-    "url": "https://jp.pppch.net/",
-    "language": [
-      "ja"
     ]
   },
   {
@@ -4854,13 +4825,6 @@
     "software": [
       "tinyboard",
       "vichan"
-    ]
-  },
-  {
-    "name": "Tchan",
-    "url": "https://www.tchan.fun/",
-    "language": [
-      "pt"
     ]
   },
   {
