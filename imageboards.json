@@ -4510,6 +4510,10 @@
   {
     "name": "shamik.ooo",
     "url": "https://shamik.ooo/all/",
+    "mirrors": [
+      "https://shamik.ooo/",
+      "https://megu.ca/"
+    ],
     "language": [
       "en"
     ],
