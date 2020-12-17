@@ -9,8 +9,8 @@ This is a list of the software codes used in imageboard.json along with links to
         - infinity - https://github.com/ctrlcctrlv/infinity
             - neoboard - https://github.com/neochaner/neochan
             - openib - https://github.com/OpenIB/OpenIB
-        - kissu-vi - https://github.com/ECHibiki/Kissu-Vi
         - lainchan - https://github.com/lainchan/lainchan
+        - kissu-vi - https://github.com/ECHibiki/Kissu-Vi
         - arisuchan - https://github.com/arisu-dev/arisuchan
         - fukuro - https://github.com/twiforce/fukuro
     - ponychan - https://bitbucket.org/ponychan/ponychan-tinyboard
@@ -89,6 +89,7 @@ This is a list of the software codes used in imageboard.json along with links to
 - orphereus - https://orphereus.anoma.ch/
     - hanabira - used by http://dobrochan.com/ (unpublished)
 - wakarimasen - https://github.com/weedy/wakarimasen
+- yboard - https://github.com/LautaMedia/YBoard
 - 1436chan - https://github.com/kibook/1436chan
 - 4kev - https://github.com/federicoolivo/4kev
 - ace-rx - https://github.com/svmn/ace-rx
@@ -128,7 +129,6 @@ This is a list of the software codes used in imageboard.json along with links to
 - weabot - used by https://bienvenidoainternet.org/
 - webpatio - http://www.kent-web.com/bbs/patio.html
     - webpatio-kirishima - http://kirishima.it/patio/
-- yboard - https://github.com/LautaMedia/YBoard
 
 You may also be interested in these lists of imageboard software:
 * https://overscript.net/
