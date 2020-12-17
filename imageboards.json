@@ -3826,6 +3826,17 @@
     ]
   },
   {
+    "name": "Northpole",
+    "url": "https://northpole.fi/",
+    "language": [
+      "en",
+      "fi"
+    ],
+    "software": [
+      "yboard"
+    ]
+  },
+  {
     "name": "not99chan",
     "url": "https://not99chan.org/",
     "language": [
