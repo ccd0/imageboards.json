@@ -1510,6 +1510,16 @@
     ]
   },
   {
+    "name": "BlockChan Canada",
+    "url": "https://blockchan.ca/main",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "blockchan"
+    ]
+  },
+  {
     "name": "boards.initiate.space",
     "url": "https://boards.initiate.space/b/",
     "language": [
