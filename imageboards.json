@@ -2594,6 +2594,20 @@
     ]
   },
   {
+    "name": "IB.WTF",
+    "url": "https://ib.wtf/",
+    "mirrors": [
+      "https://ib.wtf/",
+      "http://ibwtf2x42oiafbbfyjjpx6powbvnrnqpxwtxi3nps7gprmxqh4iv4wad.onion/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyib"
+    ]
+  },
+  {
     "name": "Iccanobif's Imageboard",
     "url": "http://iccanobif.altervista.org/sgb/imgboard.htm",
     "language": [
