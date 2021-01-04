@@ -1651,9 +1651,6 @@
   {
     "name": "Bunkerchan",
     "url": "https://bunkerchan.xyz/",
-    "redirects": [
-      "http://leftypol.org/"
-    ],
     "language": [
       "en"
     ],
@@ -3240,6 +3237,17 @@
       "tinyboard",
       "vichan",
       "arisuchan"
+    ]
+  },
+  {
+    "name": "Leftypol",
+    "url": "https://leftypol.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
