@@ -38,9 +38,9 @@ This is a list of the software codes used in imageboard.json along with links to
     - kusabax - https://sourceforge.net/projects/kusabax/
         - instant-0chan - https://gitgud.io/devarped/instant-0chan
             - kurisaba - https://github.com/makise-homura/kurisaba
-        - x-233chan - https://github.com/amarillonmc/x-233chan
         - novovvedeniya - http://www.zloiodm.in/trs/ksb.rar
         - ponyach.ru - https://github.com/acilsd/ponyach.ru
+        - x-233chan - https://github.com/amarillonmc/x-233chan
     - serissa - http://web.archive.org/web/20090222195838/http://www.serissa.org:80/ (downloads not archived)
         - fbe-410 - https://bitbucket.org/Therapont/fbe-410
 - lynxchan - https://gitgud.io/LynxChan/LynxChan
