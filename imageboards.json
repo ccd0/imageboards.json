@@ -274,6 +274,16 @@
     ]
   },
   {
+    "name": "笑薯",
+    "url": "https://vegbao.com/p/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "tinyib"
+    ]
+  },
+  {
     "name": "딥웹코리아",
     "url": "https://dwkor.com/%EA%B2%8C%EC%8B%9C%ED%8C%90/",
     "language": [
@@ -1535,6 +1545,16 @@
     ]
   },
   {
+    "name": "bleach.cafe",
+    "url": "https://bleach.cafe/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyib"
+    ]
+  },
+  {
     "name": "BlockChan Canada",
     "url": "https://blockchan.ca/main",
     "language": [
@@ -1841,6 +1861,17 @@
       "gazoubbs",
       "futaba",
       "futallaby"
+    ]
+  },
+  {
+    "name": "CuceiChan",
+    "url": "https://cucei.com.mx/",
+    "language": [
+      "es"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
@@ -2158,6 +2189,17 @@
     "url": "https://eurochan.org/",
     "language": [
       "en"
+    ]
+  },
+  {
+    "name": "EvilChan",
+    "url": "https://seenoevil.lol/evilchan/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
@@ -2501,6 +2543,27 @@
     "url": "https://hatsune.ru/",
     "language": [
       "ru"
+    ]
+  },
+  {
+    "name": "hchan",
+    "url": "http://hchan.org/b/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
+    "name": "helios land",
+    "url": "https://helios.rip/f/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyib"
     ]
   },
   {
@@ -3307,6 +3370,17 @@
     ]
   },
   {
+    "name": "macechan",
+    "url": "https://macechan.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Magic",
     "url": "https://gensou.chakai.org/magic/",
     "language": [
@@ -3504,6 +3578,16 @@
     ],
     "software": [
       "foolfuuka"
+    ]
+  },
+  {
+    "name": "microchan",
+    "url": "http://ok3dw7mbxkobxsyo4fjjzmn4p5spd23om3mlfw3gpgxmowfyhxhavead.onion/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyib"
     ]
   },
   {
