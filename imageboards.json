@@ -945,6 +945,16 @@
     ]
   },
   {
+    "name": "64chan",
+    "url": "https://64ch.me/index.html",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "jschan"
+    ]
+  },
+  {
     "name": "64chan Bunker",
     "url": "http://64chan.eu3.org/",
     "language": [
