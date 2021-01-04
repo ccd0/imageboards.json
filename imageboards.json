@@ -957,6 +957,10 @@
   {
     "name": "64chan",
     "url": "https://64ch.me/index.html",
+    "mirrors": [
+      "https://64ch.me/",
+      "http://vfegc23h26tbeaf2a2oaflhtdoeihfxnsiljwbkqap5iyclpb5jztnid.onion/"
+    ],
     "language": [
       "en"
     ],
