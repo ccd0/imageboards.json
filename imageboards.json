@@ -3281,7 +3281,8 @@
     ],
     "software": [
       "tinyboard",
-      "vichan"
+      "vichan",
+      "lainchan"
     ]
   },
   {
