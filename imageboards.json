@@ -2084,6 +2084,9 @@
       "https://2ch.hk/",
       "https://2ch.pm/"
     ],
+    "interfaces": [
+      "https://m2ch.hk/"
+    ],
     "redirects": [
       "https://2ch.re/",
       "https://2ch.wf/"
