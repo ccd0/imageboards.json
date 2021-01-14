@@ -3242,6 +3242,10 @@
   {
     "name": "Leftypol",
     "url": "https://leftypol.org/",
+    "mirrors": [
+      "https://leftypol.org/",
+      "http://wz6bnwwtwckltvkvji6vvgmjrfspr3lstz66rusvtczhsgvwdcixgbyd.onion/"
+    ],
     "language": [
       "en"
     ],
