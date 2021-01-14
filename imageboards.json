@@ -5630,6 +5630,18 @@
     ]
   },
   {
+    "name": "Zvezdachan",
+    "url": "https://zvezdachan.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "npfchan"
+    ]
+  },
+  {
     "name": "zzzchan",
     "url": "https://zzzchan.xyz/index.html",
     "mirrors": [
