@@ -1264,6 +1264,9 @@
       "https://boards.anonib.ru/",
       "https://anonib.su/"
     ],
+    "redirects": [
+      "https://anonib.com/"
+    ],
     "language": [
       "en"
     ],
