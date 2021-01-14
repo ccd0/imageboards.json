@@ -699,6 +699,10 @@
   {
     "name": "314chan",
     "url": "https://www.314chan.org/index.html",
+    "mirrors": [
+      "https://www.314chan.org/",
+      "https://www.314chan.co/"
+    ],
     "language": [
       "en"
     ],
