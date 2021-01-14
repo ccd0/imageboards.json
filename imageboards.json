@@ -4505,6 +4505,20 @@
     "boardlist": "http://rita.null/webring.json"
   },
   {
+    "name": "ru2ch.com",
+    "url": "https://ru2ch.com/",
+    "redirects": [
+      "https://symfony2ch.ru/",
+      "https://s2ch.ru/"
+    ],
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "maidib"
+    ]
+  },
+  {
     "name": "Rupattelu",
     "url": "https://rupattelu.us/rr/",
     "language": [

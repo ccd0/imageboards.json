@@ -114,6 +114,7 @@ This is a list of the software codes used in imageboard.json along with links to
 - kumo - https://github.com/tslocum/kumo
 - kunhatan - https://git.topkek.cf/birunda/kunhatan-core
 - lapis-chan - https://github.com/karai17/lapis-chan/
+- maidib - used by https://ru2ch.com/
 - makaba - used by https://2ch.hk/
 - maniwani - https://github.com/DangerOnTheRanger/maniwani
 - mayuri - used by https://horochan.ru/
