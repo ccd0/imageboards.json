@@ -4662,17 +4662,6 @@
     ]
   },
   {
-    "name": "Sfc_han",
-    "url": "https://sfc.euamo.moe/jp/",
-    "language": [
-      "pt"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "Shadowchannel",
     "url": "http://kage.gq/b/",
     "language": [
