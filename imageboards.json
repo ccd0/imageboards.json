@@ -455,17 +455,6 @@
     ]
   },
   {
-    "name": "128chan",
-    "url": "http://128chan.tk/",
-    "language": [
-      "pt"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "1436chan",
     "url": "gopher://khzae.net/1/chan",
     "mirrors": [
@@ -4838,18 +4827,6 @@
     "software": [
       "tinyboard",
       "vichan"
-    ]
-  },
-  {
-    "name": "spg-web.sytes.net/PasteChart/insect/",
-    "url": "http://spg-web.sytes.net/PasteChart/insect/",
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat"
     ]
   },
   {
