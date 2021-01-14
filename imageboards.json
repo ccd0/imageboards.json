@@ -960,16 +960,17 @@
   },
   {
     "name": "64chan",
-    "url": "https://64ch.me/index.html",
+    "url": "https://64ch.me/",
     "mirrors": [
       "https://64ch.me/",
-      "http://vfegc23h26tbeaf2a2oaflhtdoeihfxnsiljwbkqap5iyclpb5jztnid.onion/"
+      "http://64chan62jwebzzn5hcguxp2evocbxkziq5msnyc6aj43yctws73yzaid.onion/"
     ],
     "language": [
       "en"
     ],
     "software": [
-      "jschan"
+      "tinyboard",
+      "vichan"
     ]
   },
   {
