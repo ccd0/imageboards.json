@@ -99,7 +99,7 @@ This is a list of the software codes used in imageboard.json along with links to
 - blockchan - https://github.com/ndm-inf/F_Jannies / https://github.com/milezzz/BlockChan
 - brian - used by https://britfa.gs/
 - cursedboard - https://github.com/whisperchan/cursedboard / https://github.com/BigSlice/cursedboard
-- dch - described at https://dorper.me/dch/
+- dch - https://git.sr.ht/~pch/dch (described at https://dorper.me/dch/)
 - dietchan - https://gitgud.io/zuse/dietchan
 - dtn - used by https://www.imgbbs.dtn.jp/
 - erlach - https://github.com/m-2k/erlach
