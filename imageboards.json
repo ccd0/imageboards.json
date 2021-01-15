@@ -2896,6 +2896,17 @@
     ]
   },
   {
+    "name": "Kakashi Nenpo",
+    "url": "https://kakashi-nenpo.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Kamil Nowak smiec",
     "url": "http://altaro.webd.pl/images/board/",
     "language": [
@@ -3862,17 +3873,6 @@
     ],
     "software": [
       "jschan"
-    ]
-  },
-  {
-    "name": "Kakashi Nenpo",
-    "url": "https://kakashi-nenpo.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
     ]
   },
   {
