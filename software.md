@@ -43,11 +43,11 @@ This is a list of the software codes used in imageboard.json along with links to
         - x-233chan - https://github.com/amarillonmc/x-233chan
     - serissa - http://web.archive.org/web/20090222195838/http://www.serissa.org:80/ (downloads not archived)
         - fbe-410 - https://bitbucket.org/Therapont/fbe-410
-- lynxchan - https://gitgud.io/LynxChan/LynxChan
-    - infinitynow - https://gitgud.io/groups/InfinityNow
 - tinyib - https://gitlab.com/tslocum/tinyib
     - 0kun-tinyib - https://gitgud.io/devarped/0kun-tinyib
     - desuib - http://infsan7uxvnwirohy55qei3hgnbkw6nqi2q4tb7xxcgoiafvmqhicjyd.onion/script/
+- lynxchan - https://gitgud.io/LynxChan/LynxChan
+    - infinitynow - https://gitgud.io/groups/InfinityNow
 - wakaba - https://wakaba.c3.cx/s/web/wakaba_kareha
     - wakaba++ - described at https://www.lurkmore.com/view/Wakaba++ but appears to be unpublished
     - phutaba - https://gitlab.com/ernstchan/phutaba
