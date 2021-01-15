@@ -49,13 +49,6 @@
     ]
   },
   {
-    "name": "Рисовач",
-    "url": "http://risovach.ru/",
-    "language": [
-      "ru"
-    ]
-  },
-  {
     "name": "УЧАН",
     "url": "https://uchan.org.ua/",
     "redirects": [
@@ -949,22 +942,6 @@
       "https://600chan.ga/",
       "http://6ooch3fco3srmzuls2zg2so4sgr72cj7t4hwqlhjannnemf5y55fymad.onion/",
       "http://ncogytpxyaqnu5au4yc6oeiiaidhjcxfsr6cyebcsfki2p3ih7ea.b32.i2p/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "64chan",
-    "url": "https://64ch.me/",
-    "mirrors": [
-      "https://64ch.me/",
-      "https://atbestlawyers.com/",
-      "http://64chan62jwebzzn5hcguxp2evocbxkziq5msnyc6aj43yctws73yzaid.onion/"
     ],
     "language": [
       "en"
@@ -2253,7 +2230,8 @@
       "https://fatchan.ru/",
       "https://fatchan.li/",
       "https://fatchan.is/",
-      "http://cimixezweeq64g42vl6tyhk4becxhi4ldwqq6w43u53qhwsd3s4c3lyd.onion/"
+      "http://cimixezweeq64g42vl6tyhk4becxhi4ldwqq6w43u53qhwsd3s4c3lyd.onion/",
+      "http://e8zhrn4ideccyy6wfs8gyytdgz8xmcn11f1y5o557z3g8a18gf4y.loki/"
     ],
     "language": [
       "en"
@@ -3345,8 +3323,7 @@
       "fi"
     ],
     "software": [
-      "tinyboard",
-      "vichan"
+      "tinyib"
     ]
   },
   {
@@ -3888,7 +3865,7 @@
     ]
   },
   {
-    "name": "Nen",
+    "name": "Kakashi Nenpo",
     "url": "https://kakashi-nenpo.com/",
     "language": [
       "en"
