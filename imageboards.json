@@ -548,6 +548,17 @@
     ]
   },
   {
+    "name": "24random.fun",
+    "url": "http://24random.fun/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "27chan",
     "url": "https://27chan.org/",
     "language": [
