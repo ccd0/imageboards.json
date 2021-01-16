@@ -914,17 +914,6 @@
     ]
   },
   {
-    "name": "55chan",
-    "url": "https://55chan.org/",
-    "language": [
-      "pt"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "56chan",
     "url": "https://56chan.org/",
     "language": [
