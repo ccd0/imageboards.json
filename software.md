@@ -82,7 +82,7 @@ This is a list of the software codes used in imageboard.json along with links to
 - kropyva - https://gitlab.com/Kropyva
 - livechan - https://github.com/emgram769/livechan-js
 - nanochan - http://nanochanqzaytwlydykbg5nxkgyjxk3zsrctxuoxdmbx5jbh2ydyprid.onion/nanochan-public.tgz (latest source.lua at http://nanochanqzaytwlydykbg5nxkgyjxk3zsrctxuoxdmbx5jbh2ydyprid.onion/source.lua)
-    - picochan - https://github.com/vxiiduu/picochan
+    - picochan - https://github.com/vxiiduu/picochan, http://git.picochanwvqfa2xsrfzlul4x4aqtog2eljll5qnj5iagpbhx2vmfqnid.onion/picochan/
 - ochiba - http://ochiba.x-maru.org/
 - ololord.js - https://github.com/ololoepepe/ololord.js
     - tumbach - https://github.com/rngnrs/tumbach
