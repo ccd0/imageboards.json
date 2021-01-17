@@ -4073,44 +4073,6 @@
     ]
   },
   {
-    "name": "ohgiri.net /a/, /e/, and /x/",
-    "url": "https://www.ohgiri.net/a/imgboard.htm",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "siokara"
-    ]
-  },
-  {
-    "name": "ohgiri.net /gazou/",
-    "url": "https://www.ohgiri.net/gazou/",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "moeren",
-      "siokara",
-      "moeren+siokara"
-    ]
-  },
-  {
-    "name": "ohgiri.net /harimachi/",
-    "url": "https://www.ohgiri.net/harimachi/img.htm",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "moeren"
-    ]
-  },
-  {
     "name": "Onee Chan",
     "url": "https://onee.ch/",
     "language": [
