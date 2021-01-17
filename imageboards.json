@@ -3307,6 +3307,18 @@
     ]
   },
   {
+    "name": "LITchan",
+    "url": "https://litchan.lt/",
+    "language": [
+      "lt"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "lainchan"
+    ]
+  },
+  {
     "name": "Livebunker",
     "url": "https://livebunker.rocks/chat/home",
     "language": [
