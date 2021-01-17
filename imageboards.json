@@ -5033,18 +5033,6 @@
     ]
   },
   {
-    "name": "The Darkness International Imageboard",
-    "url": "http://www.darkness.epizy.com/",
-    "language": [
-      "ru",
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "TinyChan",
     "url": "https://tinychan.net/",
     "redirects": [
