@@ -962,13 +962,6 @@
     ]
   },
   {
-    "name": "70chan",
-    "url": "gopher://gopher.su/1/board",
-    "language": [
-      "en"
-    ]
-  },
-  {
     "name": "7chan",
     "url": "https://7chan.org/",
     "language": [
@@ -1619,16 +1612,6 @@
     ]
   },
   {
-    "name": "bumblebucks club",
-    "url": "https://bumblebuck.com/club/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyib"
-    ]
-  },
-  {
     "name": "Bunbunmaru",
     "url": "http://bunbunmaru.com/wakaba/",
     "language": [
@@ -1898,16 +1881,6 @@
       "gazoubbs",
       "futaba",
       "pixmicat"
-    ]
-  },
-  {
-    "name": "Dch",
-    "url": "https://c.d0.cx/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "dch"
     ]
   },
   {
@@ -4665,17 +4638,6 @@
     ]
   },
   {
-    "name": "shinkuchan",
-    "url": "http://shinkuchan.cf/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ],
-    "boardlist": "http://shinkuchan.cf/index.json"
-  },
-  {
     "name": "ShitpostChan",
     "url": "https://chan.funshitposting.xyz/",
     "language": [
@@ -5074,7 +5036,6 @@
       "http://exzho67ozpdadzcif6vna5y2i2jbcl32rerdrdyuu3b7lcfajqme55id.onion/",
       "http://76dqlkbo4ffj475k.onion/",
       "http://2ch.i2p/",
-      "http://homosexualchan.i2p/",
       "http://suzp44odgixf5lthy5ngy6ktabus5gz47squie2shudi6kmlwuaq.b32.i2p/"
     ],
     "language": [
@@ -5255,17 +5216,6 @@
     ],
     "software": [
       "jschan"
-    ]
-  },
-  {
-    "name": "UnknownOnline.me",
-    "url": "https://unknownonline.me/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
     ]
   },
   {
