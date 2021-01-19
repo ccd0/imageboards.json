@@ -3978,21 +3978,6 @@
     ]
   },
   {
-    "name": "Novachan",
-    "url": "http://novach3msrbifdfcfdtdzh63esz3ssxoqpbcwpztooftrmz7jor5yrad.onion/index.html",
-    "mirrors": [
-      "http://novach3msrbifdfcfdtdzh63esz3ssxoqpbcwpztooftrmz7jor5yrad.onion/",
-      "http://infsan7uxvnwirohy55qei3hgnbkw6nqi2q4tb7xxcgoiafvmqhicjyd.onion/",
-      "http://infsan7lch6eyzvbbw6653623acouugks7nn6sqzkretk2o7srphxhyd.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "jschan"
-    ]
-  },
-  {
     "name": "Nowere",
     "url": "https://nowere.net/",
     "language": [
