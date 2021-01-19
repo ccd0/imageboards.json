@@ -1623,7 +1623,10 @@
   },
   {
     "name": "Bunkerchan",
-    "url": "https://bunkerchan.xyz/",
+    "url": "https://bunkerchan.net/",
+    "redirects": [
+      "https://bunkerchan.xyz/"
+    ],
     "language": [
       "en"
     ],
