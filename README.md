@@ -22,8 +22,9 @@ The "entrances", "redirects", and "fallbacks" fields are arrays containing vario
 * "redirects" are URLs that redirect to the site or redirect to a page linking to the site.
 * "fallbacks" are URLs not yet used but which may be activated if the main site goes down.
 
-A third-party human-readable version of this list:
+Third-party human-readable versions of this list:
 https://imageboards.net/
+http://chanverse.uwu.mx/
 
 Other lists that may be of interest:
 * https://socialwiki.top/wiki/Imageboards
