@@ -2780,17 +2780,6 @@
     ]
   },
   {
-    "name": "/int/craft",
-    "url": "https://intcraft.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ],
-    "boardlist": "https://intcraft.org/index.json"
-  },
-  {
     "name": "Intern3ts",
     "url": "https://www.intern3ts.com/",
     "language": [
@@ -3200,16 +3189,6 @@
     ],
     "software": [
       "lapis-chan"
-    ]
-  },
-  {
-    "name": "LastChan",
-    "url": "https://lastchan.xyz/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
     ]
   },
   {
