@@ -5392,6 +5392,16 @@
     ]
   },
   {
+    "name": "Wrongthink",
+    "url": "http://wrongthink.net/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxphp"
+    ]
+  },
+  {
     "name": "Yakui",
     "url": "https://yakui.moe/",
     "language": [
