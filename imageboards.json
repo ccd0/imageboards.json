@@ -3600,16 +3600,6 @@
     ]
   },
   {
-    "name": "microchan",
-    "url": "http://ok3dw7mbxkobxsyo4fjjzmn4p5spd23om3mlfw3gpgxmowfyhxhavead.onion/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyib"
-    ]
-  },
-  {
     "name": "Minichan",
     "url": "https://minichan.org/",
     "language": [
