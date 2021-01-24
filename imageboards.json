@@ -3354,7 +3354,11 @@
   },
   {
     "name": "LotusBBS",
-    "url": "http://lotus4xjjfenvsmx5a27dd45gtv66txgdyv3bphtozkb25ltxwkdddyd.onion/index.html",
+    "url": "https://lotusbbs.org/index.html",
+    "mirrors": [
+      "https://lotusbbs.org/",
+      "http://lotus4xjjfenvsmx5a27dd45gtv66txgdyv3bphtozkb25ltxwkdddyd.onion/index.html"
+    ],
     "language": [
       "en"
     ],
