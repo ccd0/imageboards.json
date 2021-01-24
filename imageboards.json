@@ -366,8 +366,8 @@
       "https://0.1chan.pl/",
       "https://www.0chan.club/",
       "http://nullplctggmjazqcoboc2pw5anogckczzj6xo45ukrnsaxarpswu7sid.onion/",
-      "http://0pl.i2p/",
       "http://gd7qe2pu2jwqabz4zcf3wwablrzym7p6qswczoapkm5oa5ouuaua.b32.i2p/",
+      "http://0pl.i2p/",
       "http://[225:55:9ebf:1709:7b1f:a315:1119:6eff]/",
       "http://0chan.ygg/",
       "https://ygg.0chan.pl/"
@@ -424,10 +424,10 @@
   },
   {
     "name": "102chan",
-    "url": "http://102chan.i2p/",
+    "url": "http://xxu3lso4h2rh6wmrxiou3ax7r7la7x6dhoepnku3jvrlwp35pefq.b32.i2p/",
     "mirrors": [
-      "http://102chan.i2p/",
-      "http://xxu3lso4h2rh6wmrxiou3ax7r7la7x6dhoepnku3jvrlwp35pefq.b32.i2p/"
+      "http://xxu3lso4h2rh6wmrxiou3ax7r7la7x6dhoepnku3jvrlwp35pefq.b32.i2p/",
+      "http://102chan.i2p/"
     ],
     "language": [
       "ru",
@@ -621,8 +621,8 @@
       "https://2channel.moe/",
       "http://2channel5xx5xchx.onion/",
       "http://2channel5s3pvmo2364gs25e5xrx7nz6kivqhpj6ihh3df4hykvxysqd.onion/",
-      "http://2channel.i2p/",
-      "http://wirxk4kulmd7v6qmttltnu5nx2vtchzvrg7ewocejrvdjcaiv5sq.b32.i2p/"
+      "http://wirxk4kulmd7v6qmttltnu5nx2vtchzvrg7ewocejrvdjcaiv5sq.b32.i2p/",
+      "http://2channel.i2p/"
     ],
     "redirects": [
       "http://2chmoedsvicn7yspstpkyabkemgsl42johgjkbjknsekra7yakfegrid.onion/"
@@ -2643,10 +2643,10 @@
   },
   {
     "name": "Кислица.i2p",
-    "url": "http://kislitsa.i2p/",
+    "url": "http://khceo3smaxtng2tnuicmcbhdnkk2j6myi4nkigcux76qh3aabdhq.b32.i2p/",
     "mirrors": [
-      "http://kislitsa.i2p/",
-      "http://khceo3smaxtng2tnuicmcbhdnkk2j6myi4nkigcux76qh3aabdhq.b32.i2p/"
+      "http://khceo3smaxtng2tnuicmcbhdnkk2j6myi4nkigcux76qh3aabdhq.b32.i2p/",
+      "http://kislitsa.i2p/"
     ],
     "language": [
       "ru"
@@ -2929,10 +2929,10 @@
   },
   {
     "name": "Kelvinchan",
-    "url": "http://kelvinchan.i2p/",
+    "url": "http://6s72dyf6jwlvk2u455lksvcs5r7deafc3iniwo5kp4ssm777noma.b32.i2p/",
     "mirrors": [
-      "http://kelvinchan.i2p/",
-      "http://6s72dyf6jwlvk2u455lksvcs5r7deafc3iniwo5kp4ssm777noma.b32.i2p/"
+      "http://6s72dyf6jwlvk2u455lksvcs5r7deafc3iniwo5kp4ssm777noma.b32.i2p/",
+      "http://kelvinchan.i2p/"
     ],
     "language": [
       "en"
@@ -5012,9 +5012,9 @@
     "mirrors": [
       "http://exzho67ozpdadzcif6vna5y2i2jbcl32rerdrdyuu3b7lcfajqme55id.onion/",
       "http://76dqlkbo4ffj475k.onion/",
+      "http://suzp44odgixf5lthy5ngy6ktabus5gz47squie2shudi6kmlwuaq.b32.i2p/",
       "http://2ch.i2p/",
-      "http://homosexualchan.i2p/",
-      "http://suzp44odgixf5lthy5ngy6ktabus5gz47squie2shudi6kmlwuaq.b32.i2p/"
+      "http://homosexualchan.i2p/"
     ],
     "language": [
       "ru"
