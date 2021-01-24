@@ -6,10 +6,10 @@ This is a list of the software codes used in imageboard.json along with links to
     - vichan - https://github.com/vichan-devel/vichan/
         - npfchan - https://github.com/fallenPineapple/NPFchan
             - bazukachan - https://github.com/27chan/bazukachan
+        - lainchan - https://github.com/lainchan/lainchan
         - infinity - https://github.com/ctrlcctrlv/infinity
             - neoboard - https://github.com/neochaner/neochan
             - openib - https://github.com/OpenIB/OpenIB
-        - lainchan - https://github.com/lainchan/lainchan
         - kissu-vi - https://github.com/ECHibiki/Kissu-Vi
         - arisuchan - https://github.com/arisu-dev/arisuchan
         - fukuro - https://github.com/twiforce/fukuro
@@ -19,8 +19,8 @@ This is a list of the software codes used in imageboard.json along with links to
         - pixmicat - https://github.com/pixmicat/pixmicat/releases
             - yotsubanome - http://4ch.mooo.com/+4/script/
         - siokara - http://siokara.que.jp/
-            - moeren+siokara - http://siokara.que.jp/siokara_board2.shtml
             - yakuba - used by http://t-jun.kemoren.com/
+            - moeren+siokara - http://siokara.que.jp/siokara_board2.shtml
             - siokara-gchan - http://web.archive.org/web/20140220052910/http://www42.atpages.jp/gscripts/ (many pages not archived)
         - futallaby - https://www.1chan.net/futallaby/
             - fikaba - https://github.com/knarka/fikaba
