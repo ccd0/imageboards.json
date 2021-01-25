@@ -812,6 +812,16 @@
     ]
   },
   {
+    "name": "4-ch",
+    "url": "https://4-ch.net/img/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "wakaba"
+    ]
+  },
+  {
     "name": "4ch",
     "url": "http://4ch.mooo.com/+4/",
     "language": [
@@ -1208,6 +1218,16 @@
     ],
     "software": [
       "orphereus"
+    ]
+  },
+  {
+    "name": "AnonAmp",
+    "url": "https://anonamp.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard"
     ]
   },
   {
@@ -4204,6 +4224,16 @@
     ]
   },
   {
+    "name": "Pohjoislauta",
+    "url": "http://pohjoislauta.fi/",
+    "language": [
+      "fi"
+    ],
+    "software": [
+      "hankiboard"
+    ]
+  },
+  {
     "name": "PokemonBBS",
     "url": "https://pokemonbbs.com/poke/",
     "language": [
@@ -5434,6 +5464,16 @@
       "futaba",
       "siokara",
       "siokara-gchan"
+    ]
+  },
+  {
+    "name": "Yuichan",
+    "url": "https://yuichan.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
     ]
   },
   {
