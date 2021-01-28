@@ -1280,15 +1280,31 @@
   },
   {
     "name": "Anon Images",
-    "url": "https://boards.anonimages.com/",
+    "url": "https://anonimageboards.com/",
+    "entrances": [
+      "https://anonimages.crypto/",
+      "https://viewblock.io/unstoppable/anonimages.crypto",
+      "https://gateway.pinata.cloud/ipfs/QmWCMGNRNQM44L2peDEMRCG4XLbShUFTbqxvqWGMsELfso/",
+      "https://anonimages.com/"
+    ],
     "redirects": [
       "https://boards.anonreloaded.com/",
       "https://anonme.la/",
       "https://iboards.org/",
       "https://anonme.org/",
-      "https://anonimageboards.com/",
       "https://anonimageboard.com/"
     ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
+    "name": "Anon Images backup",
+    "url": "https://banned.pics/",
     "language": [
       "en"
     ],
