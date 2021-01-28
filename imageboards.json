@@ -2454,6 +2454,16 @@
     ]
   },
   {
+    "name": "General Forum",
+    "url": "https://g4m.net/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "kareha"
+    ]
+  },
+  {
     "name": "GETchan",
     "url": "https://www.getchan.net/",
     "language": [
