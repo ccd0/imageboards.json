@@ -2552,6 +2552,9 @@
   {
     "name": "Gurochan",
     "url": "https://gurochan.ga/",
+    "redirects": [
+      "http://www.gurochan.cx/"
+    ],
     "language": [
       "en"
     ],
