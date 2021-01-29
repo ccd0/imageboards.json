@@ -2550,6 +2550,16 @@
     ]
   },
   {
+    "name": "Gurochan",
+    "url": "https://gurochan.ga/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyib"
+    ]
+  },
+  {
     "name": "gzone-anime.info/UnitedSites/",
     "url": "http://gzone-anime.info/UnitedSites/academic/",
     "boardlistpages": [
