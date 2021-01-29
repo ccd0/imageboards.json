@@ -105,7 +105,6 @@ This is a list of the software codes used in imageboard.json along with links to
 - exaba - http://web.archive.org/web/20150429042034/http://exachan.com/exaba/ (last archived release: http://web.archive.org/web/20130614124246/http://exachan.com/exaba/downloads/exaba_0_9_9.zip)
 - gochan - https://github.com/eggbertx/gochan
 - hankiboard - https://gitlab.com/kilves/hankiboard (no longer updated)
-- hivebbs - https://github.com/desuwa/hivebbs
 - ib4f - formerly used by http://web.archive.org/web/20101108033202/http://imageboard4free.com:80/
 - imgboard - http://www.big.or.jp/~talk/t-club/soft/index.html
 - infinity-next - https://github.com/infinity-next/infinity-next
