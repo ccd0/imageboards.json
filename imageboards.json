@@ -1589,8 +1589,8 @@
     ]
   },
   {
-    "name": "boards.initiate.space",
-    "url": "https://boards.initiate.space/b/",
+    "name": "initiate.chan",
+    "url": "https://boards.initiate.space/recent.html",
     "language": [
       "en"
     ],
