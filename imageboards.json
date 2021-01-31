@@ -984,6 +984,20 @@
     ]
   },
   {
+    "name": "83tan",
+    "url": "https://83tan.org/",
+    "mirrors": [
+      "https://83tan.org/",
+      "https://topkek.cf/"
+    ],
+    "language": [
+      "pt"
+    ],
+    "software": [
+      "kunhatan"
+    ]
+  },
+  {
     "name": "8chan.moe",
     "url": "https://8chan.moe/",
     "mirrors": [
@@ -5053,20 +5067,6 @@
     ],
     "software": [
       "foolfuuka"
-    ]
-  },
-  {
-    "name": "83tan",
-    "url": "https://83tan.org/",
-    "mirrors": [
-      "https://83tan.org/",
-      "https://topkek.cf/"
-    ],
-    "language": [
-      "pt"
-    ],
-    "software": [
-      "kunhatan"
     ]
   },
   {
