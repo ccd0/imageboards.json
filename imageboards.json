@@ -5056,8 +5056,12 @@
     ]
   },
   {
-    "name": "topkek.cf",
-    "url": "https://topkek.cf/",
+    "name": "83tan",
+    "url": "https://83tan.org/",
+    "mirrors": [
+      "https://83tan.org/",
+      "https://topkek.cf/"
+    ],
     "language": [
       "pt"
     ],
