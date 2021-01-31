@@ -1589,17 +1589,6 @@
     ]
   },
   {
-    "name": "initiate.chan",
-    "url": "https://boards.initiate.space/recent.html",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "boguspix.com",
     "url": "https://storysol.boguspix.com/",
     "boardlistpages": [
@@ -2838,6 +2827,17 @@
     "software": [
       "tinyib",
       "desuib"
+    ]
+  },
+  {
+    "name": "initiate.chan",
+    "url": "https://boards.initiate.space/recent.html",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
