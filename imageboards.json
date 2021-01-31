@@ -1651,6 +1651,10 @@
   {
     "name": "Bunkerchan",
     "url": "https://bunkerchan.net/",
+    "mirrors": [
+      "https://bunkerchan.net/",
+      "http://3uruyn3iu4vqpbo2mx2s2qatourvgtzpadzlvdxo5trxe6zldp5tjcyd.onion/"
+    ],
     "redirects": [
       "https://bunkerchan.xyz/"
     ],
@@ -2542,6 +2546,10 @@
   {
     "name": "Gurochan",
     "url": "https://gurochan.ga/",
+    "mirrors": [
+      "https://gurochan.ga/",
+      "http://fio3aze2azu7yxewqvquymafro42ofcrttc4erf7tv47c2wriiwwihqd.onion/"
+    ],
     "redirects": [
       "http://www.gurochan.cx/"
     ],
