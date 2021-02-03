@@ -3441,7 +3441,8 @@
     "url": "https://lotusbbs.org/index.html",
     "mirrors": [
       "https://lotusbbs.org/",
-      "http://lotus4xjjfenvsmx5a27dd45gtv66txgdyv3bphtozkb25ltxwkdddyd.onion/"
+      "http://lotus4xjjfenvsmx5a27dd45gtv66txgdyv3bphtozkb25ltxwkdddyd.onion/",
+      "http://bvk6wdizvod3smzxkwlgnkmfy365hl3th2itomv52yeh3ijrbj7a.b32.i2p/"
     ],
     "language": [
       "en"
