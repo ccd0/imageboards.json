@@ -5357,17 +5357,6 @@
     ]
   },
   {
-    "name": "What-ch",
-    "url": "http://what-ch.mooo.com/what/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "whisper.onthewifi.com",
     "url": "ssh://bit:byte@whisper.onthewifi.com",
     "mirrors": [
