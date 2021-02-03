@@ -4525,22 +4525,6 @@
     ]
   },
   {
-    "name": "RitaChan",
-    "url": "http://rita.null/",
-    "mirrors": [
-      "http://rita.null/",
-      "http://elysia-medium.com/"
-    ],
-    "language": [
-      "en",
-      "it"
-    ],
-    "software": [
-      "lynxchan"
-    ],
-    "boardlist": "http://rita.null/webring.json"
-  },
-  {
     "name": "ru2ch.com",
     "url": "https://ru2ch.com/",
     "redirects": [
