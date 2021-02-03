@@ -946,24 +946,6 @@
     "boardlist": "https://56chan.org/index.json"
   },
   {
-    "name": "Crab Bucket",
-    "url": "https://crabbucket.xyz/index.html",
-    "mirrors": [
-      "https://crabbucket.xyz/",
-      "http://crab3zjdqjd5mfyu2bksea5lr572vzdriz4koc2lj25eey4aavpotgad.onion/",
-      "http://qlqzvuxvw5jpjsfyrpnak5hjlb5r5a4tvuqdeceie55qy7tos5qq.b32.i2p/",
-      "http://6ooch3fco3srmzuls2zg2so4sgr72cj7t4hwqlhjannnemf5y55fymad.onion/",
-      "http://ncogytpxyaqnu5au4yc6oeiiaidhjcxfsr6cyebcsfki2p3ih7ea.b32.i2p/",
-      "http://600chan.i2p/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "jschan"
-    ]
-  },
-  {
     "name": "64chan Bunker",
     "url": "http://64chan.eu3.org/",
     "language": [
@@ -1862,6 +1844,24 @@
       "gazoubbs",
       "futaba",
       "moeren"
+    ]
+  },
+  {
+    "name": "Crab Bucket",
+    "url": "https://crabbucket.xyz/index.html",
+    "mirrors": [
+      "https://crabbucket.xyz/",
+      "http://crab3zjdqjd5mfyu2bksea5lr572vzdriz4koc2lj25eey4aavpotgad.onion/",
+      "http://qlqzvuxvw5jpjsfyrpnak5hjlb5r5a4tvuqdeceie55qy7tos5qq.b32.i2p/",
+      "http://6ooch3fco3srmzuls2zg2so4sgr72cj7t4hwqlhjannnemf5y55fymad.onion/",
+      "http://ncogytpxyaqnu5au4yc6oeiiaidhjcxfsr6cyebcsfki2p3ih7ea.b32.i2p/",
+      "http://600chan.i2p/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "jschan"
     ]
   },
   {
