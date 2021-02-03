@@ -946,10 +946,9 @@
     "boardlist": "https://56chan.org/index.json"
   },
   {
-    "name": "600chan",
-    "url": "https://600chan.ga/",
+    "name": "Crab Bucket",
+    "url": "http://6ooch3fco3srmzuls2zg2so4sgr72cj7t4hwqlhjannnemf5y55fymad.onion/",
     "mirrors": [
-      "https://600chan.ga/",
       "http://6ooch3fco3srmzuls2zg2so4sgr72cj7t4hwqlhjannnemf5y55fymad.onion/",
       "http://ncogytpxyaqnu5au4yc6oeiiaidhjcxfsr6cyebcsfki2p3ih7ea.b32.i2p/",
       "http://600chan.i2p/"
@@ -958,8 +957,7 @@
       "en"
     ],
     "software": [
-      "tinyboard",
-      "vichan"
+      "jschan"
     ]
   },
   {
