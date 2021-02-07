@@ -2613,20 +2613,6 @@
     ]
   },
   {
-    "name": "Herdchan",
-    "url": "https://herdchan.club/index.html",
-    "mirrors": [
-      "https://herdchan.club/",
-      "http://herdch5gaywt477ewtbuxnksuapnz5zamt5crtqenkpvbw6ogybjmiqd.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "jschan"
-    ]
-  },
-  {
     "name": "heretyk.org",
     "url": "https://heretyk.org/",
     "language": [
