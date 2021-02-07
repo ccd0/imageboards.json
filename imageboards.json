@@ -4317,9 +4317,9 @@
   },
   {
     "name": "Polski vichan",
-    "url": "https://vichan.org/*/index.html",
+    "url": "https://pl.vichan.net/*/index.html",
     "mirrors": [
-      "https://vichan.org/",
+      "https://pl.vichan.net/",
       "http://vichan6jaktoao2o.onion/"
     ],
     "language": [
