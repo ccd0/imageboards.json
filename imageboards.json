@@ -1706,20 +1706,6 @@
     ]
   },
   {
-    "name": "C-board",
-    "url": "https://c-board.org/index.html",
-    "mirrors": [
-      "https://c-board.org/",
-      "http://cboard4lmji6cwnqs3xzrhs63md5gtvnzvnuomefmgf5v6352a3byjyd.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "jschan"
-    ]
-  },
-  {
     "name": "Øchan.cc",
     "url": "https://0chan.cc/",
     "language": [
@@ -2242,13 +2228,6 @@
     ]
   },
   {
-    "name": "ezchan",
-    "url": "https://ezchan.org/",
-    "language": [
-      "en"
-    ]
-  },
-  {
     "name": "Failure Forums",
     "url": "https://failureforums.ddns.net/",
     "language": [
@@ -2756,20 +2735,6 @@
     "url": "http://i-bbs.sijex.net/",
     "language": [
       "ja"
-    ]
-  },
-  {
-    "name": "IB.WTF",
-    "url": "https://ib.wtf/",
-    "mirrors": [
-      "https://ib.wtf/",
-      "http://ibwtf2x42oiafbbfyjjpx6powbvnrnqpxwtxi3nps7gprmxqh4iv4wad.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyib"
     ]
   },
   {
@@ -3380,16 +3345,6 @@
       "tinyboard",
       "vichan",
       "lainchan"
-    ]
-  },
-  {
-    "name": "Livebunker",
-    "url": "https://livebunker.rocks/chat/home",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "livechan"
     ]
   },
   {
@@ -4257,18 +4212,6 @@
     ]
   },
   {
-    "name": "p.komica.acg.club.tw",
-    "url": "http://p.komica.acg.club.tw/",
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat"
-    ]
-  },
-  {
     "name": "Playground of Doom",
     "url": "https://playgroundofdoom.com/",
     "language": [
@@ -4718,17 +4661,6 @@
     ]
   },
   {
-    "name": "Sibirchan",
-    "url": "https://sibirchan.ru/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
-    ]
-  },
-  {
     "name": "sick.bike BBS",
     "url": "gopher://bbs.sick.bike/1/70chan",
     "mirrors": [
@@ -4944,16 +4876,6 @@
     "software": [
       "tinyboard",
       "vichan"
-    ]
-  },
-  {
-    "name": "Suomilauta (onion)",
-    "url": "http://rzaktmwhivbypkcp3qjraduou7ts3xsczwgbzpb5qmvzvcmmm7rnneid.onion/",
-    "language": [
-      "fi"
-    ],
-    "software": [
-      "lynxchan"
     ]
   },
   {
