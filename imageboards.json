@@ -4638,16 +4638,6 @@
     ]
   },
   {
-    "name": "ShitpostChan",
-    "url": "https://chan.funshitposting.xyz/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyib"
-    ]
-  },
-  {
     "name": "sick.bike BBS",
     "url": "gopher://bbs.sick.bike/1/70chan",
     "mirrors": [
