@@ -80,7 +80,6 @@ This is a list of the software codes used in imageboard.json along with links to
 - gopherchan - used by gopher://port70.net/1chan
     - 70chan - https://github.com/sroracle/70chan
 - kropyva - https://gitlab.com/Kropyva
-- livechan - https://github.com/emgram769/livechan-js
 - nanochan - http://nanochanqzaytwlydykbg5nxkgyjxk3zsrctxuoxdmbx5jbh2ydyprid.onion/nanochan-public.tgz (latest source.lua at http://nanochanqzaytwlydykbg5nxkgyjxk3zsrctxuoxdmbx5jbh2ydyprid.onion/source.lua)
     - picochan - https://github.com/vxiiduu/picochan, http://git.picochanwvqfa2xsrfzlul4x4aqtog2eljll5qnj5iagpbhx2vmfqnid.onion/picochan/
 - ochiba - http://ochiba.x-maru.org/
@@ -115,6 +114,7 @@ This is a list of the software codes used in imageboard.json along with links to
 - kumo - https://github.com/tslocum/kumo
 - kunhatan - https://git.topkek.cf/birunda/kunhatan-core
 - lapis-chan - https://github.com/karai17/lapis-chan/
+- livechan - https://github.com/emgram769/livechan-js
 - lynxphp - https://gitgud.io/odilitime/lynxphp/
 - maidib - used by https://ru2ch.com/
 - makaba - used by https://2ch.hk/
