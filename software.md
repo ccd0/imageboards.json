@@ -103,6 +103,7 @@ This is a list of the software codes used in imageboard.json along with links to
 - dtn - used by https://www.imgbbs.dtn.jp/
 - erlach - https://github.com/m-2k/erlach
 - exaba - http://web.archive.org/web/20150429042034/http://exachan.com/exaba/ (last archived release: http://web.archive.org/web/20130614124246/http://exachan.com/exaba/downloads/exaba_0_9_9.zip)
+- fchannel - https://github.com/FChannel0/Server
 - gochan - https://github.com/eggbertx/gochan
 - hankiboard - https://gitlab.com/kilves/hankiboard (no longer updated)
 - ib4f - formerly used by http://web.archive.org/web/20101108033202/http://imageboard4free.com:80/

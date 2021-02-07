@@ -525,6 +525,16 @@
     ]
   },
   {
+    "name": "207.148.84.131",
+    "url": "http://207.148.84.131/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyib"
+    ]
+  },
+  {
     "name": "22chan",
     "url": "https://22chan.org/",
     "language": [
@@ -1602,6 +1612,17 @@
     ]
   },
   {
+    "name": "board.sniff.cc",
+    "url": "https://board.sniff.cc/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "boguspix.com",
     "url": "https://storysol.boguspix.com/",
     "boardlistpages": [
@@ -1931,6 +1952,22 @@
       "gazoubbs",
       "futaba",
       "pixmicat"
+    ]
+  },
+  {
+    "name": "def2",
+    "url": "http://cepsrw27kdegwo7ihzouwvgcvw2obswwjs23ollgj7hk2yrce3da.b32.i2p/",
+    "mirrors": [
+      "http://cepsrw27kdegwo7ihzouwvgcvw2obswwjs23ollgj7hk2yrce3da.b32.i2p/",
+      "http://def2.i2p/",
+      "http://z5bqfv5v75kxy7pj.onion/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
@@ -2280,6 +2317,16 @@
     ]
   },
   {
+    "name": "fchan.xyz",
+    "url": "https://server.fchan.xyz/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "fchannel"
+    ]
+  },
+  {
     "name": "Fenrisulfr",
     "url": "https://fenrisulfr.org/",
     "language": [
@@ -2289,6 +2336,17 @@
       "gazoubbs",
       "futaba",
       "pixmicat"
+    ]
+  },
+  {
+    "name": "FilePush.pw",
+    "url": "https://boards.filepush.pw/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
@@ -3195,6 +3253,18 @@
     "software": [
       "joyfulnote",
       "joyfulnote-isso"
+    ]
+  },
+  {
+    "name": "kukuku.uk",
+    "url": "https://kukuku.uk/%E7%BB%BC%E5%90%88%E7%89%881/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "lainchan"
     ]
   },
   {
@@ -4922,6 +4992,16 @@
     ]
   },
   {
+    "name": "Tewi Channel",
+    "url": "https://chan.tewi.noip.pl/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyib"
+    ]
+  },
+  {
     "name": "TF2chan",
     "url": "http://tf2chan.net/",
     "language": [
@@ -5343,6 +5423,17 @@
       "tinyboard",
       "vichan",
       "npfchan"
+    ]
+  },
+  {
+    "name": "World Channel",
+    "url": "https://worldchan.org/index.html",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
