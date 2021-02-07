@@ -3341,6 +3341,16 @@
     ]
   },
   {
+    "name": "LewdChan",
+    "url": "https://chan.lewdtuber.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ]
+  },
+  {
     "name": "Lewd.pics",
     "url": "https://lewd.pics/chan/b/",
     "language": [
