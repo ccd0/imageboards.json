@@ -1228,6 +1228,20 @@
     ]
   },
   {
+    "name": "Anonboard",
+    "url": "http://anonbrd2gmsia547epkpebsyayuo75pet4ymis2uomuimarld7n3bkqd.onion/",
+    "mirrors": [
+      "http://anonbrd2gmsia547epkpebsyayuo75pet4ymis2uomuimarld7n3bkqd.onion/",
+      "http://23reicfqj2yrq6bushimyfo3jnxkcxz77ruqdl474wlvkhulrnmq.b32.i2p/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyib"
+    ]
+  },
+  {
     "name": "anon.cafe",
     "url": "https://anon.cafe/",
     "mirrors": [
