@@ -3998,6 +3998,16 @@
     ]
   },
   {
+    "name": "Neuchan",
+    "url": "http://iwt7mcuk7y25svu74ppbtuehavgnxm32p2hbcxbbwpuwmidzny7qn7id.onion/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard"
+    ]
+  },
+  {
     "name": "ni-chan",
     "url": "http://plnemlsyla6h5t3nuoz2algzmy635ceuendnjwsmhwn2os5fxahshiad.onion/",
     "mirrors": [
