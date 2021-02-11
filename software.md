@@ -10,9 +10,9 @@ This is a list of the software codes used in imageboard.json along with links to
         - infinity - https://github.com/ctrlcctrlv/infinity
             - neoboard - https://github.com/neochaner/neochan
             - openib - https://github.com/OpenIB/OpenIB
-        - kissu-vi - https://github.com/ECHibiki/Kissu-Vi
         - arisuchan - https://github.com/arisu-dev/arisuchan
         - fukuro - https://github.com/twiforce/fukuro
+        - kissu-vi - https://github.com/ECHibiki/Kissu-Vi
     - ponychan - https://bitbucket.org/ponychan/ponychan-tinyboard
 - gazoubbs - http://web.archive.org/web/20170607054849/http://php.s3.to:80/bbs/bbs3.php
     - futaba - https://www.2chan.net/script/
