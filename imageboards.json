@@ -2255,17 +2255,6 @@
     ]
   },
   {
-    "name": "EvilChan",
-    "url": "https://seenoevil.lol/evilchan/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "Failure Forums",
     "url": "https://failureforums.ddns.net/",
     "language": [
@@ -3380,16 +3369,6 @@
     ],
     "software": [
       "tinyboard"
-    ]
-  },
-  {
-    "name": "lewd.site",
-    "url": "https://lewd.site/chat",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "tinyib"
     ]
   },
   {
@@ -4840,18 +4819,6 @@
     ]
   },
   {
-    "name": "STAcat",
-    "url": "https://stacat.cf/",
-    "language": [
-      "ca",
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "strange-komica.com/MonsterHunter/",
     "url": "https://strange-komica.com/MonsterHunter/",
     "language": [
@@ -5567,16 +5534,6 @@
       "kusaba",
       "kusabax",
       "novovvedeniya"
-    ]
-  },
-  {
-    "name": "Zoomerchan",
-    "url": "https://zoomerchan.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
     ]
   },
   {
