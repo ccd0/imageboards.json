@@ -320,6 +320,16 @@
     ]
   },
   {
+    "name": "0_0 weeb board 0_0",
+    "url": "https://w.xkg.wtf/index.html",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyib"
+    ]
+  },
+  {
     "name": "02ch",
     "url": "https://02ch.in/all/",
     "language": [
@@ -2765,6 +2775,17 @@
     ]
   },
   {
+    "name": "IB-Anon",
+    "url": "https://boards.ib-anon.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "i-bbs",
     "url": "http://i-bbs.sijex.net/",
     "language": [
@@ -4166,6 +4187,17 @@
       "https://pathb.net/",
       "http://d4lkrpbhnnhxocgshder2binhu5i3ifv6yskbkqnoa3bve7st2wvh3yd.onion/"
     ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
+    "name": "paywall.party",
+    "url": "https://paywall.party/b/",
     "language": [
       "en"
     ],
