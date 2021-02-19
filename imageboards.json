@@ -776,13 +776,6 @@
     ]
   },
   {
-    "name": "3chan.farm",
-    "url": "https://3chan.farm/",
-    "language": [
-      "en"
-    ]
-  },
-  {
     "name": "3Dchan.net",
     "url": "https://3dchan.net/dungeon/",
     "language": [
@@ -1472,7 +1465,6 @@
     "url": "https://smelle.xyz/",
     "mirrors": [
       "https://smelle.xyz/",
-      "https://www.lynxchan.net/",
       "http://26yukmkrhmhfg6alc56oexe7bcrokv4rilwpfwgh2u6bsbkddu55h4ad.onion/",
       "http://2m2ebnwffydmcnxmb4hhgjh5eqt4cb4k2wxhffvyrzq37a33x7oq.b32.i2p/"
     ],
@@ -5240,10 +5232,6 @@
   {
     "name": "VHSCHAN",
     "url": "https://vhschan.org/",
-    "mirrors": [
-      "https://vhschan.org/",
-      "https://www.brchan.org/"
-    ],
     "language": [
       "pt"
     ],
