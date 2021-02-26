@@ -184,6 +184,18 @@
     ]
   },
   {
+    "name": "塗鴉工廠",
+    "url": "http://broken.goodluck.com.tw/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "pixmicat"
+    ]
+  },
+  {
     "name": "大人の画像掲示板ももがき",
     "url": "http://momogaki.com/",
     "language": [
@@ -1676,18 +1688,6 @@
     ],
     "software": [
       "brian"
-    ]
-  },
-  {
-    "name": "塗鴉工廠",
-    "url": "http://broken.goodluck.com.tw/",
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat"
     ]
   },
   {
