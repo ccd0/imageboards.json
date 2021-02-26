@@ -1777,6 +1777,21 @@
     ]
   },
   {
+    "name": "レインchannel",
+    "url": "https://reinchan.org/",
+    "mirrors": [
+      "https://reinchan.org/",
+      "http://4raq26pvpjqhg6a7vpykxz6ln7t3rymtjn4lmqeeq3hr4xqmlkff2mad.onion/"
+    ],
+    "language": [
+      "pt"
+    ],
+    "software": [
+      "lynxchan"
+    ],
+    "boardlist": "https://reinchan.org/index.json"
+  },
+  {
     "name": "Channel Minamo",
     "url": "https://bbs.mnmoc.click/",
     "language": [
