@@ -1679,6 +1679,18 @@
     ]
   },
   {
+    "name": "broken.goodluck.com.tw",
+    "url": "http://broken.goodluck.com.tw/",
+    "language": [
+      "zh"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "pixmicat"
+    ]
+  },
+  {
     "name": "Bronnen",
     "url": "https://www.bronnen.net/",
     "language": [
