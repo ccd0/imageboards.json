@@ -959,6 +959,22 @@
     "boardlist": "https://56chan.org/index.json"
   },
   {
+    "name": "64chan",
+    "url": "http://64ch.me/",
+    "mirrors": [
+      "http://64ch.me/",
+      "https://atbestlawyers.com/",
+      "http://64chan62jwebzzn5hcguxp2evocbxkziq5msnyc6aj43yctws73yzaid.onion/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "64chan Bunker",
     "url": "http://64chan.eu3.org/",
     "language": [
