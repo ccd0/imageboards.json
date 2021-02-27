@@ -45,7 +45,6 @@ This is a list of the software codes used in imageboard.json along with links to
         - fbe-410 - https://bitbucket.org/Therapont/fbe-410
 - tinyib - https://gitlab.com/tslocum/tinyib
     - 0kun-tinyib - https://gitgud.io/devarped/0kun-tinyib
-    - desuib - https://archive.org/details/desuib
 - lynxchan - https://gitgud.io/LynxChan/LynxChan
     - infinitynow - https://gitgud.io/groups/InfinityNow
 - wakaba - https://wakaba.c3.cx/s/web/wakaba_kareha

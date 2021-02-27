@@ -1880,17 +1880,6 @@
     ]
   },
   {
-    "name": "ChristChan",
-    "url": "http://www.christchan.net/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "comfy.chat",
     "url": "https://comfy.chat/",
     "language": [
@@ -2897,21 +2886,6 @@
     ]
   },
   {
-    "name": "Infinity-San",
-    "url": "http://mr5o4b4vtqmzyor2.onion/",
-    "mirrors": [
-      "http://mr5o4b4vtqmzyor2.onion/",
-      "http://ve5xzk2p2ekrv7ea.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyib",
-      "desuib"
-    ]
-  },
-  {
     "name": "initiate.chan",
     "url": "https://boards.initiate.space/recent.html",
     "language": [
@@ -3458,22 +3432,6 @@
     "software": [
       "tinyboard"
     ]
-  },
-  {
-    "name": "Lolifox",
-    "url": "http://wn3ghyuon5eaqyxi7yauald3d53gsxrkanzpu2qdyc54vobif2qutsid.onion/",
-    "language": [
-      "ru",
-      "en",
-      "pl"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "infinity",
-      "openib"
-    ],
-    "boardlist": "http://wn3ghyuon5eaqyxi7yauald3d53gsxrkanzpu2qdyc54vobif2qutsid.onion/boards.json"
   },
   {
     "name": "Lolnada",
@@ -4452,20 +4410,6 @@
     ],
     "software": [
       "tornadoimageboard"
-    ]
-  },
-  {
-    "name": "PossumLand",
-    "url": "http://possum7qbhyuipcpaydyfd47zxufy3urmdttu3d3es36euggg62yfeid.onion/",
-    "mirrors": [
-      "http://possum7qbhyuipcpaydyfd47zxufy3urmdttu3d3es36euggg62yfeid.onion/",
-      "http://wnkrienrdb4wmoi3zyh7a3rflambfm4zk2zfct75kwbwajjocoegryid.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
     ]
   },
   {
