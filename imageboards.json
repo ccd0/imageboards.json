@@ -1558,10 +1558,10 @@
   },
   {
     "name": "Bchan",
-    "url": "https://bchan.net/",
+    "url": "http://bchan46hwn7fxf67hav7khj3ca7v4avg7yhieahqyocgnaolazgi6tqd.onion/",
     "mirrors": [
-      "https://bchan.net/",
-      "http://bchan46hwn7fxf67hav7khj3ca7v4avg7yhieahqyocgnaolazgi6tqd.onion/"
+      "http://bchan46hwn7fxf67hav7khj3ca7v4avg7yhieahqyocgnaolazgi6tqd.onion/",
+      "https://bchan.net/"
     ],
     "language": [
       "en"
@@ -1569,7 +1569,7 @@
     "software": [
       "lynxchan"
     ],
-    "boardlist": "https://bchan.net/index.json"
+    "boardlist": "http://bchan46hwn7fxf67hav7khj3ca7v4avg7yhieahqyocgnaolazgi6tqd.onion/index.json"
   },
   {
     "name": "beey",
