@@ -3090,9 +3090,7 @@
     "name": "Kissu.moe",
     "url": "https://kissu.moe/",
     "interfaces": [
-      "https://beta.kissu.moe/",
-      "https://original.kissu.moe/",
-      "https://demo.verniy.ca/"
+      "https://original.kissu.moe/"
     ],
     "language": [
       "en"
