@@ -2622,10 +2622,16 @@
   },
   {
     "name": "Gurochan",
-    "url": "https://gurochan.ga/",
-    "mirrors": [
-      "https://gurochan.ga/",
-      "http://fio3aze2azu7yxewqvquymafro42ofcrttc4erf7tv47c2wriiwwihqd.onion/"
+    "url": "https://guro.wtf/",
+    "entrances": [
+      "https://g3.kolyma.org/",
+      "https://live.kolyma.org/gurochan.ga.txt"
+    ],
+    "redirects": [
+      "https://gurochan.ga/"
+    ],
+    "fallbacks": [
+      "http://gurochan.cf/"
     ],
     "language": [
       "en"
