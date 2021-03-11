@@ -466,21 +466,6 @@
     ]
   },
   {
-    "name": "102chan",
-    "url": "http://xxu3lso4h2rh6wmrxiou3ax7r7la7x6dhoepnku3jvrlwp35pefq.b32.i2p/",
-    "mirrors": [
-      "http://xxu3lso4h2rh6wmrxiou3ax7r7la7x6dhoepnku3jvrlwp35pefq.b32.i2p/",
-      "http://102chan.i2p/"
-    ],
-    "language": [
-      "ru",
-      "en"
-    ],
-    "software": [
-      "tinyib"
-    ]
-  },
-  {
     "name": "10ch 画像アップロード",
     "url": "http://www.10ch.tv/bbs_img/",
     "language": [
@@ -1431,16 +1416,6 @@
     ]
   },
   {
-    "name": "Asherah's Garden",
-    "url": "https://asherahsgarden.net/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ]
-  },
-  {
     "name": "Atenszon",
     "url": "https://atenszon.net/b/",
     "language": [
@@ -2290,13 +2265,6 @@
   {
     "name": "eurochan.org",
     "url": "https://eurochan.org/",
-    "language": [
-      "en"
-    ]
-  },
-  {
-    "name": "Failure Forums",
-    "url": "https://failureforums.ddns.net/",
     "language": [
       "en"
     ]
@@ -4349,18 +4317,6 @@
     ]
   },
   {
-    "name": "Poni.fun",
-    "url": "https://poni.fun/poni/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "npfchan"
-    ]
-  },
-  {
     "name": "Ponkolauta",
     "url": "https://ponkolauta.net/",
     "language": [
@@ -4774,16 +4730,6 @@
     "software": [
       "gazoubbs",
       "futaba"
-    ]
-  },
-  {
-    "name": "socal.win",
-    "url": "https://socal.win/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
     ]
   },
   {
@@ -5464,16 +5410,6 @@
       "futaba",
       "siokara",
       "siokara-gchan"
-    ]
-  },
-  {
-    "name": "Yuichan",
-    "url": "https://yuichan.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
     ]
   },
   {
