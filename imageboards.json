@@ -1789,10 +1789,10 @@
   },
   {
     "name": "レインchannel",
-    "url": "https://reinchan.org/",
+    "url": "https://reinchan.org/index.html",
     "mirrors": [
       "https://reinchan.org/",
-      "http://4raq26pvpjqhg6a7vpykxz6ln7t3rymtjn4lmqeeq3hr4xqmlkff2mad.onion/"
+      "http://2l5ray43iyjha7uneosvytcpn6n2bgzczmi24q65amw7iu3f26emmbqd.onion/"
     ],
     "language": [
       "pt"
@@ -1800,7 +1800,7 @@
     "software": [
       "lynxchan"
     ],
-    "boardlist": "https://reinchan.org/index.json"
+    "boardlist": "https://reinchan.org/boards.json"
   },
   {
     "name": "Channel Minamo",
