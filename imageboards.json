@@ -970,22 +970,6 @@
     "boardlist": "https://56chan.org/index.json"
   },
   {
-    "name": "64chan",
-    "url": "http://64ch.me/",
-    "mirrors": [
-      "http://64ch.me/",
-      "https://atbestlawyers.com/",
-      "http://64chan62jwebzzn5hcguxp2evocbxkziq5msnyc6aj43yctws73yzaid.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "64chan Bunker",
     "url": "http://64chan.eu3.org/",
     "language": [
@@ -3409,6 +3393,22 @@
     ],
     "software": [
       "tinyboard"
+    ]
+  },
+  {
+    "name": "Lolifox",
+    "url": "https://lolifox.club/index.html",
+    "mirrors": [
+      "https://lolifox.club/",
+      "http://dvpcj3n5enx5ernlrdgs7pkp5ooue45mcm67znw3w64sok3ecwbhiyqd.onion/",
+      "https://64ch.me/"
+    ],
+    "language": [
+      "ru",
+      "en"
+    ],
+    "software": [
+      "jschan"
     ]
   },
   {
