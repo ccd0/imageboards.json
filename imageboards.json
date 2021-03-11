@@ -2320,7 +2320,8 @@
     ],
     "software": [
       "jschan"
-    ]
+    ],
+    "boardlist": "https://fatchan.org/webring.json"
   },
   {
     "name": "Favelachan",
@@ -3447,7 +3448,8 @@
     ],
     "software": [
       "jschan"
-    ]
+    ],
+    "boardlist": "https://lolifox.club/boards.json"
   },
   {
     "name": "Lolnada",
@@ -3483,7 +3485,8 @@
     ],
     "software": [
       "jschan"
-    ]
+    ],
+    "boardlist": "https://lotusbbs.org/boards.json"
   },
   {
     "name": "Lulz",
