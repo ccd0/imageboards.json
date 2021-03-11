@@ -38,6 +38,16 @@
     ]
   },
   {
+    "name": "Ньюсач",
+    "url": "http://anon.newsa4.ru/",
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "exaba"
+    ]
+  },
+  {
     "name": "Нічан",
     "url": "https://nichan.net/",
     "language": [
