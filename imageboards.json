@@ -2372,18 +2372,6 @@
     ]
   },
   {
-    "name": "filtered.fm",
-    "url": "https://filtered.fm/all/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "doushio",
-      "meguca",
-      "ffmboard"
-    ]
-  },
-  {
     "name": "Finalchan",
     "url": "https://finalchan.net/",
     "language": [
@@ -4307,18 +4295,6 @@
     "software": [
       "webpatio",
       "webpatio-kirishima"
-    ]
-  },
-  {
-    "name": "politics.lol",
-    "url": "https://politics.lol/all/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "doushio",
-      "meguca",
-      "ffmboard"
     ]
   },
   {

@@ -53,7 +53,6 @@ This is a list of the software codes used in imageboard.json along with links to
     - taimaba - used by https://420chan.org/
 - doushio - https://github.com/lalcmellkmal/doushio
     - meguca - https://github.com/bakape/meguca
-        - ffmboard - formerly at https://github.com/filteredfm/ffmboard
         - 2chen - formerly at https://github.com/chuuloves/2chen
         - cutechan - https://github.com/cutechan/cutechan
         - tetuca - https://github.com/nekto-nekto/tetuca
