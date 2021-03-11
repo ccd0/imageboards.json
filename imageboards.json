@@ -367,7 +367,19 @@
     ]
   },
   {
-    "name": "0-chan",
+    "name": "0-chan (2)",
+    "url": "https://2.0-chan.ru/",
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "kusaba",
+      "kusabax",
+      "instant-0chan"
+    ]
+  },
+  {
+    "name": "0-chan (4)",
     "url": "https://4.0-chan.ru/all/",
     "language": [
       "ru"
