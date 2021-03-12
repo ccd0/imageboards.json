@@ -443,17 +443,6 @@
     "boardlist": "https://www.0chan.pl/api/board/list"
   },
   {
-    "name": "0chanrunet",
-    "url": "https://0chanru.net/b/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "0kun",
     "url": "https://www.0kun.net/",
     "language": [
