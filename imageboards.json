@@ -319,6 +319,16 @@
     ]
   },
   {
+    "name": "신태일",
+    "url": "http://xluifu7wkjn3lmgjimgdsuhyta5ajnf5fy3y64na5ixvgx72ifswp5id.onion/",
+    "language": [
+      "ko"
+    ],
+    "software": [
+      "tinyib"
+    ]
+  },
+  {
     "name": "차단우회 연구소",
     "url": "https://govbunker.xyz/board/",
     "language": [
@@ -2159,6 +2169,16 @@
     ],
     "software": [
       "tinyboard"
+    ]
+  },
+  {
+    "name": "dulmBox",
+    "url": "http://dulm.blue/box/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "smolbbs"
     ]
   },
   {

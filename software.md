@@ -125,6 +125,7 @@ This is a list of the software codes used in imageboard.json along with links to
 - nekosrv - https://gitgud.io/cathugger/nksrv / https://github.com/cathugger/nksrv/
 - overmind - used by http://kanal4.org/
 - rb-79 - https://repo.or.cz/rb-79.git
+- smolbbs - http://dulm.blue/smol/
 - tornadoimageboard - https://github.com/cnsr/tornado_imageboard
 - weabot - used by https://bienvenidoainternet.org/
 - webpatio - http://www.kent-web.com/bbs/patio.html
