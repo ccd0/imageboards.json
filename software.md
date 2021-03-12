@@ -57,12 +57,12 @@ This is a list of the software codes used in imageboard.json along with links to
         - gakinko - used by http://www.gakinko.net/
         - joyful2chme - www.supra.cx/joyful2chMe/index.html
     - jn+yyb - http://w-space.net/subcon/cgi.htm
-- jschan - https://github.com/fatchan/jschan/
 - doushio - https://github.com/lalcmellkmal/doushio
     - meguca - https://github.com/bakape/meguca
         - 2chen - formerly at https://github.com/chuuloves/2chen
         - cutechan - https://github.com/cutechan/cutechan
         - tetuca - https://github.com/nekto-nekto/tetuca
+- jschan - https://github.com/fatchan/jschan/
 - foolfuuka - https://github.com/FoolCode/FoolFuuka
 - kareha - https://wakaba.c3.cx/s/web/wakaba_kareha
     - bakareha - https://github.com/f2d/bakareha
