@@ -51,11 +51,6 @@ This is a list of the software codes used in imageboard.json along with links to
     - wakaba++ - described at https://www.lurkmore.com/view/Wakaba++ but appears to be unpublished
     - phutaba - https://gitlab.com/ernstchan/phutaba
     - taimaba - used by https://420chan.org/
-- doushio - https://github.com/lalcmellkmal/doushio
-    - meguca - https://github.com/bakape/meguca
-        - 2chen - formerly at https://github.com/chuuloves/2chen
-        - cutechan - https://github.com/cutechan/cutechan
-        - tetuca - https://github.com/nekto-nekto/tetuca
 - joyfulnote - http://www.kent-web.com/bbs/joyful.html
     - joyfulnote-isso - http://web.archive.org/web/20100417062303/http://swanbay-web.hp.infoseek.co.jp:80/joyful/index.html (downloads not archived)
     - joyful2ch - http://falcon.s16.xrea.com/
@@ -63,9 +58,15 @@ This is a list of the software codes used in imageboard.json along with links to
         - joyful2chme - www.supra.cx/joyful2chMe/index.html
     - jn+yyb - http://w-space.net/subcon/cgi.htm
 - jschan - https://github.com/fatchan/jschan/
+- doushio - https://github.com/lalcmellkmal/doushio
+    - meguca - https://github.com/bakape/meguca
+        - 2chen - formerly at https://github.com/chuuloves/2chen
+        - cutechan - https://github.com/cutechan/cutechan
+        - tetuca - https://github.com/nekto-nekto/tetuca
 - foolfuuka - https://github.com/FoolCode/FoolFuuka
 - kareha - https://wakaba.c3.cx/s/web/wakaba_kareha
     - bakareha - https://github.com/f2d/bakareha
+- exaba - http://web.archive.org/web/20150429042034/http://exachan.com/exaba/ (last archived release: http://web.archive.org/web/20130614124246/http://exachan.com/exaba/downloads/exaba_0_9_9.zip)
 - kboard - https://www.cosmosfarm.com/products/kboard
 - 0chan - https://github.com/klkvsk/0chan
     - ochko - https://gitgud.io/devarped/ochko
@@ -98,7 +99,6 @@ This is a list of the software codes used in imageboard.json along with links to
 - dietchan - https://gitgud.io/zuse/dietchan
 - dtn - used by https://www.imgbbs.dtn.jp/
 - erlach - https://github.com/m-2k/erlach
-- exaba - http://web.archive.org/web/20150429042034/http://exachan.com/exaba/ (last archived release: http://web.archive.org/web/20130614124246/http://exachan.com/exaba/downloads/exaba_0_9_9.zip)
 - fchannel - https://github.com/FChannel0/Server
 - gochan - https://github.com/eggbertx/gochan
 - hankiboard - https://gitlab.com/kilves/hankiboard (no longer updated)
