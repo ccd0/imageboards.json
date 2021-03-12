@@ -2328,6 +2328,9 @@
   {
     "name": "Favelachan",
     "url": "https://favelachan.org/",
+    "redirects": [
+      "https://55chan.org"
+    ],
     "language": [
       "pt"
     ],
