@@ -1984,6 +1984,16 @@
     ]
   },
   {
+    "name": "DEAD-SU",
+    "url": "https://dead.su/chan/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyib"
+    ]
+  },
+  {
     "name": "def2",
     "url": "http://cepsrw27kdegwo7ihzouwvgcvw2obswwjs23ollgj7hk2yrce3da.b32.i2p/",
     "mirrors": [
@@ -2337,6 +2347,17 @@
     ],
     "software": [
       "fchannel"
+    ]
+  },
+  {
+    "name": "fenchan",
+    "url": "https://fenspinner.net/fenchan/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
@@ -4684,6 +4705,17 @@
     "software": [
       "gopherchan",
       "70chan"
+    ]
+  },
+  {
+    "name": "Sigchan",
+    "url": "https://sigchan.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
