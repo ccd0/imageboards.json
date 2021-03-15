@@ -70,7 +70,6 @@ This is a list of the software codes used in imageboard.json along with links to
 - kareha - https://wakaba.c3.cx/s/web/wakaba_kareha
     - bakareha - https://github.com/f2d/bakareha
 - exaba - http://web.archive.org/web/20150429042034/http://exachan.com/exaba/ (last archived release: http://web.archive.org/web/20130614124246/http://exachan.com/exaba/downloads/exaba_0_9_9.zip)
-- kboard - https://www.cosmosfarm.com/products/kboard
 - 0chan - https://github.com/klkvsk/0chan
     - ochko - https://gitgud.io/devarped/ochko
 - 1chan - https://github.com/jlbyrey/1chan
@@ -81,6 +80,7 @@ This is a list of the software codes used in imageboard.json along with links to
 - emanon - https://github.com/oprel/emanon
 - gopherchan - used by gopher://port70.net/1chan
     - 70chan - https://github.com/sroracle/70chan
+- kboard - https://www.cosmosfarm.com/products/kboard
 - kropyva - https://gitlab.com/Kropyva
 - nanochan - http://nanochanqzaytwlydykbg5nxkgyjxk3zsrctxuoxdmbx5jbh2ydyprid.onion/nanochan-public.tgz (latest source.lua at http://nanochanqzaytwlydykbg5nxkgyjxk3zsrctxuoxdmbx5jbh2ydyprid.onion/source.lua)
     - picochan - https://github.com/vxiiduu/picochan, http://git.picochanwvqfa2xsrfzlul4x4aqtog2eljll5qnj5iagpbhx2vmfqnid.onion/picochan/
