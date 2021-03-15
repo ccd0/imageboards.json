@@ -2619,6 +2619,23 @@
     ]
   },
   {
+    "name": "Gorechan",
+    "url": "https://bloodymess.net/",
+    "mirrors": [
+      "https://bloodymess.net/",
+      "http://xv5z2cjfdvusxtezvhvdsavo7dkoftii5p4s2fudqwzhpaacl5t4fdid.onion/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "pixmicat",
+      "kokonotsuba"
+    ]
+  },
+  {
     "name": "Gowno.club",
     "url": "https://gowno.club/all/",
     "language": [
@@ -3433,6 +3450,19 @@
     ],
     "software": [
       "tinyboard"
+    ]
+  },
+  {
+    "name": "Loliboard",
+    "url": "https://lolisare.fun/l/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "gazoubbs",
+      "futaba",
+      "pixmicat",
+      "kokonotsuba"
     ]
   },
   {

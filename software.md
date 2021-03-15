@@ -17,6 +17,7 @@ This is a list of the software codes used in imageboard.json along with links to
 - gazoubbs - http://web.archive.org/web/20170607054849/http://php.s3.to:80/bbs/bbs3.php
     - futaba - https://www.2chan.net/script/
         - pixmicat - https://github.com/pixmicat/pixmicat/releases
+            - kokonotsuba - unpublished, described at https://kolyma.org/services/kokonotsuba
             - yotsubanome - http://4ch.mooo.com/+4/script/
         - siokara - http://siokara.que.jp/
             - yakuba - used by http://t-jun.kemoren.com/
