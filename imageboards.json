@@ -2875,21 +2875,6 @@
     ]
   },
   {
-    "name": "imageboard.top",
-    "url": "https://imageboard.top/index.html",
-    "mirrors": [
-      "https://imageboard.top",
-      "http://imgbrd6tlchbmeusi4syxuwa6dotwoyq6buhnvn2uay4wkh5j47647yd.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "jschan"
-    ],
-    "boardlist": "http://imageboard.top/boards.json"
-  },
-  {
     "name": "inch.esy.es",
     "url": "http://inch.esy.es/b/",
     "language": [
