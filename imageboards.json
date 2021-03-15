@@ -5208,6 +5208,18 @@
     ]
   },
   {
+    "name": "Uber-chan",
+    "url": "http://uberchan.rf.gd/?do=boards",
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "tinyib",
+      "claire",
+      "shakaba"
+    ]
+  },
+  {
     "name": "Uboachan",
     "url": "https://uboachan.net/",
     "language": [
