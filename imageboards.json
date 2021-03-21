@@ -2438,6 +2438,17 @@
     ]
   },
   {
+    "name": "Fufufu (meguca)",
+    "url": "http://mail.fufufu.moe/bun/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "doushio",
+      "meguca"
+    ]
+  },
+  {
     "name": "FurChan",
     "url": "https://furchan.net/",
     "language": [
