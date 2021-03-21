@@ -1760,8 +1760,9 @@
   },
   {
     "name": "レインchannel",
-    "url": "https://110chan.org/index.html",
+    "url": "https://malenkost.su/index.html",
     "mirrors": [
+      "https://malenkost.su/",
       "https://110chan.org/",
       "http://2l5ray43iyjha7uneosvytcpn6n2bgzczmi24q65amw7iu3f26emmbqd.onion/"
     ],
