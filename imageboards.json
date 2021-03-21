@@ -3778,6 +3778,10 @@
   {
     "name": "mlabs-cz.com",
     "url": "https://mlabs-cz.com/",
+    "mirrors": [
+      "https://mlabs-cz.com/",
+      "https://mlabs.g6.cz/"
+    ],
     "language": [
       "cs"
     ],
