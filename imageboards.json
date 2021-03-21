@@ -299,16 +299,6 @@
     ]
   },
   {
-    "name": "笑薯",
-    "url": "https://vegbao.com/p/",
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "tinyib"
-    ]
-  },
-  {
     "name": "신태일",
     "url": "http://xluifu7wkjn3lmgjimgdsuhyta5ajnf5fy3y64na5ixvgx72ifswp5id.onion/",
     "language": [
@@ -3188,23 +3178,6 @@
     ]
   },
   {
-    "name": "komica.peroneko.org",
-    "url": "https://komica.peroneko.org/minecraft/",
-    "boardlistpages": [
-      "http://web.komica.org/bbsmenu.html",
-      "https://2cat.komica.org/",
-      "https://komica2.net/bbsmenu2018.html"
-    ],
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat"
-    ]
-  },
-  {
     "name": "komica.yucie.net",
     "url": "https://komica.yucie.net/",
     "language": [
@@ -4018,17 +3991,6 @@
       "vichan",
       "infinity",
       "neoboard"
-    ]
-  },
-  {
-    "name": "NeoTek Gaming",
-    "url": "https://neotekgaming.com/chan/b/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
     ]
   },
   {
