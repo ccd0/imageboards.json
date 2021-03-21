@@ -4503,8 +4503,7 @@
     "name": "PTChan",
     "url": "https://ptchan.org/",
     "language": [
-      "pt",
-      "en"
+      "pt"
     ],
     "software": [
       "tinyboard",
