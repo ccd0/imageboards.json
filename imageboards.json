@@ -1312,7 +1312,7 @@
   },
   {
     "name": "Anon Images",
-    "url": "https://anonimageboards.com/",
+    "url": "https://anonme.tv/",
     "entrances": [
       "https://anonimages.crypto/",
       "https://viewblock.io/unstoppable/anonimages.crypto",
@@ -1320,6 +1320,7 @@
       "https://anonimages.com/"
     ],
     "redirects": [
+      "https://anonimageboards.com/",
       "https://boards.anonreloaded.com/",
       "https://anonme.la/",
       "https://iboards.org/",
