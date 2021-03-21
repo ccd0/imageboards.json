@@ -3459,21 +3459,20 @@
   },
   {
     "name": "Lolifox",
-    "url": "https://lolifox.club/index.html",
+    "url": "https://lolifox.club/",
     "mirrors": [
       "https://lolifox.club/",
-      "http://dvpcj3n5enx5ernlrdgs7pkp5ooue45mcm67znw3w64sok3ecwbhiyqd.onion/",
+      "http://kdrlbdzp2kzhofos5nfzd7ohz6f6n4fuwrkhs7adgx3l7rvhlqna3cad.onion/",
       "https://64ch.me/"
     ],
-    "redirects": [
-      "https://lolifox.cf/"
-    ],
     "language": [
-      "ru",
-      "en"
+      "en",
+      "ru"
     ],
     "software": [
-      "jschan"
+      "tinyboard",
+      "vichan",
+      "infinity"
     ],
     "boardlist": "https://lolifox.club/boards.json"
   },
