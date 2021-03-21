@@ -4170,6 +4170,10 @@
   {
     "name": "Onee Chan",
     "url": "https://onee.ch/",
+    "mirrors": [
+      "https://onee.ch/",
+      "http://oneechnq2pn57jfud3wkwtfkthtwrqnqqv7hlyzoy46jgukcd67hylyd.onion/"
+    ],
     "language": [
       "en"
     ],
