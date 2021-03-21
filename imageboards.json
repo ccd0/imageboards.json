@@ -1254,7 +1254,8 @@
     "mirrors": [
       "https://anonboard.be/",
       "http://anonbrd2gmsia547epkpebsyayuo75pet4ymis2uomuimarld7n3bkqd.onion/",
-      "http://23reicfqj2yrq6bushimyfo3jnxkcxz77ruqdl474wlvkhulrnmq.b32.i2p/"
+      "http://23reicfqj2yrq6bushimyfo3jnxkcxz77ruqdl474wlvkhulrnmq.b32.i2p/",
+      "http://anonboard.i2p/"
     ],
     "language": [
       "en"
