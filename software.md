@@ -54,17 +54,17 @@ This is a list of the software codes used in imageboard.json along with links to
     - wakaba++ - described at https://www.lurkmore.com/view/Wakaba++ but appears to be unpublished
     - phutaba - https://gitlab.com/ernstchan/phutaba
     - taimaba - used by https://420chan.org/
+- doushio - https://github.com/lalcmellkmal/doushio
+    - meguca - https://github.com/bakape/meguca
+        - 2chen - formerly at https://github.com/chuuloves/2chen
+        - cutechan - https://github.com/cutechan/cutechan
+        - tetuca - https://github.com/nekto-nekto/tetuca
 - joyfulnote - http://www.kent-web.com/bbs/joyful.html
     - joyfulnote-isso - http://web.archive.org/web/20100417062303/http://swanbay-web.hp.infoseek.co.jp:80/joyful/index.html (downloads not archived)
     - joyful2ch - http://falcon.s16.xrea.com/
         - gakinko - used by http://www.gakinko.net/
         - joyful2chme - www.supra.cx/joyful2chMe/index.html
     - jn+yyb - http://w-space.net/subcon/cgi.htm
-- doushio - https://github.com/lalcmellkmal/doushio
-    - meguca - https://github.com/bakape/meguca
-        - 2chen - formerly at https://github.com/chuuloves/2chen
-        - cutechan - https://github.com/cutechan/cutechan
-        - tetuca - https://github.com/nekto-nekto/tetuca
 - jschan - https://github.com/fatchan/jschan/
 - foolfuuka - https://github.com/FoolCode/FoolFuuka
 - kareha - https://wakaba.c3.cx/s/web/wakaba_kareha
