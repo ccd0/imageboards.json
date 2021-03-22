@@ -1942,6 +1942,21 @@
     ]
   },
   {
+    "name": "daijoubu.org",
+    "url": "https://daijoubu.org/bun/",
+    "mirrors": [
+      "https://daijoubu.org/",
+      "http://mail.fufufu.moe/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "doushio",
+      "meguca"
+    ]
+  },
+  {
     "name": "DameIB",
     "url": "https://dameib.net/",
     "language": [
@@ -2435,21 +2450,6 @@
     ],
     "software": [
       "tinyboard"
-    ]
-  },
-  {
-    "name": "daijoubu.org",
-    "url": "https://daijoubu.org/bun/",
-    "mirrors": [
-      "https://daijoubu.org/",
-      "http://mail.fufufu.moe/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "doushio",
-      "meguca"
     ]
   },
   {
