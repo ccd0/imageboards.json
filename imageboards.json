@@ -2439,7 +2439,11 @@
   },
   {
     "name": "Fufufu (meguca)",
-    "url": "http://mail.fufufu.moe/bun/",
+    "url": "https://daijoubu.org/bun/",
+    "mirrors": [
+      "https://daijoubu.org/",
+      "http://mail.fufufu.moe/"
+    ],
     "language": [
       "en"
     ],
