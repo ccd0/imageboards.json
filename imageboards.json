@@ -2697,7 +2697,10 @@
       "en"
     ],
     "software": [
-      "tinyib"
+      "gazoubbs",
+      "futaba",
+      "pixmicat",
+      "kokonotsuba"
     ]
   },
   {
@@ -2752,7 +2755,9 @@
     ],
     "software": [
       "gazoubbs",
-      "futaba"
+      "futaba",
+      "pixmicat",
+      "kokonotsuba"
     ]
   },
   {
