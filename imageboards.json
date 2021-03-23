@@ -1135,17 +1135,6 @@
     ]
   },
   {
-    "name": "aletheia.ee",
-    "url": "https://aletheia.ee/board/",
-    "language": [
-      "et"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "alica.dreamhosters.com",
     "url": "https://alica.dreamhosters.com/screenshot/index.xhtml.zh-tw",
     "language": [
