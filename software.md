@@ -121,8 +121,6 @@ This is a list of the software codes used in imageboard.json along with links to
 - maniwani - https://github.com/DangerOnTheRanger/maniwani
 - mayuri - used by https://horochan.ru/
 - mei - https://github.com/lulalala/mei
-- mitsuba - https://github.com/MitsubaBBS/Mitsuba
-    - haruko - https://gitgud.io/parley/Haruko
 - monaba - https://github.com/ahushh/Monaba
 - neboard5 - https://bitbucket.org/neko259/neboard5/src/master/
 - nekosrv - https://gitgud.io/cathugger/nksrv / https://github.com/cathugger/nksrv/
