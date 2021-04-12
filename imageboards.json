@@ -2328,14 +2328,17 @@
     "url": "https://fatchan.org/index.html",
     "mirrors": [
       "https://fatchan.org/",
-      "https://fatchan.net/",
-      "https://fatchan.top/",
-      "https://fatchan.tw/",
-      "https://fatchan.ru/",
-      "https://fatchan.li/",
-      "https://fatchan.is/",
       "http://cimixezweeq64g42vl6tyhk4becxhi4ldwqq6w43u53qhwsd3s4c3lyd.onion/",
       "http://e8zhrn4ideccyy6wfs8gyytdgz8xmcn11f1y5o557z3g8a18gf4y.loki/"
+    ],
+    "entrances": [
+      "https://fatchan.net/",
+      "https://fatchan.to/",
+      "https://fatchan.top/",
+      "https://fatchan.tw/",
+      "https://fatchan.li/",
+      "https://fatchan.ru/",
+      "https://fatchan.is/"
     ],
     "language": [
       "en"
