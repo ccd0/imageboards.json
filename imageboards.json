@@ -1432,6 +1432,25 @@
     ]
   },
   {
+    "name": "Autismchan",
+    "url": "https://autismchan.me/",
+    "mirrors": [
+      "https://autismchan.me/",
+      "http://ldjviphjkowdityut6p6gacwj5kc6lq56mbbdw5rr2kt3xh247d3i7qd.onion/"
+    ],
+    "redirects": [
+      "https://lolifox.club/",
+      "https://64ch.me/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ],
+    "boardlist": "https://autismchan.me/index.json"
+  },
+  {
     "name": "AwsumChan",
     "url": "https://awsumchan.org/",
     "language": [
@@ -3474,26 +3493,6 @@
       "pixmicat",
       "kokonotsuba"
     ]
-  },
-  {
-    "name": "Lolifox",
-    "url": "https://lolifox.club/",
-    "mirrors": [
-      "https://lolifox.club/",
-      "http://kdrlbdzp2kzhofos5nfzd7ohz6f6n4fuwrkhs7adgx3l7rvhlqna3cad.onion/",
-      "http://64ch.me/",
-      "https://atbestlawyers.com/"
-    ],
-    "language": [
-      "en",
-      "ru"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "infinity"
-    ],
-    "boardlist": "https://lolifox.club/boards.json"
   },
   {
     "name": "Lolnada",
