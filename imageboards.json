@@ -104,6 +104,16 @@
     ]
   },
   {
+    "name": "Хиккач",
+    "url": "https://hikka-ch.ru/",
+    "language": [
+      "ru"
+    ],
+    "software": [
+      "tinyib"
+    ]
+  },
+  {
     "name": "がぞろだ",
     "url": "http://www.gz-loader.com/",
     "language": [
@@ -890,6 +900,16 @@
     ]
   },
   {
+    "name": "/4ct/",
+    "url": "https://boards.4ct.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyib"
+    ]
+  },
+  {
     "name": "4Feuilles",
     "url": "https://4feuilles.org/",
     "redirects": [
@@ -1425,6 +1445,19 @@
     ]
   },
   {
+    "name": "Audiochan",
+    "url": "https://audiochan.org/",
+    "redirects": [
+      "https://voicechan.org/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyib"
+    ]
+  },
+  {
     "name": "Aurorachan",
     "url": "http://aurorachan.net/",
     "language": [
@@ -1755,6 +1788,18 @@
     ]
   },
   {
+    "name": "chan.BigChungus.cz",
+    "url": "https://chan.bigchungus.cz/",
+    "language": [
+      "cs",
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Øchan.cc",
     "url": "https://0chan.cc/",
     "language": [
@@ -2053,6 +2098,16 @@
     ]
   },
   {
+    "name": "DenshiChan",
+    "url": "https://chan.denshi.live/index.html",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "jschan"
+    ]
+  },
+  {
     "name": "Desuarchive",
     "url": "https://desuarchive.org/",
     "language": [
@@ -2134,6 +2189,16 @@
     ]
   },
   {
+    "name": "DisCap",
+    "url": "https://dismantle.capital/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyib"
+    ]
+  },
+  {
     "name": "Dobrochan",
     "url": "https://dobrochan.net/",
     "mirrors": [
@@ -2179,6 +2244,17 @@
     ],
     "software": [
       "doushio"
+    ]
+  },
+  {
+    "name": "doyouevenchan.com",
+    "url": "http://doyouevenchan.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
@@ -2335,6 +2411,16 @@
     "url": "https://eurochan.org/",
     "language": [
       "en"
+    ]
+  },
+  {
+    "name": "FantomTalk",
+    "url": "http://fantomtalk.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyib"
     ]
   },
   {
@@ -3410,6 +3496,17 @@
     ]
   },
   {
+    "name": "lettchan",
+    "url": "https://lettchan.cf/",
+    "language": [
+      "lv"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "LewdChan",
     "url": "https://chan.lewdtuber.com/",
     "language": [
@@ -4127,6 +4224,16 @@
     ]
   },
   {
+    "name": "Obiadekchan",
+    "url": "https://radekxrandom.pythonanywhere.com/obiadekchan/",
+    "language": [
+      "pl"
+    ],
+    "software": [
+      "obiadekchan"
+    ]
+  },
+  {
     "name": "ochan.ru",
     "url": "https://ochan.ru/",
     "language": [
@@ -4520,6 +4627,21 @@
     "software": [
       "kusaba",
       "kusabax"
+    ]
+  },
+  {
+    "name": "Rainchan",
+    "url": "https://boards.concealed.world/",
+    "mirrors": [
+      "https://boards.concealed.world/",
+      "http://fvmquvda235lwlvdec5nhdwtajlwitfwutsnhsxwcc5wzwzrgcsrc3qd.onion/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {
@@ -5270,6 +5392,17 @@
     ]
   },
   {
+    "name": "Vecchiochan",
+    "url": "https://vecchiochan.com/",
+    "language": [
+      "it"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "VHSCHAN",
     "url": "https://vhschan.org/",
     "language": [
@@ -5291,6 +5424,17 @@
     "software": [
       "kusaba",
       "kusabax"
+    ]
+  },
+  {
+    "name": "Voyeurchan",
+    "url": "http://voyeurchan.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
     ]
   },
   {

@@ -126,6 +126,7 @@ This is a list of the software codes used in imageboard.json along with links to
 - monaba - https://github.com/ahushh/Monaba
 - neboard5 - https://bitbucket.org/neko259/neboard5/src/master/
 - nekosrv - https://gitgud.io/cathugger/nksrv / https://github.com/cathugger/nksrv/
+- obiadekchan - https://github.com/radekxrandom/imgboardeng
 - overmind - used by http://kanal4.org/
 - rb-79 - https://repo.or.cz/rb-79.git
 - sichan - https://github.com/berlinfirewall/sichan/
