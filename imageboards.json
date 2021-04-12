@@ -2661,10 +2661,6 @@
   {
     "name": "Grimchan",
     "url": "https://grimchan.xyz/",
-    "mirrors": [
-      "https://grimchan.xyz/",
-      "http://outerch.ga/"
-    ],
     "language": [
       "en"
     ],
