@@ -2382,17 +2382,6 @@
     ]
   },
   {
-    "name": "fenchan",
-    "url": "https://fenspinner.net/fenchan/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "Fenrisulfr",
     "url": "https://fenrisulfr.org/",
     "language": [
