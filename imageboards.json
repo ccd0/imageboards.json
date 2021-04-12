@@ -728,8 +728,7 @@
       "en"
     ],
     "software": [
-      "mitsuba",
-      "haruko"
+      "jschan"
     ],
     "boardlist": "https://www.314chan.org/boards.json"
   },
@@ -1888,7 +1887,7 @@
   },
   {
     "name": "Coronachan",
-    "url": "https://coronachan.xyz/index.html",
+    "url": "https://coronachan.xyz/",
     "mirrors": [
       "https://coronachan.xyz/",
       "http://coronayyjx6g65u72f2muefkhluh4r3ezmm7567zc3wyaoa3bm632zqd.onion/"
@@ -1897,9 +1896,9 @@
       "en"
     ],
     "software": [
-      "jschan"
-    ],
-    "boardlist": "https://coronachan.xyz/boards.json"
+      "tinyboard",
+      "vichan"
+    ]
   },
   {
     "name": "Crab Bucket",
@@ -3445,7 +3444,8 @@
       "fi"
     ],
     "software": [
-      "tinyib"
+      "tinyboard",
+      "vichan"
     ]
   },
   {
