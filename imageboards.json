@@ -1244,7 +1244,11 @@
       "https://anonboard.be/",
       "http://anonbrd2gmsia547epkpebsyayuo75pet4ymis2uomuimarld7n3bkqd.onion/",
       "http://23reicfqj2yrq6bushimyfo3jnxkcxz77ruqdl474wlvkhulrnmq.b32.i2p/",
-      "http://anonboard.i2p/"
+      "http://anonboard.i2p/",
+      "http://lotus4xjjfenvsmx5a27dd45gtv66txgdyv3bphtozkb25ltxwkdddyd.onion/"
+    ],
+    "redirects": [
+      "https://lotusbbs.org/"
     ],
     "language": [
       "en"
@@ -3511,22 +3515,6 @@
       "tinyboard",
       "vichan"
     ]
-  },
-  {
-    "name": "LotusBBS",
-    "url": "https://lotusbbs.org/index.html",
-    "mirrors": [
-      "https://lotusbbs.org/",
-      "http://lotus4xjjfenvsmx5a27dd45gtv66txgdyv3bphtozkb25ltxwkdddyd.onion/",
-      "http://bvk6wdizvod3smzxkwlgnkmfy365hl3th2itomv52yeh3ijrbj7a.b32.i2p/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "jschan"
-    ],
-    "boardlist": "https://lotusbbs.org/boards.json"
   },
   {
     "name": "Lulz",
