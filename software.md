@@ -46,6 +46,18 @@ This is a list of the software codes used in imageboard.json along with links to
         - novovvedeniya - http://www.zloiodm.in/trs/ksb.rar
         - ponyach.ru - https://github.com/acilsd/ponyach.ru
         - x-233chan - https://github.com/amarillonmc/x-233chan
+        - kusaba-helma - https://github.com/helma-dev/kusaba-helma
+    - serissa - http://web.archive.org/web/20090222195838/http://www.serissa.org:80/ (downloads not archived)
+        - fbe-410 - https://bitbucket.org/Therapont/fbe-410
+- lynxchan - https://gitgud.io/LynxChan/LynxChan
+    - infinitynow - https://gitgud.io/groups/InfinityNow
+- wakaba - https://wakaba.c3.cx/s/web/wakaba_kareha
+    - wakaba++ - described at https://www.lurkmore.com/view/Wakaba++ but appears to be unpublished
+    - phutaba - https://gitlab.com/ernstchan/phutaba
+    - taimaba - used by https://420chan.org/
+- doushio - https://github.com/lalcmellkmal/doushio
+        - ponyach.ru - https://github.com/acilsd/ponyach.ru
+        - x-233chan - https://github.com/amarillonmc/x-233chan
     - serissa - http://web.archive.org/web/20090222195838/http://www.serissa.org:80/ (downloads not archived)
         - fbe-410 - https://bitbucket.org/Therapont/fbe-410
 - lynxchan - https://gitgud.io/LynxChan/LynxChan
