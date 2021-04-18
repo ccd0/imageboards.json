@@ -979,6 +979,17 @@
     ]
   },
   {
+    "name": "56chan",
+    "url": "https://uhh.56chan.org/all/",
+    "language": [
+      "pt"
+    ],
+    "software": [
+      "doushio",
+      "meguca"
+    ]
+  },
+  {
     "name": "64chan Bunker",
     "url": "http://64chan.eu3.org/",
     "language": [
