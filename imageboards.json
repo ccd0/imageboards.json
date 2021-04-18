@@ -2532,7 +2532,11 @@
   },
   {
     "name": "Freech",
-    "url": "http://freech74amlzoxrrv2c2yi4l2q6qqk5rlo6lrhhq6phdr2ddxkwuinad.onion/index.html",
+    "url": "https://freech.ltd/index.html",
+    "mirrors": [
+      "https://freech.ltd/",
+      "http://freech74amlzoxrrv2c2yi4l2q6qqk5rlo6lrhhq6phdr2ddxkwuinad.onion/"
+    ],
     "language": [
       "en"
     ],
