@@ -2542,7 +2542,8 @@
     ],
     "software": [
       "jschan"
-    ]
+    ],
+    "boardlist": "https://freech.ltd/boards.json"
   },
   {
     "name": "Fuck Jannies",
