@@ -1475,19 +1475,19 @@
     "url": "https://autismchan.me/",
     "mirrors": [
       "https://autismchan.me/",
-      "http://ldjviphjkowdityut6p6gacwj5kc6lq56mbbdw5rr2kt3xh247d3i7qd.onion/"
+      "http://2mnho7ejsxsoqqsib5d7lmkhbtkpstaqnuupezdkzr2jtopmyphut5ad.onion/",
+      "https://64ch.me/"
     ],
     "redirects": [
-      "https://lolifox.club/",
-      "https://64ch.me/"
+      "https://lolifox.club/"
     ],
     "language": [
       "en"
     ],
     "software": [
-      "lynxchan"
-    ],
-    "boardlist": "https://autismchan.me/index.json"
+      "tinyboard",
+      "vichan"
+    ]
   },
   {
     "name": "AwsumChan",
