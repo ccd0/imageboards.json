@@ -2004,6 +2004,17 @@
     ]
   },
   {
+    "name": "cu4trochan",
+    "url": "https://cuatrochan.org/",
+    "language": [
+      "es"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "CuceiChan",
     "url": "https://cucei.com.mx/",
     "language": [
@@ -2237,6 +2248,13 @@
     ],
     "software": [
       "tinyib"
+    ]
+  },
+  {
+    "name": "Domingochan",
+    "url": "https://domingochan.org/",
+    "language": [
+      "es"
     ]
   },
   {
@@ -5429,6 +5447,13 @@
       "vichan",
       "npfchan",
       "bazukachan"
+    ]
+  },
+  {
+    "name": "vikin.ga",
+    "url": "https://vikin.ga/",
+    "language": [
+      "es"
     ]
   },
   {
