@@ -35,7 +35,7 @@ This is a list of the software codes used in imageboard.json along with links to
         - kenjiweb - http://web.archive.org/web/20071013052850/http://www.kenjiweb.com/ (downloads not archived)
         - monaca - http://akahuku.dw.land.to/monaca/ (dead)
         - poti-board - http://web.archive.org/web/20170707091918/http://www.punyu.net/php/oekaki.php (downloads not archived)
-- tinyib - https://gitlab.com/tslocum/tinyib
+- tinyib - https://code.rocketnine.space/tslocum/tinyib
     - 0kun-tinyib - https://gitgud.io/devarped/0kun-tinyib
     - claire - https://github.com/ClaireIsAlive/Claire
         - shakaba - https://github.com/alco-debug/shakaba
