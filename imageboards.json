@@ -2094,7 +2094,8 @@
     ],
     "software": [
       "jschan"
-    ]
+    ],
+    "boardlist": "https://chan.denshi.live/boards.json"
   },
   {
     "name": "Desuarchive",
