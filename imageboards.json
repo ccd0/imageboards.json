@@ -1939,21 +1939,6 @@
     ]
   },
   {
-    "name": "Coronachan",
-    "url": "https://coronachan.xyz/",
-    "mirrors": [
-      "https://coronachan.xyz/",
-      "http://coronayyjx6g65u72f2muefkhluh4r3ezmm7567zc3wyaoa3bm632zqd.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "Crab Bucket",
     "url": "https://crabbucket.xyz/index.html",
     "mirrors": [
