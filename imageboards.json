@@ -2829,6 +2829,18 @@
     ]
   },
   {
+    "name": "Helma",
+    "url": "https://www.helma.xyz/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "kusaba",
+      "kusabax",
+      "kusaba-helma"
+    ]
+  },
+  {
     "name": "heretyk.org",
     "url": "https://heretyk.org/",
     "language": [
