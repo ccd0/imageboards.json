@@ -2556,6 +2556,16 @@
     "boardlist": "https://fch.bet/webring.json"
   },
   {
+    "name": "Freech",
+    "url": "http://freech74amlzoxrrv2c2yi4l2q6qqk5rlo6lrhhq6phdr2ddxkwuinad.onion/index.html",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "jschan"
+    ]
+  },
+  {
     "name": "Fuck Jannies",
     "url": "https://fuckjannies.com/",
     "language": [
