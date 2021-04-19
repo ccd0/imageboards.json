@@ -117,7 +117,6 @@ This is a list of the software codes used in imageboard.json along with links to
 - lapis-chan - https://github.com/karai17/lapis-chan/
 - livechan - https://github.com/emgram769/livechan-js
 - lynxphp - https://gitgud.io/odilitime/lynxphp/
-- maidib - used by https://ru2ch.com/
 - makaba - used by https://2ch.hk/
 - maniwani - https://github.com/DangerOnTheRanger/maniwani
 - mayuri - used by https://horochan.ru/
@@ -126,7 +125,6 @@ This is a list of the software codes used in imageboard.json along with links to
 - neboard5 - https://bitbucket.org/neko259/neboard5/src/master/
 - nekosrv - https://gitgud.io/cathugger/nksrv / https://github.com/cathugger/nksrv/
 - obiadekchan - https://github.com/radekxrandom/imgboardeng
-- overmind - used by http://kanal4.org/
 - rb-79 - https://repo.or.cz/rb-79.git
 - sichan - https://github.com/berlinfirewall/sichan/
 - smolbbs - http://dulm.blue/smol/

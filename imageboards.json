@@ -557,16 +557,6 @@
     ]
   },
   {
-    "name": "207.148.84.131",
-    "url": "http://207.148.84.131/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyib"
-    ]
-  },
-  {
     "name": "22chan",
     "url": "https://22chan.org/",
     "language": [
@@ -990,16 +980,6 @@
     ]
   },
   {
-    "name": "64chan Bunker",
-    "url": "http://64chan.eu3.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyib"
-    ]
-  },
-  {
     "name": "7chan",
     "url": "https://7chan.org/",
     "language": [
@@ -1262,16 +1242,6 @@
     ],
     "software": [
       "orphereus"
-    ]
-  },
-  {
-    "name": "AnonAmp",
-    "url": "http://anonamp.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard"
     ]
   },
   {
@@ -1592,21 +1562,6 @@
     "boardlist": "https://bbw-chan.nl/index.json"
   },
   {
-    "name": "Bchan",
-    "url": "http://bchan46hwn7fxf67hav7khj3ca7v4avg7yhieahqyocgnaolazgi6tqd.onion/",
-    "mirrors": [
-      "http://bchan46hwn7fxf67hav7khj3ca7v4avg7yhieahqyocgnaolazgi6tqd.onion/",
-      "https://bchan.net/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ],
-    "boardlist": "http://bchan46hwn7fxf67hav7khj3ca7v4avg7yhieahqyocgnaolazgi6tqd.onion/index.json"
-  },
-  {
     "name": "beey",
     "url": "https://beey.space/",
     "language": [
@@ -1874,17 +1829,6 @@
     ]
   },
   {
-    "name": "Chan.org.il",
-    "url": "https://chan.org.il/",
-    "language": [
-      "iw"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "Chansluts",
     "url": "https://www.slutchan.com/",
     "language": [
@@ -1947,24 +1891,6 @@
       "gazoubbs",
       "futaba",
       "moeren"
-    ]
-  },
-  {
-    "name": "Crab Bucket",
-    "url": "https://crabbucket.xyz/index.html",
-    "mirrors": [
-      "https://crabbucket.xyz/",
-      "http://crab3zjdqjd5mfyu2bksea5lr572vzdriz4koc2lj25eey4aavpotgad.onion/",
-      "http://qlqzvuxvw5jpjsfyrpnak5hjlb5r5a4tvuqdeceie55qy7tos5qq.b32.i2p/",
-      "http://6ooch3fco3srmzuls2zg2so4sgr72cj7t4hwqlhjannnemf5y55fymad.onion/",
-      "http://ncogytpxyaqnu5au4yc6oeiiaidhjcxfsr6cyebcsfki2p3ih7ea.b32.i2p/",
-      "http://600chan.i2p/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "jschan"
     ]
   },
   {
@@ -2967,17 +2893,6 @@
     ]
   },
   {
-    "name": "IB-Anon",
-    "url": "https://boards.ib-anon.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "i-bbs",
     "url": "http://i-bbs.sijex.net/",
     "language": [
@@ -3721,16 +3636,6 @@
     ]
   },
   {
-    "name": "Martwy",
-    "url": "http://trumienka.eu5.net/",
-    "language": [
-      "pl"
-    ],
-    "software": [
-      "tinyib"
-    ]
-  },
-  {
     "name": "Math PBBS",
     "url": "https://holy-fairytale.ssl-lolipop.jp/cgi-bin/m-pbbs/m-pbbs.cgi",
     "language": [
@@ -4227,17 +4132,6 @@
     ]
   },
   {
-    "name": "nu-mos.com",
-    "url": "http://nu-mos.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "Nyymichan",
     "url": "https://nyymichan.fi/",
     "language": [
@@ -4422,17 +4316,6 @@
     "url": "http://www.pinknotora.net/main.html",
     "language": [
       "ja"
-    ]
-  },
-  {
-    "name": "Playground of Doom",
-    "url": "https://playgroundofdoom.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
     ]
   },
   {
@@ -4685,20 +4568,6 @@
     ]
   },
   {
-    "name": "ru2ch.com",
-    "url": "https://ru2ch.com/",
-    "redirects": [
-      "https://symfony2ch.ru/",
-      "https://s2ch.ru/"
-    ],
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "maidib"
-    ]
-  },
-  {
     "name": "Rupattelu",
     "url": "https://rupattelu.us/rr/",
     "language": [
@@ -4866,17 +4735,6 @@
   {
     "name": "Sigchan",
     "url": "https://sigchan.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "Simulacrum",
-    "url": "http://simulacrum.xyz/",
     "language": [
       "en"
     ],
@@ -5119,16 +4977,6 @@
     ],
     "software": [
       "doushio"
-    ]
-  },
-  {
-    "name": "Tewi Channel",
-    "url": "https://chan.tewi.noip.pl/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyib"
     ]
   },
   {
@@ -5609,18 +5457,6 @@
     "software": [
       "tinyboard",
       "vichan"
-    ]
-  },
-  {
-    "name": "wowhk.org",
-    "url": "http://www.wowhk.org/",
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat"
     ]
   },
   {
