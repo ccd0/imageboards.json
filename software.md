@@ -35,10 +35,6 @@ This is a list of the software codes used in imageboard.json along with links to
         - kenjiweb - http://web.archive.org/web/20071013052850/http://www.kenjiweb.com/ (downloads not archived)
         - monaca - http://akahuku.dw.land.to/monaca/ (dead)
         - poti-board - http://web.archive.org/web/20170707091918/http://www.punyu.net/php/oekaki.php (downloads not archived)
-- tinyib - https://code.rocketnine.space/tslocum/tinyib
-    - 0kun-tinyib - https://gitgud.io/devarped/0kun-tinyib
-    - claire - https://github.com/ClaireIsAlive/Claire
-        - shakaba - https://github.com/alco-debug/shakaba
 - kusaba - https://github.com/tslocum/kusaba
     - kusabax - https://sourceforge.net/projects/kusabax/
         - instant-0chan - https://gitgud.io/devarped/instant-0chan
@@ -49,6 +45,10 @@ This is a list of the software codes used in imageboard.json along with links to
         - x-233chan - https://github.com/amarillonmc/x-233chan
     - serissa - http://web.archive.org/web/20090222195838/http://www.serissa.org:80/ (downloads not archived)
         - fbe-410 - https://bitbucket.org/Therapont/fbe-410
+- tinyib - https://code.rocketnine.space/tslocum/tinyib
+    - 0kun-tinyib - https://gitgud.io/devarped/0kun-tinyib
+    - claire - https://github.com/ClaireIsAlive/Claire
+        - shakaba - https://github.com/alco-debug/shakaba
 - lynxchan - https://gitgud.io/LynxChan/LynxChan
     - infinitynow - https://gitgud.io/groups/InfinityNow
 - wakaba - https://wakaba.c3.cx/s/web/wakaba_kareha
