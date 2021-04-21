@@ -1791,8 +1791,9 @@
   },
   {
     "name": "レインchannel",
-    "url": "https://malenkost.su/index.html",
+    "url": "https://reinchan.net/index.html",
     "mirrors": [
+      "https://reinchan.net/",
       "https://malenkost.su/",
       "https://110chan.org/",
       "http://2l5ray43iyjha7uneosvytcpn6n2bgzczmi24q65amw7iu3f26emmbqd.onion/"
@@ -1803,7 +1804,7 @@
     "software": [
       "jschan"
     ],
-    "boardlist": "https://malenkost.su/boards.json"
+    "boardlist": "https://reinchan.net/boards.json"
   },
   {
     "name": "Channel Minamo",
