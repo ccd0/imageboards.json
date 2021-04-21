@@ -2476,6 +2476,9 @@
       "https://freech.ltd/",
       "http://freech74amlzoxrrv2c2yi4l2q6qqk5rlo6lrhhq6phdr2ddxkwuinad.onion/"
     ],
+    "redirects": [
+      "https://freech.org/"
+    ],
     "language": [
       "en"
     ],
