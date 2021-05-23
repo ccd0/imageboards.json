@@ -4493,14 +4493,12 @@
   },
   {
     "name": "PTChan",
-    "url": "https://ptchan.org/",
+    "url": "https://ptchan.org/index.html",
     "language": [
       "pt"
     ],
     "software": [
-      "tinyboard",
-      "vichan",
-      "npfchan"
+      "jschan"
     ]
   },
   {
