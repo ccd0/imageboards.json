@@ -890,16 +890,6 @@
     ]
   },
   {
-    "name": "/4ct/",
-    "url": "https://boards.4ct.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyib"
-    ]
-  },
-  {
     "name": "/4keks/",
     "url": "https://4keks.org/4keks/",
     "mirrors": [
