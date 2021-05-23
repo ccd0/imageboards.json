@@ -1398,9 +1398,6 @@
   {
     "name": "Audiochan",
     "url": "https://audiochan.org/",
-    "redirects": [
-      "https://voicechan.org/"
-    ],
     "language": [
       "en"
     ],
