@@ -5000,8 +5000,9 @@
     "url": "https://tumba.ch/",
     "mirrors": [
       "https://tumba.ch/",
-      "http://tumbachegvyaadyq.onion/",
-      "http://tumbach3fog3l35w7usf5fgx37eaif2zb266dc3s5jw7gmhg6hsm7aad.onion/"
+      "http://tumbach3fog3l35w7usf5fgx37eaif2zb266dc3s5jw7gmhg6hsm7aad.onion/",
+      "http://u6pciacxnpbsq7nwc3tgutywochfd6aysgayijr7jxzoysgxklvq.b32.i2p/",
+      "http://tumbach.i2p/"
     ],
     "language": [
       "ru"
