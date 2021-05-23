@@ -1429,25 +1429,6 @@
     ]
   },
   {
-    "name": "Autismchan",
-    "url": "https://autismchan.me/",
-    "mirrors": [
-      "https://autismchan.me/",
-      "http://2mnho7ejsxsoqqsib5d7lmkhbtkpstaqnuupezdkzr2jtopmyphut5ad.onion/",
-      "https://64ch.me/"
-    ],
-    "redirects": [
-      "https://lolifox.club/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "AwsumChan",
     "url": "https://awsumchan.org/",
     "language": [
