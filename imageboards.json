@@ -2471,13 +2471,10 @@
   },
   {
     "name": "Freech",
-    "url": "https://freech.ltd/index.html",
+    "url": "https://freech.org/index.html",
     "mirrors": [
-      "https://freech.ltd/",
+      "https://freech.org/",
       "http://freech74amlzoxrrv2c2yi4l2q6qqk5rlo6lrhhq6phdr2ddxkwuinad.onion/"
-    ],
-    "redirects": [
-      "https://freech.org/"
     ],
     "language": [
       "en"
@@ -2485,7 +2482,7 @@
     "software": [
       "jschan"
     ],
-    "boardlist": "https://freech.ltd/boards.json"
+    "boardlist": "https://freech.org/boards.json"
   },
   {
     "name": "Fuck Jannies",
