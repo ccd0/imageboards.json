@@ -5572,13 +5572,12 @@
   },
   {
     "name": "zerochan",
-    "url": "http://zerochan.org/",
+    "url": "http://nobody.x10host.com/",
     "language": [
       "en"
     ],
     "software": [
-      "tinyboard",
-      "vichan"
+      "tinyib"
     ]
   },
   {
