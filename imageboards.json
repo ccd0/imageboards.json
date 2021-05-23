@@ -1516,6 +1516,23 @@
     ]
   },
   {
+    "name": "BANANALCHAN.ORG",
+    "url": "https://bananalchan.org/",
+    "mirrors": [
+      "https://bananalchan.org/",
+      "https://bananal.org/"
+    ],
+    "language": [
+      "pt"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "npfchan",
+      "bazukachan"
+    ]
+  },
+  {
     "name": "Bando Bandada",
     "url": "https://bandada.club/",
     "language": [
