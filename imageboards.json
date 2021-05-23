@@ -1701,23 +1701,6 @@
     ]
   },
   {
-    "name": "Bunkerchan",
-    "url": "https://bunkerchan.net/",
-    "mirrors": [
-      "https://bunkerchan.net/",
-      "http://3uruyn3iu4vqpbo2mx2s2qatourvgtzpadzlvdxo5trxe6zldp5tjcyd.onion/"
-    ],
-    "redirects": [
-      "https://bunkerchan.xyz/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ]
-  },
-  {
     "name": "Bus Stop",
     "url": "https://bus-stop.net/",
     "language": [
