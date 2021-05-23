@@ -1315,13 +1315,18 @@
   {
     "name": "Anon Images",
     "url": "https://anonme.tv/",
+    "mirrors": [
+      "https://anonme.tv/",
+      "https://anonibs.com/"
+    ],
     "entrances": [
       "https://anonimages.crypto/",
       "https://viewblock.io/unstoppable/anonimages.crypto",
-      "https://gateway.pinata.cloud/ipfs/QmWCMGNRNQM44L2peDEMRCG4XLbShUFTbqxvqWGMsELfso/",
-      "https://anonimages.com/"
+      "https://gateway.pinata.cloud/ipfs/QmWCMGNRNQM44L2peDEMRCG4XLbShUFTbqxvqWGMsELfso/"
     ],
     "redirects": [
+      "https://anonimages.com/",
+      "https://banned.pics/",
       "https://anonimageboards.com/",
       "https://boards.anonreloaded.com/",
       "https://anonme.la/",
@@ -1329,17 +1334,6 @@
       "https://anonme.org/",
       "https://anonimageboard.com/"
     ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "Anon Images backup",
-    "url": "https://banned.pics/",
     "language": [
       "en"
     ],
