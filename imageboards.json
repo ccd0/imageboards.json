@@ -4015,7 +4015,11 @@
   },
   {
     "name": "NeinChan",
-    "url": "http://vvadkyuldkwon6za.onion/",
+    "url": "http://tdsrvhos656xypxsqtkqmiwefuvlyqmnvk5faoo23oh2m4xqg4gr47ad.onion/",
+    "mirrors": [
+      "http://tdsrvhos656xypxsqtkqmiwefuvlyqmnvk5faoo23oh2m4xqg4gr47ad.onion/",
+      "http://vvadkyuldkwon6za.onion/"
+    ],
     "language": [
       "en"
     ],
