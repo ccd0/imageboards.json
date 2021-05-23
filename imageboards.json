@@ -5420,17 +5420,6 @@
     ]
   },
   {
-    "name": "World Channel",
-    "url": "https://worldchan.org/index.html",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "Wrongthink",
     "url": "https://wrongthink.net/",
     "language": [
