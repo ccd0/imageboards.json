@@ -900,24 +900,6 @@
     ]
   },
   {
-    "name": "4Feuilles",
-    "url": "https://4feuilles.org/",
-    "redirects": [
-      "http://neonroot.net/"
-    ],
-    "language": [
-      "fr"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "futallaby",
-      "fikaba",
-      "4feuilles"
-    ],
-    "boardlist": "https://planches.4feuilles.org/webring.json"
-  },
-  {
     "name": "/4keks/",
     "url": "https://4keks.org/4keks/",
     "mirrors": [
