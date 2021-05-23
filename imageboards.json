@@ -5318,17 +5318,6 @@
     ]
   },
   {
-    "name": "Waifuchan",
-    "url": "https://waifuchan.net/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "Waifuist.pro",
     "url": "https://waifuist.pro/",
     "mirrors": [
