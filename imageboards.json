@@ -977,10 +977,12 @@
     "url": "https://83tan.org/",
     "mirrors": [
       "https://83tan.org/",
-      "https://topkek.cf/",
       "http://u7mt1tq69yu8k5edp9ysm5tbhkdb3yfq8osem6791bwnb6mz7h6o.loki/",
       "http://[300:86af:8ff5:c7b5::83]/",
       "http://83.ygg/"
+    ],
+    "redirects": [
+      "https://topkek.cf/"
     ],
     "language": [
       "pt"
