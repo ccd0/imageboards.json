@@ -3997,6 +3997,16 @@
     ]
   },
   {
+    "name": "NeetChat",
+    "url": "https://neetchat.ga/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyib"
+    ]
+  },
+  {
     "name": "neet.moe",
     "url": "https://neet.moe/",
     "language": [
