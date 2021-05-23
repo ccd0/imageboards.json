@@ -1229,6 +1229,16 @@
     ]
   },
   {
+    "name": "AnonAmp",
+    "url": "http://anonamp.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard"
+    ]
+  },
+  {
     "name": "Anonboard",
     "url": "https://anonboard.be/",
     "mirrors": [
