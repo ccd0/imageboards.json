@@ -2563,6 +2563,20 @@
     ]
   },
   {
+    "name": "Gemchan",
+    "url": "https://gemchan.net/index.html",
+    "mirrors": [
+      "https://gemchan.net/",
+      "http://gemchan4bkf4xqja2i6gtdzlky6qhzd3lxlgxs4yi62uncbmmad2mkad.onion/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "jschan"
+    ]
+  },
+  {
     "name": "GeminiChan",
     "url": "http://upload.geminight.com/",
     "language": [
