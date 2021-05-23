@@ -2569,6 +2569,17 @@
     ]
   },
   {
+    "name": "FutureChan",
+    "url": "https://futurechan.net/",
+    "language": [
+      "de"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "Gaika",
     "url": "http://gaika.ch/",
     "language": [
