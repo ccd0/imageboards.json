@@ -1502,11 +1502,7 @@
   },
   {
     "name": "Bananachan",
-    "url": "https://bananachan.xyz/",
-    "mirrors": [
-      "https://bananachan.xyz/",
-      "http://blog.joshuadoes.com/"
-    ],
+    "url": "http://blog.joshuadoes.com/",
     "language": [
       "en"
     ],
