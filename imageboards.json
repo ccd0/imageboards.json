@@ -1327,11 +1327,7 @@
   },
   {
     "name": "Apachan",
-    "url": "http://apachan.us/",
-    "mirrors": [
-      "http://apachan.us/",
-      "http://apachan.win/"
-    ],
+    "url": "https://apachan.ml/b.php",
     "language": [
       "ru"
     ],
