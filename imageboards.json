@@ -4956,6 +4956,16 @@
     ]
   },
   {
+    "name": "Sylcha",
+    "url": "https://sylcha.com/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyib"
+    ]
+  },
+  {
     "name": "Syn-ch",
     "url": "https://syn-ch.org/",
     "mirrors": [
