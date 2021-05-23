@@ -1277,15 +1277,14 @@
   },
   {
     "name": "AnonIB",
-    "url": "https://anusib.com/",
+    "url": "https://anonib.al/",
     "mirrors": [
-      "https://anusib.com/",
-      "https://anonib.ru/",
-      "https://boards.anonib.ru/",
-      "https://anonib.su/"
+      "https://anonib.al/",
+      "https://anusib.com/"
     ],
     "redirects": [
-      "https://anonib.com/"
+      "https://anonib.com/",
+      "https://anonib.su/"
     ],
     "language": [
       "en"
