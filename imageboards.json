@@ -402,37 +402,6 @@
     "boardlist": "https://4.0-chan.ru/json/board-list"
   },
   {
-    "name": "0chan.pl",
-    "url": "https://www.0chan.pl/",
-    "mirrors": [
-      "https://www.0chan.pl/",
-      "https://p.0chan.pl/",
-      "https://0.1chan.pl/",
-      "https://www.0chan.club/",
-      "http://nullplctggmjazqcoboc2pw5anogckczzj6xo45ukrnsaxarpswu7sid.onion/",
-      "http://gd7qe2pu2jwqabz4zcf3wwablrzym7p6qswczoapkm5oa5ouuaua.b32.i2p/",
-      "http://0pl.i2p/",
-      "http://[225:55:9ebf:1709:7b1f:a315:1119:6eff]/",
-      "http://0chan.ygg/",
-      "https://ygg.0chan.pl/"
-    ],
-    "redirects": [
-      "http://nullchpl673e6jo3.onion/",
-      "http://[202:7668:15bf:63df:d7ee:aab7:ece:fbbb]/"
-    ],
-    "fallbacks": [
-      "https://www1.0kun.net/"
-    ],
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "0chan",
-      "ochko"
-    ],
-    "boardlist": "https://www.0chan.pl/api/board/list"
-  },
-  {
     "name": "0kun",
     "url": "https://www.0kun.net/",
     "language": [
@@ -536,24 +505,6 @@
     ],
     "software": [
       "1chan"
-    ]
-  },
-  {
-    "name": "1chan.pl",
-    "url": "https://1chan.pl/news/",
-    "mirrors": [
-      "https://1chan.pl/",
-      "http://kolchpl6sf4t7yjf57an3gxyprqqtjm2gtvatzkcsx27uu3psssnmyad.onion/"
-    ],
-    "redirects": [
-      "http://kolchplzpprjfa7e.onion/"
-    ],
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "1chan",
-      "pierwszykanal"
     ]
   },
   {

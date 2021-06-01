@@ -72,9 +72,7 @@ This is a list of the software codes used in imageboard.json along with links to
     - bakareha - https://github.com/f2d/bakareha
 - exaba - http://web.archive.org/web/20150429042034/http://exachan.com/exaba/ (last archived release: http://web.archive.org/web/20130614124246/http://exachan.com/exaba/downloads/exaba_0_9_9.zip)
 - 0chan - https://github.com/klkvsk/0chan
-    - ochko - https://gitgud.io/devarped/ochko
 - 1chan - https://github.com/jlbyrey/1chan
-    - pierwszykanal - https://gitgud.io/devarped/pierwszykanal
 - atbbs - https://sourceforge.net/projects/atbbs/
     - tinybbs - https://github.com/r04r/minichan
 - bbsnote - http://web.archive.org/web/20050116004959/http://wondercatstudio.com:80/html/download.html
