@@ -2284,21 +2284,6 @@
     "boardlist": "https://fch.bet/webring.json"
   },
   {
-    "name": "Freech",
-    "url": "https://freech.org/index.html",
-    "mirrors": [
-      "https://freech.org/",
-      "http://freech74amlzoxrrv2c2yi4l2q6qqk5rlo6lrhhq6phdr2ddxkwuinad.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "jschan"
-    ],
-    "boardlist": "https://freech.org/boards.json"
-  },
-  {
     "name": "Fufufu",
     "url": "https://fufufu.moe/a/",
     "language": [
