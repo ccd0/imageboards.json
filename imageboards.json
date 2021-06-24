@@ -1324,6 +1324,20 @@
     ]
   },
   {
+    "name": "Atomchan",
+    "url": "https://atomchan.net/index.html",
+    "mirrors": [
+      "https://atomchan.net/",
+      "http://atomch2kjtm6mnzvxiwxo7m5swjjgeisve7te4nqylr5bd7y53yrhiid.onion/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "jschan"
+    ]
+  },
+  {
     "name": "Audiochan",
     "url": "https://audiochan.org/",
     "language": [
