@@ -4563,6 +4563,20 @@
     ]
   },
   {
+    "name": "smolbox",
+    "url": "https://smolbox.pw/",
+    "mirrors": [
+      "https://smolbox.pw/",
+      "http://smol4s3fjvi5zhxjbbgq3en6ng3sxdncy3zclhfk6cywyjoi2hru2tid.onion/"
+    ],
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
+    ]
+  },
+  {
     "name": "smuglo.li",
     "url": "https://smuglo.li/a/",
     "mirrors": [
