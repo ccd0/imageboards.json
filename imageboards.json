@@ -2238,8 +2238,88 @@
     ]
   },
   {
-    "name": "fchan.xyz",
+    "name": "FChannel 0xChan",
+    "url": "https://0x00000000.xyz/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "fchannel"
+    ]
+  },
+  {
+    "name": "FChannel 26ch",
+    "url": "https://26ch.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "fchannel"
+    ]
+  },
+  {
+    "name": "FChannel FChan",
     "url": "https://fchan.xyz/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "fchannel"
+    ]
+  },
+  {
+    "name": "FChannel FitChan",
+    "url": "https://fitchan.xyz/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "fchannel"
+    ]
+  },
+  {
+    "name": "FChannel KTP Club",
+    "url": "https://bbs.killthepresident.club/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "fchannel"
+    ]
+  },
+  {
+    "name": "FChannel Kyogi",
+    "url": "http://kyogi7dxn3mr6a7eabaqh3jnxbbqbhty46aqstuhmqmokcxgr4vnbpid.onion/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "fchannel"
+    ]
+  },
+  {
+    "name": "FChannel PenChan",
+    "url": "https://penchan.xyz/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "fchannel"
+    ]
+  },
+  {
+    "name": "FChannel Poopchan",
+    "url": "https://poopchan.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "fchannel"
+    ]
+  },
+  {
+    "name": "FChannel umu",
+    "url": "https://2hu-ch.org/",
     "language": [
       "en"
     ],
