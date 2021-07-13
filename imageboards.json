@@ -1756,20 +1756,6 @@
     ]
   },
   {
-    "name": "Cool Spot",
-    "url": "https://coolspot.xyz/",
-    "mirrors": [
-      "https://coolspot.xyz/",
-      "http://coolspotrm6ak66adrcfium2vdrf5fvxshuq5vvpvk6kvrwxv6zj4gid.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ]
-  },
-  {
     "name": "crystal.cafe",
     "url": "https://crystal.cafe/",
     "language": [
