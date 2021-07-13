@@ -3285,7 +3285,8 @@
     "url": "https://leftypol.org/",
     "mirrors": [
       "https://leftypol.org/",
-      "http://wz6bnwwtwckltvkvji6vvgmjrfspr3lstz66rusvtczhsgvwdcixgbyd.onion/"
+      "http://wz6bnwwtwckltvkvji6vvgmjrfspr3lstz66rusvtczhsgvwdcixgbyd.onion/",
+      "https://bunkerchan.net/"
     ],
     "language": [
       "en"
