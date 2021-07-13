@@ -114,13 +114,6 @@
     ]
   },
   {
-    "name": "がぞろだ",
-    "url": "http://www.gz-loader.com/",
-    "language": [
-      "ja"
-    ]
-  },
-  {
     "name": "くれよん掲示板",
     "url": "http://crayon-box.jp/crayon_bbs/crayon.cgi",
     "language": [
@@ -306,16 +299,6 @@
       "gazoubbs",
       "futaba",
       "kenjiweb"
-    ]
-  },
-  {
-    "name": "신태일",
-    "url": "http://xluifu7wkjn3lmgjimgdsuhyta5ajnf5fy3y64na5ixvgx72ifswp5id.onion/",
-    "language": [
-      "ko"
-    ],
-    "software": [
-      "tinyib"
     ]
   },
   {
@@ -1136,26 +1119,6 @@
     ]
   },
   {
-    "name": "Anonboard",
-    "url": "https://anonboard.be/",
-    "mirrors": [
-      "https://anonboard.be/",
-      "http://anonbrd2gmsia547epkpebsyayuo75pet4ymis2uomuimarld7n3bkqd.onion/",
-      "http://23reicfqj2yrq6bushimyfo3jnxkcxz77ruqdl474wlvkhulrnmq.b32.i2p/",
-      "http://anonboard.i2p/",
-      "http://lotus4xjjfenvsmx5a27dd45gtv66txgdyv3bphtozkb25ltxwkdddyd.onion/"
-    ],
-    "redirects": [
-      "https://lotusbbs.org/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyib"
-    ]
-  },
-  {
     "name": "anon.cafe",
     "url": "https://anon.cafe/",
     "mirrors": [
@@ -1333,16 +1296,6 @@
     ]
   },
   {
-    "name": "Aurorachan",
-    "url": "http://aurorachan.net/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "wakarimasen"
-    ]
-  },
-  {
     "name": "AwsumChan",
     "url": "https://awsumchan.org/",
     "language": [
@@ -1445,13 +1398,6 @@
       "lynxchan"
     ],
     "boardlist": "https://bbw-chan.nl/index.json"
-  },
-  {
-    "name": "beey",
-    "url": "https://beey.space/",
-    "language": [
-      "en"
-    ]
   },
   {
     "name": "bernd.group",
@@ -1825,22 +1771,6 @@
     ]
   },
   {
-    "name": "def2",
-    "url": "http://cepsrw27kdegwo7ihzouwvgcvw2obswwjs23ollgj7hk2yrce3da.b32.i2p/",
-    "mirrors": [
-      "http://cepsrw27kdegwo7ihzouwvgcvw2obswwjs23ollgj7hk2yrce3da.b32.i2p/",
-      "http://def2.i2p/",
-      "http://z5bqfv5v75kxy7pj.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "DenshiChan",
     "url": "https://chan.denshi.live/index.html",
     "language": [
@@ -1859,20 +1789,6 @@
     ],
     "software": [
       "foolfuuka"
-    ]
-  },
-  {
-    "name": "Desuchan",
-    "url": "https://desuchan.net/",
-    "mirrors": [
-      "https://desuchan.net/",
-      "http://desuchan.moe/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "wakarimasen"
     ]
   },
   {
