@@ -3369,6 +3369,19 @@
     ]
   },
   {
+    "name": "Magalichan",
+    "url": "https://magalichan.com/",
+    "language": [
+      "pt"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan",
+      "npfchan",
+      "bazukachan"
+    ]
+  },
+  {
     "name": "Magic",
     "url": "https://gensou.chakai.org/magic/",
     "language": [
