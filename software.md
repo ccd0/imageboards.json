@@ -109,7 +109,7 @@ This is a list of the software codes used in imageboard.json along with links to
 - infinity-next - https://github.com/infinity-next/infinity-next
 - jard - https://github.com/njuro/jard
 - koba - used by https://boards.plus4chan.org/
-- kotatsu - https://gitlab.com/ison2/kotatsu
+- kotatsu - https://github.com/ECHibiki/Kotatsu-V
 - kumo - https://github.com/tslocum/kumo
 - kunhatan - https://git.topkek.cf/birunda/kunhatan-core
 - lapis-chan - https://github.com/karai17/lapis-chan/
