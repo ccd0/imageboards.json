@@ -10,6 +10,7 @@ This is a list of the software codes used in imageboard.json along with links to
         - infinity - https://github.com/ctrlcctrlv/infinity
             - neoboard - https://github.com/neochaner/neochan
             - openib - https://github.com/OpenIB/OpenIB
+            - infinity - https://github.com/odilitime/infinity
         - arisuchan - https://github.com/arisu-dev/arisuchan
         - fukuro - https://github.com/twiforce/fukuro
         - kissu-vi - https://github.com/ECHibiki/Kissu-Vi
@@ -66,7 +67,9 @@ This is a list of the software codes used in imageboard.json along with links to
         - gakinko - used by http://www.gakinko.net/
         - joyful2chme - www.supra.cx/joyful2chMe/index.html
     - jn+yyb - http://w-space.net/subcon/cgi.htm
-- jschan - https://github.com/fatchan/jschan/
+- jschan - https://github.com/fatchan/jschan
+- double plus - https://gitgud.io/odilitime/lynxphp
+- futabilly - https://gitgud.io/Sapphire/FutaBilly
 - foolfuuka - https://github.com/FoolCode/FoolFuuka
 - kareha - https://wakaba.c3.cx/s/web/wakaba_kareha
     - bakareha - https://github.com/f2d/bakareha
@@ -133,4 +136,5 @@ This is a list of the software codes used in imageboard.json along with links to
 
 You may also be interested in these lists of imageboard software:
 * https://overscript.net/
+* https://github.com/kennell/imageboards
 * http://web.archive.org/web/20180501091053/https://flash.moe/overscript/
