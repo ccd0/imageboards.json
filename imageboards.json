@@ -2017,7 +2017,7 @@
       "http://kqrtg5wz4qbyjprujkz33gza7r73iw3ainqp1mz5zmu16symcdwy.loki/"
     ],
     "language": [
-      "en"
+      "en", "ru", "es", "jp", "pt", "lt", "pl"
     ],
     "software": [
       "lynxchan",
@@ -5246,8 +5246,9 @@
       "en"
     ],
     "software": [
-      "lynxphp"
-    ]
+      "lynxphp", "Double Plus"
+    ],
+    "boardlist": "https://wrongthink.net/backend/opt/boards.json"
   },
   {
     "name": "Yakui",
