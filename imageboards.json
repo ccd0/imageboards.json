@@ -582,7 +582,10 @@
   },
   {
     "name": "2chen",
-    "url": "https://2chen.moe/all/",
+    "url": "https://sturdychan.help",
+    "mirrors": [
+      "https://2chen.moe"
+    ],
     "language": [
       "en"
     ],
@@ -1496,6 +1499,26 @@
     ]
   },
   {
+    "name": "brainworm",
+    "url": "https://brainworm.rodeo",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "doushio"
+    ]
+  },
+  {
+    "name": "bread.station.moe",
+    "url": "https://bread.station.moe",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "doushio"
+    ]
+  },
+  {
     "name": "britfa.gs",
     "url": "https://britfa.gs/",
     "language": [
@@ -2303,6 +2326,17 @@
     ]
   },
   {
+    "name": "Fujochan",
+    "url": "https://fujochan.org/",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "tinyboard",
+      "vichan"
+    ]
+  },
+  {
     "name": "FurChan",
     "url": "https://furchan.net/",
     "language": [
@@ -2448,6 +2482,16 @@
     "url": "https://girlschannel.net/",
     "language": [
       "ja"
+    ]
+  },
+  {
+    "name": "Glegle",
+    "url": "https://glegle.army",
+    "language": [
+      "ja"
+    ]
+    "software": [
+      "doushio",
     ]
   },
   {
@@ -3165,6 +3209,16 @@
       "tinyboard",
       "vichan",
       "lainchan"
+    ]
+  },
+  {
+    "name": "Lambdaplusjs",
+    "url": "http://lambdaplusjs35padjaiz4jw2fugdoeutse262phqr72uf634s2wdbqd.onion",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lambdaplusjs",
     ]
   },
   {
@@ -5156,6 +5210,16 @@
     "software": [
       "tinyboard",
       "vichan"
+    ]
+  },
+  {
+    "name": "｢wapchan｣",
+    "url": "https://wapchan.org",
+    "language": [
+      "en"
+    ],
+    "software": [
+      "lynxchan"
     ]
   },
   {
